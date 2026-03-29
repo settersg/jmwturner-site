@@ -2,196 +2,123 @@
 title: "About Rescuing J.M.W. Turner A New Age Of Art Discovery"
 layout: single
 ---
-
-| 
-
-![](/jmwturner-site/images/Turner portrait book cover web.jpg)[JMW 
-Turner:  the source](Intro%20Shipwreck%20JMW%20Turner%20painting.htm)
-***Rescuing Turner: A New Age of Art 
-Discover*y** JMW/JMW book, book on JMW Turner/ Turner  
-rescue, JMW Turner/Turner discovery, JMW Turner/Turner expert/expertise, 
-Tate/Tate Gallery on JMW 
-
-**
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
-![](/jmwturner-site/images/image001.gif)**
- 
- 
+|
+![](/jmwturner-site/images/Turner portrait book cover web.jpg)[JMW
+Turner:  the source](/painting/)
+Rescuing Turner: A New Age of Art
+Discovery JMW/JMW book, book on JMW Turner/ Turner 
+rescue, JMW Turner/Turner discovery, JMW Turner/Turner expert/expertise,
+Tate/Tate Gallery on JMW
+![](/jmwturner-site/images/image001.gif)
 ![](/jmwturner-site/images/image002.gif)
-
-                         
- 
- 
-![](/jmwturner-site/images/image003.gif)**
-
-****
-
-*****Wrapped 
-into the life story of JMW Turner, arguably Britain's most famous artist are 
-clues to resolving most hidden pitfalls associated with 
+                        
+![](/jmwturner-site/images/image003.gif)
+Wrapped
+into the life story of JMW Turner, arguably Britain's most famous artist are
+clues to resolving most hidden pitfalls associated with
 'collecting'.
-
-*The book has many new 
-artistic and scientific discoveries, along with 
-****
-much 
-formative information derived from primary sources;****
-
-****475 
-pages of text plus images and **
-
-**end matter; **
-
-**bibliography, 
-glossary of terms, index; and                      **
-
-**700**** 
-references from a broad range of authoritative literary sources.**
-
-***five years 
-research/ r malcolm setters / graham setters**
-
-**A**** limited number of draft 
-copies will soon be available for serious reviewers**: **Please share your interest or 
-relationship to the subject, and whether you would be willing to write your opinion of the book.**  **e****mail:
-[jmwturner@shaw.ca](https://web.archive.org/web/20030801191234/mailto:jmwturner@shaw.ca) **
-
+The book has many new
+artistic and scientific discoveries, along with
+much
+formative information derived from primary sources;
+475
+pages of text plus images and
+end matter;
+bibliography,
+glossary of terms, index; and                     
+700
+references from a broad range of authoritative literary sources.
+five years
+research/ r malcolm setters / graham setters
+A limited number of draft
+copies will soon be available for serious reviewers: Please share your interest or
+relationship to the subject, and whether you would be willing to write your opinion of the book.  email:
+[jmwturner@shaw.ca](https://web.archive.org/web/20030801191234/mailto:jmwturner@shaw.ca)
  
-
-**Comments vis-à-vis
+Comments vis-à-vis
 [www.jmwturner.ca](index.html) and/or the book:
-**
-
-This is a new website with a lot to offer 
+This is a new website with a lot to offer
 - shocking, but
-
-frightfully true! Richard 
-Goldstein, noted writer* and* executive editor *
-[The Village Voice](http://www.villagevoice.com/) *
-
-**Just a quick note to let 
-you know that I am very impressed by the website...  If I find anything that 
-might need any attention, I'll certainly let you know. Best wishes to you and 
-Graham, and congratulations on an excellent project.** 
-Marilyn Laver P.Eng., senior conservation scientist 
-
-**This appears to be a fascinating 
-project (and one that interests me personally, having spent a short and unhappy 
-spell at Sotheby's myself... )** Beatrice Rehl, Senior Editor, Arts & Classics, Cambridge University 
+frightfully true! Richard
+Goldstein, noted writer and executive editor
+[The Village Voice](http://www.villagevoice.com/)
+Just a quick note to let
+you know that I am very impressed by the website...  If I find anything that
+might need any attention, I'll certainly let you know. Best wishes to you and
+Graham, and congratulations on an excellent project.
+Marilyn Laver P.Eng., senior conservation scientist
+This appears to be a fascinating
+project (and one that interests me personally, having spent a short and unhappy
+spell at Sotheby's myself... ) Beatrice Rehl, Senior Editor, Arts & Classics, Cambridge University
 Press
-
-At long last and after some four years searching (discontinuous though) I found 
-someone from abroad belonging to the world of art to whom I can speak frankly 
-and have a quick and also frank answer in return. Your information allows me to 
-be more conscious of the subject.  Dr Claudino 
+At long last and after some four years searching (discontinuous though) I found
+someone from abroad belonging to the world of art to whom I can speak frankly
+and have a quick and also frank answer in return. Your information allows me to
+be more conscious of the subject.  Dr Claudino
 Rodríguez-Barrueco: research professor, Spain
-
-**A fascinating story indeed!** 
+A fascinating story indeed!
 Catherine Sprickel, Writers' Representative Inc.
-
                                                                                
-
                                                                                   
 HOME
-
- | 
-
-** 
+ |
                                         An introduction:
-[JMW Turner](Intro%20Shipwreck%20JMW%20Turner%20painting.htm)** 
-**Rescue**       
-
-           **        
-off site:** [Turner Society](http://www.turnersociety.org.uk/) [Tate 
+[JMW Turner](/painting/) 
+Rescue      
+                  
+off site: [Turner Society](http://www.turnersociety.org.uk/) [Tate
 Gallery](http://www.tate.org.uk/home/default.htm)  [National Gallery](http://www.nationalgallery.org.uk/) London
-[Courtauld 
-Institute of Art](http://www.courtauld.ac.uk/sub_index/location/location.html)  
-
-                   [IFAR **International Foundation for Art Research**](http://www.ifar.org/) [NGC](http://national.gallery.ca/)
-** [National Gallery Canada](http://national.gallery.ca/)**   [Frick 
+[Courtauld
+Institute of Art](http://www.courtauld.ac.uk/sub_index/location/location.html) 
+                   [IFAR International Foundation for Art Research](http://www.ifar.org/) [NGC](http://national.gallery.ca/)
+ [National Gallery Canada](http://national.gallery.ca/)   [Frick
 Collection](http://www.frick.org/html/info1f.htm)
-
                    [Yale Center British Art](http://www.yale.edu/ycba/)  [The Getty](http://www.getty.edu/)
-[*](http://www.getty.edu/research/) [prov](http://piweb.getty.edu/cgi-bin/starfinder/0?path=collab.txt&id=webber&pass=webber&OK=OK) [new 
-technology veritus ag](http://www.veritus.org/scndtier/limits.php) Biro Forensic Studies in 
+[](http://www.getty.edu/research/) [prov](http://piweb.getty.edu/cgi-bin/starfinder/0?path=collab.txt&id=webber&pass=webber&OK=OK) [new
+technology veritus ag](http://www.veritus.org/scndtier/limits.php) Biro Forensic Studies in
 Art
-
                    [Christie's auction house](http://www.christies.com/home_page/home_page.asp)
-[Sotheby's 
-auction house](http://pages.sothebys.ebay.com/?ssPageName=MOPS5:HSO01) [Wildenstein 
+[Sotheby's
+auction house](http://pages.sothebys.ebay.com/?ssPageName=MOPS5:HSO01) [Wildenstein
 Institute](http://www.sk-creation.ch/pages/catalogue.raisonne.html) [McCrone Research Institute](http://www.mcri.org/)
-
-    **              
-**
-[CCI](http://www.cci-icc.gc.ca/)**
-[Canadian Conservation 
+                  
+[CCI](http://www.cci-icc.gc.ca/)
+[Canadian Conservation
 Institute](http://www.cci-icc.gc.ca/html/)
 [Collections](http://www.artcyclopedia.com/artists/turner_joseph_mallord_william.html) [GMM](http://www.youknowtheysay.com/movabletype/archives/000557.html)
 [VV](http://www.villagevoice.com/)
-
- [Andrew 
+ [Andrew
 Wilton Rizzoli Tate Clore](http://www.aaabooksearch.com/Author/Andrew%20Wilton/0)
-
-                             
+                            
 On site: [Home](index.html)
-[discovery](Intro%20Shipwreck%20JMW%20Turner%20painting.htm)
-[style](Style%20J.M.W.%20Turner%20Shipwreck%20painting.htm)
+[discovery](/painting/)
+[style](/painting/style/)
 [provenance](christie)
-[connoisseur](Connoisseurship%20James%20Orrock%20art%20expert%20Martin%20Butlin%20Joll.htm)
-[Orrock](James%20Orrock%20Sir%20J.C.%20Robinson%20connoisseurship%20J.M.W.%20Turner%20Shipwreck%20Paintings.htm)
-[forensic](forensic%20art%20restoration%20forensic%20studies%20in%20art%20fingerprint%20identification.htm) [signature](JWT%20JMW%20Turner%20signature.htm)
-[Butlin](Martin%20Butlin%20Christie) 
-[legal](Legal%20fears%20Martin%20Butlin%20Tate%20Christie)****
-[catalogue](Butlin%20and%20Joll%20catalogue%20Martin%20Butlin%20Evelyn%20Joll%20J.M.W.Turner%20paintings.htm)
-[portrait](portrait%20hero%20shipwreck%20slavers%20JMW%20Turner.htm)
-[sting](Sting%20Visnei.htm)  
-
+[connoisseur](/discovery/connoisseurship/)
+[Orrock](/discovery/orrock/)
+[forensic](/discovery/forensic/) [signature](/painting/signature/)
+[Butlin](Martin%20Butlin%20Christie)
+[legal](Legal%20fears%20Martin%20Butlin%20Tate%20Christie)
+[catalogue](/discovery/catalogue/)
+[portrait](/painting/portrait/)
+[sting](/discovery/sting/) 
                                   
-[medal](turner_bequest%20turner_medal%20prize.htm)
+[medal](/about/medal/)
 [Unknown Turner](The%20Unknown%20Turner%20John%20Anderson%20Tate%20J.M.W.%20Turner.htm)
-[ngc shipwreck](National%20Gallery%20of%20Canada%20Shipwreck%20J.M.W.%20Turner.htm)
-[IFAR/RRP](RRP%20Rembrandt%20catalogue%20IFAR%20International%20Foundation%20for%20Art%20Research.htm)
-[institutional](Institution%20J.M.W.%20Turner%20Berenson%20Duveen%20Mellon%20Yale%20Tate%20Gallery.htm) [copies](copies%20Murillo.htm)
-[book](about%20Rescuing%20J.M.W.%20Turner%20A%20New%20Age%20of%20Art%20Discovery.htm) [your story](your_story.htm)
-[Hand C theory](Hand%20C%20Orrock%20Ehrenbrietstein%20Martin%20Butlin%20J.M.W.%20Turner.htm) [C dialogue](Ehrenbrietstein_tapes.htm)**
-
-                      **                               **[Terms and conditions](user_terms_and_conditions.htm)
-**J.M.W. Turner
-
-                                                                        
+[ngc shipwreck](/discovery/ngc/)
+[IFAR/RRP](/discovery/ifar/)
+[institutional](/discovery/institutional/) [copies](/discovery/copies/)
+[book](/book/) [your story](/about/your-story/)
+[Hand C theory](/discovery/hand-c/) [C dialogue](/discovery/dialogue/)
+                                                     [Terms and conditions](user_terms_and_conditions.htm)
+J.M.W. Turner
+                                                                       
 Site criticism is appreciated at [jmwturner@shaw.ca](https://web.archive.org/web/20030801191234/mailto:jmwturner@shaw.ca)
-
-**                                                    
+                                                    
 © setters 2003, Rescuing Turner: The Art Project &
 [www.jmwturner.ca](index.html)
-
                                                    
- 
-search for jmw turner [Google](http://www.google.ca/) 
+search for jmw turner [Google](http://www.google.ca/)
 [H](http://www.hotbot.com/)
 [A](http://www.altavista.com/)
 [T](http://www.teoma.com/)
@@ -199,7 +126,6 @@ search for jmw turner [Google](http://www.google.ca/)
 [O](http://www.content.overture.com/d/home/)
 [AJ](http://www.ask.com/)
 [Y](http://ca.yahoo.com/)
-
-[M](http://www.metacrawler.com/info.metac/dog/index.htm) 
+[M](http://www.metacrawler.com/info.metac/dog/index.htm)
 [W](http://www.webcrawler.com/info.wbcrwl/)
 [AOL](http://aolsearch.aol.com/index.adp)

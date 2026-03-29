@@ -2,498 +2,335 @@
 title: "Rrp Rembrandt Catalogue Ifar International Foundation For Art Research"
 layout: single
 ---
-
-| 
-
-IFAR IFAR RRP Art versus Science  [JMW 
-Turner:  the source](Intro%20Shipwreck%20JMW%20Turner%20painting.htm) 
-**
-JMW T****urner 
-/v expert opinion Rembrandt O'Keeffe 
-*International 
-Foundation for Art Research* 
-(IFAR)* Rembrandt Research Project *(RRP**) 
-authentication 
-attribution evaluation appraisal 
-critic catalogue 
+|
+IFAR IFAR RRP Art versus Science  [JMW
+Turner:  the source](/painting/)
+JMW Turner
+/v expert opinion Rembrandt O'Keeffe
+International
+Foundation for Art Research
+(IFAR) Rembrandt Research Project (RRP)
+authentication
+attribution evaluation appraisal
+critic catalogue
 IFAR evening / IFAR evenings
-
-       
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
- 
+      
 ![](/jmwturner-site/images/image001.gif) 
-   
-    
-   
-    
-   
-international 
-foundation for art research 
-
-**
-![](/jmwturner-site/images/dutchmstr.jpg)**
-
-**
-
-This melancholy Militiaman with swollen wart-spotted hands gives cause for 
-reflection upon the importance of ones own purpose. The diseased old soldier 
-blends into a lonely netherworld as he *makes do* with his addictive 
+  
+   
+  
+   
+  
+international
+foundation for art research
+![](/jmwturner-site/images/dutchmstr.jpg)
+This melancholy Militiaman with swollen wart-spotted hands gives cause for
+reflection upon the importance of ones own purpose. The diseased old soldier
+blends into a lonely netherworld as he makes do with his addictive
 crutches. 
 ifar
-
- 
- 
-![](/jmwturner-site/images/image002.gif)**
-
-**In 
-recent years there has been a conflict heating up between the 
-scientific-camp and the connoisseurship-camp. 
-In 2001 the *International Foundation for Art Research* (IFAR) sponsored a talk by Ernst van de Wetering, the long-term chairman 
-of the *Rembrandt Research Project *(RRP**). 
-The talk was titled, *The Tension Between Science and *
-C*onnoisseurship in 
-Authenticating Art*. ifar
-
-**At times, could such a conflict in and of itself cloud the judgment of an 
-expert who is trying to hang onto his or her preeminent position? Could a bad 
-call, a wrong opinion about a paintings authenticity be occasionally spawned by 
-acrimony rather than from innocent error? Regardless, the mindset of the expert 
-community is apt not to favor the logic of science in most situations as much as 
-the traditional primacy of their own authority in judging *right* from *
-wrong*genuine from fake. In turn they might be less willing than they should 
-be to accept the statistical probability that science provides, and opt in 
-favour of disregarding science altogether. international 
-foundation for art research **
-
-** A formula may eventually be accepted, 
-whereby; hard-won laboratory results are given their due regard. Presently, even 
-scientists are self-deprecating; particularly in cases where they know that the 
-absolute answer to a problem is most often unattainable. They are unwilling to 
-prop-up overwhelming evidence to support the probability that a work is 
-clearly attributable. In light of the huge art production over the centuries, 
-where on close  scrutiny of the physical evidence, very few of the painters have 
-much in common, it is only logical to assume that if there are many positive 
-characteristics supporting authorship and only the odd anomaly the chances of 
+![](/jmwturner-site/images/image002.gif)
+In
+recent years there has been a conflict heating up between the
+scientific-camp and the connoisseurship-camp.
+In 2001 the International Foundation for Art Research (IFAR) sponsored a talk by Ernst van de Wetering, the long-term chairman
+of the Rembrandt Research Project (RRP).
+The talk was titled, The Tension Between Science and
+Connoisseurship in
+Authenticating Art. ifar
+At times, could such a conflict in and of itself cloud the judgment of an
+expert who is trying to hang onto his or her preeminent position? Could a bad
+call, a wrong opinion about a paintings authenticity be occasionally spawned by
+acrimony rather than from innocent error? Regardless, the mindset of the expert
+community is apt not to favor the logic of science in most situations as much as
+the traditional primacy of their own authority in judging right from
+wronggenuine from fake. In turn they might be less willing than they should
+be to accept the statistical probability that science provides, and opt in
+favour of disregarding science altogether. international
+foundation for art research
+ A formula may eventually be accepted,
+whereby; hard-won laboratory results are given their due regard. Presently, even
+scientists are self-deprecating; particularly in cases where they know that the
+absolute answer to a problem is most often unattainable. They are unwilling to
+prop-up overwhelming evidence to support the probability that a work is
+clearly attributable. In light of the huge art production over the centuries,
+where on close  scrutiny of the physical evidence, very few of the painters have
+much in common, it is only logical to assume that if there are many positive
+characteristics supporting authorship and only the odd anomaly the chances of
 the artwork being right is extremely likely.[[1]](#_ftn1) 
-ifar**
-
-**The**** results of the 
-IFAR Rembrandt conference, *The Tension Between Science and *
-C*onnoisseurship in 
-Authenticating Art* might be considered as somewhat of a blow to scientific 
-involvement in the art-world. The gist of the text suggests that the credibility 
-of science was buried by its own efficiency. The closer science was able to 
-bring a work of art toward Rembrandt as creator, the more desperate, or so it 
-seemed, was the fight by the community of Rembrandt specialists[[2]](#_ftn2) 
-to condemn it as a studio copy. **
-
-**Because the efforts of the scientific camp proved contrary to established 
-curatorial opinion, science was automatically targeted as a faulty adversary. 
-Rather than accepting at face value the logical conclusion that: Rembrandt 
-painted all of the self-portraits that emanated from his own studioor at least 
-weighing the new scientific data accordingly; efforts were made to co-opt 
-scientific opinion, and it apparently worked. Subsequent to the swirl of debate 
-over who was in reality painting those same self-portraits, Gertrude Wilmers 
-wrote, Rembrandt scholar Ernst van de Wetering demonstrated at an *IFAR 
-Evening* how certain pictures submitted to scientific procedures such as 
-x-radiograph and pigment analysis revealed a much more active role for 
-Rembrandts assistants in the production of his workshop [and self-portraits] 
+ifar
+The results of the
+IFAR Rembrandt conference, The Tension Between Science and
+Connoisseurship in
+Authenticating Art might be considered as somewhat of a blow to scientific
+involvement in the art-world. The gist of the text suggests that the credibility
+of science was buried by its own efficiency. The closer science was able to
+bring a work of art toward Rembrandt as creator, the more desperate, or so it
+seemed, was the fight by the community of Rembrandt specialists[[2]](#_ftn2)
+to condemn it as a studio copy.
+Because the efforts of the scientific camp proved contrary to established
+curatorial opinion, science was automatically targeted as a faulty adversary.
+Rather than accepting at face value the logical conclusion that: Rembrandt
+painted all of the self-portraits that emanated from his own studioor at least
+weighing the new scientific data accordingly; efforts were made to co-opt
+scientific opinion, and it apparently worked. Subsequent to the swirl of debate
+over who was in reality painting those same self-portraits, Gertrude Wilmers
+wrote, Rembrandt scholar Ernst van de Wetering demonstrated at an IFAR
+Evening how certain pictures submitted to scientific procedures such as
+x-radiograph and pigment analysis revealed a much more active role for
+Rembrandts assistants in the production of his workshop [and self-portraits]
 than had previously been proposed.
-[[v]](#_edn5) This 
-certainly argues against Occam's Razor, the philosophical rule that the simplest 
-of competing theories is preferred to the more complex!**
-
-**
-
-The experts had already wrongly denied the early vintage of certain Rembrandt 
-self-portraits years earlier, while using nothing but their intuitions. These 
-errors science was able to prove conclusively. Apparently no further concessions 
+[[v]](#_edn5) This
+certainly argues against Occam's Razor, the philosophical rule that the simplest
+of competing theories is preferred to the more complex!
+The experts had already wrongly denied the early vintage of certain Rembrandt
+self-portraits years earlier, while using nothing but their intuitions. These
+errors science was able to prove conclusively. Apparently no further concessions
 were to be won. Ultimately, so it seems, contemporary scientific empiricism was
-*brushed aside* until the scientists were willing to concur with the *
-functionaries of the art establishment* and agree that a batch of 
-enthusiastic students of the great master painted those controversial Rembrandt 
-self-portraits.  Both scientific and connoisseurship camps now seemed happy; 
-claiming unanimity in what seemed to be an attack of poor logic.**
-
-**Rather than inventing such 
-a complicated scenario, the art historians should be the ones to recognize the 
-weakness of such an argument in the first place. Would Rembrandt have encouraged 
-students to paint self-portraits of him as opposed to self-portraits of 
-themselves? It is unlikely. Their Master was not an icon of his day from which 
-the multitudes were demanding his visage for their home cabinet. As well, for 
-himself Rembrandt was merely a malleable and inexpensive model. H. Perry Chapman 
-gives us a clue to how this sort of narcissistic mentoring would have gone 
-against the artists own ideal. The final testimonial in *Rembrandts 
-Self-portraitsA Study in Seventeenth Century Identity*: According to both 
-de Piles and Houbraken, Rembrandt is suppose to have said: If I want to give my 
-mind diversion, then it is not honor I seek, but freedom. He had indeed found 
-freedom. In his quest for autonomy he had invented a new idea of artist as an 
-independent, self-governing individual.[[vi]](#_edn6)**
-
-** Because of its importance as an aesthetic tool and the foundation on which 
-true art passions owe homage, one hates to appear hostile towards 
-connoisseurship, (even connoisseurship 
-with a small c); but in order to get at the truth and away from the politics, 
-this derision is necessary in the short term in hopes of encouraging science to 
-take a more confident role. international foundation for 
-art research **
-
-**According to Ernst van de Wetering, and 
-other experts close to the 
-RRP**, there was a rejection of one self-portrait located at Staatsgalerie, 
-Stuttgard based on a substantial number of what are certainly elusive reasons. 
-In their words: The approach to compositional problems in the painting, the *
-peinture*, the handling of form, light, atmosphere, and color, and the 
-processing of the anatomical details, did not fit our image of the late 
-Rembrandtthe most aberrant feature in our eyes was the extremely rough and 
+brushed aside until the scientists were willing to concur with the
+functionaries of the art establishment and agree that a batch of
+enthusiastic students of the great master painted those controversial Rembrandt
+self-portraits.  Both scientific and connoisseurship camps now seemed happy;
+claiming unanimity in what seemed to be an attack of poor logic.
+Rather than inventing such
+a complicated scenario, the art historians should be the ones to recognize the
+weakness of such an argument in the first place. Would Rembrandt have encouraged
+students to paint self-portraits of him as opposed to self-portraits of
+themselves? It is unlikely. Their Master was not an icon of his day from which
+the multitudes were demanding his visage for their home cabinet. As well, for
+himself Rembrandt was merely a malleable and inexpensive model. H. Perry Chapman
+gives us a clue to how this sort of narcissistic mentoring would have gone
+against the artists own ideal. The final testimonial in Rembrandts
+Self-portraitsA Study in Seventeenth Century Identity: According to both
+de Piles and Houbraken, Rembrandt is suppose to have said: If I want to give my
+mind diversion, then it is not honor I seek, but freedom. He had indeed found
+freedom. In his quest for autonomy he had invented a new idea of artist as an
+independent, self-governing individual.[[vi]](#_edn6)
+ Because of its importance as an aesthetic tool and the foundation on which
+true art passions owe homage, one hates to appear hostile towards
+connoisseurship, (even connoisseurship
+with a small c); but in order to get at the truth and away from the politics,
+this derision is necessary in the short term in hopes of encouraging science to
+take a more confident role. international foundation for
+art research
+According to Ernst van de Wetering, and
+other experts close to the
+RRP, there was a rejection of one self-portrait located at Staatsgalerie,
+Stuttgard based on a substantial number of what are certainly elusive reasons.
+In their words: The approach to compositional problems in the painting, the
+peinture, the handling of form, light, atmosphere, and color, and the
+processing of the anatomical details, did not fit our image of the late
+Rembrandtthe most aberrant feature in our eyes was the extremely rough and
 undifferentiated paint handling of the face.
-[[vii]](#_edn7) They 
-flooded the arena with so many intangibles purporting not to fit their image 
-of a Rembrandt, that the owner of said picture might justly have fled in terror. 
-But if one stayed long enough at the scene of such a disaster to try and remove 
-a bit of rubble it becomes apparent that at least some of the criticism can be 
-countered.* *
-
-**In 1936 the most eminent Rembrandt experts and connoisseurs of the day had 
-already condemned the Staatsgalerie example as a 19th century copy. Decades 
-later science inarguably proved that it had come from the artists own 17th 
-century studio. How could such a vast miscalculation in dating have been 
-accepted in the first place? It certainly casts doubt on the overall 
+[[vii]](#_edn7) They
+flooded the arena with so many intangibles purporting not to fit their image
+of a Rembrandt, that the owner of said picture might justly have fled in terror.
+But if one stayed long enough at the scene of such a disaster to try and remove
+a bit of rubble it becomes apparent that at least some of the criticism can be
+countered.
+In 1936 the most eminent Rembrandt experts and connoisseurs of the day had
+already condemned the Staatsgalerie example as a 19th century copy. Decades
+later science inarguably proved that it had come from the artists own 17th
+century studio. How could such a vast miscalculation in dating have been
+accepted in the first place? It certainly casts doubt on the overall
 dependability of  non-pragmatic expertise. What about the loose brushwork the
-RRP** was concerned about, 
-'the extremely rough paint handling?' This was characteristic of Rembrandt's 
-work and what subsequent dealers tried to hide with dark varnishes! This was 
-truly Rembrandt's own personal nemesis, and paradoxically, one that eventually 
+RRP was concerned about,
+'the extremely rough paint handling?' This was characteristic of Rembrandt's
+work and what subsequent dealers tried to hide with dark varnishes! This was
+truly Rembrandt's own personal nemesis, and paradoxically, one that eventually
 helped to make him famous.
-
-**Although the Melbourne replica is also de-attributed for similar vague 
-reasons: the sallow complexion that is criticized most of all, is in fact more 
-suitable to the dismal expression on the face of the subject than the rosy 
-cheeks of its designated progenitor, *Self-portrait at an easel* in the 
-Louvre. This challenge to the 
-RRP** is in all due respect presented merely to encourage the use of concrete 
-evidence as opposed to the intangible. Apparently the people at IFAR are now 
-grappling with rudimentary concerns over definitive catalogue raisonnés: who are 
-the effective authorities; what are their credentials, and what might be their 
-motives. 
-
-**It is a 
-serious matter though****. To exemplify the profound affect a small 
-group, or for that matter, an individual can have on the world of art we need 
-look no further than the renowned Wildenstein dynasty. Established in the 1870s 
-it has grown more influential over the ensuing three generations by virtue of 
-erudition, stealth, accumulation of wealth, gathering of influence - and above 
-all - the production of catalogues. Being the publishers of such books confers 
-enormous power  [and among other things] the ability to authenticate 
+Although the Melbourne replica is also de-attributed for similar vague
+reasons: the sallow complexion that is criticized most of all, is in fact more
+suitable to the dismal expression on the face of the subject than the rosy
+cheeks of its designated progenitor, Self-portrait at an easel in the
+Louvre. This challenge to the
+RRP is in all due respect presented merely to encourage the use of concrete
+evidence as opposed to the intangible. Apparently the people at IFAR are now
+grappling with rudimentary concerns over definitive catalogue raisonnés: who are
+the effective authorities; what are their credentials, and what might be their
+motives.
+It is a
+serious matter though. To exemplify the profound affect a small
+group, or for that matter, an individual can have on the world of art we need
+look no further than the renowned Wildenstein dynasty. Established in the 1870s
+it has grown more influential over the ensuing three generations by virtue of
+erudition, stealth, accumulation of wealth, gathering of influence - and above
+all - the production of catalogues. Being the publishers of such books confers
+enormous power  [and among other things] the ability to authenticate
 paintingsas a publisher of catalogue raisonnés
-, the Wildensteins virtually control the scholarship on many artists from 
+, the Wildensteins virtually control the scholarship on many artists from
 Boucher to [Monet](Monet%20Wildenstein.htm).
-[[viii]](#_edn8) This 
-frustrated one art historian with regard to the Wildenstein Gauguin catalogue, 
-rightly or wrongly, he criticized: Pedigrees and quotations have been juggled 
-to suit private needs; and Gauguins oeuvre has been shorn of some authentic 
+[[viii]](#_edn8) This
+frustrated one art historian with regard to the Wildenstein Gauguin catalogue,
+rightly or wrongly, he criticized: Pedigrees and quotations have been juggled
+to suit private needs; and Gauguins oeuvre has been shorn of some authentic
 works and adulterated with others that do not belong.
-[[ix]](#_edn9) Oh yes, 
-that brings us back to Rembrandt, and those pundits who have been charged since 
-1968 to write a comprehensive catalogue of Rembrandts paintings and especially 
-to free his oeuvre of the accretions that were thought to have disfigured the 
+[[ix]](#_edn9) Oh yes,
+that brings us back to Rembrandt, and those pundits who have been charged since
+1968 to write a comprehensive catalogue of Rembrandts paintings and especially
+to free his oeuvre of the accretions that were thought to have disfigured the
 image of Rembrandt the painter.
-[[x]](#_edn10) Those 
-responsible for writing this catalogue raisonné and freeing his oeuvre of the 
-accretions is the RRP**. 
-One must contemplate whether implicit in this manifesto is the need to preserve 
-only what they consider to be Rembrandts *better* works? 
-
-**In her role as an analytical statistician, Geraldine Keen gives pause for 
-thought over what it means to control any market: **
-
-**"At any one time there is usually one particular scholar whose opinion is 
-considered the most authoritative about the work of a particular artist, though 
-sometimes several scholars may contend for this distinction. In expressing their 
-opinions they may wield tremendous financial power. For instance, no definitive 
-catalogue of Rembrandt's drawings existed until the 1950s when Otto Benesch 
-published the results of his long years of research. Around 1950 three drawings 
-catalogued as 'school of Rembrandt' were sold at Christie's for about $280; 
-another, attributed by Sotheby's to one of Rembrandt's contemporaries, fetched 
-only $25. By the time Benesch's catalogue was published, its inclusion of these 
+[[x]](#_edn10) Those
+responsible for writing this catalogue raisonné and freeing his oeuvre of the
+accretions is the RRP.
+One must contemplate whether implicit in this manifesto is the need to preserve
+only what they consider to be Rembrandts better works?
+In her role as an analytical statistician, Geraldine Keen gives pause for
+thought over what it means to control any market:
+"At any one time there is usually one particular scholar whose opinion is
+considered the most authoritative about the work of a particular artist, though
+sometimes several scholars may contend for this distinction. In expressing their
+opinions they may wield tremendous financial power. For instance, no definitive
+catalogue of Rembrandt's drawings existed until the 1950s when Otto Benesch
+published the results of his long years of research. Around 1950 three drawings
+catalogued as 'school of Rembrandt' were sold at Christie's for about $280;
+another, attributed by Sotheby's to one of Rembrandt's contemporaries, fetched
+only $25. By the time Benesch's catalogue was published, its inclusion of these
 drawings had raised their value to something 28,000 - 42,000 each."
-(*Money and Art*, G. P. Putnam's Sons, NY, 1971)**
-
-**                   
- 
- 
- 
+(Money and Art, G. P. Putnam's Sons, NY, 1971)
+                  
 ![](/jmwturner-site/images/image003.gif) 
-*
-[Rescuing Turner: A New Age of Art Discovery](about%20Rescuing%20J.M.W.%20Turner%20A%20New%20Age%20of%20Art%20Discovery.htm)*:
-
-                                                r malcolm setters 
+[Rescuing Turner: A New Age of Art Discovery](/book/):
+                                                r malcolm setters
 / graham setters
-
-          
-
+         
                                                                                    
-*****
-     
-
-[Institutional Evolution](Institution%20J.M.W.%20Turner%20Berenson%20Duveen%20Mellon%20Yale%20Tate%20Gallery.htm)***
-
-***
+    
+[Institutional Evolution](/discovery/institutional/)
        
-[Connoisseurship](Connoisseurship%20James%20Orrock%20art%20expert%20Martin%20Butlin%20Joll.htm)  ******   
-[Forensics Biro front](forensic%20art%20restoration%20forensic%20studies%20in%20art%20fingerprint%20identification.htm)     
-[Art/Science](Art%20Science%20J.M.W.%20Turner)     [Tribal Instincts](tribal_instincts.htm)***
-
-**
+[Connoisseurship](/discovery/connoisseurship/)     
+[Forensics Biro front](/discovery/forensic/)     
+[Art/Science](Art%20Science%20J.M.W.%20Turner)     [Tribal Instincts](tribal_instincts.htm)
                                                                         
-
                                                                             
 Home 
-
-              **
-
- 
-
- **[[1]](#_ftnref1) 
- As will be discussed later the model of Bayesian Analysis becomes invaluable 
- in examining near infinite probabilities.**
-
- 
-
- **[[2]](#_ftnref2) 
- This expression used by Ernst van de Wetering is telling. As we find out 
- later: insular, self-supporting, and self-protecting groups orbit around the 
- oeuvre of many great artists, including Turner.**
-
- 
-
+             
+ [[1]](#_ftnref1)
+ As will be discussed later the model of Bayesian Analysis becomes invaluable
+ in examining near infinite probabilities.
+ [[2]](#_ftnref2)
+ This expression used by Ernst van de Wetering is telling. As we find out
+ later: insular, self-supporting, and self-protecting groups orbit around the
+ oeuvre of many great artists, including Turner.
  
- 
- 
-
- **[[v]](#_ednref5) 
- IFAR Journal; volume 4 number 4 / volume 5 number 1 2001/02, 56.**
-
- 
-
- **[[vi]](#_ednref6) 
- H. Perry Chapman, *Rembrandts Self-portraitsA Study in Seventeenth Century 
- Identity,* (Princeton University Press, New Jersey, 1990), 137.**
-
- 
-
- **[[vii]](#_ednref7) 
- Ernst van de Wetering, *Thirty Years of the Rembrandt Research Project: The 
- Tension Between Science and Connoisseurship in Authenticating Art*, (IFAR 
- Journal, Vol. 4, no 2 2001), 19.**
-
- 
-
- **[[viii]](#_ednref8) 
- George Rush, *Bitter Spoils*, (Vanity Fair magazine March 1998), p 252.**
-
- 
-
- **[[ix]](#_ednref9) 
- Ibid. 251.**
-
- 
-
- **[[x]](#_ednref10) 
- Ernst van de Wetering, *Thirty Years of the Rembrandt Research Project: The 
- Tension Between Science and Connoisseurship in Authenticating Art*, (IFAR 
- Journal, Vol. 4, no 2 2001), 14.**
-
-** **
-
- | 
-
- 
-
- | 
- 
-
- 
-
- | 
- 
-
- 
-
- | 
- 
-
- 
-
- | 
- 
-
- 
-
- | **                               
+ [[v]](#_ednref5)
+ IFAR Journal; volume 4 number 4 / volume 5 number 1 2001/02, 56.
+ [[vi]](#_ednref6)
+ H. Perry Chapman, Rembrandts Self-portraitsA Study in Seventeenth Century
+ Identity, (Princeton University Press, New Jersey, 1990), 137.
+ [[vii]](#_ednref7)
+ Ernst van de Wetering, Thirty Years of the Rembrandt Research Project: The
+ Tension Between Science and Connoisseurship in Authenticating Art, (IFAR
+ Journal, Vol. 4, no 2 2001), 19.
+ [[viii]](#_ednref8)
+ George Rush, Bitter Spoils, (Vanity Fair magazine March 1998), p 252.
+ [[ix]](#_ednref9)
+ Ibid. 251.
+ [[x]](#_ednref10)
+ Ernst van de Wetering, Thirty Years of the Rembrandt Research Project: The
+ Tension Between Science and Connoisseurship in Authenticating Art, (IFAR
+ Journal, Vol. 4, no 2 2001), 14.
+ 
+ |
+ |
+ |
+ |
+ |
+ |                               
            An introduction:
- [JMW Turner](http://jmwturner.ca/Intro%20Shipwreck%20JMW%20Turner%20painting.htm)**  **
- Rescue**       
- 
-
-           **        off site:**
- [Turner Society](http://www.turnersociety.org.uk/) [Tate 
- Gallery](http://www.tate.org.uk/home/default.htm)  [National Gallery](http://www.nationalgallery.org.uk/) [London](National%20Gallery%20London.htm)
- [Courtauld Institute of Art](http://www.courtauld.ac.uk/sub_index/location/location.html)  
-
-                    [IFAR **
- International Foundation for Art Research**](http://www.ifar.org/) [NGC](http://national.gallery.ca/)
- **[National Gallery Canada](http://national.gallery.ca/)**  [Frick 
+ [JMW Turner](/painting/) 
+ Rescue      
+                   off site:
+ [Turner Society](http://www.turnersociety.org.uk/) [Tate
+ Gallery](http://www.tate.org.uk/home/default.htm)  [National Gallery](http://www.nationalgallery.org.uk/) [London](/discovery/national-gallery/)
+ [Courtauld Institute of Art](http://www.courtauld.ac.uk/sub_index/location/location.html) 
+                    [IFAR
+ International Foundation for Art Research](http://www.ifar.org/) [NGC](http://national.gallery.ca/)
+ [National Gallery Canada](http://national.gallery.ca/)  [Frick
  Collection](http://www.frick.org/html/info1f.htm)
-
-                    [Yale 
- Center for British Art](http://www.yale.edu/ycba/)  [The Getty](http://www.getty.edu/) Biro 
- Forensic Studies  [CCI](http://www.cci-icc.gc.ca/)**
- [Canadian Conservation Institute](http://www.cci-icc.gc.ca/html/)**
-
+                    [Yale
+ Center for British Art](http://www.yale.edu/ycba/)  [The Getty](http://www.getty.edu/) Biro
+ Forensic Studies  [CCI](http://www.cci-icc.gc.ca/)
+ [Canadian Conservation Institute](http://www.cci-icc.gc.ca/html/)
                    
- [Wildenstein 
- Institute](http://www.wildenstein.com/) [McCrone 
- Research Institute](http://www.mcri.org/) **
- [Collections](http://www.artcyclopedia.com/artists/turner_joseph_mallord_william.html) **[International 
+ [Wildenstein
+ Institute](http://www.wildenstein.com/) [McCrone
+ Research Institute](http://www.mcri.org/)
+ [Collections](http://www.artcyclopedia.com/artists/turner_joseph_mallord_william.html) [International
  Center for Art Intelligence](http://www.authentica.org/home.html)
-
-     **      [GMM](http://www.youknowtheysay.com/movabletype/archives/000557.html)
- [Village Voice](http://www.villagevoice.com/)  Andrew Wilton Rizzoli 
- Tate Clore Christie's Sotheby's auction house On 
- site: **
- [JMWT](Joseph%20Mallord%20William%20Turner.htm)
- 
- [bequest](turner_bequest%20turner_medal%20prize.htm)
- [news](news%20jmw%20turner.htm)
- 
- [corresp](correspondence%20JMW%20Turner%20letters%20Turner%20letter%20John%20Gage.htm)
- [bibliography](JMW%20Turner%20Bibliography.htm)
- [sa](Setters%20Appraisal.htm)
-
-               
- [Home](http://jmwturner.ca/)
- 
- [discovery](http://jmwturner.ca/Intro%20Shipwreck%20JMW%20Turner%20painting.htm)
- 
- [style](http://jmwturner.ca/Style%20J.M.W.%20Turner%20Shipwreck%20painting.htm)
- 
- [provenance](http://jmwturner.ca/christie)
- 
- [connoisseur](http://jmwturner.ca/Connoisseurship%20James%20Orrock%20art%20expert%20Martin%20Butlin%20Joll.htm)
- 
- [Orrock](http://jmwturner.ca/James%20Orrock%20Sir%20J.C.%20Robinson%20connoisseurship%20J.M.W.%20Turner%20Shipwreck%20Paintings.htm)
- 
- [forensic](http://jmwturner.ca/forensic%20art%20restoration%20forensic%20studies%20in%20art%20fingerprint%20identification.htm)
- 
- [signature](http://jmwturner.ca/JWT%20JMW%20Turner%20signature.htm)
- 
- [Butlin](http://jmwturner.ca/Martin%20Butlin%20Christie)
- 
- [legal](http://jmwturner.ca/Legal%20fears%20Martin%20Butlin%20Tate%20Christie)
- 
- [catalogue](http://jmwturner.ca/Butlin%20and%20Joll%20catalogue%20Martin%20Butlin%20Evelyn%20Joll%20J.M.W.Turner%20paintings.htm)
- 
- [portrait](http://jmwturner.ca/portrait%20hero%20shipwreck%20slavers%20JMW%20Turner.htm)
- 
- [sting](http://jmwturner.ca/Sting%20Visnei.htm) [Courbet](Pool%20Near%20Ornans.htm)
- [Roach](Gerald%20Roach.htm)
- [old](old%20master%20painting%20expert.htm)
- [St](St.%20Christopher.htm)
- [Durer](Durer%20Albrecht%20Durer%20expert.htm)
- 
- [Manet](Manet%20expert%20Edouard%20Manet%20art%20expert.htm)
- [bio](Biography%20JMW%20Turner.htm)
- [Rubens](RUBENS%20Peter%20Paul%20Rubens.htm)
-
+           [GMM](http://www.youknowtheysay.com/movabletype/archives/000557.html)
+ [Village Voice](http://www.villagevoice.com/)  Andrew Wilton Rizzoli
+ Tate Clore Christie's Sotheby's auction house On
+ site: 
+ [JMWT](/about/turner/)
+ [bequest](/about/medal/)
+ [news](/about/news/)
+ [corresp](/about/correspondence/)
+ [bibliography](/about/bibliography/)
+ [sa](/painting/appraisal/)
               
- 
- [medal](http://jmwturner.ca/turner_bequest%20turner_medal%20prize.htm)
- 
+ [Home](http://jmwturner.ca/)
+ [discovery](/painting/)
+ [style](/painting/style/)
+ [provenance](http://jmwturner.ca/christie)
+ [connoisseur](/discovery/connoisseurship/)
+ [Orrock](/discovery/orrock/)
+ [forensic](/discovery/forensic/)
+ [signature](/painting/signature/)
+ [Butlin](http://jmwturner.ca/Martin%20Butlin%20Christie)
+ [legal](http://jmwturner.ca/Legal%20fears%20Martin%20Butlin%20Tate%20Christie)
+ [catalogue](/discovery/catalogue/)
+ [portrait](/painting/portrait/)
+ [sting](/discovery/sting/) [Courbet](/discovery/courbet/)
+ [Roach](/discovery/roach/)
+ [old](/discovery/expert/)
+ [St](/discovery/christopher/)
+ [Durer](/discovery/durer/)
+ [Manet](/discovery/manet/)
+ [bio](/about/biography/)
+ [Rubens](/discovery/rubens/)
+              
+ [medal](/about/medal/)
  [Unknown Turner](http://jmwturner.ca/The%20Unknown%20Turner%20John%20Anderson%20Tate%20J.M.W.%20Turner.htm)
- 
- [ngc shipwreck](http://jmwturner.ca/National%20Gallery%20of%20Canada%20Shipwreck%20J.M.W.%20Turner.htm)
- 
- [IFAR/RRP](http://jmwturner.ca/RRP%20Rembrandt%20catalogue%20IFAR%20International%20Foundation%20for%20Art%20Research.htm)
- 
- [institutional](http://jmwturner.ca/Institution%20J.M.W.%20Turner%20Berenson%20Duveen%20Mellon%20Yale%20Tate%20Gallery.htm)
- 
- [copies](http://jmwturner.ca/copies%20Murillo.htm)
- 
- [book](http://jmwturner.ca/about%20Rescuing%20J.M.W.%20Turner%20A%20New%20Age%20of%20Art%20Discovery.htm)
- [your 
- story](http://jmwturner.ca/your_story.htm) 
- [Hand C theory](http://jmwturner.ca/Hand%20C%20Orrock%20Ehrenbrietstein%20Martin%20Butlin%20J.M.W.%20Turner.htm)
- 
- [C dialogue](http://jmwturner.ca/Ehrenbrietstein_tapes.htm)
- 
+ [ngc shipwreck](/discovery/ngc/)
+ [IFAR/RRP](/discovery/ifar/)
+ [institutional](/discovery/institutional/)
+ [copies](/discovery/copies/)
+ [book](/book/)
+ [your
+ story](/about/your-story/)
+ [Hand C theory](/discovery/hand-c/)
+ [C dialogue](/discovery/dialogue/)
  [expertise](http://jmwturner.ca/turner%20expert%20jmw%20turner%20expert%20Butlin%20and%20Joll%20catalogue%20the%20paintings%20of%20JMW%20Turner%20Sir%20JC%20Robinson%20Thomas%20Griffith%20Orrock.htm)
- [expert](art%20expert.htm)
- [Kayser](Kayser.htm)
- [NGL](National%20Gallery%20London.htm)
- [Fraud](fraud%20art%20fraud.htm)
- 
- [Chronology](TURNER%20CHRONOLOGY,%20JMW%20Turner%20Chronology.htm)
-
-  **                        Publishers**Oxford  Cambridge Yale Princeton Harvard
+ [expert](/discovery/expert/)
+ [Kayser](/discovery/hand-c/)
+ [NGL](/discovery/national-gallery/)
+ [Fraud](/discovery/fraud/)
+ [Chronology](/about/chronology/)
+                          Publishers Oxford  Cambridge Yale Princeton Harvard
  Stanford
- Penn State Rockefeller UPA J. Paul **Getty**  Trust 
- Publications 
+ Penn State Rockefeller UPA J. Paul Getty  Trust
+ Publications
  [University College London UCL](http://www.ucl.ac.uk/)
-
                       
- **
-                                  **
- 
- 
- [Terms and conditions](http://jmwturner.ca/user_terms_and_conditions.htm) **J.M.W. Turner
-
+                                 
+ [Terms and conditions](http://jmwturner.ca/user_terms_and_conditions.htm) J.M.W. Turner
                                                                          Site criticism is appreciated at
- [jmwturner@shaw**.ca](https://web.archive.org/web/20041014062553/mailto:jmwturner@shaw.ca)
+ [jmwturner@shaw.ca](https://web.archive.org/web/20041014062553/mailto:jmwturner@shaw.ca)
  Penticton British Columbia Canada
-
- 
-                                                   
+                                                  
  © setters 2003, Rescuing Turner: The Art Project &
  [http://www.jmwturner.ca/](http://www.jmwturner.ca/)
-
                                                     
- 
- search for jmw turner 
+ search for jmw turner
  [Google](http://www.google.ca/)
  [H](http://www.hotbot.com/)
  [A](http://www.altavista.com/)
  [T](http://www.teoma.com/)
  [D](http://www.dogpile.com/info.dogpl/)
  [O](http://www.content.overture.com/d/home/)
- [AJ](http://www.ask.com/) 
+ [AJ](http://www.ask.com/)
  [Y](http://ca.yahoo.com/)
- 
- 
  [M](http://www.metacrawler.com/info.metac/dog/index.htm)
  [W](http://www.webcrawler.com/info.wbcrwl/)
  [AOL](http://aolsearch.aol.com/index.adp)
