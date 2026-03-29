@@ -3,52 +3,49 @@ title: "St. Christopher"
 layout: single
 ---
 
-
 |
-[ JMW Turner
-the source](/painting/)  Alistair Smith St
-Christopher Lucas Cranach the Elder / Albrecht Durer c1497 Alistair...
-             
-       
+[ JMW Turner the source](/painting/) Alistair Smith St
+Christopher Lucas Cranach the Elder / Albrecht Durer c1497 Alistair...
+
 ![](/images/Alistair%20Smithweb.gif)
-        
+
 ![](/images/Durer%20jpeg.jpg)
-   St.
-Christopher circa 1497 (shown here subsequent to the 1988 
-   evaluation. It was professionally conserved, with the removal of
-   a substantial amount of over-painting).
-   oil on
+  St.
+Christopher circa 1497 (shown here subsequent to the 1988
+  evaluation. It was professionally conserved, with the removal of
+  a substantial amount of over-painting).
+  oil on
 panel/laid down on canvas, 33 x 23.7cm
-   from the
+  from the
 Rudolph Hermani estate (Krupp/Benz notoriety)
-   Vintage
+  Vintage
 monogram A over D, lower left (in the style of Albrecht
-   Dürer)
-   Attributed
-to Lucas Cranach the Elder (Alistair Smith, 1988) 
-   presumable based on a print by this artist showing the child in
-   similar repose.
-   An essay
+  DÃ¼rer)
+  Attributed
+to Lucas Cranach the Elder (Alistair Smith, 1988)
+  presumable based on a print by this artist showing the child in
+  similar repose.
+  An essay
 will
 follow showing many stylistic comparables
 Three examples:
 1-
-A comparison with one of Dürer's
+A comparison with one of DÃ¼rer's
 unusual face studies
-                         
+
 ![](/images/St%20Jerome%20X3.jpg)![](/images/sketch%20compare%20St%20J%20sm.jpg)
-                                   
+
 ![](/images/Dresden%20sketchbook,%20Durer%20heads%20written%201523.jpg)
-                                    In a unique effort Dürer
+  In a unique effort DÃ¼rer
 experimented with distinctive facial types
 2 - the positioning of the infants legs (drawing
 from 1495),
- ![](/images/feet%20position%20X4.jpg)![](/images/child%20drawing%20feet.jpg)
-3 - Quarry study showing Dürer's interest in taking
+ ![](/images/feet%20position%20X4.jpg)![](/images/child%20drawing%20feet.jpg)
+3 - Quarry study showing DÃ¼rer's interest in taking
 unusual landscape features from nature
-                                
+
 ![](/images/quarry%20detail%20sm.jpg)
-                                                         
+
 watercolour on paper 1497
  |
  SAINT CHRISTOPHER MARTYR
@@ -78,7 +75,7 @@ watercolour on paper 1497
  that if I had borne the whole weight of the world upon my shoulders it could
  not have burdened me more heavily." The boy answered, "Wonder not,
  Christopher, for not only hast thou borne the whole world on thy shoulders,
- but Him who created the world"for the Christ Child, bearing in His own arms
+ but Him who created the world"â€”for the Christ Child, bearing in His own arms
  the great world, had been Christopher's burden. To prove that this was true,
  He told Christopher to recross the river and plant his staff in the ground
  beside his hut and soon it would burst into bloom. Obeying, Christopher was
@@ -92,7 +89,7 @@ watercolour on paper 1497
  West. In addition to being the patron and protector of all travelers, he is
  also invoked against storms and sudden death. In art Christopher is usually
  shown with his emblems, the Christ Child, a tree in bloom, a torrent; the
- great artists Dürer and Pollaiuolo are among those who have portrayed him in
+ great artists DÃ¼rer and Pollaiuolo are among those who have portrayed him in
  the act for which he is best known.
  This was taken from "Lives of Saints", Published by
  John J. Crawley & Co., Inc.
@@ -112,11 +109,11 @@ watercolour on paper 1497
 [legal](/discovery/legal/)
 [catalogue](/discovery/catalogue/)
 [portrait](/painting/portrait/)
-[sting](/discovery/sting/) [Courbet](/discovery/courbet/)
+[sting](/discovery/sting/) [Courbet](/discovery/courbet/)
 [Roach](/discovery/roach/)
 [old](/discovery/expert/)
 [St](/discovery/christopher/)
-[Durer](/discovery/durer/) 
+[Durer](/discovery/durer/)
 [medal](/about/medal/)
 [Unknown Turner](/discovery/ngc/)
 [ngc shipwreck](/discovery/ngc/)
@@ -126,60 +123,51 @@ watercolour on paper 1497
 [book](/book/)
 [your story](/about/your-story/)
 [Hand C theory](/discovery/hand-c/)
-[C
-dialogue](/discovery/dialogue/)
+[C dialogue](/discovery/dialogue/)
 [expertise](/discovery/expert/)
 [expert](/discovery/expert/)
 [Kayser](/discovery/hand-c/)
-[Manet](/discovery/manet/)   
-     excerpt from
-[Rescuing Turner: A New Age of Art Discovery](/book/)   
+[Manet](/discovery/manet/)
+  excerpt from
+[Rescuing Turner: A New Age of Art Discovery](/book/)
 [National Gallery London](/discovery/national-gallery/)
-                               
+
 r malcolm
 setters
 / graham setters
-                                                                     
-                                                                          
-HOME  
+
+HOME
  |
  |
  |
  |
  |
- |                               
-           An introduction:
- [JMW Turner](/painting/) 
- Rescue      
-                   off site:
- [Turner Society](http://www.turnersociety.org.uk/) [Tate
- Gallery](http://www.tate.org.uk/home/default.htm)  [National Gallery](http://www.nationalgallery.org.uk/) [London](/discovery/national-gallery/)
- [Courtauld Institute of Art](http://www.courtauld.ac.uk/sub_index/location/location.html) 
-                    [IFAR
- International Foundation for Art Research](http://www.ifar.org/) [NGC](http://national.gallery.ca/)
- [National Gallery Canada](http://national.gallery.ca/)  [Frick
- Collection](http://www.frick.org/html/info1f.htm)
-                    [Yale
- Center for British Art](http://www.yale.edu/ycba/)  [The Getty](http://www.getty.edu/) Biro
- Forensic Studies  [CCI](http://www.cci-icc.gc.ca/)
+ |
+  An introduction:
+ [JMW Turner](/painting/)
+ Rescue
+  off site:
+ [Turner Society](http://www.turnersociety.org.uk/) [Tate  Gallery](http://www.tate.org.uk/home/default.htm) [National Gallery](http://www.nationalgallery.org.uk/) [London](/discovery/national-gallery/)
+ [Courtauld Institute of Art](http://www.courtauld.ac.uk/sub_index/location/location.html)
+  [IFAR  International Foundation for Art Research](http://www.ifar.org/) [NGC](http://national.gallery.ca/)
+ [National Gallery Canada](http://national.gallery.ca/) [Frick  Collection](http://www.frick.org/html/info1f.htm)
+  [Yale  Center for British Art](http://www.yale.edu/ycba/) [The Getty](http://www.getty.edu/) Biro
+ Forensic Studies [CCI](http://www.cci-icc.gc.ca/)
  [Canadian Conservation Institute](http://www.cci-icc.gc.ca/html/)
-                   
- [Wildenstein
- Institute](http://www.wildenstein.com/) [McCrone
- Research Institute](http://www.mcri.org/)
- [Collections](http://www.artcyclopedia.com/artists/turner_joseph_mallord_william.html) [International
- Center for Art Intelligence](http://www.authentica.org/home.html)
-           [GMM](http://www.youknowtheysay.com/movabletype/archives/000557.html)
- [Village Voice](http://www.villagevoice.com/)  Andrew Wilton Rizzoli
- Tate Clore Christie's Sotheby's auction house On
- site: 
+
+ [Wildenstein  Institute](http://www.wildenstein.com/) [McCrone  Research Institute](http://www.mcri.org/)
+ [Collections](http://www.artcyclopedia.com/artists/turner_joseph_mallord_william.html) [International  Center for Art Intelligence](http://www.authentica.org/home.html)
+  [GMM](http://www.youknowtheysay.com/movabletype/archives/000557.html)
+ [Village Voice](http://www.villagevoice.com/) Andrew Wilton Rizzoli
+ Tate Clore Christie's Sotheby's auction house On
+ site:
  [JMWT](/about/turner/)
  [bequest](/about/medal/)
  [news](/about/news/)
  [corresp](/about/correspondence/)
  [bibliography](/about/bibliography/)
  [sa](/painting/appraisal/)
-              
+
  [Home](/)
  [discovery](/painting/)
  [style](/painting/style/)
@@ -192,7 +180,7 @@ HOME  
  [legal](/discovery/legal/)
  [catalogue](/discovery/catalogue/)
  [portrait](/painting/portrait/)
- [sting](/discovery/sting/) [Courbet](/discovery/courbet/)
+ [sting](/discovery/sting/) [Courbet](/discovery/courbet/)
  [Roach](/discovery/roach/)
  [old](/discovery/expert/)
  [St](/discovery/christopher/)
@@ -200,7 +188,7 @@ HOME  
  [Manet](/discovery/manet/)
  [bio](/about/biography/)
  [Rubens](/discovery/rubens/)
-              
+
  [medal](/about/medal/)
  [Unknown Turner](/discovery/ngc/)
  [ngc shipwreck](/discovery/ngc/)
@@ -208,8 +196,7 @@ HOME  
  [institutional](/discovery/institutional/)
  [copies](/discovery/copies/)
  [book](/book/)
- [your
- story](/about/your-story/)
+ [your  story](/about/your-story/)
  [Hand C theory](/discovery/hand-c/)
  [C dialogue](/discovery/dialogue/)
  [expertise](/discovery/expert/)
@@ -218,23 +205,21 @@ HOME  
  [NGL](/discovery/national-gallery/)
  [Fraud](/discovery/fraud/)
  [Chronology](/about/chronology/)
-                          Publishers Oxford  Cambridge Yale Princeton Harvard
+  Publishers Oxford Cambridge Yale Princeton Harvard
  Stanford
- Penn State Rockefeller UPA J. Paul Getty  Trust
+ Penn State Rockefeller UPA J. Paul Getty Trust
  Publications
  [University College London UCL](http://www.ucl.ac.uk/)
-                      
-                                 
+
  [Terms and conditions](/about/) J.M.W. Turner
-                                                                         Site criticism is appreciated at
+  Site criticism is appreciated at
  [jmwturner@shaw.ca](/)
  Penticton British Columbia Canada
-                                                  
- © setters 2003, Rescuing Turner: The Art Project &
+
+ Â© setters 2003, Rescuing Turner: The Art Project &
  [/)
-                                                    
- search for jmw turner
- [Google](http://www.google.ca/)
+
+ search for jmw turner  [Google](http://www.google.ca/)
  [H](http://www.hotbot.com/)
  [A](http://www.altavista.com/)
  [T](http://www.teoma.com/)

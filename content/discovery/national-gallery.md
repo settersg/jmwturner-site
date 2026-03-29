@@ -3,27 +3,24 @@ title: "National Gallery London"
 layout: single
 ---
 
-
 Gallery National Gallery art London policy on evaluation
 of art. Gallery: Tate, Clore, Courtauld, National Portrait Gallery Alistair Smith
 [JMW Turner the source](/painting/)
-        
-      National
+
+  National
 Gallery
-London: 'an institution'     
-                   
-![](/images/image001.gif)  [policy](/discovery/christopher/)
+London: 'an institution'
+
+![](/images/image001.gif) [policy](/discovery/christopher/)
 on evaluations:
-         
- 
-            
-[Murillo Copy - National Gallery, London](/discovery/copies/)          
-  
-            Excerpt: 
+
+[Murillo Copy - National Gallery, London](/discovery/copies/)
+
+  Excerpt:
 [Rescuing Turner: A New Age of Art Discovery](/book/):
-                                                                            
+
 r malcolm setters / graham setters
-     "Within recent history, and particularly in
+  "Within recent history, and particularly in
 American, industrial fortunes from the 19th and early 20th
 century became the foundation for acquiring great art treasures from abroad.
 These new 'squillionaires,' as Bernard Berenson referred to them, realized early
@@ -36,22 +33,22 @@ created by voracious competition between dealers and collectors, consequent
 instability was soon met with demands for greater guarantees. There was
 apparently less confidence in the old courtly way of doing business, and as
 chivalrous attitudes waned the need for documentation became more important. The
-competition amongst dealers invariably included snipes at each others
+competition amongst dealers invariably included snipes at each otherÂ’s
 inventories as each tried to snare the best squillionaire. One of the best and
 most formative examples of this rats-nest of conspiracy trailed an Italian
 Collection of modern fakes through the hands of a British dealer in 1902 and
 into the hands of the American, Mr. Walters of Baltimore. According to James H.
 Duveen by 1907 these works had eventually been purged from the collection but in
 the mean time the whole raft of squillionaires was put on guard:
-This tragicomedy took place during the teething period of American
+"This tragicomedy took place during the teething period of American
 collecting, and it helped at any rate to stop this kind of piracy. The
 multi-millionaires became much more prudent. They bought from reputable dealers,
 or employed them to collect for them; but then the professional expert began to
 assert himself. There were many of these from the late Doctor Wilhelm von Bode
 downwards. Many of these experts charged fees for their opinion or their
-certificates, and some even expected a percentage of the value. It cannot
+, 'Â’': certificatesÂ’, and some even expected a percentage of the value. It cannot
 surprise anyone that with such a fertile field to exploit, some of these experts
-became 'industrialized.' Soon, work by certain masters had to be certified by
+became 'industrialized.' Soon, work by certain masters had to be, 'Â’': certifiedÂ’ by
 one or more of the particular specialists in the various schools; and, humanity
 being what it is, what had begun as a most honourable occupation became in many
 cases a furious race for gain, frequently degenerating into the behaviour of a
@@ -59,34 +56,32 @@ pack of hungry wolves. Those experts who did not accept fees were so jealous
 that it was often sufficient for one deus ex machina to pronounce a
 judgment to move another one of the same elevated standing to contradict it.
 During the last half century the law courts have had to deal with many cases
-resulting from these internecine wars.[[iv]](#_edn4)
+resulting from these internecine wars."[[iv]](#_edn4)
  |
- Soon,
- work by certain masters had to be certified by one or more of the
+ Soon,
+ work by certain masters had to be, 'Â’': certifiedÂ’ by one or more of the
  particular specialists in the various schools; and, humanity being what it
  is, what had begun as a most honourable occupation became in many cases a
  furious race for gain.
 ![](/images/image002.gif)
- 
- 
- 
+
 As
 discussed earlier support by an expert for a painting can put the monetary value
-over the top. The power that scholars wield in this way can have at least two
+over the top. "The power that scholars wield in this way can have at least two
 unfortunate effects. The more honest would be so circumspect that they avoid
 publicly expressing doubts about paintings on the market or in private hands
 which may pass or have passed, for years as definitely the work of the artist in
 question. The less honest may be prepared to exchange their confirmation of a
-paintings authenticity for a cash remuneration; there are many certificates of
+paintingÂ’s authenticity for a cash remuneration; there are many certificates of
 this sort in circulation, some signed by scholars of undoubted eminence."
 (Geraldine
-Keen, Money and Art, (G. P. Putnams Sons, New York, 1971), 41)
+Keen, Money and Art, (G. P. PutnamÂ’s Sons, New York, 1971), 41)
 The
 cozy payment-for-services
 relationship between dealers and experts was apparently not restricted to
-individuals, but also institutions, for example: Joseph Duveen should have died
+individuals, but also institutions, for example: "Joseph Duveen should have died
 a baronet, for he was offered a baronetcy in reward of his gift of the Turner
-wing to the Tate Gallery.
+wing to the Tate Gallery."
 [[v]](#_edn5) It is
 difficult to say which is more insidious and which could more likely lead to
 corruption: the outright payment for services as with Bode, or rewarding with
@@ -94,7 +89,7 @@ regal privilege as with certain high profile nobly-blessed institutions. The
 latter is of course cyclical, and begs further mutually supporting patronage. In
 England particularly, it appears as if from ancient times patronage has been
 effectively folded into the social fabric under the guise of duty.
-Indisputably, mutual back scratching has never proven very honest or truth
+Indisputably, mutual, 'Â’': back scratchingÂ’ has never proven very honest or truth
 seeking at the best of times.
 Influx of masterpieces, injection of huge amounts of American currency, new
 tax laws, and the new age of documentation was the critical combination that set
@@ -109,19 +104,19 @@ Stotesbury; Henry Goldman; Philip and Robert Lehman, and Andrew Mellon. After
 being gifted great collections and almost unlimited endowments, the private and
 public institutions overgrew private interests and struck a death-knell to
 effective individual involvement. The art history students that began to flood
-out of art schools (in England in particular, where policies required art
-history departments to be connected to each art school) ended up supplying the
+out of art schools (in England in particular, where policies required, 'Â’': art
+historyÂ’ departments to be connected to each art school) ended up supplying the
 need which the American philanthropist created. This new generation of
 aficionados was not comprised of grass-root collectors with deep passion, but
 instead, university grads looking for employment and a secure future in a
-position.
+, 'Â’': positionÂ’.
 ![](/images/connoisseurs.jpg)Beyond
 this apparent dimming of Renaissance thought there seemed to be a
-flickering light; From his parents Paul [Mellon] inherited, in his words, a
+flickering light; "From his parents Paul [Mellon] inherited, in his words,, 'Â’': a
 desire to own, to enjoy, to savour, and to conserve rare and beautiful things, a
-desire which must infuse all collectors. Anyone who has felt the impulse to,
-conserve rare and beautiful things has been infected by the virus of
-collecting This is one reason the world has its great museums.
+desire which must infuse all collectors.Â’â€¦ Anyone who has felt the impulse to,
+, 'Â’': conserve rare and beautiful thingsÂ’ has been infected by the virus of
+collectingâ€¦ This is one reason the world has its great museums."
 [[vi]](#_edn6)
 Unfortunately, in the end, Paul Mellon presents us with an oxymoron, as he takes
 the individual joy of collecting and almost as an afterthought gives it over to
@@ -129,58 +124,58 @@ the institutional-museum. He was certainly one of the fortunate few. By having
 both the money and second-generation know-how, he was able to put together a
 great vintage art collection from the scant supplies of such material available
 in the modern era.
- As was mentioned, there were a number of highly successful dealers
+ As was mentioned, there were a number of highly successful dealers
 operating at that time who were instrumental in gathering treasures for those
 wealthy American collectors. The most notable players at the time were Bernard
 Berenson and Joseph Duveen,[[2]](#_ftn2)
 a collaboration between private scholar and gentleman dealer. Berenson was a
-young émigré from Eastern Europe and eventual Harvard graduate (1887). By
+young Ã©migrÃ© from Eastern Europe and eventual Harvard graduate (1887). By
 studying and carefully cataloguing Italian Renaissance art, his erudite labours
 formed the model for a new age of art-scholarship. B.B. as he was affectionately
-called, had read Morelli, Crowe and Cavalcaselle, and the new school of art
-historians who were more scientific and less rhapsodic than their predecessors.
+called,, 'Â’': had read Morelli, Crowe and Cavalcaselle, and the new school of art
+historians who were more scientific and less rhapsodic than their predecessors.Â’
 [[vii]](#_edn7)
-Berensons study began on a grand scale, his first major work, The
+BerensonÂ’s study began on a grand scale, "his first major work, The
 Drawings of the Florentine Painters, a formidable project on which he
-laboured for 10 years
+laboured for 10 years"
 [[x]](#_edn10)
 put him in a league of his own. He was not overly acquisitive;
 except for books, concentrating his efforts more on documenting and classifying
 of revered masterpieces. He began by cataloguing works of art into groups. Where
-he could not attach a suitable artists name to a group, he would invent one.
+he could not attach a suitable artistÂ’s name to a group, he would invent one.
 Occasionally an entire group would need breaking up in order to be shared by
 other already existing or invented names.[[3]](#_ftn3)
 Once classified, qualified, and quantified by Berenson it was much simpler to
 assign values. This, Duveen had little trouble doing, and high ones at that. The
-relative prices, Duveen Prices, paid for some of those paintings are shocking
-even by todays standards.
-    Ultimately, Berenson and Duveen helped to launch an overpowering
+relative prices, "Duveen Prices," paid for some of those paintings are shocking
+even by todayÂ’s standards.
+  Ultimately, Berenson and Duveen helped to launch an overpowering
 institutional presence by redefining art-scholarship and the reason for
 collecting, and in the process they disenfranchised impassioned students such as
 Anderson. In tate, the art magazine Martin Bailey and Sarah Greenberg
-confirm that, Contemporary trends in museology often shy away from exhibitions
-celebrating private collections and connoisseurship. What might be more
+confirm that, "Contemporary trends in museology often shy away from exhibitions
+celebrating private collections and connoisseurship." What might be more
 damaging is the seemingly reckless contempt these same institutions have for
 anything outside their own framework, endorsing as they might, the need for
-taming of morals and manners.[[xi]](#_edn11)
+taming of "morals and manners."[[xi]](#_edn11)
 ![](/images/collector.jpg)
-Honoré Daumier, L'Amateur d'Estampes, Art Institute of
+HonorÃ© Daumier, L'Amateur d'Estampes, Art Institute of
 Chicago. Gift of the estate of Marshal Field
 As early as 1906
 Dr. Wilhelm von Bode was bullying both collectors and dealers under this new
 aegis of institutional collecting:
- [The widow Frau Hainauer] was anxious to sell [the family collection], but
+ "[The widow Frau Hainauer] was anxious to sell [the family collection], but
 Bode the Berlin Museum director, had done everything possible to prevent the
 sale to anyone. He wanted to buy it for the Berlin Museum and had even forbidden
 the few important Berlin dealers to offer more than 1,250,000 marks, although he
 knew the collection was worth more than double that amount. These dealers were
-afraid to thwart the all-powerful art-director and had promised to help him.
+afraid to thwart the all-powerful art-director and had promised to help him."
 [[xiii]](#_edn13) And by
 threats over the Kaiser's [potential] displeasure Bode kept pressure on the
-lady, he has threatened me with this all the time sobbed the woman.
+lady, "he has threatened me with this all the time sobbed the woman."
 [[xiv]](#_edn14)
-  Ironically, these increased pressure tactics, made possible by the
-increased strength of the institutional collector,  was the cause for the
+  Ironically, these increased pressure tactics, made possible by the
+increased strength of the institutional collector, was the cause for the
 Hainauer collection leaving Germany by stealth. Joseph Duveen much to the dismay
 of the Kaiser, Bode and most others, 'liberated it' from the widow, and Germany,
 and sold it to top collectors in the United States. The collection of ancient
@@ -188,81 +183,81 @@ tapestries, oriental rugs, renaissance sculpture, bejeweled metalwork, and
 finest of paintings had been given credibility and status by Bode who made the
 quality known to the world with a catalogue of his own making. By then he
 obviously felt his actions gave him a moral claim to the spoils after Oscar
-Hainauer died. Hainauer had been described as the greatest collector in
-Germany.  
-                                                  
+Hainauer died. Hainauer had been described as the "greatest collector" in
+Germany.
+
 ____________________________
- Unhappily,
+ Unhappily,
 as a result of the Duveen/Berenson alliance, surreptitious competition between
 trans-Atlantic dealers, and the volatile collector market in America, there was
 an irreversible shifted in collector focus. It summoned the growth of
 bureaucracy with attendant new laws and cumbersome standards for research and
 documentation.
-     To highlight the evolutionary need for documentation: in 2000 IFAR asked a
-number of influential people in the art field what the word provenance meant
-to them. The answers ranged from the original meaning, place of origin to a
+  To highlight the evolutionary need for documentation: in 2000 IFAR asked a
+number of influential people in the art field what the word, 'Â’': provenanceÂ’ meant
+to them. The answers ranged from the original meaning, "place of origin" to a
 more contemporary and complex concept put forth by the research consultant and
 board member of the Appraisers Association of America, Hermine Chivian-Cobb:
-There are two definitions of provenance: the narrow one, which I understand
-to mean the complete history of an objects ownership, from the time it left the
-artists hands (including names of dealers, private collectors, and auction
+"There are two definitions of provenance: the narrow one, which I understand
+to mean the complete history of an objectÂ’s ownership, from the time it left the
+artistÂ’s hands (including names of dealers, private collectors, and auction
 sales) and the broader definition which encompasses the entire history of the
 work. This history would include, in addition to collections, a complete
 description of the piece, with (for paintings and drawings) medium, support,
 signature, title as given by the artist, or the most commonly known, date
 measurements and other significant markings; exhibition history, literature in
 which the work is discussed, mentioned or illustrated, including catalogue
-raisonné entries with the relevant number, and condition, where applicable.  The
+raisonnÃ© entries with the relevant number, and condition, where applicable. The
 provenance could also include any letters or certificates of authenticity by an
-expert on the artists work and the prices for which an object has changed
-hands.[[xv]](#_edn15)
+expert on the artistÂ’s work and the prices for which an object has changed
+hands."[[xv]](#_edn15)
 Implicit here is the
 suggestion that keeping track of previous ownership, and in particular, those
-who count, is in some way material to an artworks creation.  James Orrock R.I.,
+who count, is in some way material to an artworks creation. James Orrock R.I.,
 R.O.I. already illustrated this point a hundred years ago when he wrote: "Most
 people want a history, and unless this is forthcoming a consummate work of
 genius is often thrust aside and pronounced as a forgery; when the pedigree is
 established, as it frequently is, the confessed merit and the price move upwards
 together. Names are understood, but merit, as Ruskin says, 'Must be taken on
-faith.'
+faith.'"
 [[xvi]](#_edn16)
 Lastly, one must look at how major art world figures such as Anthony Blunt
 and Kenneth Clark, and some political leaders helped to effect a movement away
 from the private collector. Marxism and even Fascism seemed to be their
 springboard at times.
-      In England, the influential critic Anthony Blunt chose to see, in Marxism,
-the cure for every aesthetic ill. According to Blunt: Those New Realists, the
+  In England, the influential critic Anthony Blunt chose to see, in Marxism,
+the cure for every aesthetic ill. According to Blunt: "Those New Realists, the
 Mexican painters Diego Rivera and Jose Orozco, had demonstrated the way to paint
-the human condition without compromising their aesthetic responsibilityThe
+the human condition without compromising their aesthetic responsibilityâ€¦The
 great advantage of socialism was that it would selectively retain what was
 valuable in bourgeois culture and jettison the rest. The state, all controlling,
-enlightened and wise, would take over the role once played by the patron.
+enlightened and wise, would take over the role once played by the patron."
 [[i]](#_edn1)
 In 1930s Germany, Hitler's Mein Kampf echoed the same manipulative
-sentiment: Theater, art, literature, films, the press, posters, window
+sentiment: "Theater, art, literature, films, the press, posters, window
 displays, have to be cleansed, stopped from exhibiting a world that is rotting,
 in order to place in the service of a moral ideal that is a principal of the
-state and of civilization.
-Even Kenneth Clark in the 1930s was a short-term advocate of the same
-ostensibly unworkable covenanthistorically speaking: There is no doubt that
+state and of civilization."
+Even Kenneth Clark in the 1930Â’s was a short-term advocate of the same
+ostensibly unworkable covenantâ€”historically speaking: "There is no doubt that
 Kenneth Clark was, at the time, sympathetic to socialist aims. 'It was evident;'
 he wrote to his mother early in the Second World War, 'that socialism was the
 only solution. A centralized government would be bound to have flaws but to have
 profit as the only motive was even more dreadful.'"
-[[ii]](#_edn2) 
+[[ii]](#_edn2)
 Little did Clark realize: not only would the control he wished to see in the
 hands of a centralized government, eventually end up reciprocally in the hands
 of the aristocratically manipulated British Community, but that the elite few in
 control were ultimately to benefit commercially to an even greater extent than
-the private collector  ever had. With such influential leaders reading from the
+the private collector ever had. With such influential leaders reading from the
 same page it is no wonder that art activity shifted away from the individual
-collector. An intellectual Marxist like Blunt needed little persuasion to
+collector. "An intellectual Marxist like Blunt needed little persuasion to
 believe that the best hope of preserving common European heritage from what
-Steiner terms prostitution of the money market was by allying himself with the
+Steiner terms, 'Â’': prostitution of the money marketÂ’ was by allying himself with the
 Communist system that not only promised but ostensibly did make public
-all private art collections.
+all private art collections."
 [[iii]](#_edn3)
-                     
+
 ____________________________________________________
 "In this regard, a personal experience came in 1988 with a visit to the
  National Gallery, London. It was to do with a painting that came from the
@@ -279,33 +274,31 @@ ____________________________________________________
  materials which you are to issue."
  Indubitably, this is a wide ranging problem: for many years John Walker
  had encouraged the vetting of art at the National Gallery in Washington, but
- as he wrote, with strong opposition from our
+ as he wrote, "with strong opposition from our
  legal advisors, who
  feared we would be sued... I have always felt it wrong that so many American
  museums, worried either by the possibilities of lawsuits or out of
  ineptitude and laziness, refuse to help the public in what I consider an
- essential way.
-  Even as early as 1931 Walter Bayes found that the
+ essential way."
+  Even as early as 1931 Walter Bayes found that the
  legal fears of one
  influential official over authenticating paintings drove him to
- incompetence. When Bayes asked: Millionaires must tremble at your nod,
- the reply came: If you knew my boy how much it is the other way round. The
+ incompetence. When Bayes asked: "Millionairesâ€¦ must tremble at your nod,"
+ the reply came: "If you knew my boyâ€¦ how much it is the other way round. The
  interests concerned are so great, and money can do such strange things, that
  I find it generally safer to hold my tongue." (Walter Bayes, Turner, A
  Speculative Portrait, p5)
  In 1987, Sotheby's paid out-of-court damages to the original owner of a
- Sebastiano del Piombo portrait knocked down for £180 at auction in Chester.
- It subsequently sold for £330,000 in London, and - after being cleaned - for
- a reported £6.5 million to the Getty (where quite a few rediscovered
+ Sebastiano del Piombo portrait knocked down for Â£180 at auction in Chester.
+ It subsequently sold for Â£330,000 in London, and - after being cleaned - for
+ a reported Â£6.5 million to the Getty (where quite a few rediscovered
  masterpieces end up). (Ian Warrell/Warrell, The Age,
  AU 2002)
- 
-       
-     
-HOME                     
- [Legal Fears](/discovery/legal/)                   
+
+HOME
+ [Legal Fears](/discovery/legal/)
  [Tribal Instincts](/about/turner/)
-                                                                                                                                             
+
  [[1]](#_ftnref1)
  This included approximately 300 oil Paintings at various stages of completion;
  and 19,000 drawings, anything from mere daubs to finished watercolours.
@@ -316,14 +309,14 @@ HOME                     
  top businesses in London and New York.
  [[3]](#_ftnref3)
  The reason here for highlighting the concept of invented categories is meant
- as a parody on Martin Butlins hand theory, which is discussed later. With
+ as a parody on Martin ButlinÂ’s, 'Â’': handÂ’ theory, which is discussed later. With
  Berenson it was meant to be revelatory, as he attempted to recreate artists
  and assign works to them; whereas with Martin Butlin, the classification of
- certain works under unidentified hands, ultimately disparaged them and
- diverted them away from a Turner authorship. Berensons categories have
+ certain works under unidentified "hands", ultimately disparaged them and
+ diverted them away from a Turner authorship. BerensonÂ’s categories have
  crumbled somewhat over time, as might inevitably be the case for Martin
  Butlin's hands, A, B, and, C. Many will likely be given back to Turner.
-                                                    
+
 ______________________________
  [[iv]](#_ednref4)
  James Henry Duveen, The Rise of The House of Duveen, (Alfred A. Knoff,
@@ -354,12 +347,12 @@ ______________________________
  [[xiv]](#_ednref14)
  Ibid. 254.
  [[xv]](#_ednref15)
- Hermine Chivian-Cobb, Provenance  What Is It? (IFAR Journal Vol. 3,
+ Hermine Chivian-Cobb, Provenance â€“ What Is It? (IFAR Journal Vol. 3,
  nos. 3 and 4, 2000), 4.
  [[xvi]](#_ednref16)
  Byron Webber, James Orrock R.I., Painter, Connoisseur, Collector; (Chatto
  & Windus, London, in two volumes 1903), Vol. 1, 198.
- 
+
  [[i]](#_ednref1)
  Meryle Secrest, Kenneth Clark, A Biography, (Holt, Rinehart and
  Winston, New York, 1984), 110-11.

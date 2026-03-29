@@ -1,3 +1,5 @@
 ---
-title: "Shipwreck, the Rescue — JMW Turner"
+title: "Shipwreck, the Rescue Ã¢ÂÂ JMW Turner"
 ---
+
+

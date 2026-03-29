@@ -3,34 +3,29 @@ title: "Pool Near Ornans"
 layout: single
 ---
 
-
 Gustave Courbet Jean-Jacques Fernier Institut
 Gustave Courbet Musee Courbet expert evaluation catalogue
 [JMW Turner the source](/painting/)
-  
+
 ![](/images/image001.gif)-
 Gustave Courbet
 ![](/images/Pool%20at%20Ornans%20full%20Large%20jpeg%20adjsm.jpg)
 What does it take
 to make a 100 dollar picture worth a million? "An expert opinion!"
 The journey between both extremes can certainly
-get muddled... 
+get muddled...
 Pool Near Ornans
 oil on board 22x30 cm
- 
- 
+
 A number of years ago I was offered a little oil painting on panel called
 Pool Near Ornans. It was simply signed Courbet. Although it was an
 obvious gem, the question was, could it be by the great Realist Gustave Courbet.
-             
-                                         
-[Art Worlds
-Dirty Little Secret](/book/)
-                                                                                                       
+
+[Art WorldÂ’s Dirty Little Secret](/book/)
+
 r malcolm setters / graham setters
 "From across the room the normally taciturn
-[Dr. Colin
-B. Bailey](http://www.frick.org/html/Bailey.htm) seemed instantly
+[Dr. Colin B. Bailey](http://www.frick.org/html/Bailey.htm) seemed instantly
 possessed as he hastened toward the small oil painting of the intimate little
 waterfall, Pool Near Ornans. "Is that a Courbet," he urged.
 "Yes - you've seen the signature," I replied.
@@ -56,39 +51,37 @@ determinants. Connoisseurship seems to be of secondary importance.
  and often anti-academic situations where substantially unqualified people with
  far too much of a personal stake in the outcome are determining the
  authenticity of works." (Duane
- R. Chartier Ph.D [International
- Center for Art Intelligence](http://www.authentica.org/faqs.html)Inc.)
+ R. Chartier Ph.D [International  Center for Art Intelligence](http://www.authentica.org/faqs.html)Inc.)
 ...This was how the story unfolded
 using email correspondence. The following letter is a reply
 from the Wildenstein Institute in Paris:
- "Your query re Courbet is well received. Robert Fernier published two
-volumes of the Courbet catalogue raisonné with the Wildenstein Institute in 1977
+ "Your query re Courbet is well received. Robert Fernier published two
+volumes of the Courbet catalogue raisonnÃ© with the Wildenstein Institute in 1977
 and 1978. The painting whose photograph you sent, apparently, is not included in
 these volumes.
- After his father's death, Jean-Jacques Fernier resumed his work for a future
-supplement to the already published catalogue raisonné: I suggest that you apply
+ After his father's death, Jean-Jacques Fernier resumed his work for a future
+supplement to the already published catalogue raisonnÃ©: I suggest that you apply
 to him directly [address is enclosed} - I do not have his e-mail address:
- Do not hesitate to contact us again if we can be of help
+ Do not hesitate to contact us again if we can be of help
 With my best wishes for your research
 Marie-Christine Decroocq
-chargée de recherche (catalogues Redon and Modigliani)
-                                                                         __________________________________
+chargÃ©e de recherche (catalogues Redon and Modigliani)
+  __________________________________
 Dear Messr. Jean-Jacques Fernier,
-The following emails between the Wildenstein Institute and myself should help to
-explain the attached image, Pool Near Ornans. It was one of a group of
+The following emails between the Wildenstein Institute and myself should help to
+explain the attached image, Pool Near Ornans. It was one of a group of
 French paintings that were collected early in the 19th century by an American
 collector. Please advise me of the best way to get the appropriate credentials
 for it. Kind Regards
-                                                                          ___________________________________
+  ___________________________________
 Monsieur,
-Je serai à New York du 30 novembre au 5 décembre. Vous pouvez me joindre à
-l'Hôtel Barbizon au 212.88.4271 où je séjourne.
-Si vous souhaitez mon avis sur une oeuvre, il faut me la porter à New York pour
-son examen, accompagnée de photos et d'une lettre vous identifiant...
+Je serai Ã  New York du 30 novembre au 5 dÃ©cembre. Vous pouvez me joindre Ã
+l'HÃ´tel Barbizon au 212.88.4271 oÃ¹ je sÃ©journe.
+Si vous souhaitez mon avis sur une oeuvre, il faut me la porter Ã  New York pour
+son examen, accompagnÃ©e de photos et d'une lettre vous identifiant...
 It was from this point that
 things began to get toublesome and suspicious... to be continued...
- 
-[JMWT](/about/turner/)
+ [JMWT](/about/turner/)
 [bequest](/about/medal/)
 [news](/about/news/)
 [corresp](/about/correspondence/)
@@ -104,7 +97,7 @@ things began to get toublesome and suspicious... to be continued...
 [legal](/discovery/legal/)
 [catalogue](/discovery/catalogue/)
 [portrait](/painting/portrait/)
-[sting](/discovery/sting/) [Courbet](/discovery/courbet/)
+[sting](/discovery/sting/) [Courbet](/discovery/courbet/)
 [Roach](/discovery/roach/)
 [old](/discovery/expert/)
 [St](/discovery/christopher/)
@@ -118,22 +111,18 @@ things began to get toublesome and suspicious... to be continued...
 [book](/book/)
 [your story](/about/your-story/)
 [Hand C theory](/discovery/hand-c/)
-[C
-dialogue](/discovery/dialogue/)
+[C dialogue](/discovery/dialogue/)
 [expertise](/discovery/expert/)
 [expert](/discovery/expert/)
-[Kayser](/discovery/hand-c/)            
-                             
- 
-[Manet](/discovery/manet/)      
-[Monet](/discovery/manet/)     
+[Kayser](/discovery/hand-c/)
+
+[Manet](/discovery/manet/)
+[Monet](/discovery/manet/)
 "[Copy](/discovery/copies/)"
-Murillo       
+Murillo
  [Lost Boucher](/discovery/courbet/)
-       
+
 [Connoisseurship](/discovery/connoisseurship/)
-    [Art
-Worlds Dirty Little Secret](/book/)
-                                                                                                            
-           
-                                                                      HOME
+  [Art WorldÂ’s Dirty Little Secret](/book/)
+
+  HOME

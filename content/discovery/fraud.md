@@ -3,18 +3,16 @@ title: "Fraud Art Fraud"
 layout: single
 ---
 
-
 |
-      
+
 FRAUD: Art Fraud
 is not
-restricted to the individual. Art Fraud is also seen within the larger art
+restricted to the individual. Art Fraud is also seen within the larger art
 community based more on the neglect of expert
-         responsibilities                                                                                                                                                   
- [JMW Turner
-the source](/painting/) fraud: art fraud
-                                               
-   Art Fraud of the Highest Order
+  responsibilities
+ [JMW Turner the source](/painting/) fraud: art fraud
+
+  Art Fraud of the Highest Order
 ![](/images/collector.jpg)How
 much distortion of Art History is due to aristocratic influence and
 governmental self-serving regulations? Certain customs and laws control the movement of art in order
@@ -32,7 +30,7 @@ masterpieces. Many such artworks remain in limbo without proper attributions, or
 are given deprecating ones at best.
 There are many subsidiary tentacles of this beast that baits the
 modern day connoisseur.
-The Bigger Problem
+The Bigger Problemâ€¦
 Ultimately the bigger problem is one of fundamental social
 issues, ones that revolve around politics and economics. The main dilemma as it
 pertains to Art History is that one of the most dependable ways by which any
@@ -41,8 +39,8 @@ artifacts such as art. Because much of ones learning is born of past experience,
 it sensibly follows that truth and accuracy of historical and art historical
 records equate to accuracy in contemporary decision-making.
 Self-serving interests of the individual are what motivate
-political decision-making. Whether a countrys control group is an old boys
-club, aristocracy, or corporate board network, the result is the sameReciprocal
+political decision-making. Whether a countryÂ’s control group is an old boyÂ’s
+club, aristocracy, or corporate board network, the result is the sameâ€”Reciprocal
 Patronage.
 Reciprocal patronage is not an altruistic standard; it often
 leads to deception and injustice. As a result art historical accuracy is
@@ -50,7 +48,7 @@ subordinated to the desire for short term gain. Economic concerns over tourism
 and the allocation of individual benefits, and those related to individual and
 national prestige are the major forces that are presently driving a wedge of
 deception between truth and history.
- In this day and age
+ In this day and age
 the term art
 expert is surely
 sterile
@@ -74,25 +72,25 @@ those seeking a proper identification for their art work. Ultimately, it is
 important to remember that a picture is often condemned for more complex
 reasons than because it is spurious or fake. The following are areas that
 must be fully considered when assessing authorship:
-           Excerpt from
+  Excerpt from
 [Rescuing Turner: A new Age of Art Discovery](/book/)
-                                                      
- r malcolm setters / graham setters
+
+ r malcolm setters / graham setters
 ![](/images/bright%20orange%20paint.jpg)[forensics studies in art](/discovery/forensic/)
 [art scientific analysis](/discovery/art-science/)
 [connoisseurship](/discovery/copies/)
 [provenance](/discovery/orrock/)
 [art politics](/discovery/institutional/)
- "'In 1987, Sotheby's paid out-of-court damages to the original owner of a Sebastiano del Piombo portrait knocked down for £180 at auction in Chester.
- It subsequently sold for £330,000 in London, and - after being cleaned - for
- a reported £6.5 million to the Getty (where quite a few rediscovered
+ "'In 1987, Sotheby's paid out-of-court damages to the original owner of a Sebastiano del Piombo portrait knocked down for Â£180 at auction in Chester.
+ It subsequently sold for Â£330,000 in London, and - after being cleaned - for
+ a reported Â£6.5 million to the Getty (where quite a few rediscovered
  masterpieces end up).' (Ian Warrell/Warrell, The Age,
  AU 2002)
-  "Even as early as 1931 Walter Bayes found that the
+  "Even as early as 1931 Walter Bayes found that the
  legal fears of one
  influential official over authenticating paintings drove him to
- incompetence. When Bayes asked: Millionaires must tremble at your nod,
- the reply came: If you knew my boy how much it is the other way round. The
+ incompetence. When Bayes asked: "Millionairesâ€¦ must tremble at your nod,"
+ the reply came: "If you knew my boyâ€¦ how much it is the other way round. The
  interests concerned are so great, and money can do such strange things, that
  I find it generally safer to hold my tongue." (Walter Bayes, Turner, A
  Speculative Portrait, p5)
@@ -136,100 +134,99 @@ sculpture or a medieval picture unscathed. Conversely, experimentation with
 untested media has resulted in substantial conservation
 problems for modern works.
 friendly advice on
-collecting is available by contacting [Robert
-and Graham Setters](/)
-    
-   IMPORTANT
+collecting is available by contacting [Robert and Graham Setters](/)
+
+  IMPORTANT
 POINTS TO CONSIDER WHEN CHOOSING A TREASURE
- SIZE:![](/images/monetfrawilcropweb.jpg)
-          - Is it portable?
-          - Is it easy to store?
-         
+ SIZE:![](/images/monetfrawilcropweb.jpg)
+  - Is it portable?
+  - Is it easy to store?
+
 - Is it easy to protect; does it fit into a vault or safety deposit
 box?
-          - Lifestyle; do you have
+  - Lifestyle; do you have
 a small or large home, apartment or country estate?
 DURABILITY /
 FRAGILITY:
-         - Consider the proposed use of
+  - Consider the proposed use of
 your potential new treasure, and if it is suitable for its new location and
 purpose.
-       - Shipping; will it require
+  - Shipping; will it require
 special packaging?
-     - Longevity; is it subject to
+  - Longevity; is it subject to
 environmental degradation?
 POPULARITY:
-        - This is good for immediate resale.
-      - Conversely, as an intermediate to
+  - This is good for immediate resale.
+  - Conversely, as an intermediate to
 long term investment, popularity is a negative factor (a fad soon passes).
 PROVENANCE:
-        - Is the piece from an important
+  - Is the piece from an important
 collector, dealer, collection? It helps to establish authenticity and gives the
 piece prestige. Although celebrity of a former owner may perk interest
 presently, memories of famous people fade, reducing the effectiveness of this
 factor long term.
-         - It can prove helpful if a
+  - It can prove helpful if a
 piece has at one time sold through a major auction house.
-       - Collect as much literature and
+  - Collect as much literature and
 history on a piece after acquisition; this will prove invaluable if resold.
 PRICE:
-        - The dealer motto: buy low/sell
-dear; if you choose the right dealer he/she will help you accomplish the same.
-        - Predict popular trends before they
+  - The dealer motto: "buy low/sell
+dear"; if you choose the right dealer he/she will help you accomplish the same.
+  - Predict popular trends before they
 become full blown.
 VALUE:
-        - Is the piece important enough to
+  - Is the piece important enough to
 interest major dealers, museums, or major auction galleries?
-        - If an item is part of a collection,
+  - If an item is part of a collection,
 lesser important pieces are acceptable additions.
 AUTHENTICITY:
-        - Is this easily established?
-        - Have similar items sold at major
+  - Is this easily established?
+  - Have similar items sold at major
 auction galleries?
 RECOGNIZABLE:
-        - Recognizable items are easier to
+  - Recognizable items are easier to
 classify and therefore, often develop into unquestioned commodities.
-        -
- Helpful
+  -
+ Helpful
 for authentication.
-        - It is more difficult to find
+  - It is more difficult to find
 recognizable pieces, because most have already been discovered.
 DEMAND:
-        - Is the item attractive to nations
-with strong economies relative to ones own?  Presently some of these are USA,
+  - Is the item attractive to nations
+with strong economies relative to ones own? Presently some of these are USA,
 Germany and Hong Kong.
 CONDITION:
-        - This is important but is relative
-to age, material, and rarity. 
+  - This is important but is relative
+to age, material, and rarity.
 AESTHETIC:
-       -
- If
+  -
+ If
 your object is aesthetically appealing, then your potential new treasure will
 command greater appreciation.
-       - Has your potential treasure been produced
+  - Has your potential treasure been produced
 by a skilled artisan, craftsman, or talented artist?
-       - Decorative quality increases demand and
+  - Decorative quality increases demand and
 raises price.
- CULTURAL:
-       - Historic (appreciated by scholars and
+ CULTURAL:
+  - Historic (appreciated by scholars and
 connoisseurs)
-       - Heritage and sentimental value
-       - Educational value
-       - Cross-cultural appreciation
+  - Heritage and sentimental value
+  - Educational value
+  - Cross-cultural appreciation
 PSYCHOLOGICAL
 / MARKET FORCES:
-       - Negative and positive publicity
-     - Ivory collecting; what are the legal
+  - Negative and positive publicity
+  - Ivory collecting; what are the legal
 consequences? Although an important historic carving medium, recent negative
 attitudes towards its use have been very influential politically and socially;
 which in turn has affected its desirability as a collectable. Gun collecting is
 affected likewise.
-      - Impressionist paintings, the Art Deco
+  - Impressionist paintings, the Art Deco
 style, Ming porcelain and the like; recognize how publicity has reinforced the
 popularity of these and other collectibles.
 SENTIMENT:
-      - Heirloom
-      - Heritage
+  - Heirloom
+  - Heritage
 art
 appraisal and art authentication of European and American Master
 paintings, art appraisal,
@@ -241,22 +238,19 @@ appraisal, online art appraiser, online fine art appraisal
 r malcolm
 setters
 / graham setters
-[Institutional evolution](/discovery/institutional/)        [Tribal
-Instincts](/about/turner/)      
-[Art Expertise](/discovery/expert/)      
+[Institutional evolution](/discovery/institutional/) [Tribal Instincts](/about/turner/)
+[Art Expertise](/discovery/expert/)
 [Art versus Science](/discovery/ifar/)
-                                                                       
-                                                                          
-HOME 
+
+HOME
 Source:
-J[MW Turner Joseph Mallord
-William](/painting/), National Gallery of Canada
+J[MW Turner Joseph Mallord William](/painting/), National Gallery of Canada
 Metropolitan Museum of Art Museum of Modern Art the British Museum art museum art history
-[Christies](/painting/provenance/) Sothebys Tate
+[ChristieÂ’s](/painting/provenance/) SothebyÂ’s Tate
 Gallery art world painting old master paintings[sea piece Shipwreck](/painting/style/)Martin Butlin Wildenstein
 Institute Yale Center
 British Art The Getty Getty Research Institute provenance Clore
-Gallery Tate Gallery [Turner Gallery](/about/medal/) curator museum  antique forensic fingerprint conservator International Foundation for Art
+Gallery Tate Gallery [Turner Gallery](/about/medal/) curator museum antique forensic fingerprint conservator International Foundation for Art
 Research
 [IFAR](/discovery/ifar/) English landscape art historian art criticism IIC
 [CCI](/discovery/art-science/) Canadian
@@ -267,18 +261,15 @@ of art discovery discoveries discovery ca discovery
 [Turner Society](/about/medal/) Turner Society News
 [TSN](/about/medal/) old
 master masterpiece Rembrandt Picasso Francoise Boucher Monet Boucher
-[Claude
-Monet](/discovery/manet/) [Angelica Kauffmann](/discovery/copies/) Murillo Whistler James McNeill Whistler Rubens Peter
+[Claude Monet](/discovery/manet/) [Angelica Kauffmann](/discovery/copies/) Murillo Whistler James McNeill Whistler Rubens Peter
 Paul Rubens Renior Claude Titian Joshua
 Reynolds fakes forgeries [connoisseurship](/discovery/copies/) connoisseur
-[art
-expert](/discovery/expert/) renaissance Getty Museum James
+[art expert](/discovery/expert/) renaissance Getty Museum James
 [Orrock](/discovery/orrock/)
 [Orrock](/painting/provenance/)
 [Sir J.C. Robinson](/discovery/orrock/)
-[Turner
-portrait](/painting/portrait/) John Paul
-Getty Agnew Agnews antiques research specialist consultant expertise professional expert
+[Turner portrait](/painting/portrait/) John Paul
+Getty Agnew AgnewÂ’s antiques research specialist consultant expertise professional expert
 witness Oxford Cambridge Frick Collection curator Andrew Mellon Goya Manet Emily
 Carr Manet Durer Albrecht Durer Peter Paul Rubens
  |
@@ -286,39 +277,32 @@ Carr Manet Durer Albrecht Durer Peter Paul Rubens
  |
  |
  |
- |                               
-           An introduction:
- [JMW Turner](/painting/) 
- Rescue      
-                   off site:
- [Turner Society](http://www.turnersociety.org.uk/) [Tate
- Gallery](http://www.tate.org.uk/home/default.htm)  [National Gallery](http://www.nationalgallery.org.uk/) [London](/discovery/national-gallery/)
- [Courtauld Institute of Art](http://www.courtauld.ac.uk/sub_index/location/location.html) 
-                    [IFAR
- International Foundation for Art Research](http://www.ifar.org/) [NGC](http://national.gallery.ca/)
- [National Gallery Canada](http://national.gallery.ca/)  [Frick
- Collection](http://www.frick.org/html/info1f.htm)
-                    [Yale
- Center for British Art](http://www.yale.edu/ycba/)  [The Getty](http://www.getty.edu/) Biro
- Forensic Studies  [CCI](http://www.cci-icc.gc.ca/)
+ |
+  An introduction:
+ [JMW Turner](/painting/)
+ Rescue
+  off site:
+ [Turner Society](http://www.turnersociety.org.uk/) [Tate  Gallery](http://www.tate.org.uk/home/default.htm) [National Gallery](http://www.nationalgallery.org.uk/) [London](/discovery/national-gallery/)
+ [Courtauld Institute of Art](http://www.courtauld.ac.uk/sub_index/location/location.html)
+  [IFAR  International Foundation for Art Research](http://www.ifar.org/) [NGC](http://national.gallery.ca/)
+ [National Gallery Canada](http://national.gallery.ca/) [Frick  Collection](http://www.frick.org/html/info1f.htm)
+  [Yale  Center for British Art](http://www.yale.edu/ycba/) [The Getty](http://www.getty.edu/) Biro
+ Forensic Studies [CCI](http://www.cci-icc.gc.ca/)
  [Canadian Conservation Institute](http://www.cci-icc.gc.ca/html/)
-                   
- [Wildenstein
- Institute](http://www.wildenstein.com/) [McCrone
- Research Institute](http://www.mcri.org/)
- [Collections](http://www.artcyclopedia.com/artists/turner_joseph_mallord_william.html) [International
- Center for Art Intelligence](http://www.authentica.org/home.html)
-           [GMM](http://www.youknowtheysay.com/movabletype/archives/000557.html)
- [Village Voice](http://www.villagevoice.com/)  Andrew Wilton Rizzoli
- Tate Clore Christie's Sotheby's auction house On
- site: 
+
+ [Wildenstein  Institute](http://www.wildenstein.com/) [McCrone  Research Institute](http://www.mcri.org/)
+ [Collections](http://www.artcyclopedia.com/artists/turner_joseph_mallord_william.html) [International  Center for Art Intelligence](http://www.authentica.org/home.html)
+  [GMM](http://www.youknowtheysay.com/movabletype/archives/000557.html)
+ [Village Voice](http://www.villagevoice.com/) Andrew Wilton Rizzoli
+ Tate Clore Christie's Sotheby's auction house On
+ site:
  [JMWT](/about/turner/)
  [bequest](/about/medal/)
  [news](/about/news/)
  [corresp](/about/correspondence/)
  [bibliography](/about/bibliography/)
  [sa](/painting/appraisal/)
-              
+
  [Home](/)
  [discovery](/painting/)
  [style](/painting/style/)
@@ -331,7 +315,7 @@ Carr Manet Durer Albrecht Durer Peter Paul Rubens
  [legal](/discovery/legal/)
  [catalogue](/discovery/catalogue/)
  [portrait](/painting/portrait/)
- [sting](/discovery/sting/) [Courbet](/discovery/courbet/)
+ [sting](/discovery/sting/) [Courbet](/discovery/courbet/)
  [Roach](/discovery/roach/)
  [old](/discovery/expert/)
  [St](/discovery/christopher/)
@@ -339,7 +323,7 @@ Carr Manet Durer Albrecht Durer Peter Paul Rubens
  [Manet](/discovery/manet/)
  [bio](/about/biography/)
  [Rubens](/discovery/rubens/)
-              
+
  [medal](/about/medal/)
  [Unknown Turner](/discovery/ngc/)
  [ngc shipwreck](/discovery/ngc/)
@@ -347,8 +331,7 @@ Carr Manet Durer Albrecht Durer Peter Paul Rubens
  [institutional](/discovery/institutional/)
  [copies](/discovery/copies/)
  [book](/book/)
- [your
- story](/about/your-story/)
+ [your  story](/about/your-story/)
  [Hand C theory](/discovery/hand-c/)
  [C dialogue](/discovery/dialogue/)
  [expertise](/discovery/expert/)
@@ -357,23 +340,21 @@ Carr Manet Durer Albrecht Durer Peter Paul Rubens
  [NGL](/discovery/national-gallery/)
  [Fraud](/discovery/fraud/)
  [Chronology](/about/chronology/)
-                          Publishers Oxford  Cambridge Yale Princeton Harvard
+  Publishers Oxford Cambridge Yale Princeton Harvard
  Stanford
- Penn State Rockefeller UPA J. Paul Getty  Trust
+ Penn State Rockefeller UPA J. Paul Getty Trust
  Publications
  [University College London UCL](http://www.ucl.ac.uk/)
-                      
-                                 
+
  [Terms and conditions](/about/) J.M.W. Turner
-                                                                         Site criticism is appreciated at
+  Site criticism is appreciated at
  [jmwturner@shaw.ca](/)
  Penticton British Columbia Canada
-                                                  
- © setters 2003, Rescuing Turner: The Art Project &
+
+ Â© setters 2003, Rescuing Turner: The Art Project &
  [/)
-                                                    
- search for jmw turner
- [Google](http://www.google.ca/)
+
+ search for jmw turner  [Google](http://www.google.ca/)
  [H](http://www.hotbot.com/)
  [A](http://www.altavista.com/)
  [T](http://www.teoma.com/)

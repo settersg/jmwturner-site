@@ -3,62 +3,59 @@ title: "Durer Albrecht Durer Expert"
 layout: single
 ---
 
-
 Durer,
 Albrecht Durer, art expert, Lucas Cranach the Elder, Albrecht Durer art
-expert, National Gallery London, Alistair Smith, Alistair...[JMW Turner
-the source](/painting/)              
-                                   
+expert, National Gallery London, Alistair Smith, Alistair...[JMW Turner the source](/painting/)
+
 ![](/images/Alistair%20Smithweb.gif)
-                                   
+
 ![](/images/Durer%20jpeg.jpg)
-       St.
+  St.
 Christopher circa 1497
 (shown here subsequent to the 1988
 assessment.
-        (It was professionally conserved, with the removal of a substantial amount of over-painting).
-      oil on
+  (It was professionally conserved, with the removal of a substantial amount of over-painting).
+  oil on
 panel/laid down on canvas, 33 x 23.7cm
 (this small size is
-        consistent with the artist's early work)
-      from the
+  consistent with the artist's early work)
+  from the
 Rudolph Hermani estate
 (Krupp/Benz notoriety)
-      Vintage
+  Vintage
 monogram A over D, lower left
-(in the style of Albrecht Dürer)
-      Attributed
-to Lucas Cranach the Elder (Alistair Smith, 1988) 
-     
-presumable based on a print by this artist showing the child  
-  
-   surmounting the Saint similarly.
-      Essay to
+(in the style of Albrecht DÃ¼rer)
+  Attributed
+to Lucas Cranach the Elder (Alistair Smith, 1988)
+
+presumable based on a print by this artist showing the child
+
+  surmounting the Saint similarly.
+  Essay to
 follow showing many stylistic comparables
-   
+
 Three examples:
-   
-1-The comparison with Dürer's
+
+1-The comparison with DÃ¼rer's
 unusual face studies
-                                                 
+
 ![](/images/St%20Jerome%20X3.jpg)![](/images/sketch%20compare%20St%20J%20sm.jpg)
-                                                          
+
 ![](/images/Dresden%20sketchbook,%20Durer%20heads%20written%201523.jpg)
-                                                          
-In a unique effort Dürer experimented with distinctive facial
+
+In a unique effort DÃ¼rer experimented with distinctive facial
 types
-            2 - the positioning of the infants legs (drawing
+  2 - the positioning of the infants legs (drawing
 1495),
-                          
-                        
+
 ![](/images/feet%20position%20X4.jpg)![](/images/child%20drawing%20feet.jpg)
-         3 - Quarry study showing Dürer's interest in taking
+  3 - Quarry study showing DÃ¼rer's interest in taking
 unusual landscape features from nature
-                                                        
+
 ![](/images/quarry%20detail%20sm.jpg)
-                                                                                   watercolour on paper 1497
- SAINT CHRISTOPHER MARTYR
- Feast: July 25
+  watercolour on paper 1497
+ SAINT CHRISTOPHER MARTYR
+ Feast: July 25
  From the great mass of legendary material, often
  confused and contradictory, which is associated with the name of St.
  Christopher, there emerges one clear conception. It is that of a man who is
@@ -82,7 +79,7 @@ unusual landscape features from nature
  that if I had borne the whole weight of the world upon my shoulders it could
  not have burdened me more heavily." The boy answered, "Wonder not,
  Christopher, for not only hast thou borne the whole world on thy shoulders,
- but Him who created the world"for the Christ Child, bearing in His own arms
+ but Him who created the world"â€”for the Christ Child, bearing in His own arms
  the great world, had been Christopher's burden. To prove that this was true,
  He told Christopher to recross the river and plant his staff in the ground
  beside his hut and soon it would burst into bloom. Obeying, Christopher was
@@ -100,9 +97,7 @@ unusual landscape features from nature
  the act for which he is best known.
  This was taken from "Lives of Saints", Published by
  John J. Crawley & Co., Inc.
- 
-      
-[Art Worlds Dirty Little Secret](/book/)
- 
-                                                                                                         
-     HOME
+
+[Art WorldÂ’s Dirty Little Secret](/book/)
+
+  HOME
