@@ -15,7 +15,7 @@ community based more on the neglect of expert
 the source](/painting/) fraud: art fraud
                                                
    Art Fraud of the Highest Order
-![](/jmwturner-site/images/collector.jpg)How
+![](/images/collector.jpg)How
 much distortion of Art History is due to aristocratic influence and
 governmental self-serving regulations? Certain customs and laws control the movement of art in order
 to protect tourism, jobs, and financial benefits that derive from historic art.
@@ -54,7 +54,7 @@ deception between truth and history.
 the term art
 expert is surely
 sterile
-![](/jmwturner-site/images/Rubens%20deposition.jpg%20Dig%20C.jpg)
+![](/images/Rubens%20deposition.jpg%20Dig%20C.jpg)
 Deposition, tiny
 17th century oil on copper
 The
@@ -78,7 +78,7 @@ must be fully considered when assessing authorship:
 [Rescuing Turner: A new Age of Art Discovery](/book/)
                                                       
  r malcolm setters / graham setters
-![](/jmwturner-site/images/bright%20orange%20paint.jpg)[forensics studies in art](/discovery/forensic/)
+![](/images/bright%20orange%20paint.jpg)[forensics studies in art](/discovery/forensic/)
 [art scientific analysis](/discovery/art-science/)
 [connoisseurship](/discovery/copies/)
 [provenance](/discovery/orrock/)
@@ -141,7 +141,7 @@ and Graham Setters](/)
     
    IMPORTANT
 POINTS TO CONSIDER WHEN CHOOSING A TREASURE
- SIZE:![](/jmwturner-site/images/monetfrawilcropweb.jpg)
+ SIZE:![](/images/monetfrawilcropweb.jpg)
           - Is it portable?
           - Is it easy to store?
          

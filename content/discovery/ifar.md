@@ -17,7 +17,7 @@ attribution evaluation appraisal
 critic catalogue
 IFAR evening / IFAR evenings
       
-![](/jmwturner-site/images/image001.gif) 
+![](/images/image001.gif) 
   
    
   
@@ -25,13 +25,13 @@ IFAR evening / IFAR evenings
   
 international
 foundation for art research
-![](/jmwturner-site/images/dutchmstr.jpg)
+![](/images/dutchmstr.jpg)
 This melancholy Militiaman with swollen wart-spotted hands gives cause for
 reflection upon the importance of ones own purpose. The diseased old soldier
 blends into a lonely netherworld as he makes do with his addictive
 crutches. 
 ifar
-![](/jmwturner-site/images/image002.gif)
+![](/images/image002.gif)
 In
 recent years there has been a conflict heating up between the
 scientific-camp and the connoisseurship-camp.
@@ -191,7 +191,7 @@ only $25. By the time Benesch's catalogue was published, its inclusion of these
 drawings had raised their value to something 28,000 - 42,000 each."
 (Money and Art, G. P. Putnam's Sons, NY, 1971)
                   
-![](/jmwturner-site/images/image003.gif) 
+![](/images/image003.gif) 
 [Rescuing Turner: A New Age of Art Discovery](/book/):
                                                 r malcolm setters
 / graham setters

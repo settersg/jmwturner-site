@@ -14,13 +14,13 @@ The Oxford Companion to J.M.W. Turner,
 [Oxford University Press](http://www.oup.co.uk/)
                              
                                          
-![](/jmwturner-site/images/image001.gif)
+![](/images/image001.gif)
                                            
                     
  
 The Paintings of JMW Turner
                                            
-![](/jmwturner-site/images/M&G7%20web.jpg)
+![](/images/M&G7%20web.jpg)
                                      
 Martin Butlin and
 Graham Setters, lost in the BJ
@@ -41,7 +41,7 @@ involved with. He became reflective and explained a few of the trials,
 tribulations and ecstasies of several of them.                                     
                                           
                                      
-![](/jmwturner-site/images/M7%20web.jpg)
+![](/images/M7%20web.jpg)
  Martin
 Butlin in Penticton signing books in the authors study.
 The one in-hand is

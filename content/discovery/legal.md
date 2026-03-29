@@ -13,10 +13,10 @@ layout: single
  out-of-court damages/The
  Getty/Getty Museum, "where quite a few rediscovered masterpieces end up"
   
-![](/jmwturner-site/images/Legal%20fears%20Martin%20Butlin%20Tate%20Christie)
+![](/images/Legal%20fears%20Martin%20Butlin%20Tate%20Christie)
         "going to the stake"   "they really get him"  
  "These people are terror"
- ![](/jmwturner-site/images/Butlin3crop.jpg)
+ ![](/images/Butlin3crop.jpg)
  Martin Butlin and Graham
  Setters in Penticton
  Excerpt:
@@ -94,7 +94,7 @@ layout: single
                                                          
                   
   
- ![](/jmwturner-site/images/news4.jpg)
+ ![](/images/news4.jpg)
       Vancouver Sun Jan 23 1997
  "A surprise
  came two days after the 1997 auction of

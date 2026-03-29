@@ -14,13 +14,13 @@ press](http://www.yale.edu/yup/)) Important British paintings Chtistie's
                                          the "Hand" of
 deception                    
    
-![](/jmwturner-site/images/Ehrfull-large-jpeg-adjweba.jpg)                        
+![](/images/Ehrfull-large-jpeg-adjweba.jpg)                        
                                                            
-![](/jmwturner-site/images/image001.gif)
+![](/images/image001.gif)
 Orrock Ehrenbrietstein
 on a marbled book-board signed and dated, JMW Turner R.A. 1817 (10 X 12 inches)   
                                                
-![](/jmwturner-site/images/image002.gif)                
+![](/images/image002.gif)                
  [Rescuing Turner: A New Age of Art Discovery](/book/):
 r malcolm setters
 graham setters
@@ -87,7 +87,7 @@ At one point, as Turner told his friend Trimmer, he even painted a certain
 picture on a tablecloth.[[iv]](#_edn4)
                                                                    
                          
-![](/jmwturner-site/images/EHRbackweb.jpg)
+![](/images/EHRbackweb.jpg)
                           
 Book board support for  the oil-sketch, Orrock Ehrenbrietstein
 An ultraviolet light, or black light as it is often called, confirmed that the signature was
@@ -99,7 +99,7 @@ area over the signature. This guaranteed everything was under the antique
 varnish with no later additions.
                                                                                     
                          
-![](/jmwturner-site/images/EHRsigweb.jpg)
+![](/images/EHRsigweb.jpg)
                                
 The vintage signature I.M.W. Turner R.A. 1817 (much enlarged)    
      The key to the whole puzzle was
@@ -117,7 +117,7 @@ realization that the name was not Crockling, but, Orrock Esq. This was the same
 important collector of 18th and 19th century British art
 from whence Shipwreck, the Rescue sold in 1904.
                              
-![](/jmwturner-site/images/EHR-label.jpg)
+![](/images/EHR-label.jpg)
 Label from the backing of the Orrock Ehrenbrietstein. "J... rner R.A. Signed and
 dated from the collection of James Orrock Esq. No. 157 - 1884."
      The true provenance would likely not have been
@@ -162,7 +162,7 @@ that he had  been planning a major exhibition piece of the region for several
 years. Finally, in 1835 he exhibited The Bright Stone of Honour
 (Ehrenbrietstein).     
     
-![](/jmwturner-site/images/image004.jpg)
+![](/images/image004.jpg)
                
 The Bright Stone of Honour (Ehrenbrietstein) and the Tomb of Marceau 
                                                                            
@@ -176,7 +176,7 @@ make a cursory connection between oil-sketches and finished paintings we need
 only defer to the Oxford Companion To J.M.W. Turner vis-à-vis
 Caernarvon Castle for which Turner made a small oil study on panel, which
 suggests that he first considered painting the subject in oils.[[ix]](#_edn9)
-![](/jmwturner-site/images/Ehrenpaintingweb.jpg)
+![](/images/Ehrenpaintingweb.jpg)
  Without knowledge of the Orrock
 painting it has been assumed that the exhibited piece of 1835 was inspired by
 trips made years later but there are no related sketches to support this
@@ -224,7 +224,7 @@ If that one were in fact accepted, then the whole production of
 [Hand "C"](/discovery/dialogue/) would need
 accepting. The problem with this scenario becomes apparent in the section,
 [Tribal Instincts](/about/turner/).
-![](/jmwturner-site/images/drawing-castleweb.jpg)
+![](/images/drawing-castleweb.jpg)
 Possibly for the sake of expedience, it
 has been assumed in recent years that Turner did very little open-air sketching
 using oil paint, mainly because he had told one of his colleagues that he could
@@ -284,7 +284,7 @@ hosts, his friends and foes;
 spirits bright repose;
                                                   For he was freedoms champion
              
-![](/jmwturner-site/images/WWII-sterioview.jpg)
+![](/images/WWII-sterioview.jpg)
                          WWI stereo-view of
 Ehrenbrietstein
 from a similar vantage point
@@ -374,7 +374,7 @@ precise. Andrew Wilton [Martins successor at the Tate] agrees with this verdic
 This previously revered work is dejected alas. Will there not be a reprieve for at least
 one single reference to the more sensitive side of Turner during this period of "new sensitivity?"
                                   
-![](/jmwturner-site/images/landscape-with-a-distant-church-web5.jpg)
+![](/images/landscape-with-a-distant-church-web5.jpg)
 Landscape with
 Distant Church 8.5 x 10.5 inches from the British
 Museum (presently rejected by Martin Butlin)
@@ -437,7 +437,7 @@ encouragement. It is likely he was there to garner interest and possibly sell
 the paintings. And if this were the case there would have been little attention given to
 documentary details, receipts, and the like.
                                  
-![](/jmwturner-site/images/aaafontcrop.jpg)
+![](/images/aaafontcrop.jpg)
  Orrock Ehrenbrietstein
 enlarged detail showing two figures and the fountain
 More than anyone, Sir Charles Eastlake, President of the Royal Academy gave
@@ -525,7 +525,7 @@ fifty-odd watercolours of the same region that Walter Fawkes bought shortly afte
 home.  The oil-sketch did however have to eventually reside in London to be used
 as the model for the 1835 exhibition piece, and the 1817 inscription, must
 indicate that it was done within a few months of the journey.
-![](/jmwturner-site/images/Devonshireweb.jpg)
+![](/images/Devonshireweb.jpg)
 The oil sketch of Devonshire from
 1813 (seen here) was illustrated in W.L. Wyllies biography of Turner, page 54.
 It is
@@ -620,7 +620,7 @@ of the Continent to the English traveler after Waterloo, and it was not until
  The quirky nature by which the
  truth unfolded gave the only clue strong enough to challenge the
  invention of the man with the many-hands
-![](/jmwturner-site/images/image005.gif)
+![](/images/image005.gif)
  
  
  

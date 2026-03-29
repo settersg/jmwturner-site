@@ -8,7 +8,7 @@ layout: single
 expertise clore national gallery expert opinion
 tate turner studies society news authentication christie's sotheby's
                                                                                          
-![](/jmwturner-site/images/image001.gif)
+![](/images/image001.gif)
 >
 >
 JMW Turner's
@@ -17,7 +17,7 @@ JMW Turner's
  presented to help Turner advocates better understand the
  enigmatic character of this enigmatic master.
               
-![](/jmwturner-site/images/spar%20close%20web.jpg)
+![](/images/spar%20close%20web.jpg)
 >
   Shipwreck,
  the Rescue,
@@ -68,7 +68,7 @@ attended to  Too undefined,[[1]](#_ftn1)
 then Sir George Beaumont, his foregrounds are comparative blots, & faces of
 figures witht. a feature being expressed.
 [[ii]](#_edn2) 
-       ![](/jmwturner-site/images/Blot%20web.jpg)              
+       ![](/images/Blot%20web.jpg)              
  
 This is an intermediately detailed portrait of one of the
 survivors in the rescue boat of Shipwreck, the Rescue (greatly enlarged).
@@ -101,7 +101,7 @@ Speed also of 1844 as well as Snow Storm of 1842. Sorrowfully, and
 incongruously, this was also the point in his life that the public was beginning
 to question both Turners power and competence, calling his submissions to the
 Royal Academy, Mr. Turners little jokes.[[v]](#_edn5)
-![](/jmwturner-site/images/SWRwaterweb.jpg)
+![](/images/SWRwaterweb.jpg)
 Detail: Shipwreck, the Rescue
   In 1844,
 if Turner had wanted to rework the water of Shipwreck, the Rescue to a
@@ -113,7 +113,7 @@ him considering that the clear vision he wanted to express had already been
 fully described. Additional reworking and impasto would have only defeated this
 vision by deadening his first inspired idea and the feeling of immediacy and
 action that normally accompanies swift brushwork.
-![](/jmwturner-site/images/snow%20storm%20web.jpg)
+![](/images/snow%20storm%20web.jpg)
 In Turner's Snow Storm from 1842 it is evident
 that his brushwork is meant to describe the forces of nature on a more visceral
 level.
@@ -143,7 +143,7 @@ much in oil, but the influence of his water-colour practice is evident in nearly
 all his pictures; in many of them it is even painfully evident, so that
 Constable, not unjustly, called them Large Water-colours.[[x]](#_edn10)
  
-![](/jmwturner-site/images/SWR%20crop%20brushwork%20boat-3-web.jpg)
+![](/images/SWR%20crop%20brushwork%20boat-3-web.jpg)
 Detail: Shipwreck, the Rescue showing Turners unusual
 brushwork - unblended, done largely in the technique of his watercolours.
  
@@ -211,7 +211,7 @@ would be adequate to finish a picture. By this Turner betrayed his inexperience
 and the lack of understanding about oil painting. He did not fully understand
 the oil painting sequence used in modern painting versus that used by old
 masters who used translucent glazes to finish their work.
-![](/jmwturner-site/images/SWR4000DPIjpeg%20auto%20levels%20adj%20sparweb.jpg)
+![](/images/SWR4000DPIjpeg%20auto%20levels%20adj%20sparweb.jpg)
 SWR four
 desperate souls cling to the spar
 Alas, Turner would soon learn that the impasto required in bringing these
@@ -304,7 +304,7 @@ often employed by a ship's captain was at its apex of use in the late eighteenth
 century, and was used to give orders over the length of a ship. They were as a
 rule custom fabricated.
  
-![](/jmwturner-site/images/boat%203%20megaphone%20web.jpg)
+![](/images/boat%203%20megaphone%20web.jpg)
  Shipwreck, the Rescue
 (enlarged detail) Turner's poetic inclination might suggest that this image  is
 a reference to Gabriel
@@ -333,7 +333,7 @@ principle hues that he required. Leaving this first drawing to dry, he took the
 second board and repeated the operation. By the time the fourth drawing was laid
 in, the first would be ready for the finishing touches.[[xxiii]](#_edn23)
  
-![](/jmwturner-site/images/SWR4000DPIjpeg%20auto%20levels%20adj%20wreckweb.jpg)
+![](/images/SWR4000DPIjpeg%20auto%20levels%20adj%20wreckweb.jpg)
 Detail: Wrecked Ship
 from
 Ship Wreck, the Rescue

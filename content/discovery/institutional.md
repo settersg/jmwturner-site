@@ -14,10 +14,10 @@ Kress; John D. Rockefeller; Collis Huntington; George J. Gould; Isabella Stewart
 Gardner; Rothschild; H.E. Huntington; Henry Goldman, Andrew
 Mellon, [J.
 Paul Getty](http://www.getty.edu/)
-[Paul Mellon](http://www.yale.edu/ycba/),![](/jmwturner-site/images/boat-3-web.jpg)
+[Paul Mellon](http://www.yale.edu/ycba/),![](/images/boat-3-web.jpg)
 Bernard Berenson Joseph Duveen Lord Kenneth Clark
-![](/jmwturner-site/images/image001.gif)             
-![](/jmwturner-site/images/image002.gif)
+![](/images/image001.gif)             
+![](/images/image002.gif)
           
    Excerpt
 [  
@@ -73,7 +73,7 @@ resulting from these internecine wars.[[iv]](#_edn4)
  particular specialists in the various schools; and, humanity being what it
  is, what had begun as a most honourable occupation became in many cases a
  furious race for gain.
-![](/jmwturner-site/images/image004.gif)
+![](/images/image004.gif)
  
  
  
@@ -202,7 +202,7 @@ celebrating private collections and connoisseurship. What might be more
 damaging is the seemingly reckless contempt these same institutions have for
 anything outside their own framework, endorsing as they might, the need for
 taming of morals and manners.[[xi]](#_edn11)
-![](/jmwturner-site/images/collector.jpg)
+![](/images/collector.jpg)
 Honoré Daumier, L'Amateur d'Estampes, Art Institute of
 Chicago. Gift of the estate of Marshal Field
  

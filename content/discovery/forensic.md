@@ -7,10 +7,10 @@ layout: single
 |
 [JMW Turner the source](/painting/)
   
-![](/jmwturner-site/images/image001.gif)                          
+![](/images/image001.gif)                          
 Peter Paul Biró                
-![](/jmwturner-site/images/P4-aweb.jpg) 
-![](/jmwturner-site/images/image002.gif)         
+![](/images/P4-aweb.jpg) 
+![](/images/image002.gif)         
 scouring the surface of
 Shipwreck, the Rescue
 looking for fingerprints. A

@@ -12,12 +12,12 @@ discovery of the Orrock Ehrenbrietstein - Martin Butlin Hand
 theory
                  
                                  
-![](/jmwturner-site/images/image001.gif)
+![](/images/image001.gif)
                                  
                                                                                 
 Dubitable "Hand C"  
                                   
-![](/jmwturner-site/images/image003.jpg)
+![](/images/image003.jpg)
                                                 J.M.W.TURNER R.A. PINXT                                                                                                     
 J. COUSEN SCUPLT
                                                                 
@@ -61,7 +61,7 @@ focus as if by magic.[[i]](#_edn1)
 Yes, at Grahams prompting it seems that the village came into focus, as if by
 magic.
                                   
-![](/jmwturner-site/images/aaatreescattle.jpg)
+![](/images/aaatreescattle.jpg)
 Orrock Ehrenbrietstein, an enlarged detail of the houses and sailboats. The
 domed church of the Holy Cross seen to the left of the tree is the same one seen in the exhibited
  Ehrenbrietstein, the Bright Stone of Honour, and in the etching done after it
@@ -71,7 +71,7 @@ brilliantly the power and immediacy of Turners brushwork at the apex of his
 careerhis graphic shorthand which enabled him to simplify what he saw into a
 few swift mnemonic strokes.[[ii]](#_edn2)
                                        
-![](/jmwturner-site/images/Ehrenb%20det%20figures%20web.jpg)
+![](/images/Ehrenb%20det%20figures%20web.jpg)
                                                   Orrock Ehrenbrietstein:
 enlarged detail showing two figures-as
                                           Graham Reynolds would describe: done with a few swift mnemonic stokes.
@@ -128,7 +128,7 @@ in the tree. After undue persistence Graham finally got his point across at
 which point he was disparaged:
 I think youll
 find it to be that of Mussolini.
-![](/jmwturner-site/images/image006.jpg)
+![](/images/image006.jpg)
 In keeping with
 the comment about scratches
 into the wet paint left by the artists thumbnail: clearly seen below are a
@@ -140,14 +140,14 @@ scratching into the wet paint.
 (center bottom) into the wet impasto
  
                                  
-![](/jmwturner-site/images/image008.jpg)
+![](/images/image008.jpg)
 Detail of the sky showing a large horizontal scratch
 done while the paint was wet.
  
  
  
  
-![](/jmwturner-site/images/ehrenb%20tree%20and%20printsweb.jpg)
+![](/images/ehrenb%20tree%20and%20printsweb.jpg)
 In this enlarged detail of the Orrock Ehrenbrietstein the artists technique of
 smudging the first layer of leaves with his finger or thumb then applying a
 further layer of clearly defined leaves, effectively develops volume in space
@@ -166,7 +166,7 @@ This was written in 1905."
                    
                                    ["Hands"](/discovery/hand-c/)
                                     
-![](/jmwturner-site/images/Ehrfull-large-jpeg-adjweba.jpg)
+![](/images/Ehrfull-large-jpeg-adjweba.jpg)
                     
               Orrock Ehrenbrietstein,
 signed and dated lower left, I.M.W.Turner R.A. 1817

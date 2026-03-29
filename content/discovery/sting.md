@@ -5,10 +5,10 @@ layout: single
 
 
 |
-![](/jmwturner-site/images/court%20doc%20edit%20web.JPG)
-![](/jmwturner-site/images/image001.gif)
+![](/images/court%20doc%20edit%20web.JPG)
+![](/images/image001.gif)
             
-![](/jmwturner-site/images/image002.gif)Rescuing Turner: A New Age of Art Discovery:  "yet to be added  
+![](/images/image002.gif)Rescuing Turner: A New Age of Art Discovery:  "yet to be added  
  
                   
    

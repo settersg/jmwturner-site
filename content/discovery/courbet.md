@@ -8,9 +8,9 @@ Gustave Courbet Jean-Jacques Fernier Institut
 Gustave Courbet Musee Courbet expert evaluation catalogue
 [JMW Turner the source](/painting/)
   
-![](/jmwturner-site/images/image001.gif)-
+![](/images/image001.gif)-
 Gustave Courbet
-![](/jmwturner-site/images/Pool%20at%20Ornans%20full%20Large%20jpeg%20adjsm.jpg)
+![](/images/Pool%20at%20Ornans%20full%20Large%20jpeg%20adjsm.jpg)
 What does it take
 to make a 100 dollar picture worth a million? "An expert opinion!"
 The journey between both extremes can certainly

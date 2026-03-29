@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Book on Shipwreck, the Rescue — JMW Turner</title>
-    <link>https://settersg.github.io/jmwturner-site/book/</link>
+    <link>https://rescuingturner.com/book/</link>
     <description>Recent content in The Book on Shipwreck, the Rescue — JMW Turner</description>
     <generator>Hugo</generator>
     <language>en-ca</language>
-    <atom:link href="https://settersg.github.io/jmwturner-site/book/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rescuingturner.com/book/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

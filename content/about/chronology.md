@@ -9,7 +9,7 @@ layout: single
                   JMW
 Turner Chronology   
  
-![](/jmwturner-site/images/stamp%20portr.jpg)
+![](/images/stamp%20portr.jpg)
    While
  oer the western wave th ensanguined sun,
    In
@@ -42,7 +42,7 @@ the R.A.
 He went to stay at the friend of his father in Bristol, John Narraway. He
 sketched extensively in the region and did the first of his very limited number
 of self-portraits (a small w/c) for the Narraway family.
-![](/jmwturner-site/images/SWRBlack-man-web.jpg)
+![](/images/SWRBlack-man-web.jpg)
 Detail, Shipwreck, the Rescue showing
 three figures in a rescue boat drawing a lifeline
 1792 Two watercolour R.A.
@@ -60,7 +60,7 @@ The Society of Arts Awards Turner the Greater Silver Pallet.
 He goes on sketching trips with his admired new friend Thomas Girtin.
 He meets Dr. Monro
 Begins experimenting with oil painting and etching.
-![](/jmwturner-site/images/chepstow%20sm.jpg)1794
+![](/images/chepstow%20sm.jpg)1794
 Five watercolour R.A.
 Turner did considerable amount of topographical drawing for which he became
 noted. Copper Plate Magazine commissioned drawings by Turner in 1794.
@@ -126,7 +126,7 @@ afterward.
 The father became very active in Turner's life and studio after his retirement
 from the wig shop.
 Turner tours Scotland.
-![](/jmwturner-site/images/SWR%20large%20jpg%20adj%20600%20crop.jpg)1802 Elected a Royal Academician
+![](/images/SWR%20large%20jpg%20adj%20600%20crop.jpg)1802 Elected a Royal Academician
 Exhibited four oil paintings and four watercolours including his diploma piece,
 Dolbadern Castle of 1800. Turner's oils are dark and foreboding during
 this period. His attempt at the tenebrous sublime as described by Edmond Burke
@@ -137,7 +137,7 @@ was disparaged and as a result many grand masterworks sat in his studio unsold.
 Visited France and Switzerland with much time spent in the Louvre. Visited
 artist's studios; David, and Guérin.
 Thomas Girtin, Turner's artist companion passed away
-![](/jmwturner-site/images/spar%20close%20web.jpg)
+![](/images/spar%20close%20web.jpg)
  
 1803
 Five oils and two watercoulors at R.A.
@@ -180,7 +180,7 @@ W.F. Wells apparently persuades Turner to embark on his monumental Liber
 Studiorum project. An engraving project that would govern much of Turner's
 effort for the following number of years.
 Takes a house at 6 West End, Upper Mall, Hammersmith
-![](/jmwturner-site/images/shipwreck%20printsm.jpg)1807
+![](/images/shipwreck%20printsm.jpg)1807
 Exhibited both in Turner's Gallery and at the R.A.
 Publication of a large Mezzotint after his Shipwreck
 painting helped to spread Turner's reputation.
@@ -222,7 +222,7 @@ Turner became enamoured with Byron's Childe Harold's Pilgrimage
 (it was a work in progress that would over the years influence both Turner's
 work and travels).
 Departed London to visited Cornwall and many points in between.
-![](/jmwturner-site/images/Solus%20Lodge,%20Sandycombe%20sm.jpg)1812
+![](/images/Solus%20Lodge,%20Sandycombe%20sm.jpg)1812
 Four oils at the R.A, and many re-exhibits at the newly reopened Turner Gallery
 .
 Issued part X of the Liber Studiorum this year.
@@ -275,7 +275,7 @@ the battle, Beaumont's appointment was likely the reason Turner did not enter.
 Publication of canto three of Byron's Childe Harold, and its reference to
 Ehrenbrietstein and the French general Marceau was to have a profound influence
 on Turner, his travels, and his artwork the following year.
-![](/jmwturner-site/images/Ehrfull-large-jpeg-adjweba.jpg)
+![](/images/Ehrfull-large-jpeg-adjweba.jpg)
 [Ehrenbriestein](/discovery/hand-c/) Oil sketch 9.5 x 11.5 in.
 1817 R.A. -
 exhibited one oil with a quote from his Falacies of Hope; Turner fancied
@@ -353,7 +353,7 @@ James's Palace to Greenwich.
 Another Cooke exhibition, eleven Turners shown.
 Worked on The Battle of Trafalgar
 Sketched the coast of France and East coast of England from the channel.
-![](/jmwturner-site/images/portrait-susanna-adj.jpg)Shows
+![](/images/portrait-susanna-adj.jpg)Shows
 some interest in [Peter Paul Rubens](/discovery/rubens/)'
 work by sketching the Flemish master's portrait of Susanne Fourment while it was
 in London:
@@ -469,7 +469,7 @@ poems.
 Alters will regarding specifics of bequest to the National Gallery (exchanges
 Decline of Carthage). Minor changes also included the establishment of a
 fund from which various charities could be serviced.
-![](/jmwturner-site/images/shallot%20j.jpg)1832
+![](/images/shallot%20j.jpg)1832
 Six oils at the R.A. including Childe Harold's Pilgrimage and Staffa.
 Judging by the published response to the sea pieces exhibited this year it might
 be assumed that they were stylistically in keeping with his earliest sea pieces
@@ -636,7 +636,7 @@ Wallhalla was was met with disdain when sent to Germany because of its loose
 brushwork. It was returned slightly damaged and shipped at Turner's expense
 Ten Swiss watercolours painted, all sold
 Griffith opens a gallery in Pall Mall
-![](/jmwturner-site/images/Turner%20paintingweba.jpg)1846
+![](/images/Turner%20paintingweba.jpg)1846
 Six oils exhibited at the R.A. (Two Venetian  subjects)
 Two paintings exhibited at the Royal Scottish Academy. One painting at the
 British Institution, Queen Mab's Cave

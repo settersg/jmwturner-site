@@ -12,16 +12,16 @@ layout: single
  [JMW Turner:  the
  source](/painting/)
   
-![](/jmwturner-site/images/image001.gif)Ludmila Kagané Angulo Mayer Sullivan Gaya Nuño
+![](/images/image001.gif)Ludmila Kagané Angulo Mayer Sullivan Gaya Nuño
                     
                        
-![](/jmwturner-site/images/image002.gif)
+![](/images/image002.gif)
                                   
-![](/jmwturner-site/images/image003.gif)
+![](/images/image003.gif)
            
- ![](/jmwturner-site/images/Guernsey%20Murillo%20jpegadj%20web.jpg)                                                                                                 
+ ![](/images/Guernsey%20Murillo%20jpegadj%20web.jpg)                                                                                                 
                      
-![](/jmwturner-site/images/image004.gif)
+![](/images/image004.gif)
  Gaya Nuño
  art expert Murillo expert art expert
   Excerpt from Rescuing Turner... "Commander
@@ -39,7 +39,7 @@ layout: single
  the breeding of the Commander's own street urchin, it didn't matter, he
  never had any intentions of parting with him in the first place. 
                            
- ![](/jmwturner-site/images/Murillo%20NGa.jpg)
+ ![](/images/Murillo%20NGa.jpg)
  Peasant Boy
  attributed to Murillo, National Gallery of London.
  In comparison to the Guernsey Murillo note the hard-edged brushwork,
@@ -82,7 +82,7 @@ layout: single
  levelsthe artistic, and the commercial levelspolitical biases and
  commercial interests affect day-to-day decision making, including; decisions
  over whether or not to support the authenticity of a work of art.
- ![](/jmwturner-site/images/Guernsey%20Murillo%20ear%20jpegadj.jpg)
+ ![](/images/Guernsey%20Murillo%20ear%20jpegadj.jpg)
  The resulting van Meegren courtroom exposé had a most detrimental impact
  on the confidence of the art-world, and the well-publicized confrontation of
  art experts by the legal system might be one reason for the present-day
@@ -108,7 +108,7 @@ layout: single
  hears that historical research must always be grounded in scientific
  analysis, although scientists, themselves, often times subject their
  analyses and conclusions to a higher standard of care.
- ![](/jmwturner-site/images/Murillo%20girl%20Oweb.jpg)
+ ![](/images/Murillo%20girl%20Oweb.jpg)
  In this undisputed painting by Murillo, note the brushwork of the hair, and
  ear and compare these qualities to those of the above images.
  Detail: Rest on the Flight Into Egypt;
@@ -132,8 +132,8 @@ layout: single
  long an incarceration at the National Gallery, or was he an illegitimate
  mate from the very beginning.                         
                       
-![](/jmwturner-site/images/image006.jpg) 
- ![](/jmwturner-site/images/murillo%20girl%20adjust2.jpg)
+![](/images/image006.jpg) 
+ ![](/images/murillo%20girl%20adjust2.jpg)
                                  A Peasant Boy Leaning on a Sill          
            Girl Raising the Veil
                                            
@@ -143,7 +143,7 @@ layout: single
                         Peasant Boy, the
  Murillo Impostor?
                               
- ![](/jmwturner-site/images/Guernsey%20Murillo%20web%20engraving%204.25x5.5%20J.%20Rodgers.jpg)
+ ![](/images/Guernsey%20Murillo%20web%20engraving%204.25x5.5%20J.%20Rodgers.jpg)
  This
  frightful engraving by J. Rodgers, titled Spanish Peasant Boy is done
  after the painting donated to the National Gallery by Michael Zachary in 1929(?)
@@ -199,7 +199,7 @@ layout: single
  (£5,880) at the Holford sale in 1928.[[vii]](#_edn7)
    _________________________________________
   
- ![](/jmwturner-site/images/Murillo%20Madonnaweb.jpg)
+ ![](/images/Murillo%20Madonnaweb.jpg)
  Compare the
  crease at the corner of the Madonna and child's mouths. This has been
  identified as very characteristic of Murillo's work
@@ -286,7 +286,7 @@ layout: single
  of the works to be an outright forgery meant to deceive regardless of
  authorship. Another fair description of the difficulties involved with the
  copying process was given by Rudolf Arnheim:
- ![](/jmwturner-site/images/Murillo%20NGaugly%20texture.jpg)
+ ![](/images/Murillo%20NGaugly%20texture.jpg)
  detail: Peasant Boy, National Gallery, London
  When a forger endeavors to imitate someone elses work, his anxious, puny
  concerns with detail after detail resembles the mechanical copying of nature
@@ -299,7 +299,7 @@ layout: single
  the comparison of some detail of a particular original work or the artists
  style in general. In consequence, the pattern as a whole looks incoherent.[[xiii]](#_edn13)
         
- ![](/jmwturner-site/images/Murillo%20NGahands.jpg)     ![](/jmwturner-site/images/Guernsey%20Murillo%20hands%20web.jpg)
+ ![](/images/Murillo%20NGahands.jpg)     ![](/images/Guernsey%20Murillo%20hands%20web.jpg)
  Is the ugly texture to be seen in either of the paintings we
  are concerned with here? Clive Bell is down on the uninspired copyist and
  also deprecates an artists own copies with a verbal flurry of
@@ -322,7 +322,7 @@ layout: single
  keeping with these concepts, might even the National Gallerys
  Peasant Boy be an interpretation by another artist? It does
  feel somewhat later in style than that of the Baroque era.
-    ![](/jmwturner-site/images/Murillo%20puttiweb.jpg)
+    ![](/images/Murillo%20puttiweb.jpg)
   The
  confident gaze of the young suitor is
  met by the equally open affection of the young Girl Raising the Veil.
@@ -333,7 +333,7 @@ layout: single
  in the beginning? It is easy to be spellbound by this fable when the
  Guernsey Murillo image is seen next to one of the girl in the Carras
  collection.
- ![](/jmwturner-site/images/Murillo%20girl%20O%20mouthweb.jpg)
+ ![](/images/Murillo%20girl%20O%20mouthweb.jpg)
  It is important to note that typical of Murillos famous paintings in the
  Prado, and much like the sensitive paintings by Raphael, to whom  Murillo
  was supposedly homogeneous, the supple full
@@ -346,11 +346,11 @@ layout: single
  it is paired with Girl Raising the Veilhow can one argue against
  their union.
                          
- ![](/jmwturner-site/images/Murillo%20boy%20adjust.jpg) 
- ![](/jmwturner-site/images/murillo%20girl%20adjust2.jpg)
+ ![](/images/Murillo%20boy%20adjust.jpg) 
+ ![](/images/murillo%20girl%20adjust2.jpg)
                          
-![](/jmwturner-site/images/image007.jpg)   
- ![](/jmwturner-site/images/murillo%20girl%20adjust2.jpg)
+![](/images/image007.jpg)   
+ ![](/images/murillo%20girl%20adjust2.jpg)
                                             
  Which of the above four pictures is most likely wrong
  An obvious mistake made on the picture at the National Gallery and one
@@ -361,7 +361,7 @@ layout: single
  from an unknown source. The Print takes this error in an even more gruesome
  direction.
             
- ![](/jmwturner-site/images/Guernsey%20Murillo%20hand%20reflection.jpg)
+ ![](/images/Guernsey%20Murillo%20hand%20reflection.jpg)
                           detail: Guernsey
  Murillo, note the subtle reflection from the hand
                   upon the sill (there is slight damage to the canvas beside
@@ -438,7 +438,7 @@ layout: single
  virtually no value unless it is the archetype. Execrably, in economic terms
  this could mean the difference of 10,000 versus 10,000,000 dollars with a
  commiserate amount of admiration given to each artwork.
-  ![](/jmwturner-site/images/Murillo%20ChJoweb.jpg)
+  ![](/images/Murillo%20ChJoweb.jpg)
  The rich warm tone of the ground layer
  tends to envelope Murillo's sensitive imagery. Authentic early examples are
  even more luminous with the inclusion of a subtle nimbus as is seen here
@@ -478,7 +478,7 @@ layout: single
  Guernsey Murillo has a discrete reddish areola, likely caused by the
  ground pigment, and this is also seen in a number of the better-preserved
  examples of the artists work in Spain.
- ![](/jmwturner-site/images/Guernsey%20Murillo%20face%20and%20halo%20jpegadj.jpg)
+ ![](/images/Guernsey%20Murillo%20face%20and%20halo%20jpegadj.jpg)
   If the painting in the National Gallery were truly by Murillo, the lack
  of chiaroscuro and gentle brushwork would make its production at least
  decades later. Professor Moriz felt that around the head of the Guernsey
@@ -493,7 +493,7 @@ layout: single
  The Guernsey Murillo. This theatrical effect helps to tie them
  together as a single work of art or at least as a pendant pair. The lighting
  of the work in the National Gallery does this less successfully.
- ![](/jmwturner-site/images/Guernsey%20Murilloillumin%20shad%20jpegadja.jpg)
+ ![](/images/Guernsey%20Murilloillumin%20shad%20jpegadja.jpg)
        Guernsey Murillo
  If we look closely at the illuminated shadows on the Guernsey boy we are
  reminded of the artists special talent of blending the ethereal world of
@@ -506,7 +506,7 @@ layout: single
  upper arm next to his chest becomes just another part of the boys chest in
  the copy. The arm in the National Gallery painting, is thus, diminutive and
  unnatural.            
- ![](/jmwturner-site/images/Murillo%20NGa%20noillum.jpg)
+ ![](/images/Murillo%20NGa%20noillum.jpg)
  National Gallery Boy
  Within the last couple of decades the accuracy of information published
  on the girl and the boy has been droll, at best, and might be partly
@@ -548,7 +548,7 @@ layout: single
  who see with their own eyes and feel with their own hearts."
                                                                                   -
  Albert Einstein
-![](/jmwturner-site/images/image008.gif)
+![](/images/image008.gif)
   
   
  The first half of this chapter, which is not included here, presents an

@@ -17,12 +17,12 @@ Luke Herrmann / The Tate/Tate/Clore curators / oup Yale,
 Getty publications
 Joseph Mallord William Turner Mallord JMWT
          
-![](/jmwturner-site/images/image001.gif)
+![](/images/image001.gif)
                            
-![](/jmwturner-site/images/image002.gif)
+![](/images/image002.gif)
 jmw
               
-![](/jmwturner-site/images/SWRfullbook%20weba.jpg)
+![](/images/SWRfullbook%20weba.jpg)
                         Shipwreck, the Rescue
 c1802
 by
@@ -109,7 +109,7 @@ what happened to the American legend, John Anderson Jr., author of
 of a Hero](/painting/portrait/)   In the end - it's all about
 Turner, the hero of our
 story.
-![](/jmwturner-site/images/Turner%20statue%20e%20baily%20w%20roffe%20sculpt.jpg)
+![](/images/Turner%20statue%20e%20baily%20w%20roffe%20sculpt.jpg)
 As an Introduction -
 we begin our story knowing full well
 that the veracity of the book falls firmly on the clear and indisputable
@@ -292,7 +292,7 @@ Postscript Tribal Instincts
  |
  Resolution to a problem comes
  when threads of fact are woven into the fabric of truth.
-![](/jmwturner-site/images/image003.gif)
+![](/images/image003.gif)
  
                        Excerpt: 
 [Rescuing Turner: A New Age of Art Discovery](/book/):
@@ -442,7 +442,7 @@ experience that their clients never forget a financial loss.[[v]](/)
 There is no choice but optimistically to rely
  upon the fact that ignorance and unscrupulousness will gradually be
  discovered in the circle of collectors. - Friedlander
-![](/jmwturner-site/images/image004.gif) Have
+![](/images/image004.gif) Have
 we ended our subplot with an antihero of sorts? In the beginning our guest was
 seen as a charming comedic celebrity; had he become a slapstick villain? A
 villain, not only because he had condemned Shipwreck, the Rescue, but

@@ -7,10 +7,10 @@ layout: single
 |
  |
  
-![](/jmwturner-site/images/image001.gif)                                                                  
+![](/images/image001.gif)                                                                  
  [JMW Turner:  the
  source](/painting/)
- ![](/jmwturner-site/images/Turner-house,-Chelsea-web.jpg)
+ ![](/images/Turner-house,-Chelsea-web.jpg)
   Everyone associated with the
  Art World has their own story to tell. Regularly, we will publish the most
  thought-provoking and informative of those sent in, while giving full credit

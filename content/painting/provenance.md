@@ -12,29 +12,29 @@ turner expertise clore national gallery expert opinion tate turner studies
 turner society news authentication christie's christie's auction christie's
 catalogue sotheby's jmwt jmw Jeremy Rex-Parkes
         
-![](/jmwturner-site/images/christie)
+![](/images/christie)
             
 kindly supplied by [Dr. Colin B.
 Bailey](http://www.frick.org/html/Bailey.htm): National Gallery of Canada
             
-![](/jmwturner-site/images/Christie)
+![](/images/Christie)
            
    
               
                            
-![](/jmwturner-site/images/Christie%20cat%20entry.jpg)
+![](/images/Christie%20cat%20entry.jpg)
                           Entry for Shipwreck, the
 Rescue (this title is from a vintage label on the stretcher)     
                                        Christie's annotation "Edwards"
 indicates this was the purchaser in 1904.
  
                    
-![](/jmwturner-site/images/christie)
+![](/images/christie)
                         Vintage label
 that is affixed to the stretcher of Shipwreck, the Rescue
  
                          
-![](/jmwturner-site/images/73%20OAS.jpg)
+![](/images/73%20OAS.jpg)
                        
 Christie's Stenciled Stock Number found on the stretcher of
 [Shipwreck, the

@@ -13,9 +13,9 @@ studies
 art/science
 at the Tate... Ian Warrell opinion, Andrew Wilton
                                        
-![](/jmwturner-site/images/Art%20Science%20J.M.W.%20Turner)           
+![](/images/Art%20Science%20J.M.W.%20Turner)           
                                      
-![](/jmwturner-site/images/Black-man-web.jpg)
+![](/images/Black-man-web.jpg)
  
 Shipwreck, the Rescue,
 a detail showing the auspicious black man 
@@ -35,7 +35,7 @@ controversy? Could the following 1887 diatribe by nineteenth century
 Turner expert, James Orrock, be the first challenge by
 connoisseurship
 against science invading the purview of the art establishment?
-![](/jmwturner-site/images/Orrock%20photograverweb.jpg)
+![](/images/Orrock%20photograverweb.jpg)
  
 James Orrock R.I., a photogravure print of the
 former owner of Shipwreck, the Rescue
@@ -81,7 +81,7 @@ of any method of analysis, it is possible that the point the
 cataloguer followed her statement with had more bearing on the matter: Yes, but it is
 incredibly time consuming. [[iii]](#_edn3)
   
-![](/jmwturner-site/images/Turner%20papers%20web.jpg)
+![](/images/Turner%20papers%20web.jpg)
 This is one of two very extensive studies done by Peter
 Bower (Tate Gallery Publications 1990).
 In the world of art, scientific
@@ -127,7 +127,7 @@ and illogical.
  "It seems to me...that most of our art historians are entirely untrained
  in historical method; hence have no objective check upon their subjective,
  stylistic intuitions." -Frank Jewett Mather, Jr., 1938
-![](/jmwturner-site/images/Art%20Science%20J.M.W.%20Turner)
+![](/images/Art%20Science%20J.M.W.%20Turner)
       And what about
 Turner and
 Shipwreck, the Rescue?
@@ -212,7 +212,7 @@ It seems conclusive that brown grounds were used. Included in the same statement
 by those two Turner experts is the proviso that for water and sky Turner was
 starting to use white grounds early in the century.
              
-![](/jmwturner-site/images/ground%20layer%20electron%20microweb.jpg)
+![](/images/ground%20layer%20electron%20microweb.jpg)
  
 Electron-microscopic cross-section of
 paint layer, SW the Rescue
@@ -298,7 +298,7 @@ the Tate Gallery, which is the National Gallery of British and modern foreign
 art. They do not have a research laboratory, though occasionally we try and
 solve the occasional specific problem connected with treatment by examining
 samples from their pictures. Nothing much in the way of Turner (other than
-watercolours) or Gainsborough has reached us.![](/jmwturner-site/images/Turnerpaintboxweb.jpg)
+watercolours) or Gainsborough has reached us.![](/images/Turnerpaintboxweb.jpg)
   I have always been a little puzzled by the
 results of analysis of the late Turner paint boxes, as published by Hanson.
 Someone has remarked scathingly that perhaps much of what was left in the box
@@ -394,7 +394,7 @@ more small and medium sized ones. What are the numerical odds of two odd sized
 custom stretched canvases measuring over seven feet in width and over five feet
 high, having near identical dimensions!  
   
-![](/jmwturner-site/images/Bridgewater%20Sea%20Piece%20BW%20web.gif)
+![](/images/Bridgewater%20Sea%20Piece%20BW%20web.gif)
 Bridgewater Sea Piece
 exhibited Royal Academy 1801  162.5 x
 221 cm.
@@ -431,7 +431,7 @@ it is clearly an early nineteenth century picture. Warrells lofty breviate t
 Marilyn Laver was relayed to me along with her own letter noting that Warrell
 based his opinion on only an 8 x 10 photograph.
    
-![](/jmwturner-site/images/Susanna-web.jpg) 
+![](/images/Susanna-web.jpg) 
  P.P. Rubens, Susanna and the
 Elders 1638
 It
@@ -449,7 +449,7 @@ the
 dilemma at hand is succinctly addressed later under the heading
 [Tribal Instincts](/about/turner/).
                      
-![](/jmwturner-site/images/Art%20Science%20J.M.W.%20Turner)
+![](/images/Art%20Science%20J.M.W.%20Turner)
 details: tips of the waves from Shipwreck, the Rescue, chalky character
 The year Shipwreck, the Rescue would have been painted, 1802, one critic
 offered his opinion on the sea-pieces that were exhibited that year: the
@@ -467,7 +467,7 @@ life, than as individuals.[[xxix]](#_edn29)
                    
             
               
-![](/jmwturner-site/images/SWRmasspeoplewebadj.jpg)
+![](/images/SWRmasspeoplewebadj.jpg)
 Detail of the Rescue Boat from
 Shipwreck, the Rescue
  
@@ -481,7 +481,7 @@ In both works one can see Turners early harmonious integration of figures
 together and within their setting, and at the same time see that the figures are
 largely recognizable. These Turner archetypes were discussed in detail during
 Martin Butin's visit to Canada.
-![](/jmwturner-site/images/wilson%20sketch%20web.jpg)
+![](/images/wilson%20sketch%20web.jpg)
  
  Turner's Wilson sketchbook
 seem relevant. The sketchbook is purportedly from c1797 and would thus be central to
@@ -521,10 +521,10 @@ vagueness or looseness of definition in appropriate places, but also, in other
 places by an excessive vigour of realization."
                                                                    
                                       
-![](/jmwturner-site/images/Art%20Science%20J.M.W.%20Turner)
+![](/images/Art%20Science%20J.M.W.%20Turner)
         
                  
-![](/jmwturner-site/images/SWR%20infra%20red%20web.jpg)
+![](/images/SWR%20infra%20red%20web.jpg)
 Infrared photograph:
 to assist in the search of under-drawing the pigments
 are made to appear somewhat transparent

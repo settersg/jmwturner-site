@@ -12,7 +12,7 @@ of art. Gallery: Tate, Clore, Courtauld, National Portrait Gallery Alistair Smit
 Gallery
 London: 'an institution'     
                    
-![](/jmwturner-site/images/image001.gif)  [policy](/discovery/christopher/)
+![](/images/image001.gif)  [policy](/discovery/christopher/)
 on evaluations:
          
  
@@ -66,7 +66,7 @@ resulting from these internecine wars.[[iv]](#_edn4)
  particular specialists in the various schools; and, humanity being what it
  is, what had begun as a most honourable occupation became in many cases a
  furious race for gain.
-![](/jmwturner-site/images/image002.gif)
+![](/images/image002.gif)
  
  
  
@@ -115,7 +115,7 @@ need which the American philanthropist created. This new generation of
 aficionados was not comprised of grass-root collectors with deep passion, but
 instead, university grads looking for employment and a secure future in a
 position.
-![](/jmwturner-site/images/connoisseurs.jpg)Beyond
+![](/images/connoisseurs.jpg)Beyond
 this apparent dimming of Renaissance thought there seemed to be a
 flickering light; From his parents Paul [Mellon] inherited, in his words, a
 desire to own, to enjoy, to savour, and to conserve rare and beautiful things, a
@@ -163,7 +163,7 @@ celebrating private collections and connoisseurship. What might be more
 damaging is the seemingly reckless contempt these same institutions have for
 anything outside their own framework, endorsing as they might, the need for
 taming of morals and manners.[[xi]](#_edn11)
-![](/jmwturner-site/images/collector.jpg)
+![](/images/collector.jpg)
 Honoré Daumier, L'Amateur d'Estampes, Art Institute of
 Chicago. Gift of the estate of Marshal Field
 As early as 1906

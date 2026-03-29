@@ -10,7 +10,7 @@ Canad a
 Gerald Roach news P enticton
 [JMW Turner:  the source](/painting/)
                                 
-![](/jmwturner-site/images/portrait%201.jpg)
+![](/images/portrait%201.jpg)
                                 
           
   Portrait of Gerald Roach in his studio 2002
@@ -47,7 +47,7 @@ was accepted it became very popular and sold through art galleries
 such as: The Dresden, 1667, and Zwickers, a very impressive accomplishment for
 an artist so young. The synthesis of expressive and abstract styles proved the best way for him to interpret the  lush yet rugged
 landscape of the Nova Scotia he so cherished.
-![](/jmwturner-site/images/world%20book%20cropsm.jpg)"His
+![](/images/world%20book%20cropsm.jpg)"His
 increasing popularity led to him becoming the artist representative for Nova
 Scotia in The World Book Encyclopedia (seen here is the image published
 therein, November Sunset).
@@ -108,7 +108,7 @@ This was most evident after 1961; however, by the time he had moved mainly into
 figurative work in 1968, he reminisced with a sneer: 'there was no place left to put
 my scabs.' They had outlived their usefulness thus bringing an end to
 his scabrous period. 
-![](/jmwturner-site/images/Town%20crop.jpg)"The
+![](/images/Town%20crop.jpg)"The
 thick paint opposing thin paint technique favored by both artists was carried
 one step further by Roach as he objectified his work in paintings like Harold
 Town, The Attack (seen here). When he describes his paint as being part of the image and
@@ -164,7 +164,7 @@ religious imagery gives credence to contemporary thought by philosophers such as
 Joseph Campbell and Michael Tucker, that the lost soul of the modern artist is
 trying to regain contact with a system of belief beyond the secular. Tucker
 could have a field day with Roachs 'wingy-people.'
-![](/jmwturner-site/images/The%20Stone%20Boat%20sm.jpg)Even
+![](/images/The%20Stone%20Boat%20sm.jpg)Even
 at such a reflective point in the artists life, a point at which most people
 would be searching for avenues to make peace with their maker, he remains
 steadfast in his tentative love for nature and distrust of organized religion.
@@ -195,7 +195,7 @@ between graffiti, and what is seen on Roachs paintings is unmistakable, yet in
 the beginning he did not even include the term or concept of graffiti in his
 descriptions of them: It is not about graffiti  it is about paint, he
 insisted.
-![](/jmwturner-site/images/clips%20sm.jpg)"The darkroom of Bellangers studio
+![](/images/clips%20sm.jpg)"The darkroom of Bellangers studio
 in Montreal, where Roach often developed photographs,
 looked down on a boys-school playground, no grass - only concrete, chalk marks
 and barbed wire - pointing inward, I guess it was to keep the kids in, he
@@ -224,13 +224,13 @@ exhibition, Gerald Roach: A Survey. Roach explains this coincidence by
 comparing it to scientific research at a point when scientists may solve the same problem
 at the same time in different locations, it shows that its (the discovery)
 time has come.
-![](/jmwturner-site/images/Assemblage%20crop.jpg)"In the visual arts Roach has covered much ground: one summer while still a
+![](/images/Assemblage%20crop.jpg)"In the visual arts Roach has covered much ground: one summer while still a
 young man he studied mosaics at the University of British Columbia; he has also
 done photography for which he won high praise, with some of his images entering
 the permanent collection of the National Film Board (NFB) stills department in Ottawa; his abstract graphic designs for
 rugs woven by his mother were featured in the Nova Scotia pavilion at Expo 67;
 most of his 1960s assemblages,
-![](/jmwturner-site/images/collage%20sm.jpg)created from found wooden objects, were
+![](/images/collage%20sm.jpg)created from found wooden objects, were
 destroyed or lost at his former residence in Montreal, but the few that remain
 are a tribute to his masterful sense of design; and the leading edge collages
 that are an important part of Tony Onleys oeuvre of the early 60s are similar
@@ -241,10 +241,10 @@ copious hatchings employed to build up the Rembrandt-like images. Regardless of
 medium, technique, and stage of development, I hope as you get to know Roachs
 work better you can agree that his entire oeuvre is unified by great creative
 talent.
-![](/jmwturner-site/images/WF%20three%20parts%20sm.jpg)"I
+![](/images/WF%20three%20parts%20sm.jpg)"I
 am also sending up-to-date photographs of Gerald Roach beside his paintings of
 Waterfall in Three Parts and Cathedral Waterfall #2.
-![](/jmwturner-site/images/Cath%20WF%20sm.jpg)
+![](/images/Cath%20WF%20sm.jpg)
 This shows the relative size of many of his late paintings, circa 1990.
 Although some of his earlier period works are quite large most are relatively
 smaller, and many of the 60s paintings I have seen are close to the 2 x 3

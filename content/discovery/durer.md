@@ -9,9 +9,9 @@ Albrecht Durer, art expert, Lucas Cranach the Elder, Albrecht Durer art
 expert, National Gallery London, Alistair Smith, Alistair...[JMW Turner
 the source](/painting/)              
                                    
-![](/jmwturner-site/images/Alistair%20Smithweb.gif)
+![](/images/Alistair%20Smithweb.gif)
                                    
-![](/jmwturner-site/images/Durer%20jpeg.jpg)
+![](/images/Durer%20jpeg.jpg)
        St.
 Christopher circa 1497
 (shown here subsequent to the 1988
@@ -41,9 +41,9 @@ Three examples:
 1-The comparison with Dürer's
 unusual face studies
                                                  
-![](/jmwturner-site/images/St%20Jerome%20X3.jpg)![](/jmwturner-site/images/sketch%20compare%20St%20J%20sm.jpg)
+![](/images/St%20Jerome%20X3.jpg)![](/images/sketch%20compare%20St%20J%20sm.jpg)
                                                           
-![](/jmwturner-site/images/Dresden%20sketchbook,%20Durer%20heads%20written%201523.jpg)
+![](/images/Dresden%20sketchbook,%20Durer%20heads%20written%201523.jpg)
                                                           
 In a unique effort Dürer experimented with distinctive facial
 types
@@ -51,11 +51,11 @@ types
 1495),
                           
                         
-![](/jmwturner-site/images/feet%20position%20X4.jpg)![](/jmwturner-site/images/child%20drawing%20feet.jpg)
+![](/images/feet%20position%20X4.jpg)![](/images/child%20drawing%20feet.jpg)
          3 - Quarry study showing Dürer's interest in taking
 unusual landscape features from nature
                                                         
-![](/jmwturner-site/images/quarry%20detail%20sm.jpg)
+![](/images/quarry%20detail%20sm.jpg)
                                                                                    watercolour on paper 1497
  SAINT CHRISTOPHER MARTYR
  Feast: July 25

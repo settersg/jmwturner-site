@@ -25,16 +25,16 @@ style. They somewhat contradict Philip Hamerton, who in his Life of J.M.W.
 Turner R.A. 1879 contends that Turner was lacking social graces, and that he
 was remiss when it came to answering dinner invitations.
                                             
-![](/jmwturner-site/images/Letter%201847sm.jpg)
+![](/images/Letter%201847sm.jpg)
                                            
 Previously unrecorded letter from J.M.W. Turner to (possibly) Sir Francis Graham
 Moon,
                                                     
 a leading print-seller and publisher who became Lord Mayor of
 London in 1854.
-![](/jmwturner-site/images/image002.jpg)
+![](/images/image002.jpg)
   
-![](/jmwturner-site/images/image003.jpg) 
+![](/images/image003.jpg) 
                     
 To Samuel Rogers
 Hanover
@@ -132,7 +132,7 @@ the doubt.
  |
 The way in which a man treats his inferior
  fellow-creatures is an index to his heart.
-![](/jmwturner-site/images/image004.gif)'A
+![](/images/image004.gif)'A
 righteous man regardeth the life of his beast, say the Scriptures, and
 certainly the way in which a man treats his inferior fellow-creatures is an
 index to his heart.'[[ix]](#_edn9)
@@ -142,7 +142,7 @@ Charles Robert Cockerell, he begs pardon from his wife: I beg her pardon for
 being so disorderly and deserve expulsion. Again, in Turners own hand:
                                
  
-![](/jmwturner-site/images/image006.jpg)
+![](/images/image006.jpg)
                                                                          
 J.M.W. Turner: a letter to Charles Robert Cockerell
                                                                           
