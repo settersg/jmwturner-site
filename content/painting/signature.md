@@ -10,15 +10,15 @@ layout: single
 ![](/images/image001.gif)
 
 ![](/images/image002.gif)
-![](/images/P1-web.jpg)
+![](/images/p1-web.jpg)
 
-  ![](/images/SWR-large-JWTb.tif.jpg)
+  ![](/images/swr-large-jwtb.tif.jpg)
 [Beginning of the J.M.W. Turner story](/painting/)
 
 Peter Paul Bir   looking for fingerprints
 just before discovering the letters inscribed into the pier
 
-![](/images/38-J-a-web.jpg)
+![](/images/38-j-a-web.jpg)
 ![](/images/image003.gif)
 
 [Shipwreck, the Rescue](/painting/)
@@ -28,15 +28,15 @@ of the pier showing the location
 
 of the three blocks of paint that
 
-  ![](/images/37-W-a-web.jpg)
+  ![](/images/37-w-a-web.jpg)
 contain the three letters -
 J W T
 
 ![](/images/image004.gif)
 
-![](/images/big--T-a.jpg)
+![](/images/big--t-a.jpg)
 
-![](/images/36-T-a-web.jpg)
+![](/images/36-t-a-web.jpg)
 
 ![](/images/image005.gif)
 
@@ -96,7 +96,7 @@ Turner used to hint only at these under meanings of his, leaving us to find them
 out, no word more ever came from him. Down to the grave he went, silent."
 
 _________________________________
-![](/images/Initials-Romanum-web.jpg)
+![](/images/initials-romanum-web.jpg)
 "It
 would be delusional to suspect that J. Wm Turner had forced us back to
 this area of the painting the following day for a closer inspection by

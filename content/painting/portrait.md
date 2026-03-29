@@ -9,7 +9,7 @@ JMW Portrait, shipwrec, madonna, turner slavers...
  [J.M.W. Turner the source](/painting/)
 
 ![](/images/image001.gif)
- ![](/images/Turner-portrait-book-cover-web.jpg)
+ ![](/images/turner-portrait-book-cover-web.jpg)
 
  jmw turner
 [  ](/book/)[r. malcolm setters / graham setters](/book/)jmw
@@ -86,7 +86,7 @@ frontally? Many questions seem to resolve themselves after looking at his
 self-portrait from 1798. It might be slightly earlier in date, but compensating
 for the age difference, both the the facial characteristics and personal
 deportment are similar.
-![](/images/Turner-selfportrait-BWweb.jpg)
+![](/images/turner-selfportrait-bwweb.jpg)
   This Self-portrait was painted two years before
   the portrait in the 'rescue boat' - Tate Gallery
   (the one in the rescue boat is 1.5 inches high)
@@ -142,7 +142,7 @@ by a conscious and wholly moralistic desire to create a direct metaphor for
 something essential to human nature, namely our hubris and its tragic-comic
 implications."[[x]](#_edn10)
 
-![](/images/Shipwreck-det-boat2.jpg)
+![](/images/shipwreck-det-boat2.jpg)
 This detail of Turner's famous Shipwreck shows
 the archetypal figures similar to those found in Shipwreck the Rescue, although here
 one sees a considerable amount more impasto. Turner would embellish his exhibition
@@ -168,7 +168,7 @@ swirls and surges. The desperate efforts of the human figures to master the
 situation provide a counter-force, which we feel may well triumph. The tragic
 moment is given its full depth of emotion by its reflection in a woman's
 Madonna-face."[[xi]](#_edn11)
-![](/images/SWR-large-Madonnaweba.jpg)
+![](/images/swr-large-madonnaweba.jpg)
 With this description of a fully developed lozenge and vortex, can there be
 any doubt which painting was the more mature work. Shipwreck, the Rescue,
 with its earlier development of opposing diagonals would certainly suggest it to
@@ -220,7 +220,7 @@ from anyone at the time. It just so happened that the kind servant in
 Joshua Reynolds' studio where the acolyte, "Billy," studied and helped out' "was
 Black.
 
-![](/images/Black-man-web.jpg)
+![](/images/black-man-web.jpg)
 Detail from the Rescue boat
 features one lone Black man as a key figure within this three-man vignette. The
 Black man points towards the men clinging to the spar as he helps the other two haul

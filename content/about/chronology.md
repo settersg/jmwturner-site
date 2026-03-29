@@ -41,7 +41,7 @@ the R.A.
 He went to stay at the friend of his father in Bristol, John Narraway. He
 sketched extensively in the region and did the first of his very limited number
 of self-portraits (a small w/c) for the Narraway family.
-![](/images/SWRBlack-man-web.jpg)
+![](/images/swrblack-man-web.jpg)
 Detail, Shipwreck, the Rescue showing
 three figures in a rescue boat drawing a lifeline
 1792 Two watercolour R.A.
@@ -125,7 +125,7 @@ afterward.
 The father became very active in Turner's life and studio after his retirement
 from the wig shop.
 Turner tours Scotland.
-![](/images/SWR%20large%20jpg%20adj%20600%20crop.jpg)1802 Elected a Royal Academician
+![](/images/swr%20large%20jpg%20adj%20600%20crop.jpg)1802 Elected a Royal Academician
 Exhibited four oil paintings and four watercolours including his diploma piece,
 Dolbadern Castle of 1800. Turner's oils are dark and foreboding during
 this period. His attempt at the tenebrous sublime as described by Edmond Burke
@@ -221,7 +221,7 @@ Turner became enamoured with Byron's Childe Harold's Pilgrimage
 (it was a work in progress that would over the years influence both Turner's
 work and travels).
 Departed London to visited Cornwall and many points in between.
-![](/images/Solus%20Lodge,%20Sandycombe%20sm.jpg)1812
+![](/images/solus%20lodge,%20sandycombe%20sm.jpg)1812
 Four oils at the R.A, and many re-exhibits at the newly reopened Turner Gallery
 .
 Issued part X of the Liber Studiorum this year.
@@ -274,7 +274,7 @@ the battle, Beaumont's appointment was likely the reason Turner did not enter.
 Publication of canto three of Byron's Childe Harold, and its reference to
 Ehrenbrietstein and the French general Marceau was to have a profound influence
 on Turner, his travels, and his artwork the following year.
-![](/images/Ehrfull-large-jpeg-adjweba.jpg)
+![](/images/ehrfull-large-jpeg-adjweba.jpg)
 [Ehrenbriestein](/discovery/hand-c/) Oil sketch 9.5 x 11.5 in.
 1817 R.A. -
 exhibited one oil with a quote from his Falacies of Hope; Turner fancied
@@ -635,7 +635,7 @@ Wallhalla was was met with disdain when sent to Germany because of its loose
 brushwork. It was returned slightly damaged and shipped at Turner's expense
 Ten Swiss watercolours painted, all sold
 Griffith opens a gallery in Pall Mall
-![](/images/Turner%20paintingweba.jpg)1846
+![](/images/turner%20paintingweba.jpg)1846
 Six oils exhibited at the R.A. (Two Venetian subjects)
 Two paintings exhibited at the Royal Scottish Academy. One painting at the
 British Institution, Queen Mab's Cave

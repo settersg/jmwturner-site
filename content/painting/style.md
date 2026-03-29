@@ -64,7 +64,7 @@ attended to ' " Too undefined',[[1]](#_ftn1)
 then Sir George Beaumont, "his foregrounds are comparative blots, & faces of
 figures witht. a feature being expressed."
 [[ii]](#_edn2)
-  ![](/images/Blot%20web.jpg)
+  ![](/images/blot%20web.jpg)
 
 This is an intermediately detailed portrait of one of the
 survivors in the rescue boat of Shipwreck, the Rescue (greatly enlarged).
@@ -97,7 +97,7 @@ Speed also of 1844 as well as Snow Storm of 1842. Sorrowfully, and
 incongruously, this was also the point in his life that the public was beginning
 to question both Turner's power and competence, calling his submissions to the
 Royal Academy, "Mr. Turner's little jokes."[[v]](#_edn5)
-![](/images/SWRwaterweb.jpg)
+![](/images/swrwaterweb.jpg)
 Detail: Shipwreck, the Rescue
   In 1844,
 if Turner had wanted to rework the water of Shipwreck, the Rescue to a
@@ -139,7 +139,7 @@ much in oil, but the influence of his water-colour practice is evident in nearly
 all his pictures; in many of them it is even painfully evident, so that
 Constable, not unjustly, called them, ''': Large Water-colours.'"[[x]](#_edn10)
 
-![](/images/SWR%20crop%20brushwork%20boat-3-web.jpg)
+![](/images/swr%20crop%20brushwork%20boat-3-web.jpg)
 Detail: Shipwreck, the Rescue showing Turner's unusual
 brushwork - unblended, done largely in the technique of his watercolours.
 
@@ -207,7 +207,7 @@ would be adequate to finish a picture. By this Turner betrayed his inexperience
 and the lack of understanding about oil painting. He did not fully understand
 the oil painting sequence used in modern painting versus that used by old
 masters who used translucent glazes to finish their work.
-![](/images/SWR4000DPIjpeg%20auto%20levels%20adj%20sparweb.jpg)
+![](/images/swr4000dpijpeg%20auto%20levels%20adj%20sparweb.jpg)
 SWR four
 desperate souls cling to the spar
 Alas, Turner would soon learn that the impasto required in bringing these
@@ -329,7 +329,7 @@ principle hues that he required. Leaving this first drawing to dry, he took the
 second board and repeated the operation. By the time the fourth drawing was laid
 in, the first would be ready for the finishing touches."[[xxiii]](#_edn23)
 
-![](/images/SWR4000DPIjpeg%20auto%20levels%20adj%20wreckweb.jpg)
+![](/images/swr4000dpijpeg%20auto%20levels%20adj%20wreckweb.jpg)
 Detail: Wrecked Ship
 from
 Ship Wreck, the Rescue

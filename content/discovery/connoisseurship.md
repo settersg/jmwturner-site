@@ -16,7 +16,7 @@ expert opinion [JMW Turner: the source](/painting/) Butlin and Joll, The Paintin
 Yale Center for British Art)
 
 ![](/images/image001.gif)
-![](/images/Orrock%20and%20BJ.jpg)
+![](/images/orrock%20and%20bj.jpg)
  James Orrock
 R.I. Artist
 Connoisseur and Collector; this two volume set is shown beside
@@ -79,7 +79,7 @@ was pictured. Stunning! Was it just another familiar image? No! It was
 the familiar image' "manna from Heaven! It was a striking full-page
 photogravure of Shipwreck, the Rescue!
 
-![](/images/SWRphotogravure-web.jpg)
+![](/images/swrphotogravure-web.jpg)
 
 The Wreck
 Photogravure by Walker E. Cockerell after
@@ -130,7 +130,7 @@ the book temporarily, it was time to toast James Orrock R.I., Painter,
 Connoisseur and
 Collector, in two volumes ' " Cheers!
 
-![](/images/Orrock%20and%20BJ%20web.jpg)
+![](/images/orrock%20and%20bj%20web.jpg)
 It is not far fetched that one makes the comparison
 between the
 [Butlin and Joll catalogue](/discovery/catalogue/) and the Orrock books; they are both meant

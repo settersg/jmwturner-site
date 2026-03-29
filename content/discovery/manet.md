@@ -72,7 +72,7 @@ r malcolm setters / graham setters
  museums, worried either by the possibilities of lawsuits or out of
  ineptitude and laziness, refuse to help the public in what I consider an
  essential way."
- ![](/images/full%20image%2030%20X%2040%20inches.jpg)
+ ![](/images/full%20image%2030%20x%2040%20inches.jpg)
   Newly discovered
  19thc painting signed Edouard Manet... vintage title-plate: Boating Near
  Rueil
@@ -94,7 +94,7 @@ detect beneath the degraded antique varnish, it is signed
  ![](/images/sig%20and%20date%20under%20varnish%20on%20stern%20of%20boat%20-%20typical%20location.jpg)The
 central feature of the painting, a young lady sitting in a boat holding a
 parasol is the same unidentified girl seen in Boating. Her hat rests on
-the side of the boat and is the same one that she![](/images/Manet2bsm.jpg) wears in Boating. In
+the side of the boat and is the same one that she![](/images/manet2bsm.jpg) wears in Boating. In
 keeping with Manet's working method the painting has a considerable amount of
 pentimenti.
  Figure comparison from Boating
@@ -123,7 +123,7 @@ each artist learning from each other at different times."[[ii]](#_edn2)
 This, ''': cross-fertilization' caused Manet to embrace certain impressionist ideals
 while retaining elements of his earlier style. Works such as Boating
 (portrait detail above), Boating Near Rueil, and The Seine Banks at
-Argentueil (seen here![](/images/seine%20banks%20at%20A%20adj.jpg))
+Argentueil (seen here![](/images/seine%20banks%20at%20a%20adj.jpg))
 all exemplify a shift in Manet's style while demonstrating his unwillingness to
 completely conform to the impressionist movement.
 The practice of painting en plein air (in open air) is an important

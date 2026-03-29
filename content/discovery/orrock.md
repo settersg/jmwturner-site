@@ -9,7 +9,7 @@ news authentication christie's sotheby's
 
 ![](/images/image001.gif)
 ![](/images/image002.gif)
-![](/images/Orrock-portrait.jpg)
+![](/images/orrock-portrait.jpg)
 
 Orrock/
 Robinson/ Griffith
@@ -28,7 +28,7 @@ James Orrock:
 
 [Art  World's Dirty Little Secret](/book/)
 
- ![](/images/Orrock-bindingweba.jpg)
+ ![](/images/orrock-bindingweba.jpg)
  Orrock had been
  21 years old on Turner's passing, and was only 10 years younger than Turner's
  champion' "Ruskin, who was "a frequent visitor" to
@@ -82,7 +82,7 @@ James Orrock:
  Orrock is quite
  apparent in this print by W.E. Cockerell
 
- ![](/images/Turner-orr-web.jpg)
+ ![](/images/turner-orr-web.jpg)
   Sea
  Breaking on a Pier; J.M.W. Turner, w/c
  Orrock had acquired
@@ -197,7 +197,7 @@ James Orrock:
  letter from Turner to Griffith about the 'stormy picture' [John Gage's,
  Collected Correspondence of J.M.W. Turner, (Clarendon Press
  ' " Oxford, 1980)].
- ![](/images/Thos.-Labelweb.jpg)
+ ![](/images/thos.-labelweb.jpg)
  Enlarged image of the stamp-sized label found on the
  stretcher of Shipwreck, the Rescue. The firm formerly known as Thos.
  Agnew and Sons has indicated that it is not their fragmentary label, so one
@@ -231,12 +231,12 @@ James Orrock:
  object has changed hands."
  [[xv]](#_edn15)
 
- ![](/images/Orrock-interior.jpg)
+ ![](/images/orrock-interior.jpg)
 
   James Orrock's London
  home showing two of his Turners, Walton Bridges (left)
 
- ![](/images/Walton-web.jpg)
+ ![](/images/walton-web.jpg)
 
   Walker E. Cockerell, after Walton Bridges
  by J.M.W. Turner RA
@@ -244,7 +244,7 @@ James Orrock:
  James Orrock RI:
  Painter, Connoisseur, Collector, vol. 1, pp. 28
 
- ![](/images/Heath-scene-Orrock-Studioweb.jpg)
+ ![](/images/heath-scene-orrock-studioweb.jpg)
  J.M.W. Turner, Heath Scene c1799, "oil colour" from the
  James Orrock
  collection. This was illustrated in the special Studio
@@ -262,7 +262,7 @@ James Orrock:
  of the second printing of the catalogue. This was at roughly the same time as
  the painting entered the Paul Mellon collection.
 
- ![](/images/SWRphotogravure-web.jpg)
+ ![](/images/swrphotogravure-web.jpg)
  One of the major highlights of the research project came with the discovery
  of this photogravure. Titled--The Wreck, it was found on page 74 of
  vol. 1 of Orrock's

@@ -14,9 +14,9 @@ catalogue sotheby's jmwt jmw Jeremy Rex-Parkes
 
 kindly supplied by [Dr. Colin B. Bailey](http://www.frick.org/html/Bailey.htm): National Gallery of Canada
 
-![](/images/Christie)
+![](/images/christie)
 
-![](/images/Christie%20cat%20entry.jpg)
+![](/images/christie%20cat%20entry.jpg)
   Entry for Shipwreck, the
 Rescue (this title is from a vintage label on the stretcher)
   Christie's annotation "Edwards"
@@ -26,7 +26,7 @@ indicates this was the purchaser in 1904.
   Vintage label
 that is affixed to the stretcher of Shipwreck, the Rescue
 
-![](/images/73%20OAS.jpg)
+![](/images/73%20oas.jpg)
 
 Christie's Stenciled Stock Number found on the stretcher of
 [Shipwreck, the Rescue](/painting/)

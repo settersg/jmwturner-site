@@ -9,8 +9,8 @@ for evaluation authentication attribution appraisal / art consultant, consultant
 for JMW T- who and why? Ji (TM)  
 (George) Kaiser Czech-Canadian painter
 
-![](/images/Martin%20Butlin%20Christie)
-![](/images/MB%20port%20fulla.jpg)
+![](/images/martin%20butlin%20christie)
+![](/images/mb%20port%20fulla.jpg)
 
 Martin Butlin C.B.E.,
  painted by [Jiri (George) Kayser](/discovery/hand-c/)
@@ -28,7 +28,7 @@ but also, the general chatter that took place over dinner and while sightseeing
 was significant. During simple socializing, or testy disagreements, we all
 persevered.
 
-![](/images/Butlin5.jpg)By the time
+![](/images/butlin5.jpg)By the time
 Martin and his wife Frances arrived, their visit had evolved far beyond what was first intended; a
 trip of pure business had become a vacation with a purpose. The distance from home, casual social
 environment, and the "straight-forward and simple people" impression Martin had

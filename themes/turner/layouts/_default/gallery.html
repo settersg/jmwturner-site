@@ -13,7 +13,7 @@
     {{ range $imgDir }}
       {{ if or (strings.Contains .Name "SWR") (strings.Contains .Name "Shipwreck") (strings.Contains .Name "slave") (strings.Contains .Name "full image") }}
       <div class="gallery-item">
-        <img src="/jmwturner-site/images/{{ .Name | urlize }}" alt="{{ .Name }}" loading="lazy">
+        <img src="/images/{{ .Name | urlize }}" alt="{{ .Name }}" loading="lazy">
         <div class="caption">{{ .Name | strings.TrimSuffix (path.Ext .Name) | replaceRE "[-_]" " " }}</div>
       </div>
       {{ end }}
@@ -25,7 +25,7 @@
     {{ range $imgDir }}
       {{ if or (strings.Contains .Name "sig ") (strings.Contains .Name "spar") (strings.Contains .Name "boat") (strings.Contains .Name "bright") (strings.Contains .Name "varn") (strings.Contains .Name "UV") }}
       <div class="gallery-item">
-        <img src="/jmwturner-site/images/{{ .Name | urlize }}" alt="{{ .Name }}" loading="lazy">
+        <img src="/images/{{ .Name | urlize }}" alt="{{ .Name }}" loading="lazy">
         <div class="caption">{{ .Name | strings.TrimSuffix (path.Ext .Name) | replaceRE "[-_]" " " }}</div>
       </div>
       {{ end }}
@@ -37,7 +37,7 @@
     {{ range $imgDir }}
       {{ if and (or (strings.Contains .Name "Turner") (strings.Contains .Name "portrait") (strings.Contains .Name "statue") (strings.Contains .Name "medal")) (not (strings.Contains .Name "SWR")) }}
       <div class="gallery-item">
-        <img src="/jmwturner-site/images/{{ .Name | urlize }}" alt="{{ .Name }}" loading="lazy">
+        <img src="/images/{{ .Name | urlize }}" alt="{{ .Name }}" loading="lazy">
         <div class="caption">{{ .Name | strings.TrimSuffix (path.Ext .Name) | replaceRE "[-_]" " " }}</div>
       </div>
       {{ end }}
@@ -49,7 +49,7 @@
     {{ range $imgDir }}
       {{ if or (strings.Contains .Name "Murillo") (strings.Contains .Name "Durer") (strings.Contains .Name "Rubens") (strings.Contains .Name "Orrock") (strings.Contains .Name "Boucher") (strings.Contains .Name "Pool") (strings.Contains .Name "Susanna") (strings.Contains .Name "chateau") }}
       <div class="gallery-item">
-        <img src="/jmwturner-site/images/{{ .Name | urlize }}" alt="{{ .Name }}" loading="lazy">
+        <img src="/images/{{ .Name | urlize }}" alt="{{ .Name }}" loading="lazy">
         <div class="caption">{{ .Name | strings.TrimSuffix (path.Ext .Name) | replaceRE "[-_]" " " }}</div>
       </div>
       {{ end }}
@@ -61,7 +61,7 @@
     {{ range $imgDir }}
       {{ if or (strings.Contains .Name "letter") (strings.Contains .Name "Letter") (strings.Contains .Name "label") (strings.Contains .Name "Tnr") (strings.Contains .Name "stamp") (strings.Contains .Name "initials") (strings.Contains .Name "Initials") (strings.Contains .Name "collage") (strings.Contains .Name "clips") }}
       <div class="gallery-item">
-        <img src="/jmwturner-site/images/{{ .Name | urlize }}" alt="{{ .Name }}" loading="lazy">
+        <img src="/images/{{ .Name | urlize }}" alt="{{ .Name }}" loading="lazy">
         <div class="caption">{{ .Name | strings.TrimSuffix (path.Ext .Name) | replaceRE "[-_]" " " }}</div>
       </div>
       {{ end }}

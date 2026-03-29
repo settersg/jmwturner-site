@@ -23,7 +23,7 @@ style. They somewhat contradict Philip Hamerton, who in his Life of J.M.W.
 Turner R.A. 1879 contends that Turner was lacking social graces, and that he
 was remiss when it came to answering dinner invitations.
 
-![](/images/Letter%201847sm.jpg)
+![](/images/letter%201847sm.jpg)
 
 Previously unrecorded letter from J.M.W. Turner to (possibly) Sir Francis Graham
 Moon,

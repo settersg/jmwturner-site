@@ -8,7 +8,7 @@ Joseph Mallord William Turner
 
  [JMW Turner the  source](/painting/)
  [Art  World's Dirty Little Secret](/book/)
- ![](/images/Ruskin%201887%20Art,%20Barrant,%20eng%20Johnson.jpg)
+ ![](/images/ruskin%201887%20art,%20barrant,%20eng%20johnson.jpg)
 
 John Ruskin 1887
  Artist Barrant, eng. Johnson

@@ -12,9 +12,9 @@ studies
 art/science
 at the Tate... Ian Warrell opinion, Andrew Wilton
 
-![](/images/Art%20Science%20J.M.W.%20Turner)
+![](/images/art%20science%20j.m.w.%20turner)
 
-![](/images/Black-man-web.jpg)
+![](/images/black-man-web.jpg)
 
 Shipwreck, the Rescue,
 a detail showing the auspicious black man
@@ -33,7 +33,7 @@ controversy? Could the following 1887 diatribe by nineteenth century
 Turner expert, James Orrock, be the first challenge by
 connoisseurship
 against science invading the purview of the art establishment?
-![](/images/Orrock%20photograverweb.jpg)
+![](/images/orrock%20photograverweb.jpg)
 
 James Orrock R.I., a photogravure print of the
 former owner of Shipwreck, the Rescue
@@ -79,7 +79,7 @@ of any method of analysis, it is possible that the point the
 cataloguer followed her statement with had more bearing on the matter: "Yes, but it is
 incredibly time consuming." [[iii]](#_edn3)
 
-![](/images/Turner%20papers%20web.jpg)
+![](/images/turner%20papers%20web.jpg)
 This is one of two very extensive studies done by Peter
 Bower (Tate Gallery Publications 1990).
 In the world of art, scientific
@@ -123,7 +123,7 @@ and illogical.
  "It seems to me...that most of our art historians are entirely untrained
  in historical method; hence have no objective check upon their subjective,
  stylistic intuitions." -Frank Jewett Mather, Jr., 1938
-![](/images/Art%20Science%20J.M.W.%20Turner)
+![](/images/art%20science%20j.m.w.%20turner)
   And what about
 Turner and
 Shipwreck, the Rescue?
@@ -294,7 +294,7 @@ the Tate Gallery, which is the National Gallery of British and modern foreign
 art. They do not have a research laboratory, though occasionally we try and
 solve the occasional specific problem connected with treatment by examining
 samples from their pictures. Nothing much in the way of Turner (other than
-watercolours) or Gainsborough has reached us.![](/images/Turnerpaintboxweb.jpg)
+watercolours) or Gainsborough has reached us.![](/images/turnerpaintboxweb.jpg)
   I have always been a little puzzled by the
 results of analysis of the late Turner paint boxes, as published by Hanson.
 Someone has remarked scathingly that perhaps much of what was left in the box
@@ -390,7 +390,7 @@ more small and medium sized ones. What are the numerical odds of two, ''': odd s
 custom stretched canvases measuring over seven feet in width and over five feet
 high, having near identical dimensions!
 
-![](/images/Bridgewater%20Sea%20Piece%20BW%20web.gif)
+![](/images/bridgewater%20sea%20piece%20bw%20web.gif)
 Bridgewater Sea Piece
 exhibited Royal Academy 1801 162.5 x
 221 cm.
@@ -427,7 +427,7 @@ it is clearly an early nineteenth century picture." Warrell's lofty breviate to
 Marilyn Laver was relayed to me along with her own letter noting that Warrell
 based his opinion on only an 8 x 10 photograph.
 
-![](/images/Susanna-web.jpg)
+![](/images/susanna-web.jpg)
  P.P. Rubens, Susanna and the
 Elders 1638
 It
@@ -445,7 +445,7 @@ the
 dilemma at hand is succinctly addressed later under the heading
 [Tribal Instincts](/about/turner/).
 
-![](/images/Art%20Science%20J.M.W.%20Turner)
+![](/images/art%20science%20j.m.w.%20turner)
 details: tips of the waves from Shipwreck, the Rescue, "chalky" character
 The year Shipwreck, the Rescue would have been painted, 1802, one critic
 offered his opinion on the sea-pieces that were exhibited that year: "the
@@ -461,7 +461,7 @@ recognized the common physiognomies and figures.[[8]](#_ftn8)
 In addition, "Turner frequently treated humanity rather as a mass, a force of
 life, than as individuals."[[xxix]](#_edn29)
 
-![](/images/SWRmasspeoplewebadj.jpg)
+![](/images/swrmasspeoplewebadj.jpg)
 Detail of the Rescue Boat from
 Shipwreck, the Rescue
 
@@ -514,9 +514,9 @@ directions from the one then in vogue; it differed not only by a deliberate
 vagueness or looseness of definition in appropriate places, but also, in other
 places by an excessive vigour of realization."
 
-![](/images/Art%20Science%20J.M.W.%20Turner)
+![](/images/art%20science%20j.m.w.%20turner)
 
-![](/images/SWR%20infra%20red%20web.jpg)
+![](/images/swr%20infra%20red%20web.jpg)
 Infrared photograph:
 to assist in the search of under-drawing the pigments
 are made to appear somewhat transparent

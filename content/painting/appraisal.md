@@ -25,7 +25,7 @@ genius as possible. Firstly the object must be done by the hand of the artist as
 opposed to a reproduction; and secondly, it should be as central as possible to
 one of the artist's most innovative periods.
 
-![](/images/Graham%20with%20Durersm.jpg)
+![](/images/graham%20with%20durersm.jpg)
 
 Support for an artist can come in many ways, some
 orthodox and others revolutionary. Orthodox support might come by way
@@ -49,7 +49,7 @@ artwork is will determine the amount of degradation or damage that is
 acceptable. Seldom does one find a Renaissance sculpture or a medieval picture
 unscathed. Conversely, experimentation with untested media has resulted in
 substantial conservation problems for modern works.
-![](/images/Guernsey-Murillo-corner-mouth-jpegadj-sm2.jpg)general
+![](/images/guernsey-murillo-corner-mouth-jpegadj-sm2.jpg)general
 advice on collecting is available by contacting
 [Robert and Graham Setters](/)
 [Copies](/discovery/copies/)

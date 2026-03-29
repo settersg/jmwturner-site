@@ -7,9 +7,9 @@ layout: single
 [ JMW Turner the source](/painting/) Alistair Smith St
 Christopher Lucas Cranach the Elder / Albrecht Durer c1497 Alistair...
 
-![](/images/Alistair%20Smithweb.gif)
+![](/images/alistair%20smithweb.gif)
 
-![](/images/Durer%20jpeg.jpg)
+![](/images/durer%20jpeg.jpg)
   St.
 Christopher circa 1497 (shown here subsequent to the 1988
   evaluation. It was professionally conserved, with the removal of
@@ -33,14 +33,14 @@ Three examples:
 A comparison with one of D  rer's
 unusual face studies
 
-![](/images/St%20Jerome%20X3.jpg)![](/images/sketch%20compare%20St%20J%20sm.jpg)
+![](/images/st%20jerome%20x3.jpg)![](/images/sketch%20compare%20st%20j%20sm.jpg)
 
-![](/images/Dresden%20sketchbook,%20Durer%20heads%20written%201523.jpg)
+![](/images/dresden%20sketchbook,%20durer%20heads%20written%201523.jpg)
   In a unique effort D  rer
 experimented with distinctive facial types
 2 - the positioning of the infants legs (drawing
 from 1495),
- ![](/images/feet%20position%20X4.jpg)![](/images/child%20drawing%20feet.jpg)
+ ![](/images/feet%20position%20x4.jpg)![](/images/child%20drawing%20feet.jpg)
 3 - Quarry study showing D  rer's interest in taking
 unusual landscape features from nature
 

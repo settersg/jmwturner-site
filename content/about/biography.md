@@ -8,7 +8,7 @@ Biography of JMW Turner Biographers: Ruskin John Ruskin Modern Painters Thornbur
 Monkhouse Conant Rawlinson Swinburne Sparrow Wedmore Cook Wyllie Finberg
 Hind Bayes Chamot Kitson Wilkinson Selz Walker John Ruskin bibliography
 biography
-![](/images/Ruskin%201887%20Art,%20Barrant,%20eng%20Johnson.jpg)
+![](/images/ruskin%201887%20art,%20barrant,%20eng%20johnson.jpg)
 
 [JMW Turner the source](/painting/)
 [chronology / biography](/about/chronology/) JMW Turner

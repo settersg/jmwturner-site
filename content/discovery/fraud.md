@@ -52,7 +52,7 @@ deception between truth and history.
 the term art
 expert is surely
 sterile
-![](/images/Rubens%20deposition.jpg%20Dig%20C.jpg)
+![](/images/rubens%20deposition.jpg%20dig%20c.jpg)
 Deposition, tiny
 17th century oil on copper
 The

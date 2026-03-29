@@ -15,7 +15,7 @@ The Oxford Companion to J.M.W. Turner,
 
 The Paintings of JMW Turner
 
-![](/images/M&G7%20web.jpg)
+![](/images/m&g7%20web.jpg)
 
 Martin Butlin and
 Graham Setters, lost in the BJ
@@ -35,7 +35,7 @@ The Oxford Companion to JMW Turner, plus other books he had been
 involved with. He became reflective and explained a few of the trials,
 tribulations and ecstasies of several of them.
 
-![](/images/M7%20web.jpg)
+![](/images/m7%20web.jpg)
  Martin
 Butlin in Penticton signing books in the author's study.
 The one in-hand is

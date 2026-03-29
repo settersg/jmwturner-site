@@ -9,7 +9,7 @@ Gustave Courbet Musee Courbet expert evaluation catalogue
 
 ![](/images/image001.gif)-
 Gustave Courbet
-![](/images/Pool%20at%20Ornans%20full%20Large%20jpeg%20adjsm.jpg)
+![](/images/pool%20at%20ornans%20full%20large%20jpeg%20adjsm.jpg)
 What does it take
 to make a 100 dollar picture worth a million? "An expert opinion!"
 The journey between both extremes can certainly

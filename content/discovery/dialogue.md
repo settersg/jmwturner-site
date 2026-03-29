@@ -65,7 +65,7 @@ brilliantly the power and immediacy of Turner's brushwork at the apex of his
 career' "his "graphic shorthand which enabled him to simplify what he saw into a
 few swift mnemonic strokes."[[ii]](#_edn2)
 
-![](/images/Ehrenb%20det%20figures%20web.jpg)
+![](/images/ehrenb%20det%20figures%20web.jpg)
   Orrock Ehrenbrietstein:
 enlarged detail showing two figures-as
   Graham Reynolds would describe: done with "a few swift mnemonic stokes."
@@ -156,7 +156,7 @@ This was written in 1905."
 
   ["Hands"](/discovery/hand-c/)
 
-![](/images/Ehrfull-large-jpeg-adjweba.jpg)
+![](/images/ehrfull-large-jpeg-adjweba.jpg)
 
   Orrock Ehrenbrietstein,
 signed and dated lower left, I.M.W.Turner R.A. 1817

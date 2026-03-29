@@ -7,7 +7,7 @@ layout: single
 ![](/images/image001.gif)
 What went wrong?
 ![](/images/image002.gif)
-![](/images/NGC%20Shipwreck%20BW.jpg)
+![](/images/ngc%20shipwreck%20bw.jpg)
 National Gallery of Canada
 Shipwreck
 c1840
@@ -117,7 +117,7 @@ exhibition pieces. Incorporating a quote from Redgrave, one of Turner's
 colleagues, Reynolds effectively defends the NGC picture in light of such
 ungrounded criticism; "Redgrave'  comments on Turner's love
 of transfiguring a rich colour from other palettes to his own pictures,, ''': from
-our own palette he has whisked off, on more occasions![](/images/Turner%20paintingweba.jpg)
+our own palette he has whisked off, on more occasions![](/images/turner%20paintingweba.jpg)
 than one, a luscious knot
 of orange vermilion or ultramarine, tempered with copal, and at once used it on
 a picture he was at work upon with a mastic magylph.' As he points out this

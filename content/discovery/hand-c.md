@@ -12,7 +12,7 @@ connoisseurship, Martin Butlin and Evelyn Joll, The Paintings of J.M.W. Turner,
   the "Hand" of
 deception
 
-![](/images/Ehrfull-large-jpeg-adjweba.jpg)
+![](/images/ehrfull-large-jpeg-adjweba.jpg)
 
 ![](/images/image001.gif)
 Orrock Ehrenbrietstein
@@ -83,7 +83,7 @@ Ruskin became aware of this while investigating the vast number of drawings in t
 At one point, as Turner told his friend Trimmer, he even "painted a certain
 picture on a tablecloth."[[iv]](#_edn4)
 
-![](/images/EHRbackweb.jpg)
+![](/images/ehrbackweb.jpg)
 
 Book board support for the oil-sketch, Orrock Ehrenbrietstein
 An ultraviolet light, or black light as it is often called, confirmed that the signature was
@@ -94,7 +94,7 @@ finish was also untouched and had a uniform silvery appearance, including the
 area over the signature. This guaranteed everything was under the antique
 varnish with no later additions.
 
-![](/images/EHRsigweb.jpg)
+![](/images/ehrsigweb.jpg)
 
 The vintage signature I.M.W. Turner R.A. 1817 (much enlarged)
   The key to the whole puzzle was
@@ -112,7 +112,7 @@ realization that the name was not Crockling, but, Orrock Esq. This was the same
 important collector of 18th and 19th century British art
 from whence Shipwreck, the Rescue sold in 1904.
 
-![](/images/EHR-label.jpg)
+![](/images/ehr-label.jpg)
 Label from the backing of the Orrock Ehrenbrietstein. "J... rner R.A. Signed and
 dated from the collection of James Orrock Esq. No. 157 - 1884."
   The true provenance would likely not have been
@@ -171,7 +171,7 @@ make a cursory connection between oil-sketches and finished paintings we need
 only defer to the Oxford Companion To J.M.W. Turner vis-  -vis
 Caernarvon Castle for which Turner "made a small oil study on panel, which
 suggests that he first considered painting the subject in oils."[[ix]](#_edn9)
-![](/images/Ehrenpaintingweb.jpg)
+![](/images/ehrenpaintingweb.jpg)
  Without knowledge of the Orrock
 painting it has been assumed that the exhibited piece of 1835 was inspired by
 trips made years later but there are no related sketches to support this
@@ -279,7 +279,7 @@ hosts, his friends and foes;
 spirit's bright repose;
   For he was freedom's champion'  
 
-![](/images/WWII-sterioview.jpg)
+![](/images/wwii-sterioview.jpg)
   WWI stereo-view of
 Ehrenbrietstein
 from a similar vantage point
@@ -520,7 +520,7 @@ fifty-odd watercolours of the same region that Walter Fawkes bought shortly afte
 home. The oil-sketch did however have to eventually reside in London to be used
 as the model for the 1835 exhibition piece, and the 1817 inscription, must
 indicate that it was done within a few months of the journey.
-![](/images/Devonshireweb.jpg)
+![](/images/devonshireweb.jpg)
 The oil sketch of Devonshire from
 1813 (seen here) was illustrated in W.L. Wyllie's biography of Turner, page 54.
 It is

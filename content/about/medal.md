@@ -11,7 +11,7 @@ Turner Society News, Eric Shanes, Tate
 expert opinion / Eric Shanes on the Turner Bequest,
 Medal / Turner Prize / Shanes Eric Shanes JMW Turner Prize
  Turner Medal
-![](/images/turnermedal_001aTN.jpg)
+![](/images/turnermedal_001atn.jpg)
 Once
 made of Gold
 the "Turner medal"
@@ -41,7 +41,7 @@ UPDATE:
 Turner Society News #94 2003
 The New Turner Medal
 
-![](/images/turnermedal.gif)![](/images/Turner%20medal%20Worth%20crop.jpg)
+![](/images/turnermedal.gif)![](/images/turner%20medal%20worth%20crop.jpg)
 "The Royal Academy has inaugurated a new Turner medal, the Windsor & Newton
 Watercolour Award, for the most outstanding work in the medium in the annual
 summer exhibition. The first winner of the award was announced at the prize

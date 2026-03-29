@@ -106,7 +106,7 @@ This was most evident after 1961; however, by the time he had moved mainly into
 figurative work in 1968, he reminisced with a sneer: 'there was no place left to put
 my scabs.' They had outlived their usefulness thus bringing an end to
 his scabrous period.
-![](/images/Town%20crop.jpg)"The
+![](/images/town%20crop.jpg)"The
 thick paint opposing thin paint technique favored by both artists was carried
 one step further by Roach as he objectified his work in paintings like Harold
 Town, The Attack (seen here). When he describes his paint as being part of the image and
@@ -162,7 +162,7 @@ religious imagery gives credence to contemporary thought by philosophers such as
 Joseph Campbell and Michael Tucker, that the, ''': lost soul of the modern artist' is
 trying to regain contact with a system of belief beyond the secular. Tucker
 could have a field day with Roach's 'wingy-people.'
-![](/images/The%20Stone%20Boat%20sm.jpg)Even
+![](/images/the%20stone%20boat%20sm.jpg)Even
 at such a reflective point in the artist's life, a point at which most people
 would be searching for avenues to make peace with their maker, he remains
 steadfast in his tentative love for nature and distrust of organized religion.
@@ -222,7 +222,7 @@ exhibition, Gerald Roach: A Survey. Roach explains this coincidence by
 comparing it to scientific research at a point when scientists may solve the same problem
 at the same time in different locations, "it shows that its (the discovery)
 time has come."
-![](/images/Assemblage%20crop.jpg)"In the visual arts Roach has covered much ground: one summer while still a
+![](/images/assemblage%20crop.jpg)"In the visual arts Roach has covered much ground: one summer while still a
 young man he studied mosaics at the University of British Columbia; he has also
 done photography for which he won high praise, with some of his images entering
 the permanent collection of the National Film Board (NFB) stills department in Ottawa; his abstract graphic designs for
@@ -239,10 +239,10 @@ copious hatchings employed to build up the Rembrandt-like images. Regardless of
 medium, technique, and stage of development, I hope as you get to know Roach's
 work better you can agree that his entire oeuvre is unified by great creative
 talent.
-![](/images/WF%20three%20parts%20sm.jpg)"I
+![](/images/wf%20three%20parts%20sm.jpg)"I
 am also sending up-to-date photographs of Gerald Roach beside his paintings of
 Waterfall in Three Parts and Cathedral Waterfall #2.
-![](/images/Cath%20WF%20sm.jpg)
+![](/images/cath%20wf%20sm.jpg)
 This shows the relative size of many of his late paintings, circa 1990.
 Although some of his earlier period works are quite large most are relatively
 smaller, and many of the 60's paintings I have seen are close to the 2' x 3'

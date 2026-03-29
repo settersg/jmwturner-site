@@ -20,7 +20,7 @@ Joseph Mallord William Turner Mallord JMWT
 ![](/images/image002.gif)
 jmw
 
-![](/images/SWRfullbook%20weba.jpg)
+![](/images/swrfullbook%20weba.jpg)
   Shipwreck, the Rescue
 c1802
 by
@@ -102,7 +102,7 @@ what happened to the American legend, John Anderson Jr., author of
 -[Portrait of a Hero](/painting/portrait/) In the end - it's all about
 Turner, the hero of our
 story.
-![](/images/Turner%20statue%20e%20baily%20w%20roffe%20sculpt.jpg)
+![](/images/turner%20statue%20e%20baily%20w%20roffe%20sculpt.jpg)
 As an Introduction -
 we begin our story knowing full well
 that the veracity of the book falls firmly on the clear and indisputable

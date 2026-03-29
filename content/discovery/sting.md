@@ -4,7 +4,7 @@ layout: single
 ---
 
 |
-![](/images/court%20doc%20edit%20web.JPG)
+![](/images/court%20doc%20edit%20web.jpg)
 ![](/images/image001.gif)
 
 ![](/images/image002.gif)Rescuing Turner: A New Age of Art Discovery: "yet to be added
