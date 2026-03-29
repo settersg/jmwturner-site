@@ -2,8 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://settersg.github.io/jmwturner-site/book/</loc>
-  </url><url>
     <loc>https://settersg.github.io/jmwturner-site/about/</loc>
   </url><url>
     <loc>https://settersg.github.io/jmwturner-site/discovery/art-science/</loc>
@@ -36,11 +34,7 @@
   </url><url>
     <loc>https://settersg.github.io/jmwturner-site/discovery/hand-c/</loc>
   </url><url>
-    <loc>https://settersg.github.io/jmwturner-site/</loc>
-  </url><url>
     <loc>https://settersg.github.io/jmwturner-site/discovery/institutional/</loc>
-  </url><url>
-    <loc>https://settersg.github.io/jmwturner-site/painting/</loc>
   </url><url>
     <loc>https://settersg.github.io/jmwturner-site/discovery/orrock/</loc>
   </url><url>
@@ -74,6 +68,8 @@
   </url><url>
     <loc>https://settersg.github.io/jmwturner-site/painting/appraisal/</loc>
   </url><url>
+    <loc>https://settersg.github.io/jmwturner-site/</loc>
+  </url><url>
     <loc>https://settersg.github.io/jmwturner-site/discovery/christopher/</loc>
   </url><url>
     <loc>https://settersg.github.io/jmwturner-site/discovery/sting/</loc>
@@ -81,6 +77,10 @@
     <loc>https://settersg.github.io/jmwturner-site/painting/style/</loc>
   </url><url>
     <loc>https://settersg.github.io/jmwturner-site/tags/</loc>
+  </url><url>
+    <loc>https://settersg.github.io/jmwturner-site/book/</loc>
+  </url><url>
+    <loc>https://settersg.github.io/jmwturner-site/painting/</loc>
   </url><url>
     <loc>https://settersg.github.io/jmwturner-site/about/medal/</loc>
   </url><url>

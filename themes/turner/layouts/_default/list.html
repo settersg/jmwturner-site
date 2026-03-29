@@ -1,20 +1,32 @@
 {{ define "main" }}
-<section class="gallery-intro">
-  <h1>{{ .Title }}</h1>
-  {{ if .Content }}<div class="article" style="max-width:700px;margin:1rem auto;text-align:left;">{{ .Content }}</div>{{ end }}
-</section>
-<div class="gallery-grid">
-  {{ range .Resources.ByType "image" }}
-  <div class="gallery-item">
-    <img src="{{ .RelPermalink }}" alt="{{ .Name }}" loading="lazy">
-    <div class="caption">{{ .Name | strings.TrimSuffix (path.Ext .Name) | replaceRE "[-_]" " " | title }}</div>
+<div class="page-layout">
+  <aside class="sidebar">
+    {{ if .Site.Menus.sections }}
+    <h3>Contents</h3>
+    <ul>
+      {{ range .Site.Menus.sections }}
+      <li><a href="{{ .URL | relURL }}" class="{{ if eq $.RelPermalink (.URL | relURL) }}active{{ end }}">{{ .Name }}</a></li>
+      {{ end }}
+    </ul>
+    {{ end }}
+  </aside>
+  <div>
+    <article class="article">
+      <h1>{{ .Title }}</h1>
+      {{ if .Params.description }}<p class="meta">{{ .Params.description }}</p>{{ end }}
+      {{ .Content }}
+    </article>
+    {{ if .Pages }}
+    <div class="sections-grid" style="padding:0;max-width:none;">
+      {{ range .Pages }}
+      <div class="section-card">
+        <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+        {{ with .Description }}<p>{{ . }}</p>{{ end }}
+        <a href="{{ .RelPermalink }}">Read →</a>
+      </div>
+      {{ end }}
+    </div>
+    {{ end }}
   </div>
-  {{ end }}
-  {{ range .Pages }}
-  <div class="gallery-item">
-    {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" loading="lazy">{{ end }}
-    <div class="caption"><a href="{{ .RelPermalink }}">{{ .Title }}</a></div>
-  </div>
-  {{ end }}
 </div>
 {{ end }}
