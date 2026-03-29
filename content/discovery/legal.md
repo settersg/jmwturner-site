@@ -44,14 +44,14 @@ layout: single
 
  
  
-![](/images/Legal%20fears%20Martin%20Butlin%20Tate%20Christie)**
+![](/jmwturner-site/images/Legal%20fears%20Martin%20Butlin%20Tate%20Christie)**
 
         "going to the stake"   "they really get him"   
  "****These people are terror****"**
  
 
  
- ![](/images/Butlin3crop.jpg)
+ ![](/jmwturner-site/images/Butlin3crop.jpg)
 
  Martin Butlin and Graham 
  Setters in Penticton
@@ -156,7 +156,7 @@ layout: single
   **
  
 
- **![](/images/news4.jpg)**
+ **![](/jmwturner-site/images/news4.jpg)**
  
 
  

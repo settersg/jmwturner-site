@@ -46,7 +46,7 @@ layout: single
 
  
  
-![](/images/image001.gif)Ludmila Kagané Angulo Mayer Sullivan Gaya Nuño*
+![](/jmwturner-site/images/image001.gif)Ludmila Kagané Angulo Mayer Sullivan Gaya Nuño*
 
                      
 
@@ -54,22 +54,22 @@ layout: single
  
  
  
-![](/images/image002.gif)*
+![](/jmwturner-site/images/image002.gif)*
 
                                    
  
  
-![](/images/image003.gif)
+![](/jmwturner-site/images/image003.gif)
 
            
- ![](/images/Guernsey%20Murillo%20jpegadj%20web.jpg)                                                                                                 
+ ![](/jmwturner-site/images/Guernsey%20Murillo%20jpegadj%20web.jpg)                                                                                                 
  **
  
 
  ** *                    
  
  
-![](/images/image004.gif)
+![](/jmwturner-site/images/image004.gif)
 
  *
  Gaya Nuño 
@@ -92,7 +92,7 @@ layout: single
  
 
  **                           *****
- ![](/images/Murillo%20NGa.jpg)
+ ![](/jmwturner-site/images/Murillo%20NGa.jpg)
 
  
 
@@ -149,7 +149,7 @@ layout: single
  over whether or not to support the authenticity of a work of art. **
  
 
- ![](/images/Guernsey%20Murillo%20ear%20jpegadj.jpg)
+ ![](/jmwturner-site/images/Guernsey%20Murillo%20ear%20jpegadj.jpg)
  
 
  **The resulting van Meegren courtroom exposé had a most detrimental impact 
@@ -186,7 +186,7 @@ layout: single
  
 
  **
- ![](/images/Murillo%20girl%20Oweb.jpg)**
+ ![](/jmwturner-site/images/Murillo%20girl%20Oweb.jpg)**
  
 
  **
@@ -242,8 +242,8 @@ layout: single
  
 
  
-![](/images/image006.jpg) 
- ![](/images/murillo%20girl%20adjust2.jpg)***
+![](/jmwturner-site/images/image006.jpg) 
+ ![](/jmwturner-site/images/murillo%20girl%20adjust2.jpg)***
 
                                  A Peasant Boy Leaning on a Sill*           
           * Girl Raising the Veil
@@ -260,7 +260,7 @@ layout: single
  Murillo Impostor?
 
                               
- ![](/images/Guernsey%20Murillo%20web%20engraving%204.25x5.5%20J.%20Rodgers.jpg)**
+ ![](/jmwturner-site/images/Guernsey%20Murillo%20web%20engraving%204.25x5.5%20J.%20Rodgers.jpg)**
  
 
  **This**** 
@@ -346,7 +346,7 @@ layout: single
   **
  
 
- **![](/images/Murillo%20Madonnaweb.jpg)**
+ **![](/jmwturner-site/images/Murillo%20Madonnaweb.jpg)**
  
 
  **
@@ -463,7 +463,7 @@ layout: single
  
 
  
- ![](/images/Murillo%20NGaugly%20texture.jpg)
+ ![](/jmwturner-site/images/Murillo%20NGaugly%20texture.jpg)
  
 
  **
@@ -485,7 +485,7 @@ layout: single
  
 
  **       
- ![](/images/Murillo%20NGahands.jpg)     *![](/images/Guernsey%20Murillo%20hands%20web.jpg)
+ ![](/jmwturner-site/images/Murillo%20NGahands.jpg)     *![](/jmwturner-site/images/Guernsey%20Murillo%20hands%20web.jpg)
 
  Is* the ugly texture to be seen in either of the paintings we 
  are concerned with here? Clive Bell is down on the uninspired copyist and 
@@ -518,7 +518,7 @@ layout: single
  feel somewhat later in style than that of the Baroque era.**
  
 
- **   ![](/images/Murillo%20puttiweb.jpg)**
+ **   ![](/jmwturner-site/images/Murillo%20puttiweb.jpg)**
  
 
  ** The 
@@ -533,7 +533,7 @@ layout: single
  collection. **
  
 
- ![](/images/Murillo%20girl%20O%20mouthweb.jpg)
+ ![](/jmwturner-site/images/Murillo%20girl%20O%20mouthweb.jpg)
  
 
  **It is important to note that typical of Murillos famous paintings in the 
@@ -550,14 +550,14 @@ layout: single
  
 
                          
- ![](/images/Murillo%20boy%20adjust.jpg) 
- ![](/images/murillo%20girl%20adjust2.jpg)
+ ![](/jmwturner-site/images/Murillo%20boy%20adjust.jpg) 
+ ![](/jmwturner-site/images/murillo%20girl%20adjust2.jpg)
  
 
                           
  
-![](/images/image007.jpg)   
- ![](/images/murillo%20girl%20adjust2.jpg)**
+![](/jmwturner-site/images/image007.jpg)   
+ ![](/jmwturner-site/images/murillo%20girl%20adjust2.jpg)**
 
                                              
  Which of the above four pictures is most likely wrong**
@@ -573,7 +573,7 @@ layout: single
  
 
             
- ![](/images/Guernsey%20Murillo%20hand%20reflection.jpg)
+ ![](/jmwturner-site/images/Guernsey%20Murillo%20hand%20reflection.jpg)
 
                           detail: *Guernsey 
  Murillo*, note the subtle reflection from the hand 
@@ -669,7 +669,7 @@ layout: single
  commiserate amount of admiration given to each artwork. **
  
 
- ** ![](/images/Murillo%20ChJoweb.jpg)
+ ** ![](/jmwturner-site/images/Murillo%20ChJoweb.jpg)
 
  
 
@@ -726,7 +726,7 @@ layout: single
  examples of the artists work in Spain.**
  
 
- ![](/images/Guernsey%20Murillo%20face%20and%20halo%20jpegadj.jpg)
+ ![](/jmwturner-site/images/Guernsey%20Murillo%20face%20and%20halo%20jpegadj.jpg)
  
 
  ** If the painting in the National Gallery were truly by Murillo, the lack 
@@ -745,7 +745,7 @@ layout: single
  of the work in the National Gallery does this less successfully.**
  
 
- ![](/images/Guernsey%20Murilloillumin%20shad%20jpegadja.jpg)
+ ![](/jmwturner-site/images/Guernsey%20Murilloillumin%20shad%20jpegadja.jpg)
  
 
  **      Guernsey Murillo**
@@ -762,7 +762,7 @@ layout: single
  upper arm next to his chest becomes just another part of the boys chest in 
  the copy. The arm in the National Gallery painting, is thus, diminutive and 
  unnatural.            
- ![](/images/Murillo%20NGa%20noillum.jpg)**
+ ![](/jmwturner-site/images/Murillo%20NGa%20noillum.jpg)**
  
 
  **National Gallery Boy**
@@ -834,7 +834,7 @@ layout: single
  
 
  
-![](/images/image008.gif)
+![](/jmwturner-site/images/image008.gif)
  
 
   

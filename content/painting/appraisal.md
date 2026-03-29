@@ -23,7 +23,7 @@ one should look for when acquiring artwork:
 
 **
 
-![](/images/bw%20photo%20robert.gif)Quality 
+![](/jmwturner-site/images/bw%20photo%20robert.gif)Quality 
 might best be defined as the ability of an artwork to rest comfortably within 
 its format. This takes skill and practice on the part of the artist, and it is 
 the 'master' with the greatest ability to present a bondable unity for the 
@@ -43,7 +43,7 @@ one of the artist's most innovative periods.**
 
 **
 
-![](/images/Graham%20with%20Durersm.jpg)**
+![](/jmwturner-site/images/Graham%20with%20Durersm.jpg)**
 
  
 
@@ -81,7 +81,7 @@ unscathed. Conversely, experimentation with untested media has resulted in
 substantial conservation problems for modern works.** 
 
 **
-![](/images/Guernsey%20Murillo%20corner%20mouth%20jpegadj%20sm2.jpg)general 
+![](/jmwturner-site/images/Guernsey%20Murillo%20corner%20mouth%20jpegadj%20sm2.jpg)general 
 advice on collecting is available by contacting
 [Robert and Graham Setters](https://web.archive.org/web/20160113141335/mailto:jmwturner@shaw.ca)**
 

@@ -35,17 +35,17 @@ layout: single
 
  
  
-![](/images/image001.gif)                                                        
+![](/jmwturner-site/images/image001.gif)                                                        
  
  
  
-![](/images/image002.gif)
+![](/jmwturner-site/images/image002.gif)
 
-![](/images/P1 web.jpg)
+![](/jmwturner-site/images/P1 web.jpg)
 
   
 **
-     **![](/images/SWR large JWTb.tif.jpg)                            
+     **![](/jmwturner-site/images/SWR large JWTb.tif.jpg)                            
 *****[Beginning 
 of the J.M.W. Turner story](Intro Shipwreck JMW Turner painting.htm) 
             
@@ -69,10 +69,10 @@ just before  discovering the letters inscribed into the pier**
 
  
 
-![](/images/38 J a web.jpg)
+![](/jmwturner-site/images/38 J a web.jpg)
  
  
-![](/images/image003.gif)**      
+![](/jmwturner-site/images/image003.gif)**      
 
                                         
 
@@ -86,7 +86,7 @@ of the pier showing the location 
 of the three blocks of paint that 
  
 
-                **![](/images/37 W a web.jpg)**                                           
+                **![](/jmwturner-site/images/37 W a web.jpg)**                                           
 contain the three letters - 
 J W T**
 
@@ -101,7 +101,7 @@ J W T**
   **
  
  
-![](/images/image004.gif)**                          
+![](/jmwturner-site/images/image004.gif)**                          
 
   ****                                                           
 **
@@ -111,12 +111,12 @@ J W T**
 **  **
 **               
 **      
-![](/images/big T a.jpg)                                                                   
+![](/jmwturner-site/images/big T a.jpg)                                                                   
 
  
 
                         
-![](/images/36 T a web.jpg)
+![](/jmwturner-site/images/36 T a web.jpg)
 
  
 
@@ -125,7 +125,7 @@ J W T**
  
  
  
-![](/images/image005.gif)
+![](/jmwturner-site/images/image005.gif)
 
                                                                   
 
@@ -212,7 +212,7 @@ out, no word more ever came from him. Down to the grave he went, silent."
 _________________________________**
 
 **
-![](/images/Initials Romanum web.jpg)**
+![](/jmwturner-site/images/Initials Romanum web.jpg)**
 
 **"It 
 would be delusional to suspect that J. Wm Turner had forced us back to 
@@ -261,7 +261,7 @@ signatures and sometimes dates appear... The inscriptions were usually painted
 or drawn on the work, though occasionally they were scratched in the paint while 
 it was still wet."
 
-![](/images/initials letter to daddy.jpg)
+![](/jmwturner-site/images/initials letter to daddy.jpg)
 
 Only the JWT**
 initials were used on this early letter to Turner's father. It is 

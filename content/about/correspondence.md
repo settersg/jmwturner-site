@@ -34,7 +34,7 @@ Turner R.A.* 1879 contends that Turner was lacking social graces, and that he
 was remiss when it came to answering dinner invitations.**
 
 **                                            
-![](/images/Letter%201847sm.jpg)
+![](/jmwturner-site/images/Letter%201847sm.jpg)
 
                                             
 Previously unrecorded letter from J.M.W. Turner to (possibly) Sir Francis Graham 
@@ -63,11 +63,11 @@ London in 1854.**
  
 
  
-![](/images/image002.jpg)
+![](/jmwturner-site/images/image002.jpg)
 
 **   
  
-![](/images/image003.jpg) 
+![](/jmwturner-site/images/image003.jpg) 
 
                      
 To Samuel Rogers 
@@ -201,7 +201,7 @@ the doubt.**
  
  
 
-![](/images/image004.gif)**'A 
+![](/jmwturner-site/images/image004.gif)**'A 
 righteous man regardeth the life of his beast, say the Scriptures, and 
 certainly the way in which a man treats his inferior fellow-creatures is an 
 index to his heart.'[[ix]](#_edn9)**
@@ -217,7 +217,7 @@ being so disorderly and deserve expulsion. Again, in Turners own hand:**
 **                                
  
  
-![](/images/image006.jpg)
+![](/jmwturner-site/images/image006.jpg)
 
                                                                           
 J.M.W. Turner: a letter to Charles Robert Cockerell

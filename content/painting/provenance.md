@@ -38,7 +38,7 @@ catalogue sotheby's jmwt jmw Jeremy Rex-Parkes*
 
  
  
-![](/images/christie)
+![](/jmwturner-site/images/christie)
 
 *             
 kindly supplied by [Dr. Colin B. 
@@ -46,7 +46,7 @@ Bailey](http://www.frick.org/html/Bailey.htm): National Gallery of Canada
 
              
 *
-![](/images/Christie)
+![](/jmwturner-site/images/Christie)
 
 ****** *****          
 **    
@@ -54,7 +54,7 @@ Bailey](http://www.frick.org/html/Bailey.htm): National Gallery of Canada
                
 
                            
-![](/images/Christie%20cat%20entry.jpg)**
+![](/jmwturner-site/images/Christie%20cat%20entry.jpg)**
 
                           Entry for *Shipwreck, the 
 Rescue (*this title is from a vintage label on the stretcher)     
@@ -84,7 +84,7 @@ indicates this was the purchaser in 1904.**
  
 
  
-![](/images/christie)
+![](/jmwturner-site/images/christie)
 
                         Vintage label 
 that is affixed to the stretcher of *Shipwreck, the Rescue*
@@ -92,7 +92,7 @@ that is affixed to the stretcher of *Shipwreck, the Rescue*
  
 
                          
-![](/images/73%20OAS.jpg)
+![](/jmwturner-site/images/73%20OAS.jpg)
 
 **                        
 Christie's Stenciled Stock Number found on the stretcher of *

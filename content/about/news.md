@@ -45,18 +45,18 @@ Joseph Mallord William Turner Mallord JMWT
 
  
  
-![](/images/image001.gif)
+![](/jmwturner-site/images/image001.gif)
 
 **
                             
  
  
-![](/images/image002.gif)*
+![](/jmwturner-site/images/image002.gif)*
 **
 jmw
 
               
-![](/images/SWRfullbook%20weba.jpg)
+![](/jmwturner-site/images/SWRfullbook%20weba.jpg)
 
                         Shipwreck, the Rescue* 
 c1802*
@@ -174,7 +174,7 @@ of a Hero](portrait%20hero%20shipwreck%20slavers%20JMW%20Turner.htm)   In the 
 Turner**, the hero of our 
 story.
 
-![](/images/Turner%20statue%20e%20baily%20w%20roffe%20sculpt.jpg)
+![](/jmwturner-site/images/Turner%20statue%20e%20baily%20w%20roffe%20sculpt.jpg)
 
 **
 
@@ -548,7 +548,7 @@ Postscript Tribal Instincts
  
 
  
-![](/images/image003.gif)
+![](/jmwturner-site/images/image003.gif)
 
  
 
@@ -732,7 +732,7 @@ experience that their clients never forget a financial loss.[[v]](http://www.j
  
 
  
-![](/images/image004.gif)** Have 
+![](/jmwturner-site/images/image004.gif)** Have 
 we ended our subplot with an antihero of sorts? In the beginning our guest was 
 seen as a charming comedic celebrity; had he become a slapstick villain? A 
 villain, not only because he had condemned *Shipwreck, the Rescue,* but 

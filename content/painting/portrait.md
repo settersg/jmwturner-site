@@ -37,8 +37,8 @@ the source](Intro%20Shipwreck%20JMW%20Turner%20painting.htm)
 
  
  
-![](/images/image001.gif)  
- ![](/images/Turner portrait book cover web.jpg)
+![](/jmwturner-site/images/image001.gif)  
+ ![](/jmwturner-site/images/Turner portrait book cover web.jpg)
         **
 
 ** jmw turner**
@@ -116,7 +116,7 @@ His colleagues describe seeing him, even in late life, when he shone out at
 Academy meetings in a red velvet waistcoat.[[iv]](#_edn4)
 
             
-![](/images/boat 3 web.jpg)
+![](/jmwturner-site/images/boat 3 web.jpg)
 
          The 
 quiet expressionless face is carefully composed and familiar, largely 
@@ -143,7 +143,7 @@ for the age difference, both the the facial characteristics and personal
 deportment are similar.**
 
 **
-![](/images/Turner selfportrait BWweb.jpg)**
+![](/jmwturner-site/images/Turner selfportrait BWweb.jpg)**
 
 **
 
@@ -215,7 +215,7 @@ implications.[[x]](#_edn10)       
 
 **             
 
-![](/images/Shipwreck det boat2.jpg)
+![](/jmwturner-site/images/Shipwreck det boat2.jpg)
 
 This detail of Turner's famous *Shipwreck* shows 
 the archetypal figures similar to those found in* Shipwreck the Rescue,* although here 
@@ -248,7 +248,7 @@ situation provide a counter-force, which we feel may well triumph. The tragic
 moment is given its full depth of emotion by its reflection in a womans 
 Madonna-face.[[xi]](#_edn11)**
 
-![](/images/SWR large Madonnaweba.jpg)
+![](/jmwturner-site/images/SWR large Madonnaweba.jpg)
 
 **With this description of a fully developed lozenge and vortex, can there be 
 any doubt which painting was the more mature work. *Shipwreck, the Rescue,* 
@@ -309,7 +309,7 @@ Joshua Reynolds studio where the acolyte, Billy, studied and helped outw
 Black.
 
                      
-![](/images/Black man web.jpg)
+![](/jmwturner-site/images/Black man web.jpg)
 
 Detail from the Rescue boat 
 features one lone Black man as a key figure within this three-man vignette. The 
@@ -338,7 +338,7 @@ the Typhoon coming.
                  ***
 
           
-![](/images/slave-ship-detail.jpg)
+![](/jmwturner-site/images/slave-ship-detail.jpg)
 
 J.M.W. Turner, Slavers*****,
 detail showing a proud leg of the shackled slave

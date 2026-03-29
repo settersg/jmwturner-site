@@ -9,7 +9,7 @@ layout: single
        
  rubens 
 Peter Paul Rubens
-expert, ![](/images/Education of the Virgin adj sm sm.jpg) 
+expert, ![](/jmwturner-site/images/Education of the Virgin adj sm sm.jpg) 
 **rubens paintng expert
            
 [JMW Turner the source](Intro%20Shipwreck%20JMW%20Turner%20painting.htm)
@@ -45,7 +45,7 @@ Quality... originality... support... rarity... condition**
 
 **
 
-![](/images/ship menu education sm.jpg)**
+![](/jmwturner-site/images/ship menu education sm.jpg)**
 
 **
 
@@ -107,7 +107,7 @@ substantial conservation problems for modern works.** 
                          
 Education of the Virgin, 
 
-![](/images/Education of the Virgin port sm.jpg)![](/images/Isabella Brant crop.jpg)**an 
+![](/jmwturner-site/images/Education of the Virgin port sm.jpg)![](/jmwturner-site/images/Isabella Brant crop.jpg)**an 
 early work**
 
                                        
@@ -145,15 +145,15 @@ and 16th century after Roger van der Weyden and Heinrich Vogtherr.**      
                     
 
      
-![](/images/EofV portrait drawings sm cr.jpg)
+![](/jmwturner-site/images/EofV portrait drawings sm cr.jpg)
 
                      
 Susanna and the Elders, a late work
 
                   
-![](/images/Susanna web.jpg)
+![](/jmwturner-site/images/Susanna web.jpg)
 
-![](/images/portrait susanna adj.jpg)
+![](/jmwturner-site/images/portrait susanna adj.jpg)
 
 **                 
 Susanna and the Elders, P.P. Rubens **
@@ -188,7 +188,7 @@ copy.**
  
 
 **
-![](/images/Guernsey Murillo corner mouth jpegadj sm2.jpg)general 
+![](/jmwturner-site/images/Guernsey Murillo corner mouth jpegadj sm2.jpg)general 
 advice on collecting is available by contacting
 [Robert and Graham Setters](https://web.archive.org/web/20041215112350/mailto:jmwturner@shaw.ca)**
 

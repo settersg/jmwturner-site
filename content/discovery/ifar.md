@@ -45,7 +45,7 @@ IFAR evening / IFAR evenings
  
  
  
-![](/images/image001.gif) 
+![](/jmwturner-site/images/image001.gif) 
    
     
    
@@ -55,7 +55,7 @@ international
 foundation for art research 
 
 **
-![](/images/dutchmstr.jpg)**
+![](/jmwturner-site/images/dutchmstr.jpg)**
 
 **
 
@@ -67,7 +67,7 @@ ifar
 
  
  
-![](/images/image002.gif)**
+![](/jmwturner-site/images/image002.gif)**
 
 **In 
 recent years there has been a conflict heating up between the 
@@ -247,7 +247,7 @@ drawings had raised their value to something 28,000 - 42,000 each."
  
  
  
-![](/images/image003.gif) 
+![](/jmwturner-site/images/image003.gif) 
 *
 [Rescuing Turner: A New Age of Art Discovery](about%20Rescuing%20J.M.W.%20Turner%20A%20New%20Age%20of%20Art%20Discovery.htm)*:
 

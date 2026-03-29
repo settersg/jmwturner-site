@@ -44,8 +44,8 @@ Yale Center for British Art)
  
  
  
-![](/images/image001.gif)  
-![](/images/Orrock%20and%20BJ.jpg)**
+![](/jmwturner-site/images/image001.gif)  
+![](/jmwturner-site/images/Orrock%20and%20BJ.jpg)**
 
 ** *James Orrock 
 R.I. Artist 
@@ -75,7 +75,7 @@ than a cataloguing effort, as a result the authors automatically became the top
 experts on Turner.**
 
 **
-![](/images/connoisseurs.jpg)**
+![](/jmwturner-site/images/connoisseurs.jpg)**
 
 **Ultimately, the magic of 
 Connoisseurship**** is the ability to see the 'hand of the artist' in 
@@ -125,7 +125,7 @@ the* familiar imagemanna from Heaven! It was a striking full-page
 photogravure of *Shipwreck, the Rescue*! 
 
          
-![](/images/SWRphotogravure%20web.jpg)
+![](/jmwturner-site/images/SWRphotogravure%20web.jpg)
 
 **** 
 
@@ -183,7 +183,7 @@ Connoisseur** and
 Collector,* in two volumes  Cheers!
 
 **                     
-![](/images/Orrock%20and%20BJ%20web.jpg)
+![](/jmwturner-site/images/Orrock%20and%20BJ%20web.jpg)
 
 It is not far fetched that one makes the comparison 
 between the

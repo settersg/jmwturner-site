@@ -16,7 +16,7 @@ Medal / Turner Prize / Shanes Eric Shanes JMW Turner Prize
  *Turner Medal
 
 **
-![](/images/turnermedal_001aTN.jpg)**
+![](/jmwturner-site/images/turnermedal_001aTN.jpg)**
 
 **
 Once 
@@ -59,7 +59,7 @@ Turner Society News #94 2003   
 The New Turner Medal **
 
                           
-![](/images/turnermedal.gif)![](/images/Turner%20medal%20Worth%20crop.jpg)
+![](/jmwturner-site/images/turnermedal.gif)![](/jmwturner-site/images/Turner%20medal%20Worth%20crop.jpg)
 
 **"The Royal Academy has inaugurated a new Turner medal, the Windsor & Newton 
 Watercolour Award, for the most outstanding work in the medium in the annual 

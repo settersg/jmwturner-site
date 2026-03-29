@@ -9,10 +9,10 @@ expert, National Gallery London, Alistair Smith, Alistair...[JMW Turner
 the source](Intro%20Shipwreck%20JMW%20Turner%20painting.htm)              
 
                                    
-![](/images/Alistair%20Smithweb.gif)
+![](/jmwturner-site/images/Alistair%20Smithweb.gif)
 
                                    
-![](/images/Durer%20jpeg.jpg)
+![](/jmwturner-site/images/Durer%20jpeg.jpg)
 
 **
        St. 
@@ -60,10 +60,10 @@ Three examples:
 unusual face studies**
 
                                                  
-![](/images/St%20Jerome%20X3.jpg)![](/images/sketch%20compare%20St%20J%20sm.jpg)
+![](/jmwturner-site/images/St%20Jerome%20X3.jpg)![](/jmwturner-site/images/sketch%20compare%20St%20J%20sm.jpg)
 
                                                           
-![](/images/Dresden%20sketchbook,%20Durer%20heads%20written%201523.jpg)
+![](/jmwturner-site/images/Dresden%20sketchbook,%20Durer%20heads%20written%201523.jpg)
 
                                                           
 **In a unique effort Dürer experimented with distinctive facial 
@@ -75,13 +75,13 @@ types**
                           
 
                         
-![](/images/feet%20position%20X4.jpg)![](/images/child%20drawing%20feet.jpg)
+![](/jmwturner-site/images/feet%20position%20X4.jpg)![](/jmwturner-site/images/child%20drawing%20feet.jpg)
 
          3 - Quarry study showing Dürer's interest in taking 
 unusual landscape features from nature
 
                                                         
-![](/images/quarry%20detail%20sm.jpg)
+![](/jmwturner-site/images/quarry%20detail%20sm.jpg)
 
                                                                                    watercolour on paper 1497
 

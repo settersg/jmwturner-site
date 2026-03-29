@@ -18,7 +18,7 @@ expert is surely
 sterile**
 
 **
-![](/images/landscape%20detailsm.jpg)The 
+![](/jmwturner-site/images/landscape%20detailsm.jpg)The 
 complexities of art appraisal, art evaluation, and art authentication are such 
 that most of those with an advanced understanding of the art world are loath to 
 get involved unless they have something to gain. **
@@ -46,7 +46,7 @@ Source: **
 **r malcolm setters / graham setters**
 
 **
-![](/images/bright%20orange%20paint.jpg)****[forensics studies in art](forensic%20art%20restoration%20forensic%20studies%20in%20art%20fingerprint%20identification.htm) **
+![](/jmwturner-site/images/bright%20orange%20paint.jpg)****[forensics studies in art](forensic%20art%20restoration%20forensic%20studies%20in%20art%20fingerprint%20identification.htm) **
 
 **
 [art scientific analysis](Art%20Science%20J.M.W.%20Turner)**
@@ -79,7 +79,7 @@ Source: **
  
 
  **
- ![](/images/hat%20pentimenti%20-%20there%20is%20also%20pentimenti%20around%20the%20figuresm.jpg)"In this regard, a personal experience came in 1988 with a visit to the 
+ ![](/jmwturner-site/images/hat%20pentimenti%20-%20there%20is%20also%20pentimenti%20around%20the%20figuresm.jpg)"In this regard, a personal experience came in 1988 with a visit to the 
  National Gallery, London. It was to do with a painting that came from the 
  estate of Rudolph Hermani (of the Krupp and Mercedes' fame). Although the 
  gallery official that I was directed to, Alistair Smith, had confidently 
@@ -91,7 +91,7 @@ Source: **
  a member of staff of the National Gallery, I am not allowed to authenticate 
  paintings in private hands, and while I do not wish to be obstructive, I 
  would be very grateful if you would remove my name from any printed 
- materials which you are to issue."**![](/images/face.jpg)**
+ materials which you are to issue."**![](/jmwturner-site/images/face.jpg)**
  
 
  **"Indubitably, this is a wide ranging problem: for many years John Walker 
@@ -104,7 +104,7 @@ Source: **
  essential way.
  
 
- ![](/images/full%20image%2030%20X%2040%20inches.jpg)
+ ![](/jmwturner-site/images/full%20image%2030%20X%2040%20inches.jpg)
 
          Newly discovered 
  19thc painting signed Edouard Manet... vintage title-plate: *Boating Near 
@@ -127,10 +127,10 @@ Although difficult to
 detect beneath the degraded antique varnish, it *is signed* 
  on the stern of the boat (as seen here in the detail) in the manner Manet was using at the time. 
  
- ![](/images/sig%20and%20date%20under%20varnish%20on%20stern%20of%20boat%20-%20typical%20location.jpg)The 
+ ![](/jmwturner-site/images/sig%20and%20date%20under%20varnish%20on%20stern%20of%20boat%20-%20typical%20location.jpg)The 
 central feature of the painting, a young lady sitting in a boat holding a 
 parasol is the same unidentified girl seen in *Boating*. Her hat rests on 
-the side of the boat and is the same one that she![](/images/Manet2bsm.jpg) wears in *Boating*. In 
+the side of the boat and is the same one that she![](/jmwturner-site/images/Manet2bsm.jpg) wears in *Boating*. In 
 keeping with Manets working method the painting has a considerable amount of 
 pentimenti.             
  Figure comparison from Boating
@@ -144,7 +144,7 @@ p. 130)**
 
         
          
-![](/images/varn1.jpg)
+![](/jmwturner-site/images/varn1.jpg)
 
 **small congealed area (center left of this 
 detail) shows the brightness 
@@ -165,7 +165,7 @@ each artist learning from each other at different times.[[ii]](#_edn2) 
 This cross-fertilization caused Manet to embrace certain impressionist ideals 
 while retaining elements of his earlier style. Works such as *Boating* 
 (portrait detail above), *Boating Near Rueil*, and *The Seine Banks at 
-Argentueil* (seen here![](/images/seine%20banks%20at%20A%20adj.jpg)) 
+Argentueil* (seen here![](/jmwturner-site/images/seine%20banks%20at%20A%20adj.jpg)) 
 all exemplify a shift in Manets style while demonstrating his unwillingness to 
 completely conform to the impressionist movement. **
 

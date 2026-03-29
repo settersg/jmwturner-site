@@ -40,7 +40,7 @@ The *Oxford Companion to J.M.W. Turner*,
 
  
  
-![](/images/image001.gif)
+![](/jmwturner-site/images/image001.gif)
 
                                            
                      
@@ -48,7 +48,7 @@ The *Oxford Companion to J.M.W. Turner*,
 The Paintings of JMW Turner
 
                                            
-![](/images/M&G7%20web.jpg)
+![](/jmwturner-site/images/M&G7%20web.jpg)
 
                                       
 Martin Butlin and
@@ -76,7 +76,7 @@ tribulations and ecstasies of several of them.                 
                                           
 
                                      
-![](/images/M7%20web.jpg)
+![](/jmwturner-site/images/M7%20web.jpg)
 
 **** Martin 
 Butlin in Penticton signing books in the authors study.

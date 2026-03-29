@@ -5,7 +5,7 @@ layout: single
 
 | 
 
-![](/images/court%20doc%20edit%20web.JPG)*** *
+![](/jmwturner-site/images/court%20doc%20edit%20web.JPG)*** *
  
  
  
@@ -31,7 +31,7 @@ layout: single
 
  
  
-![](/images/image001.gif)**
+![](/jmwturner-site/images/image001.gif)**
 
 **
 
@@ -39,7 +39,7 @@ layout: single
  
  
  
-![](/images/image002.gif)*Rescuing Turner: A New Age of Art Discovery*:  "yet to be added  
+![](/jmwturner-site/images/image002.gif)*Rescuing Turner: A New Age of Art Discovery*:  "yet to be added  
 
   
 

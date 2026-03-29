@@ -16,7 +16,7 @@ press](http://www.yale.edu/yup/)) Important British paintings Chtistie's
                                          the "Hand" of 
 deception                     ** 
    
-![](/images/Ehrfull large jpeg adjweba.jpg)                         
+![](/jmwturner-site/images/Ehrfull large jpeg adjweba.jpg)                         
  ***
                                                             * 
 
@@ -45,7 +45,7 @@ deception                     **
 
  
  
-![](/images/image001.gif)**
+![](/jmwturner-site/images/image001.gif)**
 
  
  ***
@@ -59,7 +59,7 @@ on a marbled book-board signed and dated, JMW Turner R.A. 1817 (10 X 12 inches)�
 **
  
  
-![](/images/image002.gif)                 ** *
+![](/jmwturner-site/images/image002.gif)                 ** *
  [Rescuing Turner: A New Age of Art Discovery](about%20Rescuing%20J.M.W.%20Turner%20A%20New%20Age%20of%20Art%20Discovery.htm)*:
 
 r malcolm setters
@@ -146,7 +146,7 @@ picture on a tablecloth.[[iv]](#_edn4)
                                                                    
 
                          
-![](/images/EHRbackweb.jpg)
+![](/jmwturner-site/images/EHRbackweb.jpg)
 
                           
 **
@@ -163,7 +163,7 @@ varnish with no later additions.
                                                                                     
 
                          
-![](/images/EHRsigweb.jpg)
+![](/jmwturner-site/images/EHRsigweb.jpg)
 
                                
 **
@@ -188,7 +188,7 @@ important collector of 18th and 19th century British art
 from whence* Shipwreck, the Rescue *sold in 1904.
 
                              
-![](/images/EHR label.jpg)
+![](/jmwturner-site/images/EHR label.jpg)
 
 Label from the backing of the Orrock Ehrenbrietstein. "J... rner R.A. Signed and 
 dated from the collection of James Orrock Esq. No. 157 - 1884."
@@ -258,7 +258,7 @@ years. Finally, in 1835 he exhibited *The Bright Stone of Honour
  
 
  
-![](/images/image004.jpg)
+![](/jmwturner-site/images/image004.jpg)
 
 **
 **
@@ -281,7 +281,7 @@ only defer to the *Oxford Companion* *To J.M.W. Turner *vis-à-vis
 Caernarvon Castle for which Turner made a small oil study on panel, which 
 suggests that he first considered painting the subject in oils.[[ix]](#_edn9)**
 
-![](/images/Ehrenpaintingweb.jpg)
+![](/jmwturner-site/images/Ehrenpaintingweb.jpg)
 
 ** Without knowledge of the Orrock 
 painting it has been assumed that the exhibited piece of 1835 was inspired by 
@@ -340,7 +340,7 @@ accepting. The problem with this scenario becomes apparent in the section,
 
 **
 
-![](/images/drawing castleweb.jpg)
+![](/jmwturner-site/images/drawing castleweb.jpg)
 
 Possibly for the sake of expedience, it
 has been assumed**** in recent years that Turner did very little open-air sketching 
@@ -415,7 +415,7 @@ spirits bright repose;
                                                   For he was freedoms champion****
 
              
-![](/images/WWII sterioview.jpg)
+![](/jmwturner-site/images/WWII sterioview.jpg)
 
                          WWI stereo-view of 
 ****
@@ -533,7 +533,7 @@ This previously revered work is dejected alas. Will there not be a reprieve for 
 one single reference to the more sensitive side of Turner during this period of "new sensitivity?"**
 
 **                                  
-![](/images/landscape with a distant church web5.jpg)
+![](/jmwturner-site/images/landscape with a distant church web5.jpg)
 
 **
 ***Landscape with 
@@ -609,7 +609,7 @@ the paintings. And if this were the case there would have been little attention 
 documentary details, receipts, and the like.**
 
 **                                 
-![](/images/aaafontcrop.jpg)
+![](/jmwturner-site/images/aaafontcrop.jpg)
 
 **
 ** *Orrock Ehrenbrietstein* 
@@ -715,7 +715,7 @@ home.  The oil-sketch did however have to eventually reside in London to be use
 as the model for the 1835 exhibition piece, and the 1817 inscription, must 
 indicate that it was done within a few months of the journey. ** 
 
-![](/images/Devonshireweb.jpg)
+![](/jmwturner-site/images/Devonshireweb.jpg)
 
 **The oil sketch of Devonshire from 
 1813 (seen here) was illustrated in W.L. Wyllies biography of Turner, page 54. 
@@ -835,7 +835,7 @@ of the Continent to the English traveler after Waterloo, and it was not until
  
  
 
-![](/images/image005.gif)
+![](/jmwturner-site/images/image005.gif)
 
  
 

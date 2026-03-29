@@ -36,8 +36,8 @@ for JMW T- who and why? Jiří
 
  
  
-![](/images/Martin%20Butlin%20Christie)                                   
-![](/images/MB%20port%20fulla.jpg)
+![](/jmwturner-site/images/Martin%20Butlin%20Christie)                                   
+![](/jmwturner-site/images/MB%20port%20fulla.jpg)
 
 **
 ***                         
@@ -71,7 +71,7 @@ persevered. **
 
  **
 
-![](/images/Butlin5.jpg)**By the time 
+![](/jmwturner-site/images/Butlin5.jpg)**By the time 
 Martin and his wife Frances arrived, their visit had evolved far beyond what was first intended; a 
 trip of pure business had become a vacation with a purpose. The distance from home, casual social 
 environment, and the straight-forward and simple people impression Martin had 

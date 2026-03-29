@@ -32,16 +32,16 @@ layout: single
 
  
  
-![](/images/image001.gif)**
+![](/jmwturner-site/images/image001.gif)**
 
 **
                                        
  
  
-![](/images/image002.gif)*     
+![](/jmwturner-site/images/image002.gif)*     
 
          
-![](/images/SWRfullbook%20weba.jpg)
+![](/jmwturner-site/images/SWRfullbook%20weba.jpg)
 
            Shipwreck, the Rescue* c1802* *
 by J.M.W. Turner R.A.  (161 x 222 cm)**
@@ -128,7 +128,7 @@ what happened to the American legend, John Anderson Jr., author of
 -[Portrait of a 
 Hero](portrait%20hero%20shipwreck%20slavers%20JMW%20Turner.htm)   In the end - it's all about Turner, the hero of our story.**
 
-![](/images/Turner%20statue%20e%20baily%20w%20roffe%20sculpt.jpg)
+![](/jmwturner-site/images/Turner%20statue%20e%20baily%20w%20roffe%20sculpt.jpg)
 
 **
 
@@ -180,7 +180,7 @@ statue by E. Baily R.A.
  
 
  
-![](/images/image003.jpg)**
+![](/jmwturner-site/images/image003.jpg)**
 
  
 

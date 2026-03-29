@@ -5,7 +5,7 @@ layout: single
 
 | 
 
-![](/images/Turner portrait book cover web.jpg)[JMW 
+![](/jmwturner-site/images/Turner portrait book cover web.jpg)[JMW 
 Turner:  the source](Intro%20Shipwreck%20JMW%20Turner%20painting.htm)
 ***Rescuing Turner: A New Age of Art 
 Discover*y** JMW/JMW book, book on JMW Turner/ Turner  
@@ -38,15 +38,15 @@ Tate/Tate Gallery on JMW
 
  
  
-![](/images/image001.gif)**
+![](/jmwturner-site/images/image001.gif)**
  
  
-![](/images/image002.gif)
+![](/jmwturner-site/images/image002.gif)
 
                          
  
  
-![](/images/image003.gif)**
+![](/jmwturner-site/images/image003.gif)**
 
 ****
 

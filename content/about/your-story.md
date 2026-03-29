@@ -36,14 +36,14 @@ layout: single
 
  
  
-![](/images/image001.gif)                                                                  
+![](/jmwturner-site/images/image001.gif)                                                                  
  **
  [JMW Turner:  the 
  source](Intro%20Shipwreck%20JMW%20Turner%20painting.htm)
  
 
 **
- ![](/images/Turner house, Chelsea web.jpg)**
+ ![](/jmwturner-site/images/Turner house, Chelsea web.jpg)**
  
 
  ** Everyone associated with the 

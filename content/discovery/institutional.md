@@ -16,7 +16,7 @@ Gardner; Rothschild; H.E. Huntington; Henry Goldman, Andrew
 Mellon, [J. 
 Paul Getty](http://www.getty.edu/) **
 
-[Paul Mellon](http://www.yale.edu/ycba/),**![](/images/boat 3 web.jpg) **
+[Paul Mellon](http://www.yale.edu/ycba/),**![](/jmwturner-site/images/boat 3 web.jpg) **
 **Bernard** **Berenson Joseph Duveen Lord Kenneth Clark****
 
  
@@ -44,11 +44,11 @@ Paul Getty](http://www.getty.edu/) **
 
  
  
-![](/images/image001.gif)             
+![](/jmwturner-site/images/image001.gif)             
 
  
  
-![](/images/image002.gif)**
+![](/jmwturner-site/images/image002.gif)**
 
 **         **** 
 
@@ -132,7 +132,7 @@ resulting from these internecine wars.[[iv]](#_edn4)**
  
 
  
-![](/images/image004.gif)
+![](/jmwturner-site/images/image004.gif)
 
  
 
@@ -278,7 +278,7 @@ taming of morals and manners.[[xi]](#_edn11)
 **
 
 **
-![](/images/collector.jpg)**
+![](/jmwturner-site/images/collector.jpg)**
 
 **
 

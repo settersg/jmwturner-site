@@ -39,7 +39,7 @@ theory
 
  
  
-![](/images/image001.gif)
+![](/jmwturner-site/images/image001.gif)
 
                                   
 
@@ -67,7 +67,7 @@ Dubitable "Hand C"  **
  
 
  
-![](/images/image003.jpg)
+![](/jmwturner-site/images/image003.jpg)
 
                                                 J.M.W.TURNER R.A. PINXT                                                                                                      
 J. COUSEN SCUPLT
@@ -130,7 +130,7 @@ Yes, at Grahams prompting it seems that the village came into focus, as if by
 magic.**
 
 **                                  
-![](/images/aaatreescattle.jpg)
+![](/jmwturner-site/images/aaatreescattle.jpg)
 
 **
 
@@ -146,7 +146,7 @@ careerhis graphic shorthand which enabled him to simplify what he saw into a
 few swift mnemonic strokes.[[ii]](#_edn2)**
 
 **                                       
-![](/images/Ehrenb%20det%20figures%20web.jpg)
+![](/jmwturner-site/images/Ehrenb%20det%20figures%20web.jpg)
 
 **
 **      ** ***                                            Orrock Ehrenbrietstein:***** 
@@ -221,7 +221,7 @@ find it to be that of Mussolini. **
 
 **
  
-![](/images/image006.jpg)
+![](/jmwturner-site/images/image006.jpg)
 
 In keeping with 
 the comment about scratches 
@@ -238,7 +238,7 @@ scratching into the wet paint.
 
 **                                  
  
-![](/images/image008.jpg)**
+![](/jmwturner-site/images/image008.jpg)**
 
 **
 Detail of the sky showing a large horizontal scratch 
@@ -257,7 +257,7 @@ done while the paint was wet.**
 
 **
 
-![](/images/ehrenb%20tree%20and%20printsweb.jpg)
+![](/jmwturner-site/images/ehrenb%20tree%20and%20printsweb.jpg)
 
 In this**** enlarged detail of the *Orrock Ehrenbrietstein* the artists technique of 
 smudging the first layer of leaves with his finger or thumb then applying a 
@@ -287,7 +287,7 @@ This was written in 1905."****
 **
                                     
 
-![](/images/Ehrfull%20large%20jpeg%20adjweba.jpg)
+![](/jmwturner-site/images/Ehrfull%20large%20jpeg%20adjweba.jpg)
 
                   *  
 *** *             Orrock Ehrenbrietstein*,**

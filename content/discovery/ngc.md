@@ -31,16 +31,16 @@ layout: single
 
  
  
-![](/images/image001.gif) 
+![](/jmwturner-site/images/image001.gif) 
 What went wrong?**
 
 **
  
  
-![](/images/image002.gif)**
+![](/jmwturner-site/images/image002.gif)**
 
 **
-![](/images/NGC%20Shipwreck%20BW.jpg)**
+![](/jmwturner-site/images/NGC%20Shipwreck%20BW.jpg)**
 
 **
 
@@ -51,7 +51,7 @@ c1840
 
  
  
-![](/images/image003.gif)
+![](/jmwturner-site/images/image003.gif)
 
   *
 Rescuing Turner: A New Age of Art Discovery*:
@@ -172,7 +172,7 @@ exhibition pieces. Incorporating a quote from Redgrave, one of Turners
 colleagues, Reynolds effectively defends the NGC picture in light of such 
 ungrounded criticism; Redgravecomments on Turners love 
 of transfiguring a rich colour from other palettes to his own pictures, from 
-our own palette he has whisked off, on more occasions![](/images/Turner%20paintingweba.jpg)****
+our own palette he has whisked off, on more occasions![](/jmwturner-site/images/Turner%20paintingweba.jpg)****
 
 ****than one, a luscious knot 
 of orange vermilion or ultramarine, tempered with copal, and at once used it on 

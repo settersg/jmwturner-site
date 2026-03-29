@@ -40,7 +40,7 @@ London: 'an institution'      **
 
  
  
-![](/images/image001.gif)  [policy](St.%20Christopher.htm) 
+![](/jmwturner-site/images/image001.gif)  [policy](St.%20Christopher.htm) 
 on evaluations:**
 
 **         
@@ -120,7 +120,7 @@ resulting from these internecine wars.[[iv]](#_edn4)**
  
 
  
-![](/images/image002.gif)
+![](/jmwturner-site/images/image002.gif)
 
  
 
@@ -176,7 +176,7 @@ aficionados was not comprised of grass-root collectors with deep passion, but
 instead, university grads looking for employment and a secure future in a 
 position. **
 
-![](/images/connoisseurs.jpg)Beyond 
+![](/jmwturner-site/images/connoisseurs.jpg)Beyond 
 this apparent dimming of Renaissance thought** there seemed to be a 
 flickering light; From his parents Paul [Mellon] inherited, in his words, a 
 desire to own, to enjoy, to savour, and to conserve rare and beautiful things, a 
@@ -230,7 +230,7 @@ taming of morals and manners.[[xi]](#_edn11)
 **
 
 **
-![](/images/collector.jpg)**
+![](/jmwturner-site/images/collector.jpg)**
 
 **
 

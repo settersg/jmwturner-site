@@ -35,13 +35,13 @@ layout: single
  
  
  
-![](/images/image001.gif)                          
+![](/jmwturner-site/images/image001.gif)                          
 **Peter Paul Biró  **               
 
-![](/images/P4 aweb.jpg)** ** 
+![](/jmwturner-site/images/P4 aweb.jpg)** ** 
  
  
-![](/images/image002.gif)          **
+![](/jmwturner-site/images/image002.gif)          **
 
 scouring the surface of
 *

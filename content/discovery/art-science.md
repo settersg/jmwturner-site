@@ -39,10 +39,10 @@ at the Tate... Ian Warrell opinion, Andrew Wilton
 
  
  
-![](/images/Art%20Science%20J.M.W.%20Turner)           
+![](/jmwturner-site/images/Art%20Science%20J.M.W.%20Turner)           
 
                                      
-![](/images/Black%20man%20web.jpg)
+![](/jmwturner-site/images/Black%20man%20web.jpg)
 
  
 
@@ -70,7 +70,7 @@ Turner expert, James Orrock, be the first challenge by
 connoisseurship 
 against science invading the purview of the art establishment?**
 
-![](/images/Orrock%20photograverweb.jpg)
+![](/jmwturner-site/images/Orrock%20photograverweb.jpg)
 
  
 
@@ -128,7 +128,7 @@ cataloguer followed her statement with had more bearing on the matter: Yes, bu
 incredibly time consuming. [[iii]](#_edn3)**
 
   
-![](/images/Turner%20papers%20web.jpg)
+![](/jmwturner-site/images/Turner%20papers%20web.jpg)
 
 **This is one of two very extensive studies done by Peter 
 Bower (Tate Gallery Publications 1990).**
@@ -197,7 +197,7 @@ and illogical. **
  
  
 
-![](/images/Art%20Science%20J.M.W.%20Turner)
+![](/jmwturner-site/images/Art%20Science%20J.M.W.%20Turner)
 
       **And what about
 *Turner* and ** ***
@@ -300,7 +300,7 @@ starting to use white grounds early in the century.
 **
 
              
-![](/images/ground%20layer%20electron%20microweb.jpg)
+![](/jmwturner-site/images/ground%20layer%20electron%20microweb.jpg)
 
  
 
@@ -403,7 +403,7 @@ the Tate Gallery, which is the National Gallery of British and modern foreign
 art. They do not have a research laboratory, though occasionally we try and 
 solve the occasional specific problem connected with treatment by examining 
 samples from their pictures. Nothing much in the way of Turner (other than 
-watercolours) or Gainsborough has reached us.![](/images/Turnerpaintboxweb.jpg)
+watercolours) or Gainsborough has reached us.![](/jmwturner-site/images/Turnerpaintboxweb.jpg)
 
   I have always been a little puzzled by the 
 results of analysis of the late Turner paint boxes, as published by Hanson. 
@@ -514,7 +514,7 @@ high, having near identical dimensions!  **
 
   
 
-![](/images/Bridgewater%20Sea%20Piece%20BW%20web.gif)
+![](/jmwturner-site/images/Bridgewater%20Sea%20Piece%20BW%20web.gif)
 
 ***Bridgewater Sea Piece***
 exhibited Royal Academy 1801  162.5 x 
@@ -560,7 +560,7 @@ Marilyn Laver was relayed to me along with her own letter noting that Warrell
 based his opinion on only an 8 x 10 photograph. 
 
     
-![](/images/Susanna%20web.jpg) 
+![](/jmwturner-site/images/Susanna%20web.jpg) 
 
  **P.P. Rubens, *Susanna and the 
 Elders* 1638
@@ -600,7 +600,7 @@ dilemma at hand is succinctly addressed later under the heading
  
 
  
-![](/images/Art%20Science%20J.M.W.%20Turner)
+![](/jmwturner-site/images/Art%20Science%20J.M.W.%20Turner)
 
 **
 
@@ -625,7 +625,7 @@ life, than as individuals.[[xxix]](#_edn29)
              
 
               
-![](/images/SWRmasspeoplewebadj.jpg)
+![](/jmwturner-site/images/SWRmasspeoplewebadj.jpg)
 
 **
 
@@ -647,7 +647,7 @@ largely recognizable. These Turner archetypes were discussed in detail during
 Martin Butin's visit to Canada. **
 
 **
-![](/images/wilson%20sketch%20web.jpg)**
+![](/jmwturner-site/images/wilson%20sketch%20web.jpg)**
 
  
 
@@ -701,12 +701,12 @@ places by an excessive vigour of realization."**
                                        
  
  
-![](/images/Art%20Science%20J.M.W.%20Turner)
+![](/jmwturner-site/images/Art%20Science%20J.M.W.%20Turner)
 
          
 
                  
-![](/images/SWR%20infra%20red%20web.jpg)
+![](/jmwturner-site/images/SWR%20infra%20red%20web.jpg)
 
 Infrared photograph: 
 to assist in the search of under-drawing the pigments 

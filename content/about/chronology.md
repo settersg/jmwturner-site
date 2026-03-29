@@ -16,7 +16,7 @@ Turner Chronology    **
 
  
 
-![](/images/stamp%20portr.jpg)
+![](/jmwturner-site/images/stamp%20portr.jpg)
 
  
 
@@ -73,7 +73,7 @@ sketched extensively in the region and did the first of his very limited number
 of self-portraits (a small w/c) for the Narraway family.**
 
 **
-![](/images/SWRBlack%20man%20web.jpg)**
+![](/jmwturner-site/images/SWRBlack%20man%20web.jpg)**
 
 **Detail, *Shipwreck, the Rescue* showing 
 three figures in a rescue boat drawing a lifeline **
@@ -104,7 +104,7 @@ He meets Dr. Monro
 Begins experimenting with oil painting and etching.**
 
 **
-![](/images/chepstow%20sm.jpg)1794 
+![](/jmwturner-site/images/chepstow%20sm.jpg)1794 
 Five watercolour R.A.
 
 Turner did considerable amount of topographical drawing for which he became 
@@ -205,7 +205,7 @@ Turner tours Scotland.**
 
 **
 
-![](/images/SWR%20large%20jpg%20adj%20600%20crop.jpg)1802 Elected a Royal Academician
+![](/jmwturner-site/images/SWR%20large%20jpg%20adj%20600%20crop.jpg)1802 Elected a Royal Academician
 
 Exhibited four oil paintings and four watercolours including his diploma piece,
 *Dolbadern Castle* of 1800. Turner's oils are dark and foreboding during 
@@ -224,7 +224,7 @@ artist's studios; David, and Guérin.
 Thomas Girtin, Turner's artist companion passed away**
 
 **
-![](/images/spar%20close%20web.jpg)**
+![](/jmwturner-site/images/spar%20close%20web.jpg)**
 
  
 
@@ -288,7 +288,7 @@ effort for the following number of years.
 
 Takes a house at 6 West End, Upper Mall, Hammersmith
 
-![](/images/shipwreck%20printsm.jpg)1807 
+![](/jmwturner-site/images/shipwreck%20printsm.jpg)1807 
 Exhibited both in Turner's Gallery and at the R.A.
 
 Publication of a large Mezzotint* *after* *his *Shipwreck* 
@@ -349,7 +349,7 @@ work and travels).
 
 Departed London to visited Cornwall and many points in between.
 
-![](/images/Solus%20Lodge,%20Sandycombe%20sm.jpg)1812 
+![](/jmwturner-site/images/Solus%20Lodge,%20Sandycombe%20sm.jpg)1812 
 Four oils at the R.A, and many re-exhibits at the newly reopened Turner Gallery 
 .
 
@@ -423,7 +423,7 @@ Ehrenbrietstein and the French general Marceau was to have a profound influence
 on Turner, his travels, and his artwork the following year.**
 
 **
-![](/images/Ehrfull%20large%20jpeg%20adjweba.jpg)
+![](/jmwturner-site/images/Ehrfull%20large%20jpeg%20adjweba.jpg)
 
 [Ehrenbriestein](Hand%20C%20Orrock%20Ehrenbrietstein%20Martin%20Butlin%20J.M.W.%20Turner.htm) Oil sketch 9.5 x 11.5 in.
 
@@ -536,7 +536,7 @@ Worked on *The Battle of Trafalgar*
 
 Sketched the coast of France and East coast of England from the channel.
 
-![](/images/portrait%20susanna%20adj.jpg)Shows 
+![](/jmwturner-site/images/portrait%20susanna%20adj.jpg)Shows 
 some interest in [Peter Paul Rubens](RUBENS%20Peter%20Paul%20Rubens.htm)' 
 work by sketching the Flemish master's portrait of Susanne Fourment while it was 
 in London:
@@ -707,7 +707,7 @@ Alters will regarding specifics of bequest to the National Gallery (exchanges *
 Decline of Carthage*). Minor changes also included the establishment of a 
 fund from which various charities could be serviced.
 
-![](/images/shallot%20j.jpg)1832 
+![](/jmwturner-site/images/shallot%20j.jpg)1832 
 Six oils at the R.A. including *Childe Harold's Pilgrimage *and* Staffa*. 
 Judging by the published response to the sea pieces exhibited this year it might 
 be assumed that they were stylistically in keeping with his earliest sea pieces 
@@ -956,7 +956,7 @@ Ten Swiss watercolours painted, all sold
 
 Griffith opens a gallery in Pall Mall
 
-![](/images/Turner%20paintingweba.jpg)1846**
+![](/jmwturner-site/images/Turner%20paintingweba.jpg)1846**
 **Six oils exhibited at the R.A. (Two Venetian  subjects)
 
 Two paintings exhibited at the Royal Scottish Academy. One painting at the 

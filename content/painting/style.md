@@ -35,7 +35,7 @@ tate turner studies society news authentication christie's sotheby's
 
  
  
-![](/images/image001.gif)**
+![](/jmwturner-site/images/image001.gif)**
 
 > 
  
@@ -50,7 +50,7 @@ tate turner studies society news authentication christie's sotheby's
  
 
 **              
-![](/images/spar%20close%20web.jpg)**
+![](/jmwturner-site/images/spar%20close%20web.jpg)**
 
 > 
  
@@ -114,7 +114,7 @@ figures witht. a feature being expressed.
 [[ii]](#_edn2) 
 **
 
-**       ![](/images/Blot%20web.jpg)              
+**       ![](/jmwturner-site/images/Blot%20web.jpg)              
  **
 
 **
@@ -155,7 +155,7 @@ to question both Turners power and competence, calling his submissions to the
 Royal Academy, Mr. Turners little jokes.[[v]](#_edn5)**
 
 **
-![](/images/SWRwaterweb.jpg)**
+![](/jmwturner-site/images/SWRwaterweb.jpg)**
 
 **
 
@@ -175,7 +175,7 @@ vision by deadening his first inspired idea and the feeling of immediacy and
 action that normally accompanies swift brushwork. **
 
 **
-![](/images/snow%20storm%20web.jpg)**
+![](/jmwturner-site/images/snow%20storm%20web.jpg)**
 
 **In Turner's *Snow Storm* from 1842 it is evident 
 that his brushwork is meant to describe the forces of nature on a more visceral 
@@ -213,7 +213,7 @@ Constable, not unjustly, called them Large Water-colours.[[x]](#_edn10)
  
 
 **
-![](/images/SWR%20crop%20brushwork%20boat%203%20web.jpg)**
+![](/jmwturner-site/images/SWR%20crop%20brushwork%20boat%203%20web.jpg)**
 
 **
 
@@ -296,7 +296,7 @@ the oil painting sequence used in modern painting versus that used by old
 masters who used translucent glazes to finish their work. 
 
 **
-![](/images/SWR4000DPIjpeg%20auto%20levels%20adj%20sparweb.jpg)
+![](/jmwturner-site/images/SWR4000DPIjpeg%20auto%20levels%20adj%20sparweb.jpg)
 
 **SWR f****our 
 desperate souls cling to the spar**
@@ -408,7 +408,7 @@ rule custom fabricated. **
  
 
 **
-![](/images/boat%203%20megaphone%20web.jpg)**
+![](/jmwturner-site/images/boat%203%20megaphone%20web.jpg)**
 
 **
 
@@ -448,7 +448,7 @@ in, the first would be ready for the finishing touches.[[xxiii]](#_edn23)
 
  
 
-![](/images/SWR4000DPIjpeg%20auto%20levels%20adj%20wreckweb.jpg)
+![](/jmwturner-site/images/SWR4000DPIjpeg%20auto%20levels%20adj%20wreckweb.jpg)
 
 **
 

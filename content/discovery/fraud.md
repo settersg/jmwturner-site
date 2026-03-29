@@ -19,7 +19,7 @@ the source](Intro%20Shipwreck%20JMW%20Turner%20painting.htm) **fraud: art fraud*
 **
    Art Fraud of the Highest Order
 
-![](/images/collector.jpg)How 
+![](/jmwturner-site/images/collector.jpg)How 
 much distortion of Art History is due to aristocratic influence and 
 governmental self-serving regulations? Certain customs and laws control the movement of art in order 
 to protect tourism, jobs, and financial benefits that derive from historic art.
@@ -69,7 +69,7 @@ the term art
 expert is surely 
 sterile**
 
-![](/images/Rubens%20deposition.jpg%20Dig%20C.jpg)
+![](/jmwturner-site/images/Rubens%20deposition.jpg%20Dig%20C.jpg)
 
 **Deposition****, tiny 
 17th century oil on copper**
@@ -103,7 +103,7 @@ must be fully considered when assessing authorship:**
 ** r malcolm setters / graham setters**
 
 **
-![](/images/bright%20orange%20paint.jpg)****[forensics studies in art](forensic%20art%20restoration%20forensic%20studies%20in%20art%20fingerprint%20identification.htm) **
+![](/jmwturner-site/images/bright%20orange%20paint.jpg)****[forensics studies in art](forensic%20art%20restoration%20forensic%20studies%20in%20art%20fingerprint%20identification.htm) **
 
 **
 [art scientific analysis](Art%20Science%20J.M.W.%20Turner)**
@@ -192,7 +192,7 @@ and Graham Setters](https://web.archive.org/web/20050204031756/mailto:jmwturner@
    ****IMPORTANT 
 POINTS TO CONSIDER WHEN CHOOSING A TREASURE**
 
-** SIZE:****![](/images/monetfrawilcropweb.jpg)****
+** SIZE:****![](/jmwturner-site/images/monetfrawilcropweb.jpg)****
 
           - Is it portable?
 
