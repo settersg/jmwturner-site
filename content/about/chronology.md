@@ -42,7 +42,7 @@ the R.A.
 He went to stay at the friend of his father in Bristol, John Narraway. He
 sketched extensively in the region and did the first of his very limited number
 of self-portraits (a small w/c) for the Narraway family.
-![](/jmwturner-site/images/SWRBlack%20man%20web.jpg)
+![](/jmwturner-site/images/SWRBlack-man-web.jpg)
 Detail, Shipwreck, the Rescue showing
 three figures in a rescue boat drawing a lifeline
 1792 Two watercolour R.A.
@@ -275,7 +275,7 @@ the battle, Beaumont's appointment was likely the reason Turner did not enter.
 Publication of canto three of Byron's Childe Harold, and its reference to
 Ehrenbrietstein and the French general Marceau was to have a profound influence
 on Turner, his travels, and his artwork the following year.
-![](/jmwturner-site/images/Ehrfull%20large%20jpeg%20adjweba.jpg)
+![](/jmwturner-site/images/Ehrfull-large-jpeg-adjweba.jpg)
 [Ehrenbriestein](/discovery/hand-c/) Oil sketch 9.5 x 11.5 in.
 1817 R.A. -
 exhibited one oil with a quote from his Falacies of Hope; Turner fancied
@@ -353,7 +353,7 @@ James's Palace to Greenwich.
 Another Cooke exhibition, eleven Turners shown.
 Worked on The Battle of Trafalgar
 Sketched the coast of France and East coast of England from the channel.
-![](/jmwturner-site/images/portrait%20susanna%20adj.jpg)Shows
+![](/jmwturner-site/images/portrait-susanna-adj.jpg)Shows
 some interest in [Peter Paul Rubens](/discovery/rubens/)'
 work by sketching the Flemish master's portrait of Susanne Fourment while it was
 in London:

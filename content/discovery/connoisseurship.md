@@ -82,7 +82,7 @@ was pictured. Stunning! Was it just another familiar image? No! It was
 the familiar imagemanna from Heaven! It was a striking full-page
 photogravure of Shipwreck, the Rescue!
         
-![](/jmwturner-site/images/SWRphotogravure%20web.jpg)
+![](/jmwturner-site/images/SWRphotogravure-web.jpg)
  
 The Wreck
 Photogravure  by Walker E. Cockerell after

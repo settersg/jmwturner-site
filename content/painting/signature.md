@@ -12,9 +12,9 @@ layout: single
 ![](/jmwturner-site/images/image001.gif)                                                        
  
 ![](/jmwturner-site/images/image002.gif)
-![](/jmwturner-site/images/P1%20web.jpg)
+![](/jmwturner-site/images/P1-web.jpg)
  
-     ![](/jmwturner-site/images/SWR%20large%20JWTb.tif.jpg)                            
+     ![](/jmwturner-site/images/SWR-large-JWTb.tif.jpg)                            
 [Beginning
 of the J.M.W. Turner story](/painting/)
            
@@ -28,7 +28,7 @@ of the J.M.W. Turner story](/painting/)
 Peter Paul Biró looking for fingerprints
 just before  discovering the letters inscribed into the pier
  
-![](/jmwturner-site/images/38%20J%20a%20web.jpg)
+![](/jmwturner-site/images/38-J-a-web.jpg)
 ![](/jmwturner-site/images/image003.gif)      
                                         
 [Shipwreck, the Rescue](/painting/)
@@ -38,7 +38,7 @@ of the pier showing the location 
                                                           
 of the three blocks of paint that
  
-                ![](/jmwturner-site/images/37%20W%20a%20web.jpg)                                          
+                ![](/jmwturner-site/images/37-W-a-web.jpg)                                          
 contain the three letters -
 J W T
  
@@ -51,10 +51,10 @@ J W T
  
                
       
-![](/jmwturner-site/images/big%20T%20a.jpg)                                                                   
+![](/jmwturner-site/images/big--T-a.jpg)                                                                   
  
                         
-![](/jmwturner-site/images/36%20T%20a%20web.jpg)
+![](/jmwturner-site/images/36-T-a-web.jpg)
  
  
  
@@ -119,7 +119,7 @@ Turner used to hint only at these under meanings of his, leaving us to find them
 out, no word more ever came from him. Down to the grave he went, silent."
                                                
 _________________________________
-![](/jmwturner-site/images/Initials%20Romanum%20web.jpg)
+![](/jmwturner-site/images/Initials-Romanum-web.jpg)
 "It
 would be delusional to suspect that J. Wm Turner had forced us back to
 this area of the painting the following day for a closer inspection by
@@ -158,7 +158,7 @@ In the Oxford Companion To J.M.W. Turner Martin Butlin agrees that: "illusionist
 signatures and sometimes dates appear... The inscriptions were usually painted
 or drawn on the work, though occasionally they were scratched in the paint while
 it was still wet."
-![](/jmwturner-site/images/initials%20letter%20to%20daddy.jpg)
+![](/jmwturner-site/images/initials-letter-to-daddy.jpg)
 Only the JWT
 initials were used on this early letter to Turner's father. It is
 reproduced in the special Studio publication of 1903.

@@ -166,7 +166,7 @@ This was written in 1905."
                    
                                    ["Hands"](/discovery/hand-c/)
                                     
-![](/jmwturner-site/images/Ehrfull%20large%20jpeg%20adjweba.jpg)
+![](/jmwturner-site/images/Ehrfull-large-jpeg-adjweba.jpg)
                     
               Orrock Ehrenbrietstein,
 signed and dated lower left, I.M.W.Turner R.A. 1817

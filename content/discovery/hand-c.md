@@ -14,7 +14,7 @@ press](http://www.yale.edu/yup/)) Important British paintings Chtistie's
                                          the "Hand" of
 deception                    
    
-![](/jmwturner-site/images/Ehrfull%20large%20jpeg%20adjweba.jpg)                        
+![](/jmwturner-site/images/Ehrfull-large-jpeg-adjweba.jpg)                        
                                                            
 ![](/jmwturner-site/images/image001.gif)
 Orrock Ehrenbrietstein
@@ -117,7 +117,7 @@ realization that the name was not Crockling, but, Orrock Esq. This was the same
 important collector of 18th and 19th century British art
 from whence Shipwreck, the Rescue sold in 1904.
                              
-![](/jmwturner-site/images/EHR%20label.jpg)
+![](/jmwturner-site/images/EHR-label.jpg)
 Label from the backing of the Orrock Ehrenbrietstein. "J... rner R.A. Signed and
 dated from the collection of James Orrock Esq. No. 157 - 1884."
      The true provenance would likely not have been
@@ -224,7 +224,7 @@ If that one were in fact accepted, then the whole production of
 [Hand "C"](/discovery/dialogue/) would need
 accepting. The problem with this scenario becomes apparent in the section,
 [Tribal Instincts](/about/turner/).
-![](/jmwturner-site/images/drawing%20castleweb.jpg)
+![](/jmwturner-site/images/drawing-castleweb.jpg)
 Possibly for the sake of expedience, it
 has been assumed in recent years that Turner did very little open-air sketching
 using oil paint, mainly because he had told one of his colleagues that he could
@@ -284,7 +284,7 @@ hosts, his friends and foes;
 spirits bright repose;
                                                   For he was freedoms champion
              
-![](/jmwturner-site/images/WWII%20sterioview.jpg)
+![](/jmwturner-site/images/WWII-sterioview.jpg)
                          WWI stereo-view of
 Ehrenbrietstein
 from a similar vantage point
@@ -374,7 +374,7 @@ precise. Andrew Wilton [Martins successor at the Tate] agrees with this verdic
 This previously revered work is dejected alas. Will there not be a reprieve for at least
 one single reference to the more sensitive side of Turner during this period of "new sensitivity?"
                                   
-![](/jmwturner-site/images/landscape%20with%20a%20distant%20church%20web5.jpg)
+![](/jmwturner-site/images/landscape-with-a-distant-church-web5.jpg)
 Landscape with
 Distant Church 8.5 x 10.5 inches from the British
 Museum (presently rejected by Martin Butlin)

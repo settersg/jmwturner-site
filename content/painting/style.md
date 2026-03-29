@@ -143,7 +143,7 @@ much in oil, but the influence of his water-colour practice is evident in nearly
 all his pictures; in many of them it is even painfully evident, so that
 Constable, not unjustly, called them Large Water-colours.[[x]](#_edn10)
  
-![](/jmwturner-site/images/SWR%20crop%20brushwork%20boat%203%20web.jpg)
+![](/jmwturner-site/images/SWR%20crop%20brushwork%20boat-3-web.jpg)
 Detail: Shipwreck, the Rescue showing Turners unusual
 brushwork - unblended, done largely in the technique of his watercolours.
  

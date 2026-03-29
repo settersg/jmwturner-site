@@ -8,7 +8,7 @@ layout: single
       
  rubens
 Peter Paul Rubens
-expert, ![](/jmwturner-site/images/Education%20of%20the%20Virgin%20adj%20sm%20sm.jpg)
+expert, ![](/jmwturner-site/images/Education-of-the-Virgin-adj-sm-sm.jpg)
 rubens paintng expert
            
 [JMW Turner the source](/painting/)
@@ -25,7 +25,7 @@ diversity!!!
 What
 one should look for when acquiring artwork:
 Quality... originality... support... rarity... condition
-![](/jmwturner-site/images/ship%20menu%20education%20sm.jpg)
+![](/jmwturner-site/images/ship-menu-education-sm.jpg)
          
 Quality
 might best be defined as the ability of an artwork to rest comfortably within
@@ -68,7 +68,7 @@ unscathed. Conversely, experimentation with untested media has resulted in
 substantial conservation problems for modern works. 
                         
 Education%20of%20the%20Virgin,
-![](/jmwturner-site/images/Education%20of%20the%20Virgin%20port%20sm.jpg)![](/jmwturner-site/images/Isabella%20Brant%20crop.jpg)an
+![](/jmwturner-site/images/Education-of-the-Virgin-port-sm.jpg)![](/jmwturner-site/images/Isabella-Brant-crop.jpg)an
 early work
                                        
  
@@ -91,12 +91,12 @@ The face of the virgin (above) mirrors certain studies the artist did from the 1
 and 16th century after Roger van der Weyden and Heinrich Vogtherr.              
                     
      
-![](/jmwturner-site/images/EofV%20portrait%20drawings%20sm%20cr.jpg)
+![](/jmwturner-site/images/EofV-portrait-drawings-sm-cr.jpg)
                     
 Susanna and the Elders, a late work
                   
-![](/jmwturner-site/images/Susanna%20web.jpg)
-![](/jmwturner-site/images/portrait%20susanna%20adj.jpg)
+![](/jmwturner-site/images/Susanna-web.jpg)
+![](/jmwturner-site/images/portrait-susanna-adj.jpg)
                 
 Susanna and the Elders, P.P. Rubens
 The above
@@ -120,7 +120,7 @@ copy.
  C.V. Wedgwood, The World of Rubens 1577-1640, (Time Incorporated, New
  York, 1967), 98.
  
-![](/jmwturner-site/images/Guernsey%20Murillo%20corner%20mouth%20jpegadj%20sm2.jpg)general
+![](/jmwturner-site/images/Guernsey-Murillo-corner-mouth-jpegadj-sm2.jpg)general
 advice on collecting is available by contacting
 [Robert and Graham Setters](/)
 [Copies](/discovery/copies/)

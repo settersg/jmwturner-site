@@ -52,7 +52,7 @@ artwork is will determine the amount of degradation or damage that is
 acceptable. Seldom does one find a Renaissance sculpture or a medieval picture
 unscathed. Conversely, experimentation with untested media has resulted in
 substantial conservation problems for modern works. 
-![](/jmwturner-site/images/Guernsey%20Murillo%20corner%20mouth%20jpegadj%20sm2.jpg)general
+![](/jmwturner-site/images/Guernsey-Murillo-corner-mouth-jpegadj-sm2.jpg)general
 advice on collecting is available by contacting
 [Robert and Graham Setters](/)
 [Copies](/discovery/copies/)

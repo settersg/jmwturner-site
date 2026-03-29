@@ -15,7 +15,7 @@ at the Tate... Ian Warrell opinion, Andrew Wilton
                                        
 ![](/jmwturner-site/images/Art%20Science%20J.M.W.%20Turner)           
                                      
-![](/jmwturner-site/images/Black%20man%20web.jpg)
+![](/jmwturner-site/images/Black-man-web.jpg)
  
 Shipwreck, the Rescue,
 a detail showing the auspicious black man 
@@ -431,7 +431,7 @@ it is clearly an early nineteenth century picture. Warrells lofty breviate t
 Marilyn Laver was relayed to me along with her own letter noting that Warrell
 based his opinion on only an 8 x 10 photograph.
    
-![](/jmwturner-site/images/Susanna%20web.jpg) 
+![](/jmwturner-site/images/Susanna-web.jpg) 
  P.P. Rubens, Susanna and the
 Elders 1638
 It

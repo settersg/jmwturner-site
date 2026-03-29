@@ -9,7 +9,7 @@ layout: single
   
 ![](/jmwturner-site/images/image001.gif)                          
 Peter Paul Biró                
-![](/jmwturner-site/images/P4%20aweb.jpg) 
+![](/jmwturner-site/images/P4-aweb.jpg) 
 ![](/jmwturner-site/images/image002.gif)         
 scouring the surface of
 Shipwreck, the Rescue
