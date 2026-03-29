@@ -2,6 +2,8 @@
 title: "Pool Near Ornans"
 layout: single
 ---
+
+
 Gustave Courbet Jean-Jacques Fernier Institut
 Gustave Courbet Musee Courbet expert evaluation catalogue
 [JMW Turner the source](/painting/)
@@ -90,16 +92,16 @@ things began to get toublesome and suspicious... to be continued...
 [bequest](/about/medal/)
 [news](/about/news/)
 [corresp](/about/correspondence/)
-[Home](http://jmwturner.ca/)
+[Home](/)
 [discovery](/painting/)
 [style](/painting/style/)
-[provenance](http://jmwturner.ca/christie)
+[provenance](/painting/provenance/)
 [connoisseur](/discovery/connoisseurship/)
 [Orrock](/discovery/orrock/)
 [forensic](/discovery/forensic/)
 [signature](/painting/signature/)
-[Butlin](http://jmwturner.ca/Martin%20Butlin%20Christie)
-[legal](http://jmwturner.ca/Legal%20fears%20Martin%20Butlin%20Tate%20Christie)
+[Butlin](/discovery/butlin/)
+[legal](/discovery/legal/)
 [catalogue](/discovery/catalogue/)
 [portrait](/painting/portrait/)
 [sting](/discovery/sting/) [Courbet](/discovery/courbet/)
@@ -108,7 +110,7 @@ things began to get toublesome and suspicious... to be continued...
 [St](/discovery/christopher/)
 [Durer](/discovery/durer/)
 [medal](/about/medal/)
-[Unknown Turner](http://jmwturner.ca/The%20Unknown%20Turner%20John%20Anderson%20Tate%20J.M.W.%20Turner.htm)
+[Unknown Turner](/discovery/ngc/)
 [ngc shipwreck](/discovery/ngc/)
 [IFAR/RRP](/discovery/ifar/)
 [institutional](/discovery/institutional/)
@@ -118,16 +120,16 @@ things began to get toublesome and suspicious... to be continued...
 [Hand C theory](/discovery/hand-c/)
 [C
 dialogue](/discovery/dialogue/)
-[expertise](http://jmwturner.ca/turner%20expert%20jmw%20turner%20expert%20Butlin%20and%20Joll%20catalogue%20the%20paintings%20of%20JMW%20Turner%20Sir%20JC%20Robinson%20Thomas%20Griffith%20Orrock.htm)
+[expertise](/discovery/expert/)
 [expert](/discovery/expert/)
 [Kayser](/discovery/hand-c/)            
                              
  
 [Manet](/discovery/manet/)      
-[Monet](Monet%20Wildenstein.htm)     
+[Monet](/discovery/manet/)     
 "[Copy](/discovery/copies/)"
 Murillo       
- [Lost Boucher](The%20Lost%20Francoise%20Boucher%20painting.htm)
+ [Lost Boucher](/discovery/courbet/)
        
 [Connoisseurship](/discovery/connoisseurship/)
     [Art

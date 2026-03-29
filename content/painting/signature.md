@@ -2,6 +2,8 @@
 title: "Jwt Jmw Turner Signature"
 layout: single
 ---
+
+
 |
                                                                                                       
                
@@ -84,7 +86,7 @@ instance, along the edge of his Forum Romanum Turner did an  inscription
 that is even more esoteric
 (seen below).
 John Anderson Jr. in his book
-[The Unknown Turner](The Unknown Turner John Anderson Tate J.M.W. Turner.htm) assures us that these hidden inscriptions were more
+[The Unknown Turner](/discovery/ngc/) assures us that these hidden inscriptions were more
 likely a common practice rather than a rare occurrence.
          
            
@@ -167,13 +169,13 @@ glass of red wine.
 Cheers
                                                                      
                                            
- [welcome](welcome Okanagan Penticton.htm)
+ [welcome](/about/turner/)
   
 fingerprint search:
 [Forensics](/discovery/forensic/)   
-[Art/Science](Art Science J.M.W. Turner)   
-[Christie's](christie.html)  
-[The Unknown Turner](The Unknown Turner John Anderson Tate J.M.W. Turner.htm)
+[Art/Science](/discovery/art-science/)   
+[Christie's](/painting/provenance/)  
+[The Unknown Turner](/discovery/ngc/)
                                                                                 
                                                                                    
 HOME 
@@ -231,16 +233,16 @@ Edition, 1984), text vol., xix.
  [bibliography](/about/bibliography/)
  [sa](/painting/appraisal/)
               
- [Home](index.html)
+ [Home](/)
  [discovery](/painting/)
  [style](/painting/style/)
- [provenance](christie.html)
+ [provenance](/painting/provenance/)
  [connoisseur](/discovery/connoisseurship/)
  [Orrock](/discovery/orrock/)
  [forensic](/discovery/forensic/)
  [signature](/painting/signature/)
- [Butlin](Martin Butlin Christie.html)
- [legal](Legal fears Martin Butlin Tate Christie.html)
+ [Butlin](/discovery/butlin/)
+ [legal](/discovery/legal/)
  [catalogue](/discovery/catalogue/)
  [portrait](/painting/portrait/)
  [sting](/discovery/sting/) [Courbet](/discovery/courbet/)
@@ -253,7 +255,7 @@ Edition, 1984), text vol., xix.
  [Rubens](/discovery/rubens/)
               
  [medal](/about/medal/)
- [Unknown Turner](The Unknown Turner John Anderson Tate J.M.W. Turner.htm)
+ [Unknown Turner](/discovery/ngc/)
  [ngc shipwreck](/discovery/ngc/)
  [IFAR/RRP](/discovery/ifar/)
  [institutional](/discovery/institutional/)
@@ -263,7 +265,7 @@ Edition, 1984), text vol., xix.
  story](/about/your-story/)
  [Hand C theory](/discovery/hand-c/)
  [C dialogue](/discovery/dialogue/)
- [expertise](turner expert jmw turner expert Butlin and Joll catalogue the paintings of JMW Turner Sir JC Robinson Thomas Griffith Orrock.htm)
+ [expertise](/discovery/expert/)
  [expert](/discovery/expert/)
  [Kayser](/discovery/hand-c/)
  [NGL](/discovery/national-gallery/)
@@ -276,13 +278,13 @@ Edition, 1984), text vol., xix.
  [University College London UCL](http://www.ucl.ac.uk/)
                       
                                  
- [Terms and conditions](user_terms_and_conditions.htm) J.M.W. Turner
+ [Terms and conditions](/about/) J.M.W. Turner
                                                                          Site criticism is appreciated at
- [jmwturner@shaw.ca](https://web.archive.org/web/20050211223819/mailto:jmwturner@shaw.ca)
+ [jmwturner@shaw.ca](/)
  Penticton British Columbia Canada
                                                   
  © setters 2003, Rescuing Turner: The Art Project &
- [http://www.jmwturner.ca/](index.html)
+ [/)
                                                     
  search for jmw turner
  [Google](http://www.google.ca/)

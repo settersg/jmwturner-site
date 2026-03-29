@@ -2,6 +2,8 @@
 title: "Legal Fears Martin Butlin Tate Christie'S J.M.W. Turner"
 layout: single
 ---
+
+
 |
  [JMW Turner the
  source](/painting/)
@@ -21,7 +23,7 @@ layout: single
  [Rescuing Turner: A New Age of Art Discovery](/book/):
  r malcolm setters / graham setters
  My
- [opinion](turner%20expert%20jmw%20turner%20expert%20Butlin%20and%20Joll%20catalogue%20the%20paintings%20of%20JMW%20Turner%20Sir%20JC%20Robinson%20Thomas%20Griffith%20Orrock.htm) is entirely non-technical, although there
+ [opinion](/discovery/expert/) is entirely non-technical, although there
  is some technical. My opinion is based on something much more intangible
  than a fingerprint or relining [of the painting] or whatever. The weight of
  my opinion, and in a way, to me, its very heavy... Martin lost
@@ -129,10 +131,10 @@ layout: single
  Sting](/discovery/sting/)                         
              
  [Institutional evolution](/discovery/institutional/)    
- [Tribal Instincts](http://jmwturner.ca/tribal_instincts.htm)    
+ [Tribal Instincts](/about/turner/)    
   [Forensics](/discovery/forensic/)  
   
- [Art Science](http://jmwturner.ca/Art%20Science%20J.M.W.%20Turner)
+ [Art Science](/discovery/art-science/)
                                                                     
                                                                        
  HOME
@@ -184,16 +186,16 @@ layout: single
  [bibliography](/about/bibliography/)
  [sa](/painting/appraisal/)
               
- [Home](http://jmwturner.ca/)
+ [Home](/)
  [discovery](/painting/)
  [style](/painting/style/)
- [provenance](http://jmwturner.ca/christie)
+ [provenance](/painting/provenance/)
  [connoisseur](/discovery/connoisseurship/)
  [Orrock](/discovery/orrock/)
  [forensic](/discovery/forensic/)
  [signature](/painting/signature/)
- [Butlin](http://jmwturner.ca/Martin%20Butlin%20Christie)
- [legal](http://jmwturner.ca/Legal%20fears%20Martin%20Butlin%20Tate%20Christie)
+ [Butlin](/discovery/butlin/)
+ [legal](/discovery/legal/)
  [catalogue](/discovery/catalogue/)
  [portrait](/painting/portrait/)
  [sting](/discovery/sting/) [Courbet](/discovery/courbet/)
@@ -206,7 +208,7 @@ layout: single
  [Rubens](/discovery/rubens/)
               
  [medal](/about/medal/)
- [Unknown Turner](http://jmwturner.ca/The%20Unknown%20Turner%20John%20Anderson%20Tate%20J.M.W.%20Turner.htm)
+ [Unknown Turner](/discovery/ngc/)
  [ngc shipwreck](/discovery/ngc/)
  [IFAR/RRP](/discovery/ifar/)
  [institutional](/discovery/institutional/)
@@ -216,7 +218,7 @@ layout: single
  story](/about/your-story/)
  [Hand C theory](/discovery/hand-c/)
  [C dialogue](/discovery/dialogue/)
- [expertise](http://jmwturner.ca/turner%20expert%20jmw%20turner%20expert%20Butlin%20and%20Joll%20catalogue%20the%20paintings%20of%20JMW%20Turner%20Sir%20JC%20Robinson%20Thomas%20Griffith%20Orrock.htm)
+ [expertise](/discovery/expert/)
  [expert](/discovery/expert/)
  [Kayser](/discovery/hand-c/)
  [NGL](/discovery/national-gallery/)
@@ -229,13 +231,13 @@ layout: single
  [University College London UCL](http://www.ucl.ac.uk/)
                       
                                  
- [Terms and conditions](http://jmwturner.ca/user_terms_and_conditions.htm) J.M.W. Turner
+ [Terms and conditions](/about/) J.M.W. Turner
                                                                          Site criticism is appreciated at
- [jmwturner@shaw.ca](https://web.archive.org/web/20031205020341/mailto:jmwturner@shaw.ca)
+ [jmwturner@shaw.ca](/)
  Penticton British Columbia Canada
                                                   
  © setters 2003, Rescuing Turner: The Art Project &
- [http://www.jmwturner.ca/](http://www.jmwturner.ca/)
+ [/)
                                                     
  search for jmw turner
  [Google](http://www.google.ca/)

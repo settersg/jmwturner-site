@@ -2,6 +2,8 @@
 title: "National Gallery London"
 layout: single
 ---
+
+
 Gallery National Gallery art London policy on evaluation
 of art. Gallery: Tate, Clore, Courtauld, National Portrait Gallery Alistair Smith
 [JMW Turner the source](/painting/)
@@ -301,8 +303,8 @@ ____________________________________________________
        
      
 HOME                     
- [Legal Fears](Legal%20fears%20Martin%20Butlin%20Tate%20Christie)                   
- [Tribal Instincts](tribal_instincts.htm)
+ [Legal Fears](/discovery/legal/)                   
+ [Tribal Instincts](/about/turner/)
                                                                                                                                              
  [[1]](#_ftnref1)
  This included approximately 300 oil Paintings at various stages of completion;

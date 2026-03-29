@@ -2,6 +2,8 @@
 title: "Rubens Peter Paul Rubens"
 layout: single
 ---
+
+
 |
       
  rubens
@@ -14,7 +16,7 @@ rubens paintng expert
 Peter Paul Rubens expertise -what
 is involved?
 [forensics studies in art](/discovery/forensic/)
-[art scientific analysis](Art%20Science%20J.M.W.%20Turner)
+[art scientific analysis](/discovery/art-science/)
 [connoisseurship](/discovery/copies/)
 [provenance](/discovery/orrock/)
 [art politics](/discovery/institutional/)
@@ -120,7 +122,7 @@ copy.
  
 ![](/jmwturner-site/images/Guernsey Murillo corner mouth jpegadj sm2.jpg)general
 advice on collecting is available by contacting
-[Robert and Graham Setters](https://web.archive.org/web/20041215112350/mailto:jmwturner@shaw.ca)
+[Robert and Graham Setters](/)
 [Copies](/discovery/copies/)
     
    
@@ -219,7 +221,7 @@ setters
     
 [Institutional evolution](/discovery/institutional/)         
 [connoisseurship](/discovery/connoisseurship/)        
-[Art/science](Art%20Science%20J.M.W.%20Turner) 
+[Art/science](/discovery/art-science/) 
        
 [Forensics](/discovery/forensic/)
                                                                        
@@ -230,14 +232,14 @@ J[MW Turner Joseph Mallord
 William](/painting/), National Gallery of Canada
 Metropolitan Museum of Art Museum of Modern Art the British
 Museum art museum art history
-[Christies](christie) Sothebys Tate
+[Christies](/painting/provenance/) Sothebys Tate
 Gallery art world painting old master paintings[sea piece Shipwreck](/painting/style/)Martin Butlin Wildenstein
 Institute Yale Center
 British Art The Getty Getty Research Institute provenance Clore
 Gallery Tate Gallery [Turner Gallery](/about/medal/) curator museum  antique forensic fingerprint conservator International Foundation for Art
 Research
 [IFAR](/discovery/ifar/) English landscape art historian art criticism IIC
-[CCI](Art%20Science%20J.M.W.%20Turner) Canadian
+[CCI](/discovery/art-science/) Canadian
 Conservation Institute McCrone Research
 Institute artist artists pictures paintings gallery galleries drawing picture biography collection archive history
 of art discovery discoveries discovery ca discovery
@@ -247,13 +249,13 @@ Society News
 [TSN](/about/medal/) old
 master masterpiece Rembrandt Picasso Francoise Boucher Monet Boucher
 [Claude
-Monet](Monet%20Wildenstein.htm) [Angelica Kauffmann](/discovery/copies/) Murillo Whistler James McNeill Whistler Rubens Peter
+Monet](/discovery/manet/) [Angelica Kauffmann](/discovery/copies/) Murillo Whistler James McNeill Whistler Rubens Peter
 Paul Rubens Renior Claude Titian Joshua
 Reynolds fakes forgeries [connoisseurship](/discovery/copies/) connoisseur
 [art
-expert](turner%20expert%20jmw%20turner%20expert%20Butlin%20and%20Joll%20catalogue%20the%20paintings%20of%20JMW%20Turner%20Sir%20JC%20Robinson%20Thomas%20Griffith%20Orrock.htm) renaissance Getty Museum James
+expert](/discovery/expert/) renaissance Getty Museum James
 [Orrock](/discovery/orrock/)
-[Orrock](christie)
+[Orrock](/painting/provenance/)
 [Sir J.C. Robinson](/discovery/orrock/)
 [Turner
 portrait](/painting/portrait/) John Paul
@@ -298,16 +300,16 @@ Carr Manet
  [bibliography](/about/bibliography/)
  [sa](/painting/appraisal/)
               
- [Home](index.html)
+ [Home](/)
  [discovery](/painting/)
  [style](/painting/style/)
- [provenance](christie.html)
+ [provenance](/painting/provenance/)
  [connoisseur](/discovery/connoisseurship/)
  [Orrock](/discovery/orrock/)
  [forensic](/discovery/forensic/)
  [signature](/painting/signature/)
- [Butlin](Martin Butlin Christie.html)
- [legal](Legal fears Martin Butlin Tate Christie.html)
+ [Butlin](/discovery/butlin/)
+ [legal](/discovery/legal/)
  [catalogue](/discovery/catalogue/)
  [portrait](/painting/portrait/)
  [sting](/discovery/sting/) [Courbet](/discovery/courbet/)
@@ -320,7 +322,7 @@ Carr Manet
  [Rubens](/discovery/rubens/)
               
  [medal](/about/medal/)
- [Unknown Turner](The Unknown Turner John Anderson Tate J.M.W. Turner.htm)
+ [Unknown Turner](/discovery/ngc/)
  [ngc shipwreck](/discovery/ngc/)
  [IFAR/RRP](/discovery/ifar/)
  [institutional](/discovery/institutional/)
@@ -330,7 +332,7 @@ Carr Manet
  story](/about/your-story/)
  [Hand C theory](/discovery/hand-c/)
  [C dialogue](/discovery/dialogue/)
- [expertise](turner expert jmw turner expert Butlin and Joll catalogue the paintings of JMW Turner Sir JC Robinson Thomas Griffith Orrock.htm)
+ [expertise](/discovery/expert/)
  [expert](/discovery/expert/)
  [Kayser](/discovery/hand-c/)
  [NGL](/discovery/national-gallery/)
@@ -343,13 +345,13 @@ Carr Manet
  [University College London UCL](http://www.ucl.ac.uk/)
                       
                                  
- [Terms and conditions](user_terms_and_conditions.htm) J.M.W. Turner
+ [Terms and conditions](/about/) J.M.W. Turner
                                                                          Site criticism is appreciated at
- [jmwturner@shaw.ca](https://web.archive.org/web/20041215112350/mailto:jmwturner@shaw.ca)
+ [jmwturner@shaw.ca](/)
  Penticton British Columbia Canada
                                                   
  © setters 2003, Rescuing Turner: The Art Project &
- [http://www.jmwturner.ca/](index.html)
+ [/)
                                                     
  search for jmw turner
  [Google](http://www.google.ca/)

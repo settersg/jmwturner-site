@@ -2,6 +2,8 @@
 title: "Turner Chronology, Jmw Turner Chronology"
 layout: single
 ---
+
+
 [JMW Turner the source](/painting/) 
 [Art Worlds Dirty Little Secret](/book/)
                   JMW
@@ -687,11 +689,11 @@ His last words have been reported as: "The Sun is God." Buried in St
                                                                                                                   
  
                                                                                                                 
-[Terms and conditions](http://jmwturner.ca/user_terms_and_conditions.htm)
+[Terms and conditions](/about/)
 J.M.W. Turner
                                                                    
                               
-Site criticism is appreciated at [jmwturner@shaw.ca](https://web.archive.org/web/20050405153511/mailto:jmwturner@shaw.ca)
+Site criticism is appreciated at [jmwturner@shaw.ca](/)
 Penticton
                                                                                               © setters 2003, Rescuing Turner: The Art Project &
-[http://www.jmwturner.ca](http://www.jmwturner.ca/)
+[/)

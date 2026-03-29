@@ -2,6 +2,8 @@
 title: "About Rescuing J.M.W. Turner A New Age Of Art Discovery"
 layout: single
 ---
+
+
 |
 ![](/jmwturner-site/images/Turner portrait book cover web.jpg)[JMW
 Turner:  the source](/painting/)
@@ -33,10 +35,10 @@ research/ r malcolm setters / graham setters
 A limited number of draft
 copies will soon be available for serious reviewers: Please share your interest or
 relationship to the subject, and whether you would be willing to write your opinion of the book.  email:
-[jmwturner@shaw.ca](https://web.archive.org/web/20030801191234/mailto:jmwturner@shaw.ca)
+[jmwturner@shaw.ca](/)
  
 Comments vis-à-vis
-[www.jmwturner.ca](index.html) and/or the book:
+[www.jmwturner.ca](/) and/or the book:
 This is a new website with a lot to offer
 - shocking, but
 frightfully true! Richard
@@ -90,33 +92,33 @@ Institute](http://www.cci-icc.gc.ca/html/)
  [Andrew
 Wilton Rizzoli Tate Clore](http://www.aaabooksearch.com/Author/Andrew%20Wilton/0)
                             
-On site: [Home](index.html)
+On site: [Home](/)
 [discovery](/painting/)
 [style](/painting/style/)
-[provenance](christie)
+[provenance](/painting/provenance/)
 [connoisseur](/discovery/connoisseurship/)
 [Orrock](/discovery/orrock/)
 [forensic](/discovery/forensic/) [signature](/painting/signature/)
-[Butlin](Martin%20Butlin%20Christie)
-[legal](Legal%20fears%20Martin%20Butlin%20Tate%20Christie)
+[Butlin](/discovery/butlin/)
+[legal](/discovery/legal/)
 [catalogue](/discovery/catalogue/)
 [portrait](/painting/portrait/)
 [sting](/discovery/sting/) 
                                   
 [medal](/about/medal/)
-[Unknown Turner](The%20Unknown%20Turner%20John%20Anderson%20Tate%20J.M.W.%20Turner.htm)
+[Unknown Turner](/discovery/ngc/)
 [ngc shipwreck](/discovery/ngc/)
 [IFAR/RRP](/discovery/ifar/)
 [institutional](/discovery/institutional/) [copies](/discovery/copies/)
 [book](/book/) [your story](/about/your-story/)
 [Hand C theory](/discovery/hand-c/) [C dialogue](/discovery/dialogue/)
-                                                     [Terms and conditions](user_terms_and_conditions.htm)
+                                                     [Terms and conditions](/about/)
 J.M.W. Turner
                                                                        
-Site criticism is appreciated at [jmwturner@shaw.ca](https://web.archive.org/web/20030801191234/mailto:jmwturner@shaw.ca)
+Site criticism is appreciated at [jmwturner@shaw.ca](/)
                                                     
 © setters 2003, Rescuing Turner: The Art Project &
-[www.jmwturner.ca](index.html)
+[www.jmwturner.ca](/)
                                                    
 search for jmw turner [Google](http://www.google.ca/)
 [H](http://www.hotbot.com/)

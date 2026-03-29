@@ -2,6 +2,8 @@
 title: "Biography Jmw Turner"
 layout: single
 ---
+
+
 Biography:
 Biography of  JMW Turner Biographers: Ruskin John Ruskin Modern Painters Thornbury Hamerton Conant
 Monkhouse Conant Rawlinson  Swinburne Sparrow Wedmore Cook Wyllie Finberg
@@ -1799,6 +1801,6 @@ HOME 
        
 [Institutional evolution](/discovery/institutional/) 
   [Tribal
-Instincts](tribal_instincts.htm)  
+Instincts](/about/turner/)  
 [Butlin Joll catalogue](/discovery/catalogue/)  
 [Connoisseurship](/discovery/connoisseurship/)

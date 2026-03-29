@@ -2,6 +2,8 @@
 title: "James Orrock Sir J.C. Robinson Connoisseurship J.M.W. Turner Shipwreck Paintings"
 layout: single
 ---
+
+
 [JMW
 Turner:  the source](/painting/)
  expertise clore national gallery expert opinion tate turner studies society
@@ -74,7 +76,7 @@ James Orrock:
  addition to Orrock's
  pre-eminent qualifications; Ruskin had met Turner personally...  Manna
  from heaven, it was a surprise to discover
- [The Wreck](Connoisseurship%20James%20Orrock%20art%20expert%20Martin%20Butlin%20Joll.htm#The Wreck) in the Orrock
+ [The Wreck](/discovery/connoisseurship/) in the Orrock
  biography.
                                 
 ![](/jmwturner-site/images/image004.jpg)
@@ -284,11 +286,11 @@ James Orrock:
       HOME  
                                                                                           
       [Terms and
- conditions](user_terms_and_conditions.htm) J.M.W. Turner
+ conditions](/about/) J.M.W. Turner
                                                                     
                 Site criticism is appreciated at
- [jmwturner@shaw.ca](https://web.archive.org/web/20191214154107/mailto:jmwturner@shaw.ca)
+ [jmwturner@shaw.ca](/)
  Penticton
                                                                              
    © setters 2003, Rescuing Turner: The Art Project &
- [http://www.jmwturner.ca](index.html)
+ [/)

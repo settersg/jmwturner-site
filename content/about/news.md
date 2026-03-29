@@ -2,11 +2,13 @@
 title: "News Jmw Turner"
 layout: single
 ---
+
+
 |
 news jmw
 turner
 [Discovery of Shipwreck,
-the Rescue](index.htm)
+the Rescue](/)
 by JMW Turner
 JMW Turner expert opinion
 consultant; expertise both scientific and curatorial, opinion / Tate / Clore: Nicholas Serota,
@@ -62,20 +64,20 @@ as well as, an in-depth discussion about
 [Turner's style](/painting/style/), a
 topic that is woven throughout  the website. jmw
 -[Scientific
-examination](Art%20Science%20J.M.W.%20Turner)  This entails a detailed look at the painting using
+examination](/discovery/art-science/)  This entails a detailed look at the painting using
 leading edge testing techniques. Questions are raised over contradictory
 statements made by Tate Gallery officials. This seemingly obstructive
 contribution, although a difficult matter at first, becomes somewhat understood
-by the end of our story. See [Tribal Instincts](tribal_instincts.htm),
+by the end of our story. See [Tribal Instincts](/about/turner/),
 and
 [Institutional Evolution](/discovery/institutional/).  jmw
 -[The
-Scientific report](Scientific%20Report%20Shipwreck%20J.M.W.%20Turner%20conservation%20Laver%20Joyce%20Townsend.htm) unravels much of the puzzle involved in dissecting
+Scientific report](/discovery/art-science/) unravels much of the puzzle involved in dissecting
 a painting for forensic purposes. jmw
 Joseph Mallord
 William Turner
 -[Provenance](/discovery/orrock/)
-[(Christie's)](christie)   Provenance is held as a critical part of the art
+[(Christie's)](/painting/provenance/)   Provenance is held as a critical part of the art
 authentication process, and in turn, the level of
 [Connoisseurship](/discovery/connoisseurship/) of the previous owner of an artwork becomes the ultimate
 test of quality. In this regard Shipwreck, the Rescue is no
@@ -85,7 +87,7 @@ and
 [Inscription](/painting/signature/) 
 jmw
 -[Martin
-Butlin's Visit](Martin%20Butlin%20Christie)  Here, Martin Butlin, a fêted
+Butlin's Visit](/discovery/butlin/)  Here, Martin Butlin, a fêted
 JMW Turner aficionado,
 co-author of the
 [Butlin and Joll catalogue](/discovery/catalogue/) on
@@ -97,12 +99,12 @@ dealt with more substantially in the book. In fact roughly a quarter of the book
 is allocated to an ongoing discourse of art-world revelations. Beside issues
 over Turner's body of
 work,
-[legal fears](Legal%20fears%20Martin%20Butlin%20Tate%20Christie), and [monopolistic practices](/discovery/institutional/);
+[legal fears](/discovery/legal/), and [monopolistic practices](/discovery/institutional/);
 dialogue concerning art dealers, auction firms, and the art establishment
 generally, is presented verbatim.
 The most unspeakable result of what might be considered dirty art politics, was
 what happened to the American legend, John Anderson Jr., author of
-[The Unknown Turner](The%20Unknown%20Turner%20John%20Anderson%20Tate%20J.M.W.%20Turner.htm).
+[The Unknown Turner](/discovery/ngc/).
 -[Portrait
 of a Hero](/painting/portrait/)   In the end - it's all about
 Turner, the hero of our
@@ -130,9 +132,9 @@ Turner engraved by W. Roffe after a statue by E. Baily R.A.
 Sea Pieces
 (related studies)](/painting/style/)    
         
-[Scientific Report](Scientific%20Report%20Shipwreck%20J.M.W.%20Turner%20conservation%20Laver%20Joyce%20Townsend.htm)
+[Scientific Report](/discovery/art-science/)
     
-[Art/Science](Art%20Science%20J.M.W.%20Turner)     
+[Art/Science](/discovery/art-science/)     
 [Forensics](/discovery/forensic/)
      
 [fingerprints](/discovery/forensic/)     
@@ -309,7 +311,7 @@ not always be in the arena of the authority. Not to make a direct link here, but
 F. M. Cornford in his introduction to The Republic of Plato describes how
 unimpeachable authority went wrong: despotic man, who the Greeks called
 tyrant, the three most powerful motives, ambition, fear, and greed, have
-finally triumphed over reason and humanity.[[i]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_edn1)
+finally triumphed over reason and humanity.[[i]](/)
 It is vital to realize that there are great advantages to private collecting
 by connoisseurs like James Orrock; it is important to have scholars outside the
 strictures of officialdom in order that there is freedom to do undirected
@@ -323,7 +325,7 @@ when any authoritative body gains a monopoly in a certain area, that particular
 area is bound to decay.
 The Muses for Homer might tease us to believe that: Hard as it may be for a
 state so framed to be shaken, yet, since all that comes into being must decay,
-even a fabric like this will not endure for ever, but will suffer dissolution.[[ii]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_edn2)
+even a fabric like this will not endure for ever, but will suffer dissolution.[[ii]](/)
 In the short term control can be propped up by force of influence, but
 eventually if the regime is controlled entirely by self-interested officials, it
 will eventually not only destroy itself, but also, that which it stands to
@@ -350,7 +352,7 @@ the picture in the past? We already know that he dreads the courtroom and
 considers lawyers a terror, could this be one reason for his adamancy
 even in the face of indisputable evidence. In light of new European laws, which
 place greater liability for misrepresenting works of art onto the art
-merchants,[[iii]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_edn3)
+merchants,[[iii]](/)
 and the inevitable sharing of such liability by any who mistakenly support a
 wrong attribution, it is understandable that even a brave expert might cower.
 What if they were not even aware of its former status?
@@ -371,7 +373,7 @@ an English speaking world. As noted by J.H. Duveen, litigation was a pervasive
 worry for him and his Dutch cohorts nearly a century ago; I cant afford to be
 cited as a witness in any notorious law case. You know what the Dutch Courts are
 like when it comes to delays and enquiries: I shouldnt be my own master for two
-years![[iv]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_edn4)
+years![[iv]](/)
 Who said what, is clearly part of the problem. Not to know
 what authority has made what attribution to establish the status of a
 work creates a concern that can never be forgotten. Timid bureaucrats that are
@@ -435,7 +437,7 @@ a high price. Later he arrives at the conclusion that he has made a mistake.
 Even if his love of truth now overcomes his vanity, he is yet reluctant to harm
 someone who has believed in him Most people do not confess their mistake or
 they try and confuse the hard facts, more particularly as they know from
-experience that their clients never forget a financial loss.[[v]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_edn5)
+experience that their clients never forget a financial loss.[[v]](/)
  |
 There is no choice but optimistically to rely
  upon the fact that ignorance and unscrupulousness will gradually be
@@ -448,16 +450,16 @@ also, because he discharged brilliant connoisseurs such as: Griffith, Robinson,
 and Orrock in the process. Although gravely dishonored by Leviathan practices,
 like incest in a wayFriedlander comforts: There is no choice but
 optimistically to rely upon the fact that ignorance and unscrupulousness will
-gradually be discovered in the circle of collectors.[[vi]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_edn6)
+gradually be discovered in the circle of collectors.[[vi]](/)
  
                                            
  
  
  
-The gentle Amiel[[1]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_ftn1),
+The gentle Amiel[[1]](/),
 brooding upon his terrace at Geneva, came to more just conclusions about Wagner
 than did the professional litigants battling nearer Bayreuth, with louder but
-since forgotten words.[[vii]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_edn7) 
+since forgotten words.[[vii]](/) 
      Henry McBride: The Flow of Art
 It is fair to say that the sometimes subtle and sometimes not so subtle
 politics and conferred rites at the uppermost level of the art-world, beg a
@@ -479,19 +481,19 @@ principals are perceived as a threat and are discouraged from participation. For
 one example, the small independent collector is largely shunned. This seemingly
 unimportant situation is of course unacceptable when one compares the
 contribution made by those motivated more by emotion and curiosity; than by
-ambition, fear, and greed.[[2]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_ftn2)
+ambition, fear, and greed.[[2]](/)
 According to Friedlander, Enthusiastic lovers of art  at the same time mere
 amateurs  have contributed most and in the best fashion towards artistic
 reconstruction Coldly analytical scholars make fewer mistakes; they perform,
 however, less in the way of positive perception; they discover less, with weaker
-flair.[[viii]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_edn8)
+flair.[[viii]](/)
  
 At the command center of the modern art world, London, there is a
 triumvirate of self-serving groups working in concert. These include:
 politically powerful aristocrats and bureaucrats, the auction firm group, and a
 select number of dealers. In fact, the last of what Bernard Berenson wrote in
 his lifelong diary broached with melancholy the aristocratically pyramidal
-structure of society that Great art serves.[[ix]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_edn9)
+structure of society that Great art serves.[[ix]](/)
 Working parallel yet antagonistically toward debasing this pyramidal group
 were the Marxist intellectuals like Superintendent of the Queens Pictures,
 Sir Anthony Blunt, and other influential docentsthose who had rejected the
@@ -500,7 +502,7 @@ ultimately allowed this same triad to take control by undermining the influence
 of independent dealers, and collectors; not to mention the less politically
 influential museums. Steiner contends that the belief that, great art is not
 and cannot be private property, played a crucial part in crystallizing Blunts,
-contemptuous loathing for capitalism.[[x]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_edn10) 
+contemptuous loathing for capitalism.[[x]](/) 
 Ultimately, things appear to have gone contrary to Blunts socialist dream of
 a personally controlled mother-institution full of the best works of artworks
 that were slated to be confiscated by him and his comrades. Latent sentiments
@@ -542,7 +544,7 @@ wished to appear richer than they were, and those who knew it was smart to seem
 poorer, and he practiced the auction business as the exploitation of the former
 by the latter It was a complex amorality which drove Peter Wilson to generate,
 almost single-handedly, a new sort of international business that was dominated
-by the English.[[xi]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_edn11) 
+by the English.[[xi]](/) 
 Ultimately it is the way in which the benefits of such domination are allocated
 within this milieu that needs unraveling.  
 It has long been accepted that Sothebys and Christies have been served by
@@ -557,12 +559,12 @@ property are at sake, as they often are in aristocratic circles, it becomes
 imperative to have friends in the right places. A relationship in the spirit of
 this statement might be the one between David Westmoreland, Chairman of
 Sothebys, who was at the same time, Master of the Horse and Lord-in-Waiting to
-the Queen.[[xii]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_edn12)
+the Queen.[[xii]](/)
 The tight controls needed to direct transactions according to precedence are
 well taken care of. According to Hugh Roberts of Christies, with auxillary
 assistance from; lawyers, accountants, politicians, heritage lobbyists,
 dealers, treasury officials, Christies, National Trust, and above all the
-Heritage Fund,[[xiii]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_edn13)
+Heritage Fund,[[xiii]](/)
 negotiated sales take place well beyond the circumstances of the middle class.
 When Roberts strung together the above list of individuals with their, discreet
 behind the scenes lobbying, to accommodate the sale of those greatest English
@@ -588,7 +590,7 @@ trying to get a foothold in London Joel Duveen admits nearly succumbing to this
 same sort of bullying, He soon found out that there was a campaign against him,
 waged particularly by those men to whom he had shown his finest things. They
 depreciated them by raising doubts about their genuineness... this stabbing in
-the back nearly ruined him.[[xiv]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_edn14)
+the back nearly ruined him.[[xiv]](/)
 Ironically, by jockeying for position within the purview of the landed gentry,
 his son Joseph became a Lord, the most powerful dealer in the world, and by far
 the biggest bully.  
@@ -618,9 +620,9 @@ merely to benefit those that are deemed to deserve special privileges.
 Morris Eaves summed things up by referring to Western art history as a myth.
 With feudalism and the aristocracy in his crosshairs he acknowledged the
 interdependence of the art trade: the loosely organized network of clubs,
-societies, and schools through which the English art trade had been conducted.[[xv]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_edn15)
+societies, and schools through which the English art trade had been conducted.[[xv]](/)
 Within this framework, James Barry feared a conspiracy, whereby; the agents of
-profit must thwart the agents of knowledge.[[xvi]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_edn16)
+profit must thwart the agents of knowledge.[[xvi]](/)
 Here we see a connected group of individuals who bend justice a little as
 they fulfill their daily mandates, and by the time the lot-of-them are teamed
 up, British society is left with a warped system and one that unjustly benefits
@@ -641,7 +643,7 @@ Alingtons housea folkloric tale was bornwhat Turner might have termed the
 fallacies of truth. On discovering, by chance, a bundle of overtly
 affectionate letters scribed beneath the royal cipher; rather than selling this
 important bit of history, the letters were consigned to the boiler, on orders
-from above.[[xvii]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_edn17)
+from above.[[xvii]](/)
 One might ask: Where is above? Possibly the same place wherefrom the
 Queen issued her warning to Paul Burrella mysterious place of dangerous and
 unspeakable forces of which we have no knowledge 
@@ -659,7 +661,7 @@ the French government wanted to auction off en-mass the modern paintings that
 had been confiscated from aliens (and vaguely defined aliens) such as
 Kahnweiler. Kahnweiler told authorities: What you are doing is idiotic. These
 auctions will lower the prices of valuable paintings. The first one will fetch
-one thousand francs, the second five hundred, and so on.[[xviii]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_edn18)
+one thousand francs, the second five hundred, and so on.[[xviii]](/)
 By early rationing of Picasso and other Cubist artists, Kahnweiler and
 Rosenberg demonstrated this point ideally, and the final proof of their genius
 is in the present market value for such work. From an artist like Picasso, who
@@ -680,7 +682,7 @@ efforts were blatantly observed by art critic Pierre Cabanne. On urging the
 great and by then very wealthy Kahnweiler, to name great artists after Picasso
 and Braque, he would name Masson, Beaudin, and KermadecNaturally his listing
 elicited the embarrassing question, If I understand what you are saying, there
-are no great artists beyond those in your gallery?[[xix]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_edn19)
+are no great artists beyond those in your gallery?[[xix]](/)
 In the case of the non-British artworkssecond tier ones that are less
 core to the prestige of Britainquasi monopolistic control is orchestrated by
 less influential groups. Seldom does one individual have the financial resources
@@ -725,13 +727,13 @@ critics were already trying to alert the public. Kahnweiler in the 1950s
 confidently implicated himself with the Picasso Business and its four main
 individuals: Picasso, Braque, Gris, and Léger, he was, as he used to say, chief
 executive of The Picasso BusinessKahnweiler handled everything, making sure
-Picasso was rationed in just the right amounts.[[xx]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_edn20)
+Picasso was rationed in just the right amounts.[[xx]](/)
 As mentioned, he also fought to keep the number of artists within the group as
 limited and controllable as possible; using as his rational the argument that
 artists outside his own stable were insignificant. This included the most
 gifted: Dali, Metzinger, de Chirico, Matisse, and Derain. Collaborating dealers
 would be adamantly advised to exhibit only works of the highest quality to the
-detriment of quantity.[[xxi]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_edn21)
+detriment of quantity.[[xxi]](/)
 And again, Kahnweiler would narrowly define the handful of artists he considered
 quality.
 Albeit innocently achieved, one historic example of market control was
@@ -742,7 +744,7 @@ when they came up for sale at auction. When the poet, Thomas Campbell
 publications, wanted to sell the originals, Turner insisted on purchasing them
 back in order to guarantee that they would not sell inexpensively. According to
 Turners friend Cyrus Redding, Turner [buys his work back] because he is tender
-about his reputation; he will not have them in the market.[[xxii]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_edn22)
+about his reputation; he will not have them in the market.[[xxii]](/)
 Turners prices were strong even from early on in his career.
 If a major work by an artist such as van Gogh, Picasso, Rembrandt, Pollock,
 Monet, or Turner were to sell for under $100,000 it would shake the market.
@@ -771,8 +773,8 @@ interest, in particular, were the Russian collectors of cubist paintings,
 Shchukin and Morozov. They had bought several paintings through Kahnweilers
 exclusive dealership. Ten days earlier Kahnweiler, had written Shchukin and
 Morozov, offering to send them the auction catalogue and to bid for them without
-charging any commission.[[xxiii]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_edn23)
-Ultimately another German dealer[[3]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_ftn3)
+charging any commission.[[xxiii]](/)
+Ultimately another German dealer[[3]](/)
 bid the highest price and won the top prize, Les Bateleurs; so whatever
 the finer details of the process really were, things worked out just fine.
 Picasso, Kahnweilers most prominent cubist made a record price of 11,500
@@ -795,18 +797,18 @@ tradition attached to the Hotel Drouot concerning the sales of antiques, which
 portrayed a mysterious gang of dealers rigging all the auctions (the bande
 noire). Now the notion was adapted to interpret sales of modern artthe
 dealers were accused of buying at inflated prices, paintings by artists whose
-work they had in stock.[[xxiv]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_edn24) 
+work they had in stock.[[xxiv]](/) 
 Had the world of fine artthat around which cultural identity was formed,
 become little more than a cash cow for the influential. Two top European
 dealers, Kahnweiler, and Rosenberg had trained in commerce, in commodities in
-London, Antwerp, and Paris.[[xxv]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_edn25)
+London, Antwerp, and Paris.[[xxv]](/)
 In Lyon, July 1915, Tony Tollett delivered a lecture at the Academy
 of Sciences, and Literature and Arts dealing with the corporate influence of
 a few dealers in French art. He said that, these dealers quickly prospered by
 cultivating wealthy collectors, by buying all the works of an artist in order to
 speculate with full control over the stock, and by falsely inflating the prices.
 He blamed them for having influenced and bribed critics and having started art
-magazines in order to better control the market.[[xxvi]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_edn26)
+magazines in order to better control the market.[[xxvi]](/)
 The modern business model and the sorts of exploitation that can accompany
 such practice were clearly being applied to the world of art and apparently with
 great pecuniary reward. With Kahnweiler, in his biography by Pierre Assouline we
@@ -817,13 +819,13 @@ introduction to the world of finance under the aegis of his maternal uncles, who
 had specialized in the buying and selling of precious metals for over a
 century, and enjoyed a conciderable fortune They could best be described as
 bankers, speculators, entrepreneurs, or brokersand they controlled gold and
-diamond mines in South Africa.[[xxvii]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_edn27)
+diamond mines in South Africa.[[xxvii]](/)
 After being sponsored by those same family members Kahnweiler opened a gallery
 in Paris. The way in which he was to apply his ancestral wit in controlling the
 earliest bits of his own art-world empireBraque, Derain, Vlaminck, and van
 Dongenwas described by Assouline as such: When he decided to buy he bought
 everything... Exclusivity was the basis of his actions and the only rule he
-would never forsake:[[xxviii]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_edn28)
+would never forsake:[[xxviii]](/)
  
 The exclusive rights to the artists production would become his obsession;
 it was in keeping with his possessive and impetuous nature as well as his
@@ -834,7 +836,7 @@ Manolo he spelled out his position unequivocally: All of your work must pass
 through my hands, and I will not tolerate any exception to this. For so many
 years I have been a faithful supporter of your work, and I believe that I have
 the right to also demand your loyalty. On this point I will never make any
-concession.[[xxix]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_edn29)
+concession.[[xxix]](/)
 This became a very workable system within the modern era and along with the
 definitive catalogues raisonné, certain museums and many dealers have as a
 result become partial and inward looking.
@@ -847,7 +849,7 @@ detailed report as his special envoy: the number of rooms, the distance between
 paintings, the chronology of the hanging, the names of the dealers Sothebys had
 invited, the opening party held in a tent set up in front of the Tate with
 paella, flamenco dancers, and art critics singing his praises. Everything was
-there.[[xxx]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_edn30)
+there.[[xxx]](/)
 As a result there would be no looking back for Picasso or at his prices, he
 was now a made artist. The pivotal influence of those aforementioned cognoscenti
 is somewhat veiled here, but it is fair to assume that the British auction
@@ -863,7 +865,7 @@ be imposed by special interest groups). Thousands of very expensive
 impressionist and modern paintings made their way to Japan as a way to offer
 bribes during real estate dealings. Obviously the pressure of this abrupt
 increase in demand impacted prices internationally, they not only rose sharply,
-they rose madly as well.[[xxxi]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_edn31)
+they rose madly as well.[[xxxi]](/)
 But this artificial price increase was not the worst of it. Works were sold,
 then immediately bought back for many times their value in order to secretly
 bribe people or at least surreptitiously transfer funds during land deals.
@@ -872,7 +874,7 @@ collapse in Japan these over-valued paintings were redirected into the hands of
 creditors who wanted rid of them. When Michael Ainslie later analyzed the top
 twenty Japanese buyers at Sothebys in the years 1984-92, he discoveredthat
 seventeen of them were either bankrupt, in jail, or under serious
-investigation.[[xxxii]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_edn32)
+investigation.[[xxxii]](/)
 Christies and Sothebys have made it clear that if these paintings were dumped
 over a short period of time the art market would collapse. These paintings still
 sit in waiting. Surely the appropriate gatekeepers will ensure an orderly
@@ -887,7 +889,7 @@ comrades back in England. One might trace certain seeds back nearly a centur
 prior to 1914 when Berlin had been a centre of great collecting activity. An
 affluent generation of mostly Jewish bankers and industrialists had been
 encouraged by the ubiquitous Bode to spend money on art.
-[[xxxiii]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_edn33)
+[[xxxiii]](/)
 In the early 1930s Sothebys was making inroads into this community by
 appointing R.G. Birch as their representative; he was very knowledgeable about
 the German scene, and perhaps auspiciously, he was also the son of a Keeper at
@@ -900,7 +902,7 @@ Then there was Maurice Rheims encounter with Peter Wilson of Sothebys,
 involving the sale of King Farouks collection in 1954. Rheims, a top Paris
 commissaires-priseurs at the time, said that Wilson was no neutered pet but a
 formidable tom [He] threw a blockade round Paris and made London the turntable
-of the art market.[[xxxiv]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_edn34)
+of the art market.[[xxxiv]](/)
 One effective part of the process was to open a Monte-Carlo office in the 1970s.
 The international positioning of the firm was further enhanced with the
 acquisition of Parke Bernet, New York in 1964, and from that point onward
@@ -911,7 +913,7 @@ refused to sell this painting that had been fully authenticated and catalogued
 by Wildenstein. This is likely the frontline in the battle over control of the
 impressionist market. In the same article about the Wildensteins, Suzanna
 Andrews joins the chorus about the growing dominance of the auction houses over
-the market.[[xxxv]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_edn35)
+the market.[[xxxv]](/)
 According to the report by George Rush, the disputed Manet, La Liseuse
 was from the estate of Mildred Allen, widow of Charles Allen Jr., who was head
 of the New York investment firm of Allen and Co. The Wildensteins had sold it to
@@ -919,7 +921,7 @@ Allen in 1957. In a rare interview with this secretive family of art dealers,
 the richest in the world (conservatively estimated to be worth more than 5
 billion dollars), Rush quotes the frustrated Alec Wildenstein: We happen to
 make the book on Manet. I think we know a bit more about Manet than either
-Sothebys or Christies.[[xxxvi]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_edn36) 
+Sothebys or Christies.[[xxxvi]](/) 
 (In fact they produced: Rouart, Denis and Daniel Wildenstein, Edouard Manet,
 Catalogue Raisonné. Lausanne & Paris: La Bibliotheque de Arts, [1975] in 2
 volumes.)
@@ -940,10 +942,10 @@ indifferent to the implications of his actions when in the 1870s throughout
 his memoirs, [he] stressed that a dealer must always do what he could to protect
 the prices of his artists. Wherever possible he sought to obtain a monopoly of
 an artists oeuvre, buying up works from other dealers or collectors, and even
-bidding up pictures at auction to prevent prices from falling.[[xxxvii]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_edn37)
+bidding up pictures at auction to prevent prices from falling.[[xxxvii]](/)
 But how does this relate to more recent times; could this have been the
 situation where market control of an artists oeuvre was first orchestrated and
-the seed from which the modern art industry grew?[[4]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_ftn4)
+the seed from which the modern art industry grew?[[4]](/)
  
 Beyond the networking ruse, there is a frightening new development that may
 threaten, even worse, the long-term health of the art-world. What are the
@@ -954,7 +956,7 @@ high-powered marketing? Not only are prices being driven up astronomically for a
 select group of artists, but also the appreciation of art on an equitable level
 is being forgotten. Clearly, many great artists are being neglected in order to
 fuel the narrowing market. Peter Watson espoused that, as price levels have
-soared, the variety of painters and of schools achieving top prices has shrunk.[[xxxviii]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_edn38)
+soared, the variety of painters and of schools achieving top prices has shrunk.[[xxxviii]](/)
 Most new collectors within this fray are largely unfamiliar with art, other
 than about the glamour artists. They make vanity purchases to please friends
 within a milieu that reeks of stock-market speculation. A crash in prices for
@@ -963,11 +965,11 @@ suspicions over in-house bidding by some auction firms, and Sothebys credit
 policy that encourages unabashed participation in feverish bidding
 battlescaveat emptorbuyer beware! Even Jo Floyd in his financial report for
 Christies publicly recognized that such financial services provide an undue
-influence on demand and create an artificial level for works of art,[[xxxix]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_edn39)
+influence on demand and create an artificial level for works of art,[[xxxix]](/)
 When the sale of van Goghs Irises made a record price of $49 million in 1987:
 of every two dollars bid, one was provided by Sothebys. Credit provided by the
 auction house clearly inflated the marketnot to mention the $4.9 million
-buyers premium which was Sothebys cut on the deal.[[xl]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_edn40)
+buyers premium which was Sothebys cut on the deal.[[xl]](/)
 There must be a more vital concern here than a fiduciary one. This is of
 course the artificial direction of art scholarship caused by such marketing
 ballyhoo. And Martins declaration that everyone is in each others pocket
@@ -975,7 +977,7 @@ should ring alarms about the potentially sinister results of such insider
 control. The 1990 bold comment by Christies George Walker, over credit-checks
 on clients should confirm the idea about the meshing of interests by key
 players: When we do get a negative reference, he admitted, we usually alert
-Sothebys as well, and they do the same for us, for obvious reasons.[[xli]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_edn41)
+Sothebys as well, and they do the same for us, for obvious reasons.[[xli]](/)
 This sort of cooperation is far from what might be expected of ardent
 competitors in a fair market economy. With 90% of the entire auction business
 going through the twin-firms: including all of the important paintings, it
@@ -998,7 +1000,7 @@ of a hereditary control group, but questions this groups self-awareness or
 commitment to the common good, there is always going to be some kind of ruling
 class, or governing class, or possessing class, elite, what ever word you want
 to use; it is a question of what kind of elite, how self-aware, how engaged in
-the common good.[[xlii]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_edn42)
+the common good.[[xlii]](/)
 The self-interests implicit in Laphams statement are exemplified by the
 relation Duveen had to this ruling class. John Walker, former director of the
 National Gallery in Washington quotes what B.B. (Bernard Berenson) had divulged
@@ -1010,7 +1012,7 @@ Conegliano]. To his amazement his valuation was discarded and a much higher sum
 paid. The owner of the painting was the Viscount dAbernon, a life-trustee of
 the National Gallery in London, a former ambassador, and in the eyes of the
 British government a prestigious personality. At that time Duveen was plain Sir
-Joseph. A peerage was highly desirable.[[xliii]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_edn43)
+Joseph. A peerage was highly desirable.[[xliii]](/)
  
 What one might conclude here is that if you favour enough of the right people
 by supporting their cause, or in this case their painting, you might find
@@ -1026,7 +1028,7 @@ principal of noblesse oblige? On Plato, F.M. Cornford wrote: The ruler,
 from the Homeric king onwards, had been called the shepherd of the people [but]
 that these shepherds have commonly been less concerned with the good of their
 flock than with shearing and butchering them for their own profit and
-aggrandizement.[[xliv]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_edn44)
+aggrandizement.[[xliv]](/)
 Was it the group of Invisibles, holding court at the apex of British
 society that the Queen was referring to when she alarmed the talkative royal
 butler by saying: Be careful Paul there are powers at work in this country
@@ -1038,7 +1040,7 @@ rid myself of the harassing feeling that I am at best, but a refined and
 affectionate cannibal But I must define what I mean by cannibalism. I mean the
 use of anything alive, especially of our own species, and particularly any
 member of our own cultural group, solely for our own personal advantage, with no
-regard for their private interest and the common good of us all.[[xlv]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_edn45)
+regard for their private interest and the common good of us all.[[xlv]](/)
 This brutal self-portrayal not only illumines the dark side of human nature, it
 exposes the underpinnings of the art-world. As things exist today, the amateur
 art collector will surely be confounded by introspective blockades erected
@@ -1067,12 +1069,12 @@ his day, Boydells closest contemporaries were not old-style patrons and
 certainly not monarchs, but such new-style merchandisers as Josiah Wedgwood
 (1730-1795), men who were learning how to coordinate complex systems of
 production and marketing and who wore the mantle of patron the way defense
-contractors wrap themselves in the flagas a business strategy.[[xlvi]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_edn46)
+contractors wrap themselves in the flagas a business strategy.[[xlvi]](/)
 The thrust of this movement was at the time clearly nationalistic and it served
 largely as the standard by which art is viewed up until the present dayas a
 source of currency both personally and nationally. Boydells Shakespeare
 Gallery and Bowyers Historic Gallery led the charge in exploiting
-two veins of a burgeoning nationalism[[xlvii]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_edn47)
+two veins of a burgeoning nationalism[[xlvii]](/)
 and served as the marketing vehicle for much of the artistic production during
 the era. If it were not for print marketing as it was formulated in the
 late 18th century, surely Turner with his own print production in the
@@ -1097,157 +1099,157 @@ collectingthat dispossessing selflessness of gods sublime romancethe artwo
 itself.
  
   
- [[1]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_ftnref1)
+ [[1]](/)
  Henri F. Ameil (1821-1881), reclusive Swiss author who gained fame
  posthumously on the discovery of his Journal of self-analysis.
- [[2]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_ftnref2)
+ [[2]](/)
  This is a reference to the Republic of Plato wherein his support of reason
  and humanity is altruistic and would fairly encompass the human need for
  curiousity and emotion.
- [[3]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_ftnref3)
+ [[3]](/)
  At the time of the sale there were wild and harried suspicions voiced in the
  press about a conspiracy by German dealers to subvert the French art market
  completely.
- [[4]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_ftnref4)
+ [[4]](/)
  When Durand-Ruel died in 1922 he had 800 Renoirs and 600 Degas in his
  inventory (Manet to Manhattan p.211).
   
- [[i]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_ednref1)
+ [[i]](/)
  Francis MacDonald Cornford, The Republic of Plato, Oxford University
  Press, London, 1951), xxvi.
- [[ii]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_ednref2)
+ [[ii]](/)
  Ibid. 262-3.
- [[iii]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_ednref3)
+ [[iii]](/)
  The Westbridge Art Market Report (Westbridge Publications Ltd., Vancouver,
  BC, Vol. 27, No. 6, Oct/Nov. 2001), 1 and 7.
- [[iv]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_ednref4)
+ [[iv]](/)
  James Henry Duveen , Secrets of an Art Dealer, (E.P. Dutton & Co.,
  Inc., New York, 1938), 247.
- [[v]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_ednref5)
+ [[v]](/)
  Max J. Friedlander, On Art and Connoisseurship, (Bruno Cassirer, Publishers
  Ltd., London, 1942, translated from the authors manuscript by Tancred
  Borenius), 179-80.
- [[vi]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_ednref6)
+ [[vi]](/)
  Ibid.183.
- [[vii]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_ednref7)
+ [[vii]](/)
  Daniel Catton Rich, The Flow of Art, Essays and Criticisms of Henry
  McBride, (Athenium Publishers, New York, 1975), 34.
- [[viii]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_ednref8)
+ [[viii]](/)
  Max J. Friedlander, On Art and Connoisseurship, (Bruno Cassirer, Publishers
  Ltd., London, 1942, translated from the authors manuscript by Tancred
  Borenius), 168.
- [[ix]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_ednref9)
+ [[ix]](/)
  Hanna Kiel, The Bernard Berenson Treasury, (Methuen & Co. Ltd.,
  London, 1964), 395
- [[x]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_ednref10)
+ [[x]](/)
  John Costello, Mask of Treachery, (William Collins Sons and Co. Ltd.,
  1988), 244.
- [[xi]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_ednref11)
+ [[xi]](/)
  Robert Lacey, SothebysBidding for Class, (Little, Brown & Company
  (Canada), 1989), 144,149, and 151.
- [[xii]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_ednref12)
+ [[xii]](/)
  Frank Herrmann, Sothebys, Portrait of an Auction House, (Chatto and
  Windus, London, 1980), xxv.
- [[xiii]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_ednref13)
+ [[xiii]](/)
  Hugh Roberts, Negotiated Sales, Christies Review of the Season
  1986, (Christie, Manson and Woods Ltd., Phaidon Christies Oxford,
  1986), 12.
- [[xiv]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_ednref14)
+ [[xiv]](/)
  James Henry Duveen, The Rise of The House of Duveen, (Alfred A. Knoff,
  New York, 1957), 73-4.
- [[xv]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_ednref15)
+ [[xv]](/)
  Morris Eaves, The Counter-Arts Conspiracy: Art and Industry in the Age of
  Blake, (Cornell University Press (Getty Grant Program assistance),
  Ithaca and London, 1992), 25.
- [[xvi]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_ednref16)
+ [[xvi]](/)
  Ibid, 31.
- [[xvii]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_ednref17)
+ [[xvii]](/)
  Frank Herrmann, Sothebys, Portrait of an Auction House, (Chatto and
  Windus, London, 1980), 269.
- [[xviii]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_ednref18)
+ [[xviii]](/)
  Pierre Assouline, An Artful Life, A Biograhy of D.H. Kahnweiler,
  1884-1979, (Grove Weidenfeld, New York, translation Charles Ruas 1990), 155.
- [[xix]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_ednref19)
+ [[xix]](/)
  Ibid. 346.
- [[xx]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_ednref20)
+ [[xx]](/)
  Peter Watson, From Manet To Manhattan, (New York: Random House, Inc.,
  1992), 302.
- [[xxi]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_ednref21)
+ [[xxi]](/)
  Pierre Assouline, An Artful Life, A Biograhy of D.H. Kahnweiler,
  1884-1979, (Grove Weidenfeld, New York, translation Charles Ruas 1990), 247.
- [[xxii]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_ednref22)
+ [[xxii]](/)
  Walter Thornbury, Life of J. M. W. Turner, R.A., (Hurst and Blackett,
  Publishers, London, 1862), vol. 2, 51-2.
- [[xxiii]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_ednref23)
+ [[xxiii]](/)
  Pierre Assouline, An Artful Life, A Biograhy of D.H. Kahnweiler,
  1884-1979, (Grove Weidenfeld, New York, translation Charles Ruas 1990), 111.
- [[xxiv]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_ednref24)
+ [[xxiv]](/)
  Peter Watson, From Manet To Manhattan, (New York: Random House, Inc.,
  1992), 209-10.
- [[xxv]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_ednref25)
+ [[xxv]](/)
  Peter Watson, From Manet To Manhattan, (New York: Random House, Inc.,
  1992), 208.
- [[xxvi]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_ednref26)
+ [[xxvi]](/)
  Pierre Assouline, An Artful Life, A Biograhy of D.H. Kahnweiler,
  1884-1979, (Grove Weidenfeld, New York, translation Charles Ruas 1990), 128.
- [[xxvii]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_ednref27)
+ [[xxvii]](/)
  Pierre Assouline, An Artful Life, A Biograhy of D.H. Kahnweiler,
  1884-1979, (Grove Weidenfeld, New York, translation Charles Ruas 1990), 4.
- [[xxviii]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_ednref28)
+ [[xxviii]](/)
  Ibid, 32-3.
- [[xxix]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_ednref29)
+ [[xxix]](/)
  Ibid. 96, letter, Kahnweiler to Manolo, July 9, 1923.
- [[xxx]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_ednref30)
+ [[xxx]](/)
  Pierre Assouline, An Artful Life, A Biograhy of D.H. Kahnweiler,
  1884-1979, (Grove Weidenfeld, New York, translation Charles Ruas 1990), 333.
- [[xxxi]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_ednref31)
+ [[xxxi]](/)
  Robert Lacey, SothebysBidding for Class, (Little, Brown & Company
  (Canada), 1989), 256.
- [[xxxii]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_ednref32)
+ [[xxxii]](/)
  Robert Lacey, SothebysBidding for Class, (Little, Brown & Company
  (Canada), 1989), 256.
- [[xxxiii]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_ednref33)
+ [[xxxiii]](/)
  Frank Herrmann, Sothebys, Portrait of an Auction House, (Chatto and
  Windus, London, 1980), 276.
- [[xxxiv]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_ednref34)
+ [[xxxiv]](/)
  Frank Herrmann, Art at Auction, (editor Joan A. Speers, Sotheby Parke
  Bernet Publications Ltd., 1980), 12.
- [[xxxv]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_ednref35)
+ [[xxxv]](/)
  Suzanna Andrews, Bitter Spoils, (Vanity Fair magazine March 1998), p
  255.
- [[xxxvi]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_ednref36)
+ [[xxxvi]](/)
  Ibid. 251.
- [[xxxvii]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_ednref37)
+ [[xxxvii]](/)
  Peter Watson, From Manet To Manhattan, (New York: Random House, Inc.,
  1992), 83.
- [[xxxviii]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_ednref38)
+ [[xxxviii]](/)
  Ibid. 475.
- [[xxxix]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_ednref39)
+ [[xxxix]](/)
  Peter Watson, From Manet To Manhattan, (New York: Random House, Inc.,
  1992), 385.
- [[xl]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_ednref40)
+ [[xl]](/)
  Robert Lacey, SothebysBidding for Class, (Little, Brown & Company
  (Canada), 1989), 259.
- [[xli]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_ednref41)
+ [[xli]](/)
  Peter Watson, From Manet To Manhattan, (New York: Random House, Inc.,
  1992), 19.
- [[xlii]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_ednref42)
+ [[xlii]](/)
  Evan Solomon, Hot Type, (Canadian Broadcasting Corporation, CBC Apr
  15 2001)
- [[xliii]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_ednref43)
+ [[xliii]](/)
  John Walker, Self-Portrait with Donors, (Little, Brown and Company
  (Canada) Limited, 1974), 295 and 297.
- [[xliv]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_ednref44)
+ [[xliv]](/)
  Francis MacDonald Cornford, The Republic of Plato, Oxford University
  Press, London, 1951), footnote, 23.
- [[xlv]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_ednref45)
+ [[xlv]](/)
  Bernard Berenson, Sketch for a Self Portrait, (A Midland Book,
  Indiana University Press, Bloomington, 1958), 29-30.
- [[xlvi]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_ednref46)
+ [[xlvi]](/)
  Morris Eaves, The Counter-Arts Conspiracy: Art and Industry in the Age of
  Blake, (Cornell University Press (Getty Grant Program assistance),
  Ithaca and London, 1992), 38.
- [[xlvii]](http://www.jmwturner.ca/Wildenstein%20Institute%20et%20al.htm#_ednref47)
+ [[xlvii]](/)
  Ibid. 37.
    
                              
@@ -1289,16 +1291,16 @@ itself.
  [bibliography](/about/bibliography/)
  [sa](/painting/appraisal/)
               
- [Home](http://jmwturner.ca/)
+ [Home](/)
  [discovery](/painting/)
  [style](/painting/style/)
- [provenance](http://jmwturner.ca/christie)
+ [provenance](/painting/provenance/)
  [connoisseur](/discovery/connoisseurship/)
  [Orrock](/discovery/orrock/)
  [forensic](/discovery/forensic/)
  [signature](/painting/signature/)
- [Butlin](http://jmwturner.ca/Martin%20Butlin%20Christie)
- [legal](http://jmwturner.ca/Legal%20fears%20Martin%20Butlin%20Tate%20Christie)
+ [Butlin](/discovery/butlin/)
+ [legal](/discovery/legal/)
  [catalogue](/discovery/catalogue/)
  [portrait](/painting/portrait/)
  [sting](/discovery/sting/) [Courbet](/discovery/courbet/)
@@ -1311,7 +1313,7 @@ itself.
  [Rubens](/discovery/rubens/)
               
  [medal](/about/medal/)
- [Unknown Turner](http://jmwturner.ca/The%20Unknown%20Turner%20John%20Anderson%20Tate%20J.M.W.%20Turner.htm)
+ [Unknown Turner](/discovery/ngc/)
  [ngc shipwreck](/discovery/ngc/)
  [IFAR/RRP](/discovery/ifar/)
  [institutional](/discovery/institutional/)
@@ -1321,7 +1323,7 @@ itself.
  story](/about/your-story/)
  [Hand C theory](/discovery/hand-c/)
  [C dialogue](/discovery/dialogue/)
- [expertise](http://jmwturner.ca/turner%20expert%20jmw%20turner%20expert%20Butlin%20and%20Joll%20catalogue%20the%20paintings%20of%20JMW%20Turner%20Sir%20JC%20Robinson%20Thomas%20Griffith%20Orrock.htm)
+ [expertise](/discovery/expert/)
  [expert](/discovery/expert/)
  [Kayser](/discovery/hand-c/)
  [NGL](/discovery/national-gallery/)
@@ -1334,13 +1336,13 @@ itself.
  [University College London UCL](http://www.ucl.ac.uk/)
                       
                                  
- [Terms and conditions](http://jmwturner.ca/user_terms_and_conditions.htm) J.M.W. Turner
+ [Terms and conditions](/about/) J.M.W. Turner
                                                                          Site criticism is appreciated at
- [jmwturner@shaw.ca](https://web.archive.org/web/20050204034129/mailto:jmwturner@shaw.ca)
+ [jmwturner@shaw.ca](/)
  Penticton British Columbia Canada
                                                   
  © setters 2003, Rescuing Turner: The Art Project &
- [http://www.jmwturner.ca/](http://www.jmwturner.ca/)
+ [/)
                                                     
  search for jmw turner
  [Google](http://www.google.ca/)

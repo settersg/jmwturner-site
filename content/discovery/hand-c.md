@@ -2,6 +2,8 @@
 title: "Hand C Orrock Ehrenbrietstein Martin Butlin J.M.W. Turner"
 layout: single
 ---
+
+
 |
  [JMW Turner the source:](/painting/)
 Discovery JMW Turner
@@ -221,7 +223,7 @@ have avoided accepting them. Incongruously, one of these was originally from the
 If that one were in fact accepted, then the whole production of
 [Hand "C"](/discovery/dialogue/) would need
 accepting. The problem with this scenario becomes apparent in the section,
-[Tribal Instincts](tribal_instincts.htm).
+[Tribal Instincts](/about/turner/).
 ![](/jmwturner-site/images/drawing castleweb.jpg)
 Possibly for the sake of expedience, it
 has been assumed in recent years that Turner did very little open-air sketching
@@ -634,8 +636,8 @@ jewels at that.
     Orrock Ehrenbrietstein
 [discussion](/discovery/dialogue/)
 from the Butlin visit.     
-  [Orrock Provenance](/discovery/orrock/)   [The Unknown Turner](The%20Unknown%20Turner%20John%20Anderson%20Tate%20J.M.W.%20Turner.htm)  
- [Tribal Instincts](tribal_instincts.htm)    [Connoisseurship](/discovery/connoisseurship/)
+  [Orrock Provenance](/discovery/orrock/)   [The Unknown Turner](/discovery/ngc/)  
+ [Tribal Instincts](/about/turner/)    [Connoisseurship](/discovery/connoisseurship/)
                                                                           
                                                                              
 HOME
@@ -776,33 +778,33 @@ Institute](http://www.cci-icc.gc.ca/html/)
  [Andrew
 Wilton Rizzoli Tate Clore](http://www.aaabooksearch.com/Author/Andrew%20Wilton/0)
                             
-On site: [Home](index.html)
+On site: [Home](/)
 [discovery](/painting/)
 [style](/painting/style/)
-[provenance](christie)
+[provenance](/painting/provenance/)
 [connoisseur](/discovery/connoisseurship/)
 [Orrock](/discovery/orrock/)
 [forensic](/discovery/forensic/) [signature](/painting/signature/)
-[Butlin](Martin%20Butlin%20Christie)
-[legal](Legal%20fears%20Martin%20Butlin%20Tate%20Christie)
+[Butlin](/discovery/butlin/)
+[legal](/discovery/legal/)
 [catalogue](/discovery/catalogue/)
 [portrait](/painting/portrait/)
 [sting](/discovery/sting/) 
                                   
 [medal](/about/medal/)
-[Unknown Turner](The%20Unknown%20Turner%20John%20Anderson%20Tate%20J.M.W.%20Turner.htm)
+[Unknown Turner](/discovery/ngc/)
 [ngc shipwreck](/discovery/ngc/)
 [IFAR/RRP](/discovery/ifar/)
 [institutional](/discovery/institutional/) [copies](/discovery/copies/)
 [book](/book/) [your story](/about/your-story/)
 [Hand C theory](/discovery/hand-c/) [C dialogue](/discovery/dialogue/)
-                                                     [Terms and conditions](user_terms_and_conditions.htm)
+                                                     [Terms and conditions](/about/)
 J.M.W. Turner
                                                                        
-Site criticism is appreciated at [jmwturner@shaw.ca](https://web.archive.org/web/20030801173205/mailto:jmwturner@shaw.ca)
+Site criticism is appreciated at [jmwturner@shaw.ca](/)
                                                     
 © setters 2003, Rescuing Turner: The Art Project &
-[www.jmwturner.ca](index.html)
+[www.jmwturner.ca](/)
                                                    
 search for jmw turner [Google](http://www.google.ca/)
 [H](http://www.hotbot.com/)

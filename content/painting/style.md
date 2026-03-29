@@ -2,6 +2,8 @@
 title: "Style J.M.W. Turner Shipwreck Painting"
 layout: single
 ---
+
+
 [JMW Turner: the source](/painting/)
 expertise clore national gallery expert opinion
 tate turner studies society news authentication christie's sotheby's

@@ -2,6 +2,8 @@
 title: "Joseph Mallord William Turner"
 layout: single
 ---
+
+
 Joseph Mallord William Turner
  |                                                                                     
    
@@ -1582,6 +1584,6 @@ John
  
                     
  [Institutional evolution](/discovery/institutional/)   [Tribal
- Instincts](tribal_instincts.htm)  
+ Instincts](/about/turner/)  
  [Butlin Joll catalogue](/discovery/catalogue/)  
  [Connoisseurship](/discovery/connoisseurship/)

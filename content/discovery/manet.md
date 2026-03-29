@@ -2,6 +2,8 @@
 title: "Manet Expert Edouard Manet Art Expert"
 layout: single
 ---
+
+
 Manet expert Edouard Manet art expert opinion Wildenstein
 Institute, RRP, expert evaluation catalogue raisonne
               
@@ -33,7 +35,7 @@ Source:
 [Art Worlds Dirty Little Secret](/book/)
 r malcolm setters / graham setters
 ![](/jmwturner-site/images/bright%20orange%20paint.jpg)[forensics studies in art](/discovery/forensic/)
-[art scientific analysis](Art%20Science%20J.M.W.%20Turner)
+[art scientific analysis](/discovery/art-science/)
 [connoisseurship](/discovery/copies/)
 [provenance](/discovery/orrock/)
 [art politics](/discovery/institutional/)
@@ -387,16 +389,16 @@ Books, 1992. 
 [bequest](/about/medal/)
  [news](/about/news/)
  [corresp](/about/correspondence/)
- [Home](http://jmwturner.ca/)
+ [Home](/)
  [discovery](/painting/)
  [style](/painting/style/)
- [provenance](http://jmwturner.ca/christie)
+ [provenance](/painting/provenance/)
  [connoisseur](/discovery/connoisseurship/)
  [Orrock](/discovery/orrock/)
  [forensic](/discovery/forensic/)
  [signature](/painting/signature/)
- [Butlin](http://jmwturner.ca/Martin%20Butlin%20Christie)
- [legal](http://jmwturner.ca/Legal%20fears%20Martin%20Butlin%20Tate%20Christie)
+ [Butlin](/discovery/butlin/)
+ [legal](/discovery/legal/)
  [catalogue](/discovery/catalogue/)
  [portrait](/painting/portrait/)
  [sting](/discovery/sting/) [Courbet](/discovery/courbet/)
@@ -404,7 +406,7 @@ Books, 1992. 
 [old](/discovery/expert/) [St](/discovery/christopher/)
  [Durer](/discovery/durer/)
  [medal](/about/medal/)
- [Unknown Turner](http://jmwturner.ca/The%20Unknown%20Turner%20John%20Anderson%20Tate%20J.M.W.%20Turner.htm)
+ [Unknown Turner](/discovery/ngc/)
  [ngc shipwreck](/discovery/ngc/)
  [IFAR/RRP](/discovery/ifar/)
  [institutional](/discovery/institutional/)
@@ -414,23 +416,23 @@ Books, 1992. 
  story](/about/your-story/)
  [Hand C theory](/discovery/hand-c/)
  [C dialogue](/discovery/dialogue/)
- [expertise](http://jmwturner.ca/turner%20expert%20jmw%20turner%20expert%20Butlin%20and%20Joll%20catalogue%20the%20paintings%20of%20JMW%20Turner%20Sir%20JC%20Robinson%20Thomas%20Griffith%20Orrock.htm)
+ [expertise](/discovery/expert/)
  [expert](/discovery/expert/)
 [Kayser](/discovery/hand-c/) 
                             "[Copy](/discovery/copies/)"
 Murillo    
- [Lost Boucher](The%20Lost%20Francoise%20Boucher%20painting.htm)    
+ [Lost Boucher](/discovery/courbet/)    
  [Durer or Cranach](/discovery/durer/)    
- [Monet](Monet%20Wildenstein.htm)
+ [Monet](/discovery/manet/)
                                                                                                         
            
                                                                                                                       
-[Terms and conditions](http://jmwturner.ca/user_terms_and_conditions.htm) J.M.W. Turner
+[Terms and conditions](/about/) J.M.W. Turner
                                                                    
                                             
- Site criticism is appreciated at [jmwturner@shaw.ca](https://web.archive.org/web/20170704151824/mailto:jmwturner@shaw.ca)
+ Site criticism is appreciated at [jmwturner@shaw.ca](/)
 Penticton
                                                                               
                               
 © setters 2003, Rescuing Turner: The Art Project &
-[http://www.jmwturner.ca](http://www.jmwturner.ca/)
+[/)

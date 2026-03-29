@@ -2,6 +2,8 @@
 title: "Fraud Art Fraud"
 layout: single
 ---
+
+
 |
       
 FRAUD: Art Fraud
@@ -77,7 +79,7 @@ must be fully considered when assessing authorship:
                                                       
  r malcolm setters / graham setters
 ![](/jmwturner-site/images/bright%20orange%20paint.jpg)[forensics studies in art](/discovery/forensic/)
-[art scientific analysis](Art%20Science%20J.M.W.%20Turner)
+[art scientific analysis](/discovery/art-science/)
 [connoisseurship](/discovery/copies/)
 [provenance](/discovery/orrock/)
 [art politics](/discovery/institutional/)
@@ -135,7 +137,7 @@ untested media has resulted in substantial conservation
 problems for modern works.
 friendly advice on
 collecting is available by contacting [Robert
-and Graham Setters](https://web.archive.org/web/20050204031756/mailto:jmwturner@shaw.ca)
+and Graham Setters](/)
     
    IMPORTANT
 POINTS TO CONSIDER WHEN CHOOSING A TREASURE
@@ -240,8 +242,8 @@ r malcolm
 setters
 / graham setters
 [Institutional evolution](/discovery/institutional/)        [Tribal
-Instincts](tribal_instincts.htm)      
-[Art Expertise](turner%20expert%20jmw%20turner%20expert%20Butlin%20and%20Joll%20catalogue%20the%20paintings%20of%20JMW%20Turner%20Sir%20JC%20Robinson%20Thomas%20Griffith%20Orrock.htm)      
+Instincts](/about/turner/)      
+[Art Expertise](/discovery/expert/)      
 [Art versus Science](/discovery/ifar/)
                                                                        
                                                                           
@@ -250,14 +252,14 @@ Source:
 J[MW Turner Joseph Mallord
 William](/painting/), National Gallery of Canada
 Metropolitan Museum of Art Museum of Modern Art the British Museum art museum art history
-[Christies](christie) Sothebys Tate
+[Christies](/painting/provenance/) Sothebys Tate
 Gallery art world painting old master paintings[sea piece Shipwreck](/painting/style/)Martin Butlin Wildenstein
 Institute Yale Center
 British Art The Getty Getty Research Institute provenance Clore
 Gallery Tate Gallery [Turner Gallery](/about/medal/) curator museum  antique forensic fingerprint conservator International Foundation for Art
 Research
 [IFAR](/discovery/ifar/) English landscape art historian art criticism IIC
-[CCI](Art%20Science%20J.M.W.%20Turner) Canadian
+[CCI](/discovery/art-science/) Canadian
 Conservation Institute McCrone Research
 Institute artist artists pictures paintings gallery galleries drawing picture biography collection archive history
 of art discovery discoveries discovery ca discovery
@@ -266,13 +268,13 @@ of art discovery discoveries discovery ca discovery
 [TSN](/about/medal/) old
 master masterpiece Rembrandt Picasso Francoise Boucher Monet Boucher
 [Claude
-Monet](Monet%20Wildenstein.htm) [Angelica Kauffmann](/discovery/copies/) Murillo Whistler James McNeill Whistler Rubens Peter
+Monet](/discovery/manet/) [Angelica Kauffmann](/discovery/copies/) Murillo Whistler James McNeill Whistler Rubens Peter
 Paul Rubens Renior Claude Titian Joshua
 Reynolds fakes forgeries [connoisseurship](/discovery/copies/) connoisseur
 [art
-expert](turner%20expert%20jmw%20turner%20expert%20Butlin%20and%20Joll%20catalogue%20the%20paintings%20of%20JMW%20Turner%20Sir%20JC%20Robinson%20Thomas%20Griffith%20Orrock.htm) renaissance Getty Museum James
+expert](/discovery/expert/) renaissance Getty Museum James
 [Orrock](/discovery/orrock/)
-[Orrock](christie)
+[Orrock](/painting/provenance/)
 [Sir J.C. Robinson](/discovery/orrock/)
 [Turner
 portrait](/painting/portrait/) John Paul
@@ -317,16 +319,16 @@ Carr Manet Durer Albrecht Durer Peter Paul Rubens
  [bibliography](/about/bibliography/)
  [sa](/painting/appraisal/)
               
- [Home](http://jmwturner.ca/)
+ [Home](/)
  [discovery](/painting/)
  [style](/painting/style/)
- [provenance](http://jmwturner.ca/christie)
+ [provenance](/painting/provenance/)
  [connoisseur](/discovery/connoisseurship/)
  [Orrock](/discovery/orrock/)
  [forensic](/discovery/forensic/)
  [signature](/painting/signature/)
- [Butlin](http://jmwturner.ca/Martin%20Butlin%20Christie)
- [legal](http://jmwturner.ca/Legal%20fears%20Martin%20Butlin%20Tate%20Christie)
+ [Butlin](/discovery/butlin/)
+ [legal](/discovery/legal/)
  [catalogue](/discovery/catalogue/)
  [portrait](/painting/portrait/)
  [sting](/discovery/sting/) [Courbet](/discovery/courbet/)
@@ -339,7 +341,7 @@ Carr Manet Durer Albrecht Durer Peter Paul Rubens
  [Rubens](/discovery/rubens/)
               
  [medal](/about/medal/)
- [Unknown Turner](http://jmwturner.ca/The%20Unknown%20Turner%20John%20Anderson%20Tate%20J.M.W.%20Turner.htm)
+ [Unknown Turner](/discovery/ngc/)
  [ngc shipwreck](/discovery/ngc/)
  [IFAR/RRP](/discovery/ifar/)
  [institutional](/discovery/institutional/)
@@ -349,7 +351,7 @@ Carr Manet Durer Albrecht Durer Peter Paul Rubens
  story](/about/your-story/)
  [Hand C theory](/discovery/hand-c/)
  [C dialogue](/discovery/dialogue/)
- [expertise](http://jmwturner.ca/turner%20expert%20jmw%20turner%20expert%20Butlin%20and%20Joll%20catalogue%20the%20paintings%20of%20JMW%20Turner%20Sir%20JC%20Robinson%20Thomas%20Griffith%20Orrock.htm)
+ [expertise](/discovery/expert/)
  [expert](/discovery/expert/)
  [Kayser](/discovery/hand-c/)
  [NGL](/discovery/national-gallery/)
@@ -362,13 +364,13 @@ Carr Manet Durer Albrecht Durer Peter Paul Rubens
  [University College London UCL](http://www.ucl.ac.uk/)
                       
                                  
- [Terms and conditions](http://jmwturner.ca/user_terms_and_conditions.htm) J.M.W. Turner
+ [Terms and conditions](/about/) J.M.W. Turner
                                                                          Site criticism is appreciated at
- [jmwturner@shaw.ca](https://web.archive.org/web/20050204031756/mailto:jmwturner@shaw.ca)
+ [jmwturner@shaw.ca](/)
  Penticton British Columbia Canada
                                                   
  © setters 2003, Rescuing Turner: The Art Project &
- [http://www.jmwturner.ca/](http://www.jmwturner.ca/)
+ [/)
                                                     
  search for jmw turner
  [Google](http://www.google.ca/)

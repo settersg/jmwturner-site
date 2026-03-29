@@ -2,6 +2,8 @@
 title: "Index"
 layout: single
 ---
+
+
 ![](/jmwturner-site/images/image001.gif)
 ![](/jmwturner-site/images/image002.gif)    
        A
@@ -31,15 +33,15 @@ Mallord William Turner
 [J W T](/painting/signature/)
 inscription
         
-[Art/science and scientific report](Art%20Science%20J.M.W.%20Turner)
+[Art/science and scientific report](/discovery/art-science/)
         
-[Christie's](christie)
+[Christie's](/painting/provenance/)
 Provenance
         
-[The Unknown Turner](The%20Unknown%20Turner%20John%20Anderson%20Tate%20J.M.W.%20Turner.htm)
+[The Unknown Turner](/discovery/ngc/)
 American legend
          
-[Legal Fears](Legal%20fears%20Martin%20Butlin%20Tate%20Christie) / [The
+[Legal Fears](/discovery/legal/) / [The
 Sting](/discovery/sting/)
          
 [Ehrenbrietstein](/discovery/hand-c/)
@@ -50,12 +52,12 @@ Evolution](/discovery/institutional/) Social Mandate
           [twin auction firms](/discovery/institutional/)
                            
          
-[Martin Butlin](Martin%20Butlin%20Christie)
+[Martin Butlin](/discovery/butlin/)
  
-[Tribal Instincts](tribal_instincts.htm)
+[Tribal Instincts](/about/turner/)
  
          
-[Art Discovery](a_new_age.htm)
+[Art Discovery](/book/)
 old masters
                                          
          
@@ -72,13 +74,13 @@ of a Hero
 [.](/painting/)
              
                                                                                                
-[Terms and conditions](user_terms_and_conditions.htm)
+[Terms and conditions](/about/)
 J.M.W. Turner
                                                                                     
- Site criticism is appreciated at [jmwturner@shaw.ca](https://web.archive.org/web/20201025103837/mailto:jmwturner@shaw.ca)
+ Site criticism is appreciated at [jmwturner@shaw.ca](/)
                                                                               
  © setters 2003, Rescuing Turner: The Art Project &
-[http://www.jmwturner.ca](https://web.archive.org/web/20201025103837/file:///C:/Users/Marshmallows/Documents/My Web Sites/mysite/)  
+[/)  
  
  
  
@@ -248,22 +250,22 @@ J.M.W. Turner
  [bequest](/about/medal/) [news](/about/news/)
  [corresp](/about/correspondence/) [bibliography](/about/bibliography/) [sa](/painting/appraisal/)
               
- [Home](index.html)
+ [Home](/)
  [discovery](/painting/)
  [style](/painting/style/)
- [provenance](christie.html)
+ [provenance](/painting/provenance/)
  [connoisseur](/discovery/connoisseurship/)
  [Orrock](/discovery/orrock/)
  [forensic](/discovery/forensic/)
  [signature](/painting/signature/)
- [Butlin](Martin Butlin Christie.html)
- [legal](Legal fears Martin Butlin Tate Christie.html)
+ [Butlin](/discovery/butlin/)
+ [legal](/discovery/legal/)
  [catalogue](/discovery/catalogue/)
  [portrait](/painting/portrait/) [sting](/discovery/sting/) [Courbet](/discovery/courbet/) [Roach](/discovery/roach/) [old](/discovery/expert/) [St](/discovery/christopher/) [Durer](/discovery/durer/)
  [Manet](/discovery/manet/) [bio](/about/biography/) [Rubens](/discovery/rubens/)
               
  [medal](/about/medal/)
- [Unknown Turner](The Unknown Turner John Anderson Tate J.M.W. Turner.htm)
+ [Unknown Turner](/discovery/ngc/)
  [ngc shipwreck](/discovery/ngc/)
  [IFAR/RRP](/discovery/ifar/)
  [institutional](/discovery/institutional/)
@@ -271,7 +273,7 @@ J.M.W. Turner
  [book](/book/) [your story](/about/your-story/)
  [Hand C theory](/discovery/hand-c/)
  [C dialogue](/discovery/dialogue/)
- [expertise](turner expert jmw turner expert Butlin and Joll catalogue the paintings of JMW Turner Sir JC Robinson Thomas Griffith Orrock.htm) [expert](/discovery/expert/)
+ [expertise](/discovery/expert/) [expert](/discovery/expert/)
  [Kayser](/discovery/hand-c/) [NGL](/discovery/national-gallery/) [Fraud](/discovery/fraud/)
  [Chronology](/about/chronology/)
                           Publishers Oxford

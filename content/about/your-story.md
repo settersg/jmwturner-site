@@ -2,6 +2,8 @@
 title: "Your Story"
 layout: single
 ---
+
+
 |
  |
  
@@ -16,7 +18,7 @@ layout: single
  Art and related sciences are the main focus with
  topics extending beyond issues pertaining specifically to JMW Turner.
  Membership: please send your: name, e-mail address,
- and area of special interest to [jmwturner@shaw.ca](https://web.archive.org/web/20040402135036/mailto:jmwturner@shaw.ca)
+ and area of special interest to [jmwturner@shaw.ca](/)
   
  This vintage postcard claims to show: "Chelsea, the
  house where J.M.W. Turner lived and worked." It would be the modest
@@ -24,7 +26,7 @@ layout: single
  as the great artist proclaimed, "The Sun is God.". 
  Published
  by Photochrom, card #68733
- [News Clip](lest_we_forget.htm) Emily
+ [News Clip](/about/news/) Emily
  Carr   
  [News
  Clip](/about/your-story/) Zeljko Kujundzic
@@ -75,16 +77,16 @@ layout: single
  [bibliography](/about/bibliography/)
  [sa](/painting/appraisal/)
               
- [Home](index.html)
+ [Home](/)
  [discovery](/painting/)
  [style](/painting/style/)
- [provenance](christie.html)
+ [provenance](/painting/provenance/)
  [connoisseur](/discovery/connoisseurship/)
  [Orrock](/discovery/orrock/)
  [forensic](/discovery/forensic/)
  [signature](/painting/signature/)
- [Butlin](Martin Butlin Christie.html)
- [legal](Legal fears Martin Butlin Tate Christie.html)
+ [Butlin](/discovery/butlin/)
+ [legal](/discovery/legal/)
  [catalogue](/discovery/catalogue/)
  [portrait](/painting/portrait/)
  [sting](/discovery/sting/) [Courbet](/discovery/courbet/)
@@ -97,7 +99,7 @@ layout: single
  [Rubens](/discovery/rubens/)
               
  [medal](/about/medal/)
- [Unknown Turner](The Unknown Turner John Anderson Tate J.M.W. Turner.htm)
+ [Unknown Turner](/discovery/ngc/)
  [ngc shipwreck](/discovery/ngc/)
  [IFAR/RRP](/discovery/ifar/)
  [institutional](/discovery/institutional/)
@@ -107,7 +109,7 @@ layout: single
  story](/about/your-story/)
  [Hand C theory](/discovery/hand-c/)
  [C dialogue](/discovery/dialogue/)
- [expertise](turner expert jmw turner expert Butlin and Joll catalogue the paintings of JMW Turner Sir JC Robinson Thomas Griffith Orrock.htm)
+ [expertise](/discovery/expert/)
  [expert](/discovery/expert/)
  [Kayser](/discovery/hand-c/)
  [NGL](/discovery/national-gallery/)
@@ -120,13 +122,13 @@ layout: single
  [University College London UCL](http://www.ucl.ac.uk/)
                       
                                  
- [Terms and conditions](user_terms_and_conditions.htm) J.M.W. Turner
+ [Terms and conditions](/about/) J.M.W. Turner
                                                                          Site criticism is appreciated at
- [jmwturner@shaw.ca](https://web.archive.org/web/20040402135036/mailto:jmwturner@shaw.ca)
+ [jmwturner@shaw.ca](/)
  Penticton British Columbia Canada
                                                   
  © setters 2003, Rescuing Turner: The Art Project &
- [http://www.jmwturner.ca/](index.html)
+ [/)
                                                     
  search for jmw turner
  [Google](http://www.google.ca/)

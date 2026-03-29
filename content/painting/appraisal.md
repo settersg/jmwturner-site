@@ -2,6 +2,8 @@
 title: "Setters Appraisal"
 layout: single
 ---
+
+
 Robert Setters Graham Setters British Columbia Canada
 appraisal and consulting                                                                                                       
 [JMW Turner the source](/painting/)
@@ -52,7 +54,7 @@ unscathed. Conversely, experimentation with untested media has resulted in
 substantial conservation problems for modern works. 
 ![](/jmwturner-site/images/Guernsey%20Murillo%20corner%20mouth%20jpegadj%20sm2.jpg)general
 advice on collecting is available by contacting
-[Robert and Graham Setters](https://web.archive.org/web/20160113141335/mailto:jmwturner@shaw.ca)
+[Robert and Graham Setters](/)
 [Copies](/discovery/copies/)
     
    
@@ -154,7 +156,7 @@ appraisal, online art appraiser, online fine art appraisal           
 [Institutional evolution](/discovery/institutional/)         
 [connoisseurship](/discovery/connoisseurship/)
         
-[Art/science](Art%20Science%20J.M.W.%20Turner) 
+[Art/science](/discovery/art-science/) 
        
 [Forensics](/discovery/forensic/)
 Source:
@@ -162,14 +164,14 @@ J[MW Turner Joseph Mallord
 William](/painting/), National Gallery of Canada
 Metropolitan Museum of Art Museum of Modern Art the British
 Museum art museum art history
-[Christies](christie) Sothebys Tate
+[Christies](/painting/provenance/) Sothebys Tate
 Gallery art world painting old master paintings[sea piece Shipwreck](/painting/style/)Martin Butlin Wildenstein
 Institute Yale Center
 British Art The Getty Getty Research Institute provenance Clore
 Gallery Tate Gallery [Turner Gallery](/about/medal/) curator museum  antique forensic fingerprint conservator International Foundation for Art
 Research
 [IFAR](/discovery/ifar/) English landscape art historian art criticism IIC
-[CCI](Art%20Science%20J.M.W.%20Turner) Canadian
+[CCI](/discovery/art-science/) Canadian
 Conservation Institute McCrone Research
 Institute artist artists pictures paintings gallery galleries drawing picture biography collection archive history
 of art discovery discoveries discovery ca discovery
@@ -179,13 +181,13 @@ Society News
 [TSN](/about/medal/) old
 master masterpiece Rembrandt Picasso Francoise Boucher Monet Boucher
 [Claude
-Monet](Monet%20Wildenstein.htm) [Angelica Kauffmann](/discovery/copies/) Murillo Whistler James McNeill Whistler Rubens Peter
+Monet](/discovery/manet/) [Angelica Kauffmann](/discovery/copies/) Murillo Whistler James McNeill Whistler Rubens Peter
 Paul Rubens Renior Claude Titian Joshua
 Reynolds fakes forgeries [connoisseurship](/discovery/copies/) connoisseur
 [art
-expert](turner%20expert%20jmw%20turner%20expert%20Butlin%20and%20Joll%20catalogue%20the%20paintings%20of%20JMW%20Turner%20Sir%20JC%20Robinson%20Thomas%20Griffith%20Orrock.htm) renaissance Getty Museum James
+expert](/discovery/expert/) renaissance Getty Museum James
 [Orrock](/discovery/orrock/)
-[Orrock](christie)
+[Orrock](/painting/provenance/)
 [Sir J.C. Robinson](/discovery/orrock/)
 [Turner
 portrait](/painting/portrait/) John Paul

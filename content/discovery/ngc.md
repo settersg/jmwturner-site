@@ -2,6 +2,8 @@
 title: "National Gallery Of Canada Shipwreck J.M.W. Turner"
 layout: single
 ---
+
+
 |
 ![](/jmwturner-site/images/image001.gif) 
 What went wrong?
@@ -52,7 +54,7 @@ pretty thin.
 c1840 (pictured above) from the National Gallery of Canada might help to drive home the
 forgoing concern. This painting was ultimately condemned after being sent to the
 Tate for study in 1975. According to this author's own 1982 letter from
-[Viscount Dunlace](Art%20Science%20J.M.W.%20Turner),
+[Viscount Dunlace](/discovery/art-science/),
 this was done before they had adequate resources to do a proper study. Even by 1982
 when Shipwreck, the Rescue was being investigated, not only did the
 London National Gallery and the Tate have a dearth of catalogued observations,
@@ -152,7 +154,7 @@ left to ponder the inconsistencies of the Tate pundits' condemnation of the NGC�
 Shipwreck and enter a more philosophic chapter. Our enquiries must start
 accounting for political motivations for what seems to be high-level trickery. 
                                       
-[Tribal Instincts](tribal_instincts.htm)                [Art Discovery](a_new_age.htm)
+[Tribal Instincts](/about/turner/)                [Art Discovery](/book/)
                                                                             
  
                                                                               
@@ -198,10 +200,10 @@ Institute](http://www.sk-creation.ch/pages/catalogue.raisonne.html) [McCrone Re
 [C](http://www.artcyclopedia.com/artists/turner_joseph_mallord_william.html)[ollections](http://www.artcyclopedia.com/artists/turner_joseph_mallord_william.html)
  
                                
-                                                      [Terms and conditions](user_terms_and_conditions.htm)
+                                                      [Terms and conditions](/about/)
 J.M.W. Turner
                                                                         
-Site criticism is appreciated at [jmwturner@shaw.ca](https://web.archive.org/web/20030508105132/mailto:jmwturner@shaw.ca)
+Site criticism is appreciated at [jmwturner@shaw.ca](/)
                                                     
 © setters 2003, Rescuing Turner: The Art Project &
-[www.jmwturner.ca](http://www.jmwturner.ca/)
+[www.jmwturner.ca](/)

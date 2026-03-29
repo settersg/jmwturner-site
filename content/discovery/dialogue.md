@@ -2,6 +2,8 @@
 title: "Ehrenbrietstein Tapes"
 layout: single
 ---
+
+
 [J.M.W. Turner the
 source](/painting/):
 Discovery of Shipwreck, the Rescue, JMW Turner
@@ -21,7 +23,7 @@ J. COUSEN SCUPLT
                                                                 
                                                          
 [   
-Art Worlds Dirty Little Secret](https://web.archive.org/web/20160113103924/file:///C:\Documents%20and%20Settings\Happy\My%20Documents\My%20Webs\Butlin%20Tapes.htm)
+Art Worlds Dirty Little Secret](/)
 "As
 he glowered at the painted
 surface of the tiny orphan, he chastised; "The actual way the paints put on
@@ -181,7 +183,7 @@ same previous owner
  [Connoisseurship](/discovery/connoisseurship/)   
  [Hands: the Orrock Ehrenbrietstein](/discovery/hand-c/) 
 or 
-[Butlin](Martin%20Butlin%20Christie)[visit](Martin%20Butlin%20Christie)
+[Butlin](/discovery/butlin/)[visit](/discovery/butlin/)
  [[i]](#_ednref1)
  Walter Thornbury, Life of J. M. W. Turner, R.A., (Hurst and Blackett,
  Publishers, London, 1862), vol. 2, 165-6.

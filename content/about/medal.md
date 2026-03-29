@@ -2,6 +2,8 @@
 title: "Turner Bequest Turner Medal Prize"
 layout: single
 ---
+
+
 Turner Bequest
  [JMW
 Turner Bequest:  the source](/painting/) 

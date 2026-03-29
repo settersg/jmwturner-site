@@ -2,6 +2,8 @@
 title: "Butlin And Joll Catalogue Martin Butlin Evelyn Joll J.M.W.Turner Paintings"
 layout: single
 ---
+
+
 [JMW
 Turner:  the source](/painting/)
 Shipwreck, the Rescue, JMW Turner R.A;  Turner
@@ -106,7 +108,7 @@ undue risk.
  HOME
  
  See
-[Legal Fears](Legal%20fears%20Martin%20Butlin%20Tate%20Christie)
+[Legal Fears](/discovery/legal/)
                             
 [Hands: the Orrock Ehrenbrietstein](/discovery/hand-c/) , added
 [discussion](/discovery/dialogue/)
@@ -114,4 +116,4 @@ from the Butlin visit
  
                       
 [Institutional Evolution](/discovery/institutional/)  [Connoisseurship](/discovery/connoisseurship/)  [Rembrandt conundrum](/discovery/ifar/) 
-[Expertise](turner%20expert%20jmw%20turner%20expert%20Butlin%20and%20Joll%20catalogue%20the%20paintings%20of%20JMW%20Turner%20Sir%20JC%20Robinson%20Thomas%20Griffith%20Orrock.htm)
+[Expertise](/discovery/expert/)

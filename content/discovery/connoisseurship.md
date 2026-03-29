@@ -2,6 +2,8 @@
 title: "Connoisseurship James Orrock Art Expert Martin Butlin Joll"
 layout: single
 ---
+
+
 connoisseurship
  art connoisseur
 JMW
@@ -94,7 +96,7 @@ brush. Due to the size and content, the 1903 Orrock set of books was
 likely the premier publication of the day, covering a vast range of what was
 happening in the British art-world at the time. It was produced before the 1904
 Christies sale when Shipwreck, the Rescue sold at the "highly important"
-[Orrock sale](christie.html). Because of the close dealings that Orrock had with Agnew's; and
+[Orrock sale](/painting/provenance/). Because of the close dealings that Orrock had with Agnew's; and
 the two former Surveyors of the Queens Pictures: Leitch, and Robinson, it was
 clear there was no argument amongst the cognoscenti at the time over
 authenticity. As mentioned previously, one of the Surveyors was the previous
@@ -207,10 +209,10 @@ Home 
 [Portrait
 of a Hero](/painting/portrait/)  
     
-[The Unknown Turner](The Unknown Turner John Anderson Tate J.M.W. Turner.htm)    
+[The Unknown Turner](/discovery/ngc/)    
  [Orrock
 Provenance](/discovery/orrock/)   
-[BJ Catalogue](/discovery/catalogue/)       [Christie's](christie.html)
+[BJ Catalogue](/discovery/catalogue/)       [Christie's](/painting/provenance/)
  [[i]](#_ednref1)
  Kenneth Clark, The Romantic Rebellion: Romantic versus Classic Art,
  (Longman Canada Limited, 1973),

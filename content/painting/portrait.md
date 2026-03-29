@@ -2,6 +2,8 @@
 title: "Portrait Hero Shipwreck Slavers Jmw Turner"
 layout: single
 ---
+
+
 jmw Turner self portrait, Turner portrait,
   Madonna portrait, Shipwreck,
 JMW Portrait, shipwrec,  madonna, turner slavers...     
@@ -261,23 +263,23 @@ Clarksons History of the Abolition of the Slave Trade in 1808, Turner
 proves with Shipwreck, the Rescue c1802 to be somewhat of a visionary
 both pictorially and poetically in his quest to abet social justice and
 humanitarian principals. jmw    
-[rt/Science](Art%20Science%20J.M.W.%20Turner)   
+[rt/Science](/discovery/art-science/)   
 [Art Worlds Dirty Little Secret](/book/)
  
                                                                                                   
                                                                                     
-[Terms and conditions](user_terms_and_conditions.htm)
+[Terms and conditions](/about/)
 J.M.W. Turner
                                                                    
                                 
-Site criticism is appreciated at [jmwturner@shaw.ca](https://web.archive.org/web/20161027052551/mailto:jmwturner@shaw.ca)
+Site criticism is appreciated at [jmwturner@shaw.ca](/)
 Penticton
                                                                                              
  © setters 2003, Rescuing Turner: The
-Art Project & [http://www.jmwturner.ca](index.html) 
+Art Project & [/) 
 [Forensics](/discovery/forensic/)
                [Connoisseurship](/discovery/connoisseurship/)            
-[Christie's](christie)      
+[Christie's](/painting/provenance/)      
 [Turner Bibliography](/about/bibliography/)
  [[1]](#_ftnref1)
  If one were to take into account Turners high regard for the opinions of

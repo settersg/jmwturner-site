@@ -2,6 +2,8 @@
 title: "Forensic Art Restoration Forensic Studies In Art Fingerprint Identification"
 layout: single
 ---
+
+
 |
 [JMW Turner the source](/painting/)
   
@@ -18,7 +20,7 @@ and fingerprint identification.
  credit
 must go to PP Biro for his extraordinary photography and for developing the
 forensic evidence 
-                 [verso](Paul%20verso.htm)               
+                 [verso](/painting/signature/)               
 [fingerprints](/discovery/forensic/)              
  [expertise](/discovery/forensic/)
                 
@@ -66,16 +68,16 @@ HOME  
  [bibliography](/about/bibliography/)
  [sa](/painting/appraisal/)
               
- [Home](index.html)
+ [Home](/)
  [discovery](/painting/)
  [style](/painting/style/)
- [provenance](christie.html)
+ [provenance](/painting/provenance/)
  [connoisseur](/discovery/connoisseurship/)
  [Orrock](/discovery/orrock/)
  [forensic](/discovery/forensic/)
  [signature](/painting/signature/)
- [Butlin](Martin Butlin Christie.html)
- [legal](Legal fears Martin Butlin Tate Christie.html)
+ [Butlin](/discovery/butlin/)
+ [legal](/discovery/legal/)
  [catalogue](/discovery/catalogue/)
  [portrait](/painting/portrait/)
  [sting](/discovery/sting/) [Courbet](/discovery/courbet/)
@@ -88,7 +90,7 @@ HOME  
  [Rubens](/discovery/rubens/)
               
  [medal](/about/medal/)
- [Unknown Turner](The Unknown Turner John Anderson Tate J.M.W. Turner.htm)
+ [Unknown Turner](/discovery/ngc/)
  [ngc shipwreck](/discovery/ngc/)
  [IFAR/RRP](/discovery/ifar/)
  [institutional](/discovery/institutional/)
@@ -98,7 +100,7 @@ HOME  
  story](/about/your-story/)
  [Hand C theory](/discovery/hand-c/)
  [C dialogue](/discovery/dialogue/)
- [expertise](turner expert jmw turner expert Butlin and Joll catalogue the paintings of JMW Turner Sir JC Robinson Thomas Griffith Orrock.htm)
+ [expertise](/discovery/expert/)
  [expert](/discovery/expert/)
  [Kayser](/discovery/hand-c/)
  [NGL](/discovery/national-gallery/)
@@ -111,13 +113,13 @@ HOME  
  [University College London UCL](http://www.ucl.ac.uk/)
                       
                                  
- [Terms and conditions](user_terms_and_conditions.htm) J.M.W. Turner
+ [Terms and conditions](/about/) J.M.W. Turner
                                                                          Site criticism is appreciated at
- [jmwturner@shaw.ca](https://web.archive.org/web/20041014062518/mailto:jmwturner@shaw.ca)
+ [jmwturner@shaw.ca](/)
  Penticton British Columbia Canada
                                                   
  © setters 2003, Rescuing Turner: The Art Project &
- [http://www.jmwturner.ca/](index.html)
+ [/)
                                                     
  search for jmw turner
  [Google](http://www.google.ca/)

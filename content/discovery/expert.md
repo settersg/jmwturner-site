@@ -2,6 +2,8 @@
 title: "Old Master Painting Expert"
 layout: single
 ---
+
+
 rubens
 Peter Paul Rubens
 expert,
@@ -14,7 +16,7 @@ Dirty Little Secret](/book/)
 Peter Paul Rubens expertise
 -what is involved?
 [forensics studies in art](/discovery/forensic/)
-[art scientific analysis](Art Science J.M.W. Turner)
+[art scientific analysis](/discovery/art-science/)
 [connoisseurship](/discovery/copies/)
 [provenance](/discovery/orrock/)
 [art
@@ -122,7 +124,7 @@ copy.
 ![](/jmwturner-site/images/Guernsey Murillo corner mouth jpegadj sm2.jpg)general
 advice on collecting is available by contacting
 [Robert and Graham
-Setters](https://web.archive.org/web/20180425023420/mailto:jmwturner@shaw.ca)
+Setters](/)
 [Copies](/discovery/copies/)        
 [Art Worlds
 Dirty Little Secret](/book/)
@@ -219,28 +221,28 @@ setters
 [Institutional evolution](/discovery/institutional/)         
 [connoisseurship](/discovery/connoisseurship/)
        
-[Art/science](Art Science J.M.W. Turner) 
+[Art/science](/discovery/art-science/) 
        
 [Forensics](/discovery/forensic/)
                                                                      
                    
                      
                                                                     
-[Terms and conditions](user_terms_and_conditions.htm)
+[Terms and conditions](/about/)
 J.M.W. Turner
                                                                    
                   Site criticism is appreciated at
-[jmwturner@shaw.ca](https://web.archive.org/web/20180425023420/mailto:jmwturner@shaw.ca)
+[jmwturner@shaw.ca](/)
 Penticton
                                                                               
  © setters 2003, Rescuing Turner: The Art Project &
-[http://www.jmwturner.ca](index.html)  
+[/)  
 Source:
 J[MW
 Turner Joseph Mallord William](/painting/), National Gallery
 of Canada Metropolitan Museum of Art Museum of Modern Art the British
 Museum art museum art history
-[Christies](christie.html) Sothebys Tate
+[Christies](/painting/provenance/) Sothebys Tate
 Gallery art world painting old master paintings[sea piece Shipwreck](/painting/style/)Martin Butlin Wildenstein
 Institute Yale Center British Art The Getty Getty Research Institute provenance
 Clore Gallery Tate Gallery
@@ -249,7 +251,7 @@ museum  antique forensic fingerprint conservator International Foundation for
 Art Research
 [IFAR](/discovery/ifar/) English landscape
 art historian art criticism IIC
-[CCI](Art Science J.M.W. Turner) Canadian Conservation
+[CCI](/discovery/art-science/) Canadian Conservation
 Institute McCrone Research Institute artist artists pictures paintings gallery
 galleries drawing picture biography collection archive history of art discovery
 discoveries discovery ca discovery
@@ -259,16 +261,16 @@ Gallery London the tate
 Society News
 [TSN](/about/medal/) old master
 masterpiece Rembrandt Picasso Francoise Boucher Monet Boucher
-[Claude Monet](Monet Wildenstein.htm)
+[Claude Monet](/discovery/manet/)
 [Angelica
 Kauffmann](/discovery/copies/) Murillo Whistler James McNeill
 Whistler Rubens Peter Paul Rubens Renior Claude Titian Joshua Reynolds fakes
 forgeries [connoisseurship](/discovery/copies/)
 connoisseur
-[art expert](turner expert jmw turner expert Butlin and Joll catalogue the paintings of JMW Turner Sir JC Robinson Thomas Griffith Orrock.htm) renaissance
+[art expert](/discovery/expert/) renaissance
 Getty Museum James
 [Orrock](/discovery/orrock/)
-[Orrock](christie.html)
+[Orrock](/painting/provenance/)
 [Sir J.C. Robinson](/discovery/orrock/)
 [Turner portrait](/painting/portrait/) John Paul
 Getty Agnew Agnews antiques research specialist consultant expertise

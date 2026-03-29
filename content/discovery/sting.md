@@ -2,6 +2,8 @@
 title: "Sting Visnei"
 layout: single
 ---
+
+
 |
 ![](/jmwturner-site/images/court%20doc%20edit%20web.JPG)
 ![](/jmwturner-site/images/image001.gif)
@@ -11,7 +13,7 @@ layout: single
                   
    
                  
- [Legal Fears Visnei to Butlin](Legal%20fears%20Martin%20Butlin%20Tate%20Christie)                    [Art/Science](Art%20Science%20J.M.W.%20Turner)
+ [Legal Fears Visnei to Butlin](/discovery/legal/)                    [Art/Science](/discovery/art-science/)
                                                                        
                                                                           
 HOME
@@ -38,10 +40,10 @@ Institute](http://www.sk-creation.ch/pages/catalogue.raisonne.html) [McCrone Re
 [C](http://www.artcyclopedia.com/artists/turner_joseph_mallord_william.html)[ollections](http://www.artcyclopedia.com/artists/turner_joseph_mallord_william.html)
  
                                
-                                                      [Terms and conditions](user_terms_and_conditions.htm)
+                                                      [Terms and conditions](/about/)
 J.M.W. Turner
                                                                         
-Site criticism is appreciated at [jmwturner@shaw.ca](https://web.archive.org/web/20030508103942/mailto:jmwturner@shaw.ca)
+Site criticism is appreciated at [jmwturner@shaw.ca](/)
                                                     
 © setters 2003, Rescuing Turner: The Art Project &
-[www.jmwturner.ca](http://www.jmwturner.ca/)
+[www.jmwturner.ca](/)

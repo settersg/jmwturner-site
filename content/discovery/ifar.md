@@ -2,6 +2,8 @@
 title: "Rrp Rembrandt Catalogue Ifar International Foundation For Art Research"
 layout: single
 ---
+
+
 |
 IFAR IFAR RRP Art versus Science  [JMW
 Turner:  the source](/painting/)
@@ -159,7 +161,7 @@ all - the production of catalogues. Being the publishers of such books confers
 enormous power  [and among other things] the ability to authenticate
 paintingsas a publisher of catalogue raisonnés
 , the Wildensteins virtually control the scholarship on many artists from
-Boucher to [Monet](Monet%20Wildenstein.htm).
+Boucher to [Monet](/discovery/manet/).
 [[viii]](#_edn8) This
 frustrated one art historian with regard to the Wildenstein Gauguin catalogue,
 rightly or wrongly, he criticized: Pedigrees and quotations have been juggled
@@ -200,7 +202,7 @@ drawings had raised their value to something 28,000 - 42,000 each."
        
 [Connoisseurship](/discovery/connoisseurship/)     
 [Forensics Biro front](/discovery/forensic/)     
-[Art/Science](Art%20Science%20J.M.W.%20Turner)     [Tribal Instincts](tribal_instincts.htm)
+[Art/Science](/discovery/art-science/)     [Tribal Instincts](/about/turner/)
                                                                         
                                                                             
 Home 
@@ -269,16 +271,16 @@ Home 
  [bibliography](/about/bibliography/)
  [sa](/painting/appraisal/)
               
- [Home](http://jmwturner.ca/)
+ [Home](/)
  [discovery](/painting/)
  [style](/painting/style/)
- [provenance](http://jmwturner.ca/christie)
+ [provenance](/painting/provenance/)
  [connoisseur](/discovery/connoisseurship/)
  [Orrock](/discovery/orrock/)
  [forensic](/discovery/forensic/)
  [signature](/painting/signature/)
- [Butlin](http://jmwturner.ca/Martin%20Butlin%20Christie)
- [legal](http://jmwturner.ca/Legal%20fears%20Martin%20Butlin%20Tate%20Christie)
+ [Butlin](/discovery/butlin/)
+ [legal](/discovery/legal/)
  [catalogue](/discovery/catalogue/)
  [portrait](/painting/portrait/)
  [sting](/discovery/sting/) [Courbet](/discovery/courbet/)
@@ -291,7 +293,7 @@ Home 
  [Rubens](/discovery/rubens/)
               
  [medal](/about/medal/)
- [Unknown Turner](http://jmwturner.ca/The%20Unknown%20Turner%20John%20Anderson%20Tate%20J.M.W.%20Turner.htm)
+ [Unknown Turner](/discovery/ngc/)
  [ngc shipwreck](/discovery/ngc/)
  [IFAR/RRP](/discovery/ifar/)
  [institutional](/discovery/institutional/)
@@ -301,7 +303,7 @@ Home 
  story](/about/your-story/)
  [Hand C theory](/discovery/hand-c/)
  [C dialogue](/discovery/dialogue/)
- [expertise](http://jmwturner.ca/turner%20expert%20jmw%20turner%20expert%20Butlin%20and%20Joll%20catalogue%20the%20paintings%20of%20JMW%20Turner%20Sir%20JC%20Robinson%20Thomas%20Griffith%20Orrock.htm)
+ [expertise](/discovery/expert/)
  [expert](/discovery/expert/)
  [Kayser](/discovery/hand-c/)
  [NGL](/discovery/national-gallery/)
@@ -314,13 +316,13 @@ Home 
  [University College London UCL](http://www.ucl.ac.uk/)
                       
                                  
- [Terms and conditions](http://jmwturner.ca/user_terms_and_conditions.htm) J.M.W. Turner
+ [Terms and conditions](/about/) J.M.W. Turner
                                                                          Site criticism is appreciated at
- [jmwturner@shaw.ca](https://web.archive.org/web/20041014062553/mailto:jmwturner@shaw.ca)
+ [jmwturner@shaw.ca](/)
  Penticton British Columbia Canada
                                                   
  © setters 2003, Rescuing Turner: The Art Project &
- [http://www.jmwturner.ca/](http://www.jmwturner.ca/)
+ [/)
                                                     
  search for jmw turner
  [Google](http://www.google.ca/)

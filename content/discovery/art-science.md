@@ -2,6 +2,8 @@
 title: "Art Science J.M.W. Turner'S Painting Techniques Townsend Tate Gallery"
 layout: single
 ---
+
+
 [image of Shipwreck the Rescue](/painting/)
 Ian Warrell, Tate Gallery, Joyce Townsend, Turner's
 Painting Techniques, Tate Gallery Publications /
@@ -103,7 +105,7 @@ give absolute guarantees about who painted a picture. From paint samples for
 example, pigment identification can deny but rarely confirm a paintings age.[[iv]](#_edn4)
 If any miniscule bit of data
 places a painting out of context (as the agents in the
-[Visnei](Legal%20fears%20Martin%20Butlin%20Tate%20Christie) case
+[Visnei](/discovery/legal/) case
 were expecting would happen) the entire artwork can be rejected. If pigments,
 canvas, paper, wooden supports, or working techniques were not used prior to a
 certain date; then a painting purporting to precede that date would
@@ -445,7 +447,7 @@ Shipwreck, the Rescue. Her dilemma was resolved by a separate
 examination of the belligerents. The conflicting evidence over her alleged infidelity caused her life to be spared. Nonetheless,
 the
 dilemma at hand is succinctly addressed later under the heading
-[Tribal Instincts](tribal_instincts.htm).
+[Tribal Instincts](/about/turner/).
                      
 ![](/jmwturner-site/images/Art%20Science%20J.M.W.%20Turner)
 details: tips of the waves from Shipwreck, the Rescue, chalky character
@@ -632,7 +634,7 @@ Greek philosopher also fortifies the unassailable nature of this sad and
 somewhat gratuitous state by confirming that so far as arts are concernedno art
 [or science] ever studies or enjoins the interest of the superior or stronger
 party, but always that of the weaker over which it has authority. [[xxxviii]](#_edn38) 
-[Scientific Report](Scientific%20Report%20Shipwreck%20J.M.W.%20Turner%20conservation%20Laver%20Joyce%20Townsend.htm)
+[Scientific Report](/discovery/art-science/)
 continued 
  For the
 entertaining story that was spawned from the investigation of Shipwreck, the
@@ -645,20 +647,20 @@ Dirty Little Secret](/book/)
  [Forensics](/discovery/forensic/)        
  [Connoisseurship](/discovery/connoisseurship/)
     
-[Christie's](christie)
+[Christie's](/painting/provenance/)
                                                                                         
                                                                         
 HOME  
                                                                                                
-[Terms and conditions](user_terms_and_conditions.htm)
+[Terms and conditions](/about/)
 J.M.W. Turner
                                                                    
                   Site criticism is appreciated at
-[jmwturner@shaw.ca](https://web.archive.org/web/20160113170109/mailto:jmwturner@shaw.ca)
+[jmwturner@shaw.ca](/)
 Penticton
                                                                               
  © setters 2003, Rescuing Turner: The Art Project &
-[http://www.jmwturner.ca](index.html)  
+[/)  
 [[3]](#_ftnref3)
  Jack Lindsay suggests the change of address brought Turner closer to Sarah
  Dandy, his companion at the time. There would be no need to dispute that the
