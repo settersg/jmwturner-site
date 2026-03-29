@@ -1,4 +1,4 @@
-baseURL = "https://jmwturner.ca/"
+baseURL = "https://settersg.github.io/jmwturner-site/"
 languageCode = "en-ca"
 title = "Shipwreck, the Rescue — JMW Turner"
 theme = "turner"
@@ -25,7 +25,7 @@ theme = "turner"
 
 [[menu.main]]
   name = "Discovery"
-  identifier = "discovery"
+  url = "/discovery/"
   weight = 3
 
 [[menu.main]]
