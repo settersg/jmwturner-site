@@ -14,7 +14,7 @@ Kress; John D. Rockefeller; Collis Huntington; George J. Gould; Isabella Stewart
 Gardner; Rothschild; H.E. Huntington; Henry Goldman, Andrew
 Mellon, [J.
 Paul Getty](http://www.getty.edu/)
-[Paul Mellon](http://www.yale.edu/ycba/),![](/jmwturner-site/images/boat 3 web.jpg)
+[Paul Mellon](http://www.yale.edu/ycba/),![](/jmwturner-site/images/boat%203%20web.jpg)
 Bernard Berenson Joseph Duveen Lord Kenneth Clark
 ![](/jmwturner-site/images/image001.gif)             
 ![](/jmwturner-site/images/image002.gif)
