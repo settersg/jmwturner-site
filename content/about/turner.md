@@ -7,7 +7,7 @@ Joseph Mallord William Turner
  |
 
  [JMW Turner the  source](/painting/)
- [Art  WorldÂ’s Dirty Little Secret](/book/)
+ [Art  WorldÂ's Dirty Little Secret](/book/)
  ![](/images/Ruskin%201887%20Art,%20Barrant,%20eng%20Johnson.jpg)
 
 John Ruskin 1887
@@ -28,10 +28,10 @@ John
  Philip Gilbert Hamerton, Life of J.M.W. Turner R.A., (University
  Press: John Wilson & Son, Cambridge, 1879)
 Helen
- S. Conant, J.M.W. Turner, (extract from HarperÂ’s Monthly Magazine:
+ S. Conant, J.M.W. Turner, (extract from HarperÂ's Monthly Magazine:
  1878; published in Master-In-Art series by Bates and Guild Company, Boston,
  nov 1902)
- HarperÂ’s, Joseph Mallord William Turner, (Harpers New Monthly
+ HarperÂ's, Joseph Mallord William Turner, (Harpers New Monthly
  Magazine, 1878)
 W.
  Cosmo Monkhouse, J.M.W. Turner R.A., (Sampson Low, Marston, Searle, &
@@ -44,7 +44,7 @@ Rev.
  Charles Alfred Swinburne, Life and Work of J.M.W. Turner R.A.,
  (Bickers and Son, London, 1902)
  Walter Shaw Sparrow, The Genius of J.M.W. Turner R.A., (Offices of
-, 'Â’': The StudioÂ’, London, Paris, and New York, MCMIII)
+, 'Â'': The StudioÂ', London, Paris, and New York, MCMIII)
 Byron
  Webber, James Orrock R.I., Painter, Connoisseur, Collector; (Chatto &
  Windus, London, in two volumes 1903), 2 vols.
@@ -60,12 +60,12 @@ E. T.
  and Drawings by J. M. W. Turner, (London: "Pall Mall" Press, Holborn,
  1905)
 W.G.
- Rawlinson, TurnerÂ’s Liber Studiorum, (MacMillan and Co, Limited,
+ Rawlinson, TurnerÂ's Liber Studiorum, (MacMillan and Co, Limited,
  London, 1906)
  James Mason: The Charm of Turner, (T.C. & E.C. Jack, London and
  Edinburgh, 1914)
 C.
- Lewis Hind, TurnerÂ’s Golden Visions, (T. C. & E. C. Jack, Ltd.,
+ Lewis Hind, TurnerÂ's Golden Visions, (T. C. & E. C. Jack, Ltd.,
  London, 1925)
 John
  Anderson, Jr., The Unknown Turner, (pub. John Anderson, printed by
@@ -105,7 +105,7 @@ Jack
  Lawrence Gowing, Turner Imagination and Reality, (The Museum of
  Modern Art, New York, 1966)
 A.J.
- Finberg, introduction by Lawrence Gowing, TurnerÂ’s Sketches & Drawings,
+ Finberg, introduction by Lawrence Gowing, TurnerÂ's Sketches & Drawings,
  (Schocken, New York, 1968)
 Luke
  Herrmann, Ruskin and Turner, (Faber and Faber, London, 1968)
@@ -113,7 +113,7 @@ Luke
 John
  Gage, Colour in Turner: poetry and truth, (Studio Vista Limited,
  London, 1969)
- Gerald Wilkinson, TurnerÂ’s Early Sketchbooks, (Watson-Guptill
+ Gerald Wilkinson, TurnerÂ's Early Sketchbooks, (Watson-Guptill
  Publications, New York, 1972)
  Turner 1775-1851, Tate Gallery Publications Department 1974
  Joseph R. Goldyne (intro), Turner: Works on Paper from American
@@ -126,31 +126,31 @@ Luke
  Gerald Wilkinson, Turner Sketches 1789-1820, (Barrie & Jenkins Ltd.,
  London, 1977)
 Jean
- Selz, Turner, (Crown Publishers, Inc. â€“ New York, 1977)
+ Selz, Turner, (Crown Publishers, Inc. â " New York, 1977)
  Mordechai Omer, Turner and The Bible, (Israel Museum, Jerusalem,
  1979)
  Andrew Wilton, J. M. W. Turner: His Art and Life, (Rizzoli
  International Publications, Inc. 1979)
  George Jones; John Gage, ed., Collected Correspondence of J.M.W. Turner,
- (Clarendon Press â€“ Oxford, 1980)
+ (Clarendon Press â " Oxford, 1980)
 Mary
  Chamot, The Early Works of J.M.W. Turner, (London: Tate
  Gallery Publications, 1981)
 John
  Walker, Turner, (Henry N. Abrams, Inc., Publishers, New York, 1983)
- John McCoubrey, Parliament On Fire: TurnerÂ’s Buildings, (Art In
+ John McCoubrey, Parliament On Fire: TurnerÂ's Buildings, (Art In
  America, Brant Art Publications, New York, Dec 1984)
  Martin Butlin & Evelyn Joll, The Paintings of J.M.W. Turner, (Yale
- University Press, New Haven and London, Evelyn JollÂ’s 1977 intro. Revised
+ University Press, New Haven and London, Evelyn JollÂ's 1977 intro. Revised
  Edition, 1984) 2 vols.
- David Hill, In TurnerÂ’s Footsteps: Through the hills an dales of
+ David Hill, In TurnerÂ's Footsteps: Through the hills an dales of
  Northern England, (John Murray (Publishers) Ltd., London, 1984)
- Jack Lindsay,, 'Â’': Turner: The Man and His ArtÂ’, (London: Granada,
+ Jack Lindsay,, 'Â'': Turner: The Man and His ArtÂ', (London: Granada,
  1985)
  Eric Shanes, J.M.W. Turner, The Foundations of Genius, (The Taft
  Museum Cincinnati, Ohio; Corbett Foundation; The Hennegan Co. printers,
  1986)
- John Gage, J.M.W. Turner, 'Â’': A Wonderful Range of MindÂ’. (London:
+ John Gage, J.M.W. Turner, 'Â'': A Wonderful Range of MindÂ'. (London:
  Yale University Press, 1987)
  Andrew Wilton, Turner In His Time, (Harry N. Abrams, Inc.,
  Publishers, New York, 1987)
@@ -159,9 +159,9 @@ John
  Silvia Ginzburg, Turner, (Arch Cape Press, New York, 1990)
  Peter Bower, Turner's Papers, A Study of the Manufacture... (Tate
  Gallery, 1990)
- Andrew Wilton, Painting and Poetry, TurnerÂ’s Verse Book and his Work
- of 1804 â€“ 1812, (Tate Gallery Publications, Millbank, 1990)
- David Blayney Brown, From TurnerÂ’s Studio -- Paintings and Oil
+ Andrew Wilton, Painting and Poetry, TurnerÂ's Verse Book and his Work
+ of 1804 â " 1812, (Tate Gallery Publications, Millbank, 1990)
+ David Blayney Brown, From TurnerÂ's Studio -- Paintings and Oil
  Sketches from the Turner Bequest, (Tate Gallery Publishing, 1991)
   Cecilia Powell, Turner's Rivers of Europe, (Tate Gallery,
  sponsored by Volkswagon, 1991)
@@ -170,10 +170,10 @@ John
  Joyce H. Townsend, Studies in Conservation, The Materials and
  Techniques of J. M. W. Turner Primings and Supports, (The International
  Institute for Conservation of Historic and Artistic Works, 1992)
- Joyce Townsend, TurnerÂ’s Painting Techniques, (Tate Publishing,
+ Joyce Townsend, TurnerÂ's Painting Techniques, (Tate Publishing,
  1993)
- Michael BockemÃ¼hl, J.M.W. Turner, The World of Light and Colour, (Taschen,
- KÃ¶ln, 1993)
+ Michael Bockem  hl, J.M.W. Turner, The World of Light and Colour, (Taschen,
+ K  ln, 1993)
  Cecilia Powell, Turner in Germany, (Tate Gallery Publications,
  London, 1995)
  Michael Lloyd, Turner, (National Gallery of Australia, Canberra,
@@ -184,24 +184,24 @@ John
  the Pre-Raphaelites, (Tate Gallery Publishing, 2000)
  The Oxford Companion To J.M.W. Turner, (Oxford University Press
  Inc., New York, Evelyn Joll, Martin Butlin, and Luke Herrmann, 2001)
- Lawrence Gowing, TurnerÂ’s First Continental Tour of 1802, (Turner
+ Lawrence Gowing, TurnerÂ's First Continental Tour of 1802, (Turner
  Society News No. 91 August 2002)
  Eric Shanes, Turner Rehung at Tate Britain, (TSN London, issue no.
  93, March 2003)
  Thomas Moore, Journal and Correspondence
 
  700+ references
- [Art  WorldÂ’s Dirty Little Secret](/book/)
+ [Art  WorldÂ's Dirty Little Secret](/book/)
  Turner 1775-1851, Tate Gallery Publications Department 1974, p. 38.
  Maurice Rheims, The Glorious Obsession, (Souvenir Press Ltd, 1980
  translation by Patrick Evans), dust jacket inside flap.
  John Walker, Self-Portrait with Donors, (Little, Brown and Company
  (Canada) Limited, 1974), 192 and 194.
- Frank Herrmann, SothebyÂ’s, Portrait of an Auction House, (Chatto and
+ Frank Herrmann, SothebyÂ's, Portrait of an Auction House, (Chatto and
  Windus, London, 1980), 373.
  Francis MacDonald Cornford, The Republic of Plato, "Oxford University
  Press, London, 1951), 80.
- Christopher Lloyd, The QueenÂ’s Pictures: Royal Collections Through The
+ Christopher Lloyd, The QueenÂ's Pictures: Royal Collections Through The
  Centuries, (National Gallery Publications Limited, 1991), 28.
  Morris Eaves, The Counter-Arts Conspiracy: Art and Industry in the Age of
  Blake, (Cornell University Press (Getty Grant Program assistance),
@@ -218,9 +218,9 @@ John
  a Swan, (IFAR Journal Vol. 5, No. 2, 2002), 3.
  Peter Watson, From Manet to Manhattan, (New York: Random House, Inc.,
  1992), 318.
- Michael Scott, ItÂ’s a ship of fate or a ship of fake, (The Vancouver
+ Michael Scott, ItÂ's a ship of fate or a ship of fake, (The Vancouver
  Sun, Jan 23 1997), 1, 9A.
- Frank Herrmann, SothebyÂ’s, Portrait of an Auction House, (Chatto and
+ Frank Herrmann, SothebyÂ's, Portrait of an Auction House, (Chatto and
  Windus, London, 1980), 397.
  W. G. Constable, Turner in America, (The Art Association of
  Indianapolis, ex. cat. 1955), intro.
@@ -239,14 +239,14 @@ John
  Walter Thornbury, Life of J. M. W. Turner, R.A., (Hurst and Blackett,
  Publishers, London, 1862), 2, 265.
  George Jones; John Gage, ed., Collected Correspondence of J.M.W. Turner,
- (Clarendon Press â€“ Oxford, 1980), 7.
+ (Clarendon Press â " Oxford, 1980), 7.
  John Ruskin, Letters to a College Friend, (MacMillan & Co., New York;
  and George Allen, London, 1894), 89.
  Rev. S.A. Swaine, Turner the Artist, (Cassell & Company, Limited:
  London, Paris, New York, Melbourne, 1885), 48.
- John McCoubrey, Parliament On Fire: TurnerÂ’s Buildings, (Art In
+ John McCoubrey, Parliament On Fire: TurnerÂ's Buildings, (Art In
  America, Brant Art Publications, New York, Dec 1984), 115 and 117.
- David Blayney Brown, From TurnerÂ’s Studio, Paintings and Sketches from the
+ David Blayney Brown, From TurnerÂ's Studio, Paintings and Sketches from the
  Turner Bequest, (The Tate Gallery, 1991).
  A.J. Finberg and Hilda F. Finberg, The Life of J.M.W. Turner R.A.,
  (Oxford at the Clarendon Press, 1961), 454.
@@ -263,66 +263,66 @@ John
  James Henry Duveen, Secrets of an Art Dealer, (E.P. Dutton & Co.,
  Inc., New York, 1938), 44.
  Otto Kurz, Fakes, (Dover Publications, Inc., 1967), 45.
- Denis Dutton, The ForgerÂ’s Art â€“Forgery and the Philosophy of Art,
+ Denis Dutton, The ForgerÂ's Art â "Forgery and the Philosophy of Art,
  essay by Rudolf Arnheim, On Duplication, (University of California
  Press, 1983), 233-234.
- The Illustrated London News, No. 5159 â€“ Volume 192, March 3 1938, 401.
+ The Illustrated London News, No. 5159 â " Volume 192, March 3 1938, 401.
  Andrea Kirsh and Rustin S. Levenson, Seeing Through Paintings, (Yale
  University Press, New Haven and London, 2001), 193.
- Frank Herrmann, SothebyÂ’s, Portrait of an Auction House, (Chatto and
+ Frank Herrmann, SothebyÂ's, Portrait of an Auction House, (Chatto and
  Windus, London, 1980), 367.
  Royal Academy Of Arts, Murillo 1617-1682, (Royal Academy of Arts,
- with gratitude to Her MajestyÂ’s Government, 1983), 193.
- Juan Antonio Gaya NuÅˆo, LÂ’opera completa di Murillo, (Rizzoli Editore,
+ with gratitude to Her MajestyÂ's Government, 1983), 193.
+ Juan Antonio Gaya Nu  o, LÂ'opera completa di Murillo, (Rizzoli Editore,
  Milano, 1978), 112.
- Frank Herrmann, SothebyÂ’s, Portrait of an Auction House, (Chatto and
+ Frank Herrmann, SothebyÂ's, Portrait of an Auction House, (Chatto and
  Windus, London, 1980), 368.
- Ludmila KaganÃ©, Batholome Esteban Murillo, The Spanish Master of the 17th
+ Ludmila Kagan (c), Batholome Esteban Murillo, The Spanish Master of the 17th
  Century, (Parkstone / Aurora Publishers, Bournemouth, England, 1995),
  23.
  James Stothert, French and Spanish Painters, (Bickers and Son, 1877),
  59.
  Ibid. 61-62.
  Ludmila
- KaganÃ©, Batholome Esteban Murillo, The Spanish Master of the 17th
+ Kagan (c), Batholome Esteban Murillo, The Spanish Master of the 17th
  Century, (Parkstone / Aurora Publishers, Bournemouth, England, 1995),
  70.
  Jeffrey M. Muller, Retaining The Original, Multiple Originals, Copies,
  and Reproductions, (National Gallery of Art Washington, 1989), 142-143.
- Denis Dutton, The ForgerÂ’s Art â€“ Forgery and the Philosophy of Art,
+ Denis Dutton, The ForgerÂ's Art â " Forgery and the Philosophy of Art,
  essay by Rudolf Arnheim, On Duplication, (University of California
  Press, 1983), 236.
  Charles Alfred Swinburne, Life and Work of J.M.W. Turner R.A.,
  (Bickers and Son, London, 1902), 19.
- Clive Bell, Art, (Capricorn Books, G. P. PutnamÂ’s Sons, New York,
+ Clive Bell, Art, (Capricorn Books, G. P. PutnamÂ's Sons, New York,
  1958) 8 ed., 49.
  James Henry Duveen, Secrets of an Art Dealer, (E.P. Dutton & Co.,
  Inc., New York, 1938), 136.
  Walter Bayes A.R.W.S., Turner, A Speculative Portrait, (Geoffrey Bles,
  Pall Mall, London, 1931), 215-16.
  Clive
- Bell, Art, (Capricorn Books, G. P. PutnamÂ’s Sons, New York, 1958) 8
+ Bell, Art, (Capricorn Books, G. P. PutnamÂ's Sons, New York, 1958) 8
  ed, 43.
- Sir Oliver Millar, The QueenÂ’s Pictures: Royal Collections Through The
+ Sir Oliver Millar, The QueenÂ's Pictures: Royal Collections Through The
  Centuries, (National Gallery Publications Limited, 1991), 20.
  Ralph Mayer, A Dictionary Of Art Terms And Techniques, (Barnes &
  Noble Books, A Division of Harper & Row, Publishers, 1981), 329-330.
  Jeffrey M. Muller, Retaining The Original, Multiple Originals, Copies,
  and Reproductions, (National Gallery of Art Washington, 1989), 144-145.
- Denis Dutton, The ForgerÂ’s Art â€“ Forgery and the Philosophy of Art,
+ Denis Dutton, The ForgerÂ's Art â " Forgery and the Philosophy of Art,
  essay by Hope B. Werness, Han van Meegeren fecit, (University of
  California Press, 1983), 51.
- Denis Dutton, The ForgerÂ’s Art â€“Forgery and the Philosophy of Art,
+ Denis Dutton, The ForgerÂ's Art â "Forgery and the Philosophy of Art,
  essay by Hope B. Werness, Han van Meegeren fecit, [Kilbracken, Van
  Meegeren: Master Forger, p. 127.] (University of California Press,
  1983), 51.
  Royal Academy Of Arts, Murillo 1617-1682, (Royal Academy of Arts,
- with gratitude to Her MajestyÂ’s Government, 1983), 193.
+ with gratitude to Her MajestyÂ's Government, 1983), 193.
  Walter Thornbury, Life of J. M. W. Turner, R.A., (Hurst and Blackett,
  Publishers, London, 1862), vol. 1, 204.
  Wendy Wassyng Roworth, Angelica Kauffman: A Continental Artist in
  Georgian England, (Reaktion Books, London, 1993), 63.
- Helen S. Conant, J.M.W. Turner, (extract from HarperÂ’s Monthly
+ Helen S. Conant, J.M.W. Turner, (extract from HarperÂ's Monthly
  Magazine: 1878; published in Master-In-Art series by Bates and Guild
  Company, Boston, nov 1902), 24.
  John Sawatsky, Men in the Shadows, (Doubleday Canada Limited, 1980),
@@ -333,8 +333,8 @@ John
  Customs Act, 1986 c. 1 amended by 1986, cc. 32, 49 1988, c. 2 and Department
  of National Revenue Act R.S., c. N-15, March 1988.
  Ian Warrell, (Turner Society News #87, March 2001), 11.
- Aaron Milrad & Ella Agnew,, 'Â’': The Art-world, Law, Business & Practice in
- CanadaÂ’, (Merritt Publishing Company Limited, 1980), 119.
+ Aaron Milrad & Ella Agnew,, 'Â'': The Art-world, Law, Business & Practice in
+ CanadaÂ', (Merritt Publishing Company Limited, 1980), 119.
  Ibid, 119.
  Ibid. 120.
  Sharon Fletcher, IFAR Journal, (International Foundation for Art
@@ -348,7 +348,7 @@ John
  LondonTimes, 1990), 65.
  John Ruskin, Modern Painters, (Fred DeFau & Company Publishers, New
  York, The Complete Works of John Ruskin vols. 2, 1, 1873), vol.1, 92.
- Helen Stewart,, 'Â’': The American Peoples EncyclopediaÂ’, (The Spencer Press,
+ Helen Stewart,, 'Â'': The American Peoples EncyclopediaÂ', (The Spencer Press,
  Inc., Chicago, 1952), 15-338.
  Ibid, 15-338.
 
@@ -361,12 +361,12 @@ John
  Pall Mall, London, 1931), 204.
  Byron Webber, James Orrock R.I., Painter, Connoisseur, Collector; (Chatto
  & Windus, London, in two volumes 1903), Vol. 2, 135.
- Judith Walsh, Solving Puzzles, Discovering OÂ’Keeffe, (IFAR Journal
+ Judith Walsh, Solving Puzzles, Discovering OÂ'Keeffe, (IFAR Journal
  Vol. 5, No. 2, 2002), 39.
  Andrea Kirsh and Rustin S. Levenson, Seeing Through Paintings, (Yale
  University Press, New Haven and London, 2001), 101.
  IFAR Journal; volume 4 number 4 / volume 5 number 1 2001/02, 56.
- H. Perry Chapman, RembrandtÂ’s Self-portraitsâ€”A Study in Seventeenth
+ H. Perry Chapman, RembrandtÂ's Self-portraitsâ "A Study in Seventeenth
  Century Identity, (Princeton University Press, New Jersey, 1990), 137.
  Ernst van de Wetering, Thirty Years of the Rembrandt Research Project:
  The Tension Between Science and Connoisseurship in Authenticating Art, (IFAR
@@ -379,9 +379,9 @@ John
  Ernst van de Wetering, Thirty Years of the Rembrandt Research Project:
  The Tension Between Science and Connoisseurship in Authenticating Art, (IFAR
  Journal, Vol. 4, no 2 2001), 14.
- Geraldine Keen, Money and Art, (G. P. PutnamÂ’s Sons, New York, 1971),
+ Geraldine Keen, Money and Art, (G. P. PutnamÂ's Sons, New York, 1971),
  40.
- Joyce Townsend, TurnerÂ’s Painting Techniques, (Tate Publishing,
+ Joyce Townsend, TurnerÂ's Painting Techniques, (Tate Publishing,
  1993), 21.
  Byron Webber, James Orrock R.I., Painter, Connoisseur, Collector; (Chatto
  & Windus, London, in two volumes 1903), Vol. 1, 59.
@@ -389,7 +389,7 @@ John
  Graphic Society, Greenwich, Connecticut, 1966), 21, and Thornbury, pp. 74.
  Andrea Kirsh and Rustin S. Levenson, Seeing Through Paintings, (Yale
  University Press, New Haven and London, 2001), 31.
- Joyce Townsend, TurnerÂ’s Painting TechniquesÂ’, (Tate Publishing,
+ Joyce Townsend, TurnerÂ's Painting TechniquesÂ', (Tate Publishing,
  1993), pp.71.
  John Rothenstein and Martin Butlin, Turner, (George Braziller Inc.,
  New York, 1964), 28.
@@ -406,7 +406,7 @@ John
  Press: John Wilson & Son, Cambridge, 1879), 153.
  Philip Gilbert Hamerton, Life of J.M.W. Turner R.A., (University
  Press: John Wilson & Son, Cambridge, 1879), 176.
- Lawrence Gowing, TurnerÂ’s First Continental Tour of 1802, (Turner
+ Lawrence Gowing, TurnerÂ's First Continental Tour of 1802, (Turner
  Society News No. 91 August 2002), 10.
  Walter Thornbury, Life of J. M. W. Turner, R.A., (Hurst and Blackett,
  Publishers, London, 1862), vol. 1, 131 and 259.
@@ -415,10 +415,10 @@ John
  Ibid. 43.
  W. L. Wyllie A.R.A., J.M.W. Turner, (G. Bell & Sons, London, 1905),
  35.
- Jack Lindsay,, 'Â’': Turner: The Man and His ArtÂ’, (London: Granada,
+ Jack Lindsay,, 'Â'': Turner: The Man and His ArtÂ', (London: Granada,
  1985), 19.
  Martin Butlin & Evelyn Joll, The Paintings of J.M.W. Turner, (Yale
- University Press, New Haven and London, Evelyn JollÂ’s 1977 intro. Revised
+ University Press, New Haven and London, Evelyn JollÂ's 1977 intro. Revised
  Edition, 1984), text vol., 21.
  Meryle Secrest, Kenneth Clark, A Biography, (Holt, Rinehart and
  Winston, New York, 1984), 98.
@@ -433,7 +433,7 @@ John
  New York, 1964), 26.
  Martin Butlin, Turner Watercolours, (Watson-Guptill Publications, New
  York, New York, 1965), 6.
- W.G. Rawlinson, TurnerÂ’s Liber Studiorum, (MacMillan and Co, Limited,
+ W.G. Rawlinson, TurnerÂ's Liber Studiorum, (MacMillan and Co, Limited,
  London, 1906), 33.
  A.J. Finberg and Hilda F. Finberg, The Life of J.M.W. Turner R.A.,
  (Oxford at the Clarendon Press, 1961), 101.
@@ -452,7 +452,7 @@ John
  Press, London, 1951), 35.
  Francis MacDonald Cornford, The Republic of Plato, "Oxford University
  Press, London, 1951), 23.
- David Blayney Brown, From TurnerÂ’s Studio -- Paintings and Oil Sketches
+ David Blayney Brown, From TurnerÂ's Studio -- Paintings and Oil Sketches
  from the Turner Bequest, (Tate Gallery Publishing, 1991), 19.
  David MacMartin Audet, senior accredited member of the International
  Society of Fine Arts Appraisers (River Forest, IL) from his appraisal of
@@ -470,57 +470,57 @@ John
  London, 1969), 30.
  Philip Gilbert Hamerton, Life of J.M.W. Turner R.A., (University
  Press: John Wilson & Son, Cambridge, 1879), 65.
- M. LaverÂ’ s correspondence to the author, March 9, 2000
- Percy Moore Turner, Appreciation of Painting, (Charles ScribnerÂ’s
+ M. LaverÂ' s correspondence to the author, March 9, 2000
+ Percy Moore Turner, Appreciation of Painting, (Charles ScribnerÂ's
  Sons, New York, 1921), 226-27.
  Hanna Kiel, The Bernard Berenson Treasury, (Methuen & Co. Ltd.,
  London, 1964), 14.
  Hanna
  Kiel, The Bernard Berenson Treasury, (Methuen & Co. Ltd., London,
  1964), 291.
- John Gage, J.M.W. Turner, 'Â’': A Wonderful Range of MindÂ’. (London: Yale
+ John Gage, J.M.W. Turner, 'Â'': A Wonderful Range of MindÂ'. (London: Yale
  University Press, 1987), 81.
- John Gage, J.M.W. Turner, 'Â’': A Wonderful Range of MindÂ’. (London: Yale
+ John Gage, J.M.W. Turner, 'Â'': A Wonderful Range of MindÂ'. (London: Yale
  University Press, 1987), 75.
- John Gage,, 'Â’': Colour in Turner Poetry and TruthÂ’. (London: Studio Vista
+ John Gage,, 'Â'': Colour in Turner Poetry and TruthÂ'. (London: Studio Vista
  Lim., 1969), 28.
- Graham Reynolds,, 'Â’': TurnerÂ’, (London: Thames and Hudson, 1969), 8.
+ Graham Reynolds,, 'Â'': TurnerÂ', (London: Thames and Hudson, 1969), 8.
  Tate Gallery, Turner, 1775-1851. (London: Tate Gallery Publishing,
  1974), 48-49.
- Jack Lindsay,, 'Â’': TurnerÂ’. The Man and His Art. (London: Granada, 1985),
+ Jack Lindsay,, 'Â'': TurnerÂ'. The Man and His Art. (London: Granada, 1985),
  35.
- Jack Lindsay,, 'Â’': TurnerÂ’. The Man and His Art. (London: Granada, 1985),
+ Jack Lindsay,, 'Â'': TurnerÂ'. The Man and His Art. (London: Granada, 1985),
  44.
- Tate Gallery,, 'Â’': TurnerÂ’. (London: Tate Gallery Publishing, 1974),
+ Tate Gallery,, 'Â'': TurnerÂ'. (London: Tate Gallery Publishing, 1974),
  55-56.
- Jack Lindsay,, 'Â’': TurnerÂ’. The Man and His Art. (London: Granada, 1985),
+ Jack Lindsay,, 'Â'': TurnerÂ'. The Man and His Art. (London: Granada, 1985),
  44.
- Jack Lindsay,, 'Â’': Turner: The Man and His ArtÂ’. (London: Granada, 1985),
+ Jack Lindsay,, 'Â'': Turner: The Man and His ArtÂ'. (London: Granada, 1985),
  19.
- Joyce Townsend,, 'Â’': TurnerÂ’s Painting TechniquesÂ’. (Cambridge: Tate
+ Joyce Townsend,, 'Â'': TurnerÂ's Painting TechniquesÂ'. (Cambridge: Tate
  Gallery Publishing, 1993), 21-23.
- A.J. Finberg,, 'Â’': The Life of J.M.W. Turner, R.AÂ’. (Oxford: Clarendon
+ A.J. Finberg,, 'Â'': The Life of J.M.W. Turner, R.AÂ'. (Oxford: Clarendon
  Press, 1961), 77.
- John Gage, J.M.W. Turner, 'Â’': A Wonderful Range of MindÂ’. (London: Yale
+ John Gage, J.M.W. Turner, 'Â'': A Wonderful Range of MindÂ'. (London: Yale
  University Press, 1987), 80-81.
- John Gage, J.M.W. Turner, 'Â’': A Wonderful Range of MindÂ’. (London: Yale
+ John Gage, J.M.W. Turner, 'Â'': A Wonderful Range of MindÂ'. (London: Yale
  University Press, 1987), 81-82.
- Jack Lindsay,, 'Â’': Turner: The Man and His ArtÂ’. (London: Granada, 1985),
+ Jack Lindsay,, 'Â'': Turner: The Man and His ArtÂ'. (London: Granada, 1985),
  38.
- John Gage, J.M.W. Turner, 'Â’': A Wonderful Range of MindÂ’. (London: Yale
+ John Gage, J.M.W. Turner, 'Â'': A Wonderful Range of MindÂ'. (London: Yale
  University Press, 1987), 100-1
- Joyce Townsend,, 'Â’': TurnerÂ’s Painting TechniquesÂ’. (Cambridge: Tate
+ Joyce Townsend,, 'Â'': TurnerÂ's Painting TechniquesÂ'. (Cambridge: Tate
  Gallery Publishing, 1993), 39.
  Walter Thornbury, Life of J. M. W. Turner, R.A., (Hurst and Blackett,
  Publishers, London, 1862), vol. 2, 199.
- Jack Lindsay,, 'Â’': Turner: The Man and His ArtÂ’. (London: Granada, 1985),
+ Jack Lindsay,, 'Â'': Turner: The Man and His ArtÂ'. (London: Granada, 1985),
  41.
- Joyce Townsend,, 'Â’': TurnerÂ’s Painting TechniquesÂ’. (Cambridge:
+ Joyce Townsend,, 'Â'': TurnerÂ's Painting TechniquesÂ'. (Cambridge:
  Tate Gallery Publishing, 1993), 28.
- Joyce Townsend,, 'Â’': TurnerÂ’s Painting TechniquesÂ’. (Cambridge:
+ Joyce Townsend,, 'Â'': TurnerÂ's Painting TechniquesÂ'. (Cambridge:
  Tate Gallery Publishing, 1993), 28.
- Michael BockemÃ¼hl, J.M.W. Turner, The World of Light and Colour, (Taschen,
- KÃ¶ln, 1993), 11.
+ Michael Bockem  hl, J.M.W. Turner, The World of Light and Colour, (Taschen,
+ K  ln, 1993), 11.
  Michael Kitson, J.M.W. Turner, (Blandford Press Ltd., London, 1964),
  18.
  Andrew Wilton, Turner in the British Museum, Drawings and Watercolours,
@@ -531,7 +531,7 @@ John
  Kenneth Clark, The Romantic Rebellion: Romantic versus Classic Art,
  (Longman Canada Limited, 1973), 230 and 232.
  Ibid. 246.
- Frank Herrmann, SothebyÂ’s, Portrait of an Auction House, (Chatto and
+ Frank Herrmann, SothebyÂ's, Portrait of an Auction House, (Chatto and
  Windus, London, 1980), 70.
  Cecilia Powell, Turner in Germany, (Tate Gallery Publications,
  London, 1995), 7.
@@ -543,9 +543,9 @@ John
  (Canada) Limited, 1974), 280.
  Fritz Lugt, Les Marques de Collections, Dessins-Estampes, (Vereenigde
  Drukkerijen, Amsterdam 1921), 487.
- Christopher Lloyd, The QueenÂ’s Pictures: Royal Collections Through The
+ Christopher Lloyd, The QueenÂ's Pictures: Royal Collections Through The
  Centuries, (National Gallery Publications Limited, 1991), 14.
- Sir Oliver Millar, The QueenÂ’s Pictures: Royal Collections Through The
+ Sir Oliver Millar, The QueenÂ's Pictures: Royal Collections Through The
  Centuries, (National Gallery Publications Limited, 1991), 16.
  Fritz Lugt, Les Marques de Collections (Dessins-Estampes), (Vereenigde
  Drukkerijen, Amsterdam 1921), 259.
@@ -563,7 +563,7 @@ John
  Publishers, 1987), 66.
  Philip Gilbert Hamerton, Life of J.M.W. Turner R.A., (University
  Press: John Wilson & Son, Cambridge, 1879), 116-7
- A.J. Finberg, introduction by Lawrence Gowing, TurnerÂ’s Sketches &
+ A.J. Finberg, introduction by Lawrence Gowing, TurnerÂ's Sketches &
  Drawings, (Schocken, New York, 1968), xxi.
  Kenneth Clark, The Romantic Rebellion: Romantic versus Classic Art,
  (Longman Canada Limited, 1973), 242.
@@ -571,7 +571,7 @@ John
  University Press Inc., New York, Evelyn Joll, Martin Butlin, and Luke
  Herrmann, 2001), 286.
  Martin Butlin & Evelyn Joll, The Paintings of J.M.W. Turner, (Yale
- University Press, New Haven and London, Evelyn JollÂ’s 1977 intro. Revised
+ University Press, New Haven and London, Evelyn JollÂ's 1977 intro. Revised
  Edition, 1984), text vol., 20.
  Graham Reynolds, Turner, (London: Thames and Hudson, 1969), 34.
  Michael Lloyd, Turner, essay by John Gage, (National Gallery of
@@ -584,12 +584,12 @@ John
  the Tate Gallery, (Tate Gallery Publications and Information Department,
  1959), 16.
  George Jones; John Gage, ed., Collected Correspondence of J.M.W. Turner,
- (Clarendon Press â€“ Oxford, 1980), 4.
- A.J. Finberg, TurnerÂ’s Sketches & Drawings, (Schocken, New York,
+ (Clarendon Press â " Oxford, 1980), 4.
+ A.J. Finberg, TurnerÂ's Sketches & Drawings, (Schocken, New York,
  1968), 152.
  Walter Bayes A.R.W.S., Turner, A Speculative Portrait, (Geoffrey Bles,
  Pall Mall, London, 1931), 99.
- A.J. Finberg, TurnerÂ’s Sketches & Drawings, (Schocken, New York,
+ A.J. Finberg, TurnerÂ's Sketches & Drawings, (Schocken, New York,
  1968), 45.
  A.J. Finberg and Hilda F. Finberg, The Life of J.M.W. Turner R.A.,
  (Oxford at the Clarendon Press, 1961), 116.
@@ -616,7 +616,7 @@ John
  John Gage, Colour in Turner: Poetry and Truth, (Studio Vista Limited,
  1969), 32.
  Walter Shaw Sparrow, The Genius of J.M.W. Turner R.A., (Offices of
-, 'Â’': The StudioÂ’, London, Paris, and New York, MCMIII), w vii.
+, 'Â'': The StudioÂ', London, Paris, and New York, MCMIII), w vii.
  Walter Thornbury, Life of J. M. W. Turner, R.A., (Hurst and Blackett,
  Publishers, London, 1862), vol. 1, 335.
 
@@ -626,13 +626,13 @@ John
  and Son, auction Dec. 12, 1995).
  James Henry Duveen, Secrets of an Art Dealer, (E.P. Dutton & Co.,
  Inc., New York, 1938), 252.
- HarperÂ’s, Joseph Mallord William Turner, (Harpers New Monthly
+ HarperÂ's, Joseph Mallord William Turner, (Harpers New Monthly
  Magazine, 1878), 393.
  Andrew Wilton, Turner in the British Museum, Drawings and Watercolours,
  (British Museum Publications Limited, London, 1975), 9, also, Thornbury,
  vol. 1. pp 130.
  Otto Kurz, Fakes, (Dover Publications, Inc. New York, N.Y., 1967)
- Michael Scott, ItÂ’s a Ship of Fate or a Ship of Fake, (The Vancouver
+ Michael Scott, ItÂ's a Ship of Fate or a Ship of Fake, (The Vancouver
  Sun, Jan. 23, 1997), 1, A9.
  Andrea Kirsh and Rustin S. Levenson, Seeing Through Paintings, (Yale
  University Press, New Haven and London, 2001), 134.
@@ -642,7 +642,7 @@ John
  and Drawings by J. M. W. Turner, (London: "Pall Mall" Press, Holborn,
  1905), 71.
  Martin Butlin & Evelyn Joll, The Paintings of J.M.W. Turner, (Yale
- University Press, New Haven and London, Evelyn JollÂ’s 1977 intro. Revised
+ University Press, New Haven and London, Evelyn JollÂ's 1977 intro. Revised
  Edition, 1984), text vol., 143.
  Jack Lindsay, Turner: The Man and His Art, (Franklin Watts, New York,
  1985), 13.
@@ -652,14 +652,14 @@ John
  Joyce H. Townsend, The Oxford Companion To J.M.W. Turner, (Oxford
  University Press Inc., New York, Evelyn Joll, Martin Butlin, and Luke
  Herrmann, 2001), 260.
- David Blayney Brown, TurnerÂ’s Studio, Paintings and Oil Sketches from the
+ David Blayney Brown, TurnerÂ's Studio, Paintings and Oil Sketches from the
  Turner Bequest, (Tate Gallery Publications, 1991), 7.
  John
  Rothenstein and Martin Butlin, Turner, (George Braziller Inc., New
  York, 1964), 48.
- C. Lewis Hind, TurnerÂ’s Golden Visions, (T. C. & E. C. Jack, Ltd.,
+ C. Lewis Hind, TurnerÂ's Golden Visions, (T. C. & E. C. Jack, Ltd.,
  London, 1925), 179.
- David Hill, In TurnerÂ’s Footsteps: Through the hills an dales of Northern
+ David Hill, In TurnerÂ's Footsteps: Through the hills an dales of Northern
  England, (John Murray (Publishers) Ltd., London, 1984), 12.
  Jack Lindsay, J.M.W. Turner, A Critical Biography, (New York Graphic
  Society, Greenwich, Connecticut, 1966), 42.
@@ -685,7 +685,7 @@ John
  (Longman Canada Limited, 1973), 65.
  Bonnie Burnham, The Art Crisis, (St. Matins Press, New York, 1975),
  232.
- Arthur Christopher Benson, From a College Window, (G. P. PutnamÂ’s
+ Arthur Christopher Benson, From a College Window, (G. P. PutnamÂ's
  Sons, New York and London, 1909), 278.
  Southern California Association of Fingerprint Officers, July 2000 Attn:
  Managers, www.scafo.org.
@@ -702,7 +702,7 @@ John
  Limited, and Henry N. Abrams, London, 1960), Preface.
  James Henry Duveen, The Rise of The House of Duveen, (Alfred A. Knoff,
  New York, 1957), 189-90.
- Geraldine Keen, Money and Art, (G. P. PutnamÂ’s Sons, New York, 1971),
+ Geraldine Keen, Money and Art, (G. P. PutnamÂ's Sons, New York, 1971),
  41.
  James Henry Duveen, The Rise of The House of Duveen, (Alfred A. Knoff,
  New York, 1957), 293.
@@ -716,7 +716,7 @@ John
  James Henry Duveen, The Rise of The House of Duveen, (Alfred A. Knoff,
  New York, 1957), 251.
  Ibid. 254.
- Hermine Chivian-Cobb, Provenance â€“ What Is It? (IFAR Journal Vol. 3,
+ Hermine Chivian-Cobb, Provenance â " What Is It? (IFAR Journal Vol. 3,
  nos. 3 and 4, 2000), 4.
  Byron Webber, James Orrock R.I., Painter, Connoisseur, Collector; (Chatto
  & Windus, London, in two volumes 1903), Vol. 1, 198.
@@ -724,7 +724,7 @@ John
  (Canada) Limited, 1974), 268-269.
  Katya Garcia-Anton, tate, the art magazine, (Wordsearch Ltd., London,
  issue 4, winter 1994), 11.
- C. Lewis Hind, TurnerÂ’s Golden Vision, (T. C. & E. C. Jack, Ltd,
+ C. Lewis Hind, TurnerÂ's Golden Vision, (T. C. & E. C. Jack, Ltd,
  Edinburgh, 1925), 112.
  Frances Tyrrell-Gill, Little Books On Art: Turner, (Methuen & Co.,
  London, 1904), 126.
@@ -748,7 +748,7 @@ John
  Walter Thornbury, Life of J. M. W. Turner, R.A., (Hurst and Blackett,
  Publishers, London, 1862), vol. 2, 161.
  Martin Butlin & Evelyn Joll, The Paintings of J.M.W. Turner, (Yale
- University Press, New Haven and London, Evelyn JollÂ’s 1977 intro. Revised
+ University Press, New Haven and London, Evelyn JollÂ's 1977 intro. Revised
  Edition, 1984), text vol., xix.
  Turner Art Sold for $5,410, (New York Times, 14 April 1938), 24, col.
  4.
@@ -769,7 +769,7 @@ John
  by The Scribner Press, 1926), 4370.
  Turner 1775-1851, (The Tate Gallery; third impression with
  corrections1975), 38.
- Gerald Wilkinson, TurnerÂ’s Early Sketchbooks, (Watson-Guptill
+ Gerald Wilkinson, TurnerÂ's Early Sketchbooks, (Watson-Guptill
  Publications, New York, 1972), 52.
  John Anderson, Jr., The Unknown Turner, (pub. John Anderson, printed
  by The Scribner Press, 1926), 52.
@@ -786,17 +786,17 @@ John
  Walter Thornbury, The Life of J.M.W. Turner, (Hurst and Blackett,
  Publishers, London, 1862), vol. 1, 151.
  Obituaries, (New York Times, 6 Aug. 1958), 25 col. 5.
- C. Lewis Hind, TurnerÂ’s Golden Visions, (T. C. & E. C. Jack, Ltd.,
+ C. Lewis Hind, TurnerÂ's Golden Visions, (T. C. & E. C. Jack, Ltd.,
  London, 1925), 173.
  Jack Lindsay, Turner: The Man and His Art, (Franklin Watts, New York,
  1985), 28.
- Jean Selz, Turner, (Crown Publishers, Inc. â€“ New York, 1977), 85.
+ Jean Selz, Turner, (Crown Publishers, Inc. â " New York, 1977), 85.
  Martin Butlin & Evelyn Joll, The Paintings of J.M.W. Turner, (Yale
- University Press, New Haven and London, Evelyn JollÂ’s 1977 intro. Revised
+ University Press, New Haven and London, Evelyn JollÂ's 1977 intro. Revised
  Edition, 1984), text vol., xxi.
  W. Cosmo Monkhouse, J.M.W. Turner R.A., (Sampson Low, Marston, Searle, &
  Rivington, London 1879), Preface.
- C. Lewis Hind, TurnerÂ’s Golden Visions, (T. C. & E. C. Jack, Ltd.,
+ C. Lewis Hind, TurnerÂ's Golden Visions, (T. C. & E. C. Jack, Ltd.,
  London, 1925), forward note.
  Philip Gilbert Hamerton, Life of J.M.W. Turner R.A., (University
  Press: John Wilson & Son, Cambridge, 1879), ix-x.
@@ -804,7 +804,7 @@ John
  Press: John Wilson & Son, Cambridge, 1879), 102-3.
  A.J. Finberg and Hilda F. Finberg, The Life of J.M.W. Turner R.A.,
  (Oxford at the Clarendon Press, 1961), 3.
- Arthur Christopher Benson, From a College Window, (G. P. PutnamÂ’s
+ Arthur Christopher Benson, From a College Window, (G. P. PutnamÂ's
  Sons, New York and London, 1909), 45.
  Max J. Friedlander, On Art and Connoisseurship, (Bruno Cassirer, Publishers
  Ltd., London, 1942, translated from the authors manuscript by Tancred
@@ -843,7 +843,7 @@ John
  by The Scribner Press, 1926), 59.
  Geoffrey Agnew, In Honor of Paul Mellon, Collector and Benefactor,
  (National Gallery of Art, Washington, editor John Wilmerding, 1986), 1.
- Frank Herrmann, SothebyÂ’s, Portrait of an Auction House, (Chatto and
+ Frank Herrmann, SothebyÂ's, Portrait of an Auction House, (Chatto and
  Windus, London, 1980), 39.
  Walter Thornbury, Life of J. M. W. Turner, R.A., (Hurst and Blackett,
  Publishers, London, 1862), vol. 2, 299.
@@ -858,7 +858,7 @@ John
  A.J. Finberg and Hilda F. Finberg, The Life of J.M.W. Turner R.A.,
  (Oxford at the Clarendon Press, 1961), 116.
  Robert de la Sizeranne, The Genius of J.M.W. Turner R.A., (Offices of
-, 'Â’': The StudioÂ’, London, Paris, and New York, MCMIII), o viii.
+, 'Â'': The StudioÂ', London, Paris, and New York, MCMIII), o viii.
  Geoffrey Agnew, In Honor of Paul Mellon, Collector and Benefactor,
  (National Gallery of Art, Washington, editor John Wilmerding, 1986),
  footnote 3, 196
@@ -867,8 +867,8 @@ John
  Ibid, 33.
  John
  Gage, ed., Collected Correspondence of J.M.W. Turner, (Clarendon
- Press â€“ Oxford, 1980), 196
- Rex-Parkes, Jeremy, (JRex-Parkes@christieÂ’s.com).
+ Press â " Oxford, 1980), 196
+ Rex-Parkes, Jeremy, (JRex-Parkes@christieÂ's.com).
  16 March 2000. RE: 73OAS [E-mail to Robert Setters<bsetters@hotmail.com].
  Walter Thornbury, Life of J. M. W. Turner, R.A., (Hurst and Blackett,
  Publishers, London, 1862), vol. 2, 128.
@@ -914,16 +914,16 @@ John
  1988), 244.
  John Walker, Self-Portrait with Donors, (Little, Brown and Company
  (Canada) Limited, 1974), 283.
- Huon Mallalieu, ChristieÂ’s Collectors Guides, How to Buy Pictures,
+ Huon Mallalieu, ChristieÂ's Collectors Guides, How to Buy Pictures,
  Practical Advice on All Aspects of the Art Market, (Prentice-Hall, Inc.,
  New Jersey, 1984), 46.
  Byron Webber, James Orrock R.I., Painter, Connoisseur, Collector; (Chatto
  & Windus, London, in two volumes 1903), Vol. 2, 208-10.
- Peter Watson, SothebyÂ’s: The Inside Story, (Random House, New
+ Peter Watson, SothebyÂ's: The Inside Story, (Random House, New
  York, 1998), 90.
- Frank Herrmann, SothebyÂ’s, Portrait of an Auction House, (Chatto and
+ Frank Herrmann, SothebyÂ's, Portrait of an Auction House, (Chatto and
  Windus, London, 1980), 399.
- Huon Mallalieu, ChristieÂ’s Collectors Guides, How to Buy Pictures,
+ Huon Mallalieu, ChristieÂ's Collectors Guides, How to Buy Pictures,
  Practical Advice on All Aspects of the Art Market, (Prentice-Hall, Inc.,
  New Jersey, 1984), 41.
  Ibid. 147.
@@ -936,14 +936,14 @@ John
  Luke Herrmann, Turner, Paintings, Watercolours, Prints & Drawings, (Phaidon
  Press Limited, London, 1975), 45.
  Ibid. 51.
- David Hill, In TurnerÂ’s Footsteps: Through the hills an dales of Northern
+ David Hill, In TurnerÂ's Footsteps: Through the hills an dales of Northern
  England, (John Murray (Publishers) Ltd., London, 1984), 11.
  The Editor (National Gallery), Hidden Treasures at the National Gallery,
  A Selection of Studies and Drawings by J. M. W. Turner, (London: "Pall
  Mall" Press, Holborn, 1905), Preface.
- A.J. Finberg, TurnerÂ’s Sketches & Drawings, (Schocken, New York,
+ A.J. Finberg, TurnerÂ's Sketches & Drawings, (Schocken, New York,
  1968), 153.
- Frank Herrmann, SothebyÂ’s, Portrait of an Auction House, (Chatto and
+ Frank Herrmann, SothebyÂ's, Portrait of an Auction House, (Chatto and
  Windus, London, 1980), 397-8.
  Ibid. 425.
  Walter Thornbury, The Life of J.M.W. Turner, (Hurst and Blackett,
@@ -974,11 +974,11 @@ John
  W. L. Wyllie A.R.A., J.M.W. Turner, (G. Bell & Sons, London, 1905),
  67.
  Graham Reynolds, Turner, (London: Thames and Hudson, 1969),
- A.J. Finberg, introduction by Lawrence Gowing, TurnerÂ’s Sketches &
+ A.J. Finberg, introduction by Lawrence Gowing, TurnerÂ's Sketches &
  Drawings, (Schocken, New York, 1968), xviii.
  Frances Tyrrell-Gill, Little Books On Art: Turner, (Methuen & Co.,
  London, 1904), 83.
- Messrs. Christie, Manson & Woods ChristieÂ’s, Highly Important Collection
+ Messrs. Christie, Manson & Woods ChristieÂ's, Highly Important Collection
  of Pictures and Watercolour Drawings of James Orrock Esq., (printed by
  William Clowes and Sons Limited, London, sale dates, June 4 and 6, 1904).
  Luke Herrmann, Turner, Paintings, Watercolours, Prints & Drawings, (Phaidon
@@ -986,7 +986,7 @@ John
  Eric Shanes, J.M.W. Turner, The Foundations of Genius, (The Taft
  Museum Cincinnati, Ohio; Corbett Foundation; The Hennegan Co. printers,
  1986), 20.
- Andrew Wilton,, 'Â’': Turner in his timeÂ’. (New York: Harry N. Abrams,
+ Andrew Wilton,, 'Â'': Turner in his timeÂ'. (New York: Harry N. Abrams,
  Incorporated, 1987), 124.
  Ibid. 146.
  Walter Thornbury, Life of J. M. W. Turner, R.A., (Hurst and Blackett,
@@ -998,14 +998,14 @@ John
  Gerald Wilkinson, Turner Sketches 1789-1820, (Barrie & Jenkins Ltd.,
  London, 1977), 138.
  Martin Butlin & Evelyn Joll, The Paintings of J.M.W. Turner, (Yale
- University Press, New Haven and London, Evelyn JollÂ’s 1977 intro. Revised
+ University Press, New Haven and London, Evelyn JollÂ's 1977 intro. Revised
  Edition, 1984), text vol, 317.
  Walter Thornbury, Life of J. M. W. Turner, R.A., (Hurst and Blackett,
  Publishers, London, 1862), vol.1, 151.
  Walter Thornbury, Life of J. M. W. Turner, R.A., (Hurst and Blackett,
  Publishers, London, 1862), vol. 1, 216.
  George Jones; John Gage, ed., Collected Correspondence of J.M.W. Turner,
- (Clarendon Press â€“ Oxford, 1980), 5.
+ (Clarendon Press â " Oxford, 1980), 5.
  Walter Thornbury, Life of J. M. W. Turner, R.A., (Hurst and Blackett,
  Publishers, London, 1862), vol. 1, 220.
  John Gage, Colour in Turner: Poetry and Truth, (Studio Vista Limited,
@@ -1018,11 +1018,11 @@ John
  Cecilia Powell, Turner's Rivers of Europe, (Tate Gallery, sponsored
  by Volkswagon, 1991), 26.
  Martin Butlin & Evelyn Joll, The Paintings of J.M.W. Turner, (Yale
- University Press, New Haven and London, Evelyn JollÂ’s 1977 intro. Revised
+ University Press, New Haven and London, Evelyn JollÂ's 1977 intro. Revised
  Edition, 1984), text vol., xvi.
  B. Webber, James Orrock, R.I. 1903. Vol. I pp. 60-61; quoted by Gage,
  Colour in Turner, p.32.
- A.J. Finberg, TurnerÂ’s Sketches & Drawings, (Schocken, New York,
+ A.J. Finberg, TurnerÂ's Sketches & Drawings, (Schocken, New York,
  1968), 55.
  John Ruskin, Modern Painters, (Fred DeFau & Company Publishers, New
  York, The Complete Works of John Ruskin vols. 2, 1, 1873), vol.1, 58.
@@ -1086,12 +1086,12 @@ John
  (Smithsonian Publication No. 4519, 1963), 13.
  Luke Herrmann, Ruskin and Turner, (Faber and Faber, London, 1968),
  21.
- A.J. Finberg, introduction by Lawrence Gowing, TurnerÂ’s Sketches &
+ A.J. Finberg, introduction by Lawrence Gowing, TurnerÂ's Sketches &
  Drawings, (Schocken, New York, 1968), xx-xxi.
  Ibid. xxi.
  Editorial Comment, (Westbridge Publications Ltd. Vancouver, B. C., Volume
  28, Number 5 August/September 2002), 2.
- Frank Herrmann, SothebyÂ’s, Portrait of an Auction House, (Chatto and
+ Frank Herrmann, SothebyÂ's, Portrait of an Auction House, (Chatto and
  Windus, London, 1980), 150-51.
  Peter Watson, From Manet To Manhattan, (New York: Random House, Inc.,
  1992), 336-7.
@@ -1104,7 +1104,7 @@ John
  Ibid. 134.
  Ibid. 135.
  Ibid. 134.
- Frank Herrmann, SothebyÂ’s, Portrait of an Auction House, (Chatto and
+ Frank Herrmann, SothebyÂ's, Portrait of an Auction House, (Chatto and
  Windus, London, 1980), 187.
  Mary Chamot with assistance of Martin Butlin and Dennis Farr, A Guide to
  the Tate Gallery, (Tate Gallery Publications and Information Department,
@@ -1113,8 +1113,8 @@ John
  Rev. S.A. Swaine, Turner the Artist, (Cassell & Company, Limited:
  London, Paris, New York, Melbourne, 1885), 65.
  CCI report prepared in 1982 by Marilyn Laver P. Eng.
- Jack Lindsay,, 'Â’': Turner:
- The Man and His ArtÂ’.(London: Granada, 1985), 41.
+ Jack Lindsay,, 'Â'': Turner:
+ The Man and His ArtÂ'.(London: Granada, 1985), 41.
  A.J. Finberg and Hilda F. Finberg, The Life of J.M.W. Turner R.A.,
  (Oxford at the Clarendon Press, 1961), 78.
  Simon Winchester, Their Noble Lordships, (Random House Inc., New
@@ -1207,11 +1207,11 @@ John
  Press: John Wilson & Son, Cambridge, 1879), 289.
  Meryle Secrest, Kenneth Clark, A Biography, (Holt, Rinehart and
  Winston, New York, 1984), 95.
- Sir Oliver Millar The QueenÂ’s Pictures: Royal Collections Through The
+ Sir Oliver Millar The QueenÂ's Pictures: Royal Collections Through The
  Centuries, (National Gallery Publications Limited, 1991), 25.
- Robert Lacey, SothebyÂ’sâ€”Bidding for Class, (Little, Brown & Company
+ Robert Lacey, SothebyÂ'sâ "Bidding for Class, (Little, Brown & Company
  (Canada), 1989), 76.
- W.G. Rawlinson, TurnerÂ’s Liber Studiorum, (MacMillan and Co, Limited,
+ W.G. Rawlinson, TurnerÂ's Liber Studiorum, (MacMillan and Co, Limited,
  London, 1906), 25.
  Martin Butlin, Turner Watercolours, (Watson-Guptill Publications, New
  York, New York, 1962), front inside flap.
@@ -1229,13 +1229,13 @@ John
  New York, 1957), 44.
  Byron Webber, James Orrock R.I., Painter, Connoisseur, Collector; (Chatto
  & Windus, London, in two volumes 1903), Vol. 1, 84.
- Andrew Wilton, Painting and Poetry, TurnerÂ’s Verse Book and his Work of
- 1804 â€“ 1812, (Tate Gallery Publications, Millbank, 1990)
+ Andrew Wilton, Painting and Poetry, TurnerÂ's Verse Book and his Work of
+ 1804 â " 1812, (Tate Gallery Publications, Millbank, 1990)
  Charles Alfred Swinburne, Life and Work of J.M.W. Turner R.A.,
  (Bickers and Son, London, 1902), 115.
  Martin Butlin, and Evelyn Joll, The Paintings of J.M.W. Turner, (Yale
  University Press New Haven and London, 1984), text, 117.
- David Blayney Brown, From TurnerÂ’s Studio, Paintings And Oil Sketches From
+ David Blayney Brown, From TurnerÂ's Studio, Paintings And Oil Sketches From
  The Turner Bequest, (Tate Gallery, 1991), 36.
  Graham Reynolds, Turner, (London: Thames and Hudson, 1969), 103.
  Andrea Kirsh and Rustin S. Levenson, Seeing Through Paintings, (Yale
@@ -1244,7 +1244,7 @@ John
  Publishers, London, 1862), vol. 1, 303.
  Martin Butlin, and Evelyn Joll, The Paintings of J.M.W. Turner, (Yale
  University Press New Haven and London, 1984), text, 320.
- Joyce Townsend, TurnerÂ’s Painting Techniques, (Tate Publishing,
+ Joyce Townsend, TurnerÂ's Painting Techniques, (Tate Publishing,
  1993), 28.
  Walter Thornbury, Life of J. M. W. Turner, R.A., (Hurst and Blackett,
  Publishers, London, 1862), vol. 2, 165-6.
@@ -1252,7 +1252,7 @@ John
  Walter Thornbury, Life of J. M. W. Turner, R.A., (Hurst and Blackett,
  Publishers, London, 1862), vol. 2, 312.
  Helen S. Conant (Ruskin, Modern Painters vol. v), J.M.W. Turner,
- (extract from HarperÂ’s Monthly Magazine: 1878; published in Master-In-Art
+ (extract from HarperÂ's Monthly Magazine: 1878; published in Master-In-Art
  series by Bates and Guild Company, Boston, nov 1902), 29; also, Frederick
  Wedmore, Ruskin and Turner, p 47.
  W. L. Wyllie A.R.A., J.M.W. Turner, (G. Bell & Sons, London, 1905),
@@ -1290,7 +1290,7 @@ John
  Eric Shanes, J.M.W. Turner, The Foundations of Genius, (The Taft
  Museum Cincinnati, Ohio; Corbett Foundation; The Hennegan Co. printers,
  1986), 5.
- Frank Herrmann, SothebyÂ’s, Portrait of an Auction House, (Chatto and
+ Frank Herrmann, SothebyÂ's, Portrait of an Auction House, (Chatto and
  Windus, London, 1980), 280.
  Ibid. 284-5.
  A.J. Finberg and Hilda F. Finberg, The Life of J.M.W. Turner R.A.,
@@ -1326,19 +1326,19 @@ John
  Collection: Dennis Farr, Samuel Courtauld as a Collector and Founder
  of the Courtauld Institute, (Trustees of the Home House Society and Yale
  University, 1987), 321.
- Robert Lacey, SothebyÂ’sâ€”Bidding for Class, (Little, Brown & Company
+ Robert Lacey, SothebyÂ'sâ "Bidding for Class, (Little, Brown & Company
  (Canada), 1989), 99.
- Robert Lacey, SothebyÂ’sâ€”Bidding for Class, (Little, Brown & Company
+ Robert Lacey, SothebyÂ'sâ "Bidding for Class, (Little, Brown & Company
  (Canada), 1989), 37.
  Ibid. 41.
  Peter Watson, From Manet To Manhattan, (New York: Random House, Inc.,
  1992), 238.
- Robert Lacey, SothebyÂ’sâ€”Bidding for Class, (Little, Brown & Company
+ Robert Lacey, SothebyÂ'sâ "Bidding for Class, (Little, Brown & Company
  (Canada), 1989), 222.
  Ibid. 281.
  Peter Watson, From Manet To Manhattan, (New York: Random House, Inc.,
  1992), 382.
- Robert Lacey, SothebyÂ’sâ€”Bidding for Class, (Little, Brown & Company
+ Robert Lacey, SothebyÂ'sâ "Bidding for Class, (Little, Brown & Company
  (Canada), 1989), 244-45.
  CBS News April 23, 2002.
  Ibid. Nov 20 2001.
@@ -1381,13 +1381,13 @@ John
  James Mason, The Charm of Turner, (T.C. & E.C. Jack, London and
  Edinburgh, 1914), 9.
  Silvia Ginzburg, Turner, (Arch Cape Press, New York, 1990), 9.
- Frank Herrmann, SothebyÂ’s, Portrait of an Auction House, (Chatto and
+ Frank Herrmann, SothebyÂ's, Portrait of an Auction House, (Chatto and
  Windus, London, 1980), 156.
  Ibid. 371.
  Ibid. 371.
- Frank Herrmann, SothebyÂ’s, Portrait of an Auction House, (Chatto and
+ Frank Herrmann, SothebyÂ's, Portrait of an Auction House, (Chatto and
  Windus, London, 1980), 373.
- Robert Lacey, SothebyÂ’sâ€”Bidding for Class, (Little, Brown & Company
+ Robert Lacey, SothebyÂ'sâ "Bidding for Class, (Little, Brown & Company
  (Canada), 1989), 33.
  Francis MacDonald Cornford, The Republic of Plato, "Oxford University
  Press, London, 1951), 130.
@@ -1412,7 +1412,7 @@ John
  1988), 147.
  Pierre Assouline, An Artful Life, A Biograhy of D.H. Kahnweiler,
  1884-1979, (Grove Weidenfeld, New York, translation Charles Ruas 1990), 283.
- Frank Herrmann, SothebyÂ’s, Portrait of an Auction House, (Chatto and
+ Frank Herrmann, SothebyÂ's, Portrait of an Auction House, (Chatto and
  Windus, London, 1980), 315.
  Daniel Catton Rich, The Flow of Art, Essays and Criticisms of Henry
  McBride, (Athenium Publishers, New York, 1975), 34.
@@ -1423,12 +1423,12 @@ John
  London, 1964), 395
  John Costello, Mask of Treachery, (William Collins Sons and Co. Ltd.,
  1988), 244.
- Robert Lacey, SothebyÂ’sâ€”Bidding for Class, (Little, Brown & Company
+ Robert Lacey, SothebyÂ'sâ "Bidding for Class, (Little, Brown & Company
  (Canada), 1989), 144,149, and 151.
- Frank Herrmann, SothebyÂ’s, Portrait of an Auction House, (Chatto and
+ Frank Herrmann, SothebyÂ's, Portrait of an Auction House, (Chatto and
  Windus, London, 1980), xxv.
- Hugh Roberts, Negotiated Sales, ChristieÂ’s Review of the Season
- 1986, (Christie, Manson and Woods Ltd., Phaidon ChristieÂ’s Oxford,
+ Hugh Roberts, Negotiated Sales, ChristieÂ's Review of the Season
+ 1986, (Christie, Manson and Woods Ltd., Phaidon ChristieÂ's Oxford,
  1986), 12.
  James Henry Duveen, The Rise of The House of Duveen, (Alfred A. Knoff,
  New York, 1957), 73-4.
@@ -1436,7 +1436,7 @@ John
  Blake, (Cornell University Press (Getty Grant Program assistance),
  Ithaca and London, 1992), 25.
  Ibid, 31.
- Frank Herrmann, SothebyÂ’s, Portrait of an Auction House, (Chatto and
+ Frank Herrmann, SothebyÂ's, Portrait of an Auction House, (Chatto and
  Windus, London, 1980), 269.
  Pierre Assouline, An Artful Life, A Biograhy of D.H. Kahnweiler,
  1884-1979, (Grove Weidenfeld, New York, translation Charles Ruas 1990), 155.
@@ -1461,11 +1461,11 @@ John
  Ibid. 96, letter, Kahnweiler to Manolo, July 9, 1923.
  Pierre Assouline, An Artful Life, A Biograhy of D.H. Kahnweiler,
  1884-1979, (Grove Weidenfeld, New York, translation Charles Ruas 1990), 333.
- Robert Lacey, SothebyÂ’sâ€”Bidding for Class, (Little, Brown & Company
+ Robert Lacey, SothebyÂ'sâ "Bidding for Class, (Little, Brown & Company
  (Canada), 1989), 256.
- Robert Lacey, SothebyÂ’sâ€”Bidding for Class, (Little, Brown & Company
+ Robert Lacey, SothebyÂ'sâ "Bidding for Class, (Little, Brown & Company
  (Canada), 1989), 256.
- Frank Herrmann, SothebyÂ’s, Portrait of an Auction House, (Chatto and
+ Frank Herrmann, SothebyÂ's, Portrait of an Auction House, (Chatto and
  Windus, London, 1980), 276.
  Frank Herrmann, Art at Auction, (editor Joan A. Speers, Sotheby Parke
  Bernet Publications Ltd., 1980), 12.
@@ -1479,7 +1479,7 @@ John
  Ibid. 475.
  Peter Watson, From Manet To Manhattan, (New York: Random House, Inc.,
  1992), 385.
- Robert Lacey, SothebyÂ’sâ€”Bidding for Class, (Little, Brown & Company
+ Robert Lacey, SothebyÂ'sâ "Bidding for Class, (Little, Brown & Company
  (Canada), 1989), 259.
  Peter Watson, From Manet To Manhattan, (New York: Random House, Inc.,
  1992), 19.
@@ -1500,7 +1500,7 @@ John
  John Henry Merryman is Sweitzer Professor of Law and Cooperating Professor
  of Art, Emeritus, Stanford University and Member, IFAR Advisory Council. (IFAR
  conference 2000.)
- Jean Selz, Turner, (Crown Publishers, Inc. â€“ New York, 1977), 25.
+ Jean Selz, Turner, (Crown Publishers, Inc. â " New York, 1977), 25.
  Jack Lindsay, Turner: The Man and His Art, (Franklin Watts, New York,
  1985), 9.
  William Vaughan, Romantic Art, (Oxford University Press, 1978), 158.
@@ -1512,7 +1512,7 @@ John
  New York, 1964), 74, 76.
  Jack Lindsay, J. M. W. Turner, A Critical Biography, (New York
  Graphic Society, Greenwich, Connecticut, 1966), 89.
- Eric Shanes, TurnerÂ’s England, A Survey In Watercolours, (Trafalgar
+ Eric Shanes, TurnerÂ's England, A Survey In Watercolours, (Trafalgar
  Square Publishing, Vermont USA, 1990), 21.
  Jack Lindsay, Turner: The Man and His Art, (Franklin Watts, New York,
  1985), 44.
@@ -1526,11 +1526,11 @@ John
  Publishers, London, 1862), vol. 1, 64.
  Martin Butlin, and Evelyn Joll, The Paintings of J.M.W. Turner, (Yale
  University Press New Haven and London, 1984), text, 237.
- Gerald Wilkinson, TurnerÂ’s Early Sketchbooks, (Watson-Guptill Publications,
+ Gerald Wilkinson, TurnerÂ's Early Sketchbooks, (Watson-Guptill Publications,
  New York, 1972), 61.
  John Gage, J.M.W. Turner, A Wonderful Range of Mind, (Yale University
  Press, 1991), 205.
- Gerald Wilkinson, TurnerÂ’s Early Sketchbooks, (Watson-Guptill Publications,
+ Gerald Wilkinson, TurnerÂ's Early Sketchbooks, (Watson-Guptill Publications,
  New York, 1972), 52.
  Ibid, 39.
  Kenneth Clark, The Romantic Rebellion: Romantic versus Classic Art,
@@ -1571,10 +1571,10 @@ John
  London, 1977), 106.
  Martin Butlin, and Evelyn Joll, The Paintings of J.M.W. Turner, (Yale
  University Press New Haven and London, 1984), text, 49.
- David Hill, In TurnerÂ’s Footsteps: Through the hills an dales of
+ David Hill, In TurnerÂ's Footsteps: Through the hills an dales of
  Northern England,
  (John Murray (Publishers) Ltd., London, 1984), 16.
-  [Art  WorldÂ’s Dirty Little Secret](/book/)
+  [Art  WorldÂ's Dirty Little Secret](/book/)
 
  [Institutional evolution](/discovery/institutional/) [Tribal  Instincts](/about/turner/)
  [Butlin Joll catalogue](/discovery/catalogue/)

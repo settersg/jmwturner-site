@@ -10,7 +10,7 @@ letters John Gage Collected Correspondence of
   The following letters are recent
 discoveries and are not found in John Gage's Collected
   Correspondence of J.M.W. Turner, (Clarendon
-Press â€“ Oxford, 1980)
+Press â " Oxford, 1980)
   excerpt from
 [Rescuing Turner: a New Age of Art Discovery](/book/)
 
@@ -18,7 +18,7 @@ r malcolm setters / graham setters
 "Turner's journeys at home and abroad were frequent and extensive.
 Unfortunately few itineraries survive. The best records of course are his
 sketches en-route and the limited number of his letters that survive. The
-following are newly discovered examples showing the artistÂ’s exuberant writing
+following are newly discovered examples showing the artistÂ's exuberant writing
 style. They somewhat contradict Philip Hamerton, who in his Life of J.M.W.
 Turner R.A. 1879 contends that Turner was lacking social graces, and that he
 was remiss when it came to answering dinner invitations.
@@ -39,37 +39,37 @@ Hanover
 Terrace
   To Clara Wheeler
 
-TurnerÂ’s first two biographers, Thornbury and Hamerton both confirm the
+TurnerÂ's first two biographers, Thornbury and Hamerton both confirm the
 dearth of Turner correspondence. Thornbury writes, "I append here a batch of
-letters, trifling enough, but valuable, because TurnerÂ’s letters are scarce,"[[i]](#_edn1)
-and Hamerton; "Of TurnerÂ’s correspondence very little is in existence." In turn
-Hamerton condescendingly mocks TurnerÂ’s literacy: "Like most uneducated men, he
+letters, trifling enough, but valuable, because TurnerÂ's letters are scarce,"[[i]](#_edn1)
+and Hamerton; "Of TurnerÂ's correspondence very little is in existence." In turn
+Hamerton condescendingly mocks TurnerÂ's literacy: "Like most uneducated men, he
 disliked letter-writing, and he carried this dislike to a degree involving
 positive discourtesy to others."[[ii]](#_edn2)
  How can Hamerton so confidently declare Turner discourteous? There may have
 been the odd recorded faux pas made by the preoccupied and possibly
 forgetful artist, but many such letters, as the ones included here may have been
-lost or destroyed. We know from Thornbury that the son of Rev. Trimmer, TurnerÂ’s
+lost or destroyed. We know from Thornbury that the son of Rev. Trimmer, TurnerÂ's
 close friend and one with whom he often corresponded, burned many of the
-artistÂ’s letters. There is also the odd twist to TurnerÂ’s attitude toward the
+artistÂ's letters. There is also the odd twist to TurnerÂ's attitude toward the
 letters he received; "It is said that letters used to remain unopened on
-TurnerÂ’s table for months., 'Â’': They only want my autograph,Â’ he used to say.Â’"[[iii]](#_edn3)
+TurnerÂ's table for months., 'Â'': They only want my autograph,Â' he used to say.Â'"[[iii]](#_edn3)
  To challenge Hamerton on this point: although Turner was not Oxford or
 Cambridge educated, he was educated, and had a curiosity of mind that
-took him beyond languageâ€” into the theater of poetry. Alas, here again, Hamerton
-has only criticism. TurnerÂ’s father was pleased with the "edycation" he was able
+took him beyond languageâ " into the theater of poetry. Alas, here again, Hamerton
+has only criticism. TurnerÂ's father was pleased with the "edycation" he was able
 to afford for his son in those times that few but the elite were formally
 educated. In 1885 Rev. S.A. Swaine wrote, "considering the number and kinds of
-schools the boy was put to, no doubt, according to barber TurnerÂ’s notions, he
+schools the boy was put to, no doubt, according to barber TurnerÂ's notions, he
 had received a good education, especially when it is remembered what the
 condition of education was in those days. It is true that to the end of his life
 the great artist could neither spell correctly, nor write grammatical English;
 but then many others who presumably and professedly have received a good
-education, have to these two things been woefully weakâ€¦Let the dull boys and the
+education, have to these two things been woefully weakâ  Let the dull boys and the
 dull girls, as they may be pronounced, take heart of grace. Their dullness in
 one direction may be but the reverse side of genius in another."[[iv]](#_edn4)
 In keeping with this sentiment there seems to be no argument that Turner had
-genius. The son of Rev. Trimmer, TurnerÂ’s eldest executor, had a special
+genius. The son of Rev. Trimmer, TurnerÂ's eldest executor, had a special
 fondness for the normally taciturn artist. He probably knew him very well, for
 Turner at times played the surrogate father, taking him on sketching trips. Many
 years later Trimmer wrote: "Though not polished, he was not vulgar. In common
@@ -80,10 +80,10 @@ confused state similar to that of Shakespeare, over whom he "was very
 indistinctly voluble."[[vi]](#_edn6)
 Perhaps the secretive and aloof Turner gained catharsis through puzzling
 prose. We are often reminded that his Cockney accent was unacceptable to the
-average nineteenth century aestheteâ€”such animosity might make the hardiest of
+average nineteenth century aestheteâ "such animosity might make the hardiest of
 souls dumb, including Turner, but what about his ability to release his
 innermost sensibilities?
-"I trembled wakÂ’d, and for a season after
+"I trembled wakÂ'd, and for a season after
  Could not believe, but that I was in hell.
   Such terrible impression made my dream.
 Or;
@@ -95,7 +95,7 @@ Now, these could either be the confused Turner on a bad day or the
 lucid Shakespeare on a good one; here it is left to the Shakespeare, or Turner
 scholar to differentiate. Could these excerpts be leading up to the Fallacies
 of Hope by Turner, or are they poetic dialogue from Shakespeare? In fact one
-quote is from TurnerÂ’s verse book and one is from ShakespeareÂ’s King Richard
+quote is from TurnerÂ's verse book and one is from ShakespeareÂ's King Richard
 the Third. "At times it was difficult to know what Turner meant, but the
 indistinctness of his thoughts, like the indistictness of his pictures, always
 indicated either greatness or beauty."[[vii]](#_edn7)
@@ -104,10 +104,10 @@ to write a passage which every time it is remembered shall suggest a new train
 of thought, a new subject of delighted dream. It is this mystic secrecy of
 beauty which is the seal of the highest art, which only opens itself to close
 observation and long study. I have been ten years learning to understand
-Turnerâ€¦"[[viii]](#_edn8)
-This continuum of thought seems to implicate TurnerÂ’s poetry as an extention of
+Turnerâ  "[[viii]](#_edn8)
+This continuum of thought seems to implicate TurnerÂ's poetry as an extention of
 great art. His poetry is seldom constrained by "ease of rhyme and metre," but
-certainly availes itself to "mystic secrecy," as, apparently, it did to RuskinÂ’s
+certainly availes itself to "mystic secrecy," as, apparently, it did to RuskinÂ's
 own need for enchantment.
   With opportunity and encouragement, if the
 pages of Virgil were splayed before a curious youth, it matters not if the
@@ -119,8 +119,8 @@ manifestations and innermost riddles, according to Rev. S.A Swaine, one must
 nevertheless appreciate Turner for his humanity. And this of course can be
 instilled anywhere:
  'Turner was as merciful an angler as even the pious and humane father of the
-craft could have desired. He would impale the devoted worm, 'Â’': as tenderly as he
-loved himÂ’"â€¦ and according to a regular fishing companion, "his success as an
+craft could have desired. He would impale the devoted worm, 'Â'': as tenderly as he
+loved himÂ'"â   and according to a regular fishing companion, "his success as an
 angler was great, although with the worst of tackle in the world. Every fish he
 caught he showed to me, and appealed to me to decide whether the size justified
 him to keep it for the table, or return it to the river; his hesitation was
@@ -136,7 +136,7 @@ index to his heart.'[[ix]](#_edn9)
 
 Turner was not entirely oblivious to his own shortcomings. In an 1845 letter to
 Charles Robert Cockerell, he begs pardon from his wife: "I beg her pardon for
-being so disorderly and deserve expulsion." Again, in TurnerÂ’s own hand:
+being so disorderly and deserve expulsion." Again, in TurnerÂ's own hand:
 
 ![](/images/image006.jpg)
 
@@ -167,7 +167,7 @@ HOME
  Ibid. vol. 2, 265.
 [[vii]](#_ednref7)
  George Jones; John Gage, ed., Collected Correspondence of J.M.W. Turner,
- (Clarendon Press â€“ Oxford, 1980), 7.
+ (Clarendon Press â " Oxford, 1980), 7.
 [[viii]](#_ednref8)
  John Ruskin, Letters to a College Friend, (MacMillan & Co., New York;
  and George Allen, London, 1894), 89.
@@ -253,7 +253,7 @@ HOME
  [jmwturner@shaw.ca](/)
  Penticton British Columbia Canada
 
- Â© setters 2003, Rescuing Turner: The Art Project &
+ Â(c) setters 2003, Rescuing Turner: The Art Project &
  [/)
 
  search for jmw turner  [Google](http://www.google.ca/)

@@ -24,7 +24,7 @@ Rudolph Hermani estate
 (Krupp/Benz notoriety)
   Vintage
 monogram A over D, lower left
-(in the style of Albrecht DÃ¼rer)
+(in the style of Albrecht D  rer)
   Attributed
 to Lucas Cranach the Elder (Alistair Smith, 1988)
 
@@ -36,20 +36,20 @@ follow showing many stylistic comparables
 
 Three examples:
 
-1-The comparison with DÃ¼rer's
+1-The comparison with D  rer's
 unusual face studies
 
 ![](/images/St%20Jerome%20X3.jpg)![](/images/sketch%20compare%20St%20J%20sm.jpg)
 
 ![](/images/Dresden%20sketchbook,%20Durer%20heads%20written%201523.jpg)
 
-In a unique effort DÃ¼rer experimented with distinctive facial
+In a unique effort D  rer experimented with distinctive facial
 types
   2 - the positioning of the infants legs (drawing
 1495),
 
 ![](/images/feet%20position%20X4.jpg)![](/images/child%20drawing%20feet.jpg)
-  3 - Quarry study showing DÃ¼rer's interest in taking
+  3 - Quarry study showing D  rer's interest in taking
 unusual landscape features from nature
 
 ![](/images/quarry%20detail%20sm.jpg)
@@ -79,7 +79,7 @@ unusual landscape features from nature
  that if I had borne the whole weight of the world upon my shoulders it could
  not have burdened me more heavily." The boy answered, "Wonder not,
  Christopher, for not only hast thou borne the whole world on thy shoulders,
- but Him who created the world"â€”for the Christ Child, bearing in His own arms
+ but Him who created the world"â "for the Christ Child, bearing in His own arms
  the great world, had been Christopher's burden. To prove that this was true,
  He told Christopher to recross the river and plant his staff in the ground
  beside his hut and soon it would burst into bloom. Obeying, Christopher was
@@ -98,6 +98,6 @@ unusual landscape features from nature
  This was taken from "Lives of Saints", Published by
  John J. Crawley & Co., Inc.
 
-[Art WorldÂ’s Dirty Little Secret](/book/)
+[Art WorldÂ's Dirty Little Secret](/book/)
 
   HOME

@@ -81,7 +81,7 @@ exception. jmw
 and
 [Inscription](/painting/signature/)
 jmw
--[Martin Butlin's Visit](/discovery/butlin/) Here, Martin Butlin, a fÃªted
+-[Martin Butlin's Visit](/discovery/butlin/) Here, Martin Butlin, a f  ted
 JMW Turner aficionado,
 co-author of the
 [Butlin and Joll catalogue](/discovery/catalogue/) on
@@ -144,7 +144,7 @@ Postscript Tribal Instincts
 [Rescuing Turner: A New Age of Art Discovery](/book/):
 
 r malcolm setters / graham setters
- "...What followed was a report from Martin Butlin on behalf of ChristieÂ’s
+ "...What followed was a report from Martin Butlin on behalf of ChristieÂ's
 dated 3 September 2001. It is difficult to understand why a report which Martin
 must have felt was well considered, dealt almost exclusively with trying to
 refute the established evidence supporting an attribution to Turner rather than
@@ -156,7 +156,7 @@ Nonetheless, lucid style-cognition, although in the eye of the beholder, may
 not always be in the arena of the authority. Not to make a direct link here, but
 F. M. Cornford in his introduction to The Republic of Plato describes how
 unimpeachable authority went wrong: "despotic man, who the Greeks called
-, 'Â’': tyrantÂ’, the three most powerful motives, ambition, fear, and greed, have
+, 'Â'': tyrantÂ', the three most powerful motives, ambition, fear, and greed, have
 finally triumphed over reason and humanity."[[i]](/)
 It is vital to realize that there are great advantages to private collecting
 by connoisseurs like James Orrock; it is important to have scholars outside the
@@ -191,7 +191,7 @@ artificially high level.
 On the other hand, in sympathy with officialdom, once they support or condemn
 a painting, they do, automatically have a legal attachment to it. People
 will undoubtedly come back for reckoning if the status of the work changes. In
-his, 'Â’': heart of heartsÂ’ would Martin Butlin have the heart to make such a big
+his, 'Â'': heart of heartsÂ' would Martin Butlin have the heart to make such a big
 commitment and support a multi-million dollar picture even if he believed it to
 be absolutely right? What if he had been in some way involved with condemning
 the picture in the past? We already know that he dreads the courtroom and
@@ -216,9 +216,9 @@ art dealing, collecting; and for that matter, scholarship, somewhat of an
 exercise in futility.
 One should not understand this as an entirely modern phenomenon confined to
 an English speaking world. As noted by J.H. Duveen, litigation was a pervasive
-worry for him and his Dutch cohorts nearly a century ago; "I canÂ’t afford to be
+worry for him and his Dutch cohorts nearly a century ago; "I canÂ't afford to be
 cited as a witness in any notorious law case. You know what the Dutch Courts are
-like when it comes to delays and enquiries: I shouldnÂ’t be my own master for two
+like when it comes to delays and enquiries: I shouldnÂ't be my own master for two
 years!"[[iv]](/)
 "Who said what," is clearly part of the problem. Not to know
 what authority has made what attribution to establish the status of a
@@ -245,7 +245,7 @@ Martin must have realized the reciprocal risk involved in his decision over
 Shipwreck, the Rescue; he may have been in a precarious position
 regardless of whether he supported an attribution or not. What if a work had at
 one point been condemned and assigned to a non-autograph category; such as,
-school of, follower of,, 'Â’': afterÂ’ a particular artist, and it sold as a dud, then
+school of, follower of,, 'Â'': afterÂ' a particular artist, and it sold as a dud, then
 later, it was supported as authentic and sold for many millions? I wonder what
 Frosty, the former owner would think if he saw his once condemned picture sell
 to the Getty Museum for a huge sum. How certain must Martin be before change the
@@ -257,8 +257,8 @@ if there was irrefutable evidence subsequently discovered in support of
 authenticity. It would make more sense for him to put up the battle of his life.
 If this is true, why had Martin come to Penticton in the first place if he had a
 conflict of interest? Alas, therein is the chafe, by his own confession he is
-effectively the only Turner expert that could get the picture into a ChristieÂ’s
-or SothebyÂ’s sale, and without this reference, the painting would always have a
+effectively the only Turner expert that could get the picture into a ChristieÂ's
+or SothebyÂ's sale, and without this reference, the painting would always have a
 cloud of suspicion hanging over it.
 The fundamental problem here is that the consumer of art-services is clearly
 at risk of being damaged, and especially if there is only one authority
@@ -281,7 +281,7 @@ of vacillation by the influential: "Let us say that he [the expert] recognized a
 picture as a work by Rembrandt. Out of confidence in him somebody acquires it at
 a high price. Later he arrives at the conclusion that he has made a mistake.
 Even if his love of truth now overcomes his vanity, he is yet reluctant to harm
-someone who has believed in himâ€¦ Most people do not confess their mistake or
+someone who has believed in himâ   Most people do not confess their mistake or
 they try and confuse the hard facts, more particularly as they know from
 experience that their clients never forget a financial loss."[[v]](/)
  |
@@ -294,7 +294,7 @@ seen as a charming comedic celebrity; had he become a slapstick villain? A
 villain, not only because he had condemned Shipwreck, the Rescue, but
 also, because he discharged brilliant connoisseurs such as: Griffith, Robinson,
 and Orrock in the process. Although gravely dishonored by Leviathan practices,
-"like incest in a way"â€”Friedlander comforts: "There is no choice but
+"like incest in a way"â "Friedlander comforts: "There is no choice but
 optimistically to rely upon the fact that ignorance and unscrupulousness will
 gradually be discovered in the circle of collectors."[[vi]](/)
 
@@ -302,11 +302,11 @@ The gentle Amiel[[1]](/),
 brooding upon his terrace at Geneva, came to more just conclusions about Wagner
 than did the professional litigants battling nearer Bayreuth, with louder but
 since forgotten words.[[vii]](/)
-  â€“ Henry McBride: The Flow of Art
+  â " Henry McBride: The Flow of Art
 It is fair to say that the sometimes subtle and sometimes not so subtle
 politics and conferred rites at the uppermost level of the art-world, beg a
 moral inquisition. And that the vainglory inherent in what might be considered
-the most sophisticated of professional endeavorsâ€”art historical scholarshipâ€”has
+the most sophisticated of professional endeavorsâ "art historical scholarshipâ "has
 oftentimes, because of selfishness and fear, resulted in the neglect of truth.
 In an effort to maintain their special post, and the status quo; progress to a
 position of more influence, escape litigation, or control the market; several
@@ -324,9 +324,9 @@ one example, the small independent collector is largely shunned. This seemingly
 unimportant situation is of course unacceptable when one compares the
 contribution made by those motivated more by emotion and curiosity; than by
 "ambition, fear, and greed."[[2]](/)
-According to Friedlander, "Enthusiastic lovers of art â€“ at the same time mere
-amateurs â€“ have contributed most and in the best fashion towards artistic
-reconstructionâ€¦ Coldly analytical scholars make fewer mistakes; they perform,
+According to Friedlander, "Enthusiastic lovers of art â " at the same time mere
+amateurs â " have contributed most and in the best fashion towards artistic
+reconstructionâ   Coldly analytical scholars make fewer mistakes; they perform,
 however, less in the way of positive perception; they discover less, with weaker
 flair."[[viii]](/)
 
@@ -337,21 +337,21 @@ select number of dealers. In fact, the last of what Bernard Berenson wrote in
 his lifelong diary broached with melancholy the aristocratically pyramidal
 structure of society that Great art serves.[[ix]](/)
 Working parallel yet antagonistically toward debasing this pyramidal group
-were the Marxist intellectuals like Superintendent of the QueenÂ’s Pictures,
-Sir Anthony Blunt, and other influential docentsâ€”those who had rejected the
+were the Marxist intellectuals like Superintendent of the QueenÂ's Pictures,
+Sir Anthony Blunt, and other influential docentsâ "those who had rejected the
 concept of private ownership, and in specific, private ownership of art. This
 ultimately allowed this same triad to take control by undermining the influence
 of independent dealers, and collectors; not to mention the less politically
-influential museums. "Steiner contends that the belief that,, 'Â’': great art is not
-and cannot be private property,Â’ played a crucial part in crystallizing BluntÂ’s,
-, 'Â’': contemptuous loathing for capitalism.Â’"[[x]](/)
-Ultimately, things appear to have gone contrary to BluntÂ’s socialist dream of
-a personally controlled mother-institution full of the best works of artâ€”works
+influential museums. "Steiner contends that the belief that,, 'Â'': great art is not
+and cannot be private property,Â' played a crucial part in crystallizing BluntÂ's,
+, 'Â'': contemptuous loathing for capitalism.Â'"[[x]](/)
+Ultimately, things appear to have gone contrary to BluntÂ's socialist dream of
+a personally controlled mother-institution full of the best works of artâ "works
 that were slated to be confiscated by him and his comrades. Latent sentiments
 derived from collectivist propaganda have in the mean time given ideological
 control over to the institutional sector; and ironically, the dim light that now
 emphasizes social interpretation via art historical criticism has enabled the
-triadâ€”the, 'Â’': pyramid of capitalistsÂ’ to move in and take command. Clearly the
+triadâ "the, 'Â'': pyramid of capitalistsÂ' to move in and take command. Clearly the
 left-leaning policies that have been spawned within the institutional and
 curatorial communities today have enabled the era of monopoly control by this
 contemporary form of the "bourgeoisie." The interred Anthony Blunt should roll
@@ -372,45 +372,45 @@ and politically. This development is the only way that the market has been able
 to fly as high as it has and to the benefit of the select few. Benevolently, one
 should consider the result an evolutionary one, a tyranny of precedence and
 dutiful capitulation as opposed to a conspiracy.
-Surely, stealthy business practices enter in as well. ChristieÂ’s and
-SothebyÂ’s, for example have undeniably gained much of their market position from
+Surely, stealthy business practices enter in as well. ChristieÂ's and
+SothebyÂ's, for example have undeniably gained much of their market position from
 a keen and effective marketing strategy: glitzy catalogues and annual reviews;
 exclusive direct mailers; presale tours of artwork sent between international
 venues, and public media campaigns orchestrated by staging auctions that predict
 and purport to deliver record multi-million dollar sale-prices.
 With control set firmly with an elite few, one might only hope for a good
-underlying value-systemâ€¦ "Art for artÂ’s sake is really awful rot," declared
-SothebyÂ’s long-term chairman Peter Wilson, "he would go on to preach a little
-sermon on the utility of greedâ€¦ Peter Wilson divided the world into those who
+underlying value-systemâ   "Art for artÂ's sake is really awful rot," declared
+SothebyÂ's long-term chairman Peter Wilson, "he would go on to preach a little
+sermon on the utility of greedâ   Peter Wilson divided the world into those who
 wished to appear richer than they were, and those who knew it was smart to seem
 poorer, and he practiced the auction business as the exploitation of the former
-by the latterâ€¦ It was a complex amorality which drove Peter Wilson to generate,
+by the latterâ   It was a complex amorality which drove Peter Wilson to generate,
 almost single-handedly, a new sort of international business that was dominated
 by the English."[[xi]](/)
 Ultimately it is the way in which the benefits of such domination are allocated
 within this milieu that needs unraveling.
-It has long been accepted that SothebyÂ’s and ChristieÂ’s have been served by
+It has long been accepted that SothebyÂ's and ChristieÂ's have been served by
 employees from the "polite" class, those who are more likely to have access to
 noble households and ancestral collections, and those that move more comfortably
 within privileged circles. British peers are often awarded top administrative
 positions in the museum world and certain dealers are patronized and operate
-according to, 'Â’': tribalÂ’ customs in support of the influential. Put together, this
+according to, 'Â'': tribalÂ' customs in support of the influential. Put together, this
 creates an intangible support system that becomes exclusionary. When issues
 pertaining to death duties, inheritance tax, or treaty sales of important
 property are at sake, as they often are in aristocratic circles, it becomes
 imperative to have friends in the right places. A relationship in the spirit of
 this statement might be the one between David Westmoreland, Chairman of
-SothebyÂ’s, who was at the same time, "Master of the Horse and Lord-in-Waiting to
+SothebyÂ's, who was at the same time, "Master of the Horse and Lord-in-Waiting to
 the Queen."[[xii]](/)
 The tight controls needed to direct transactions according to precedence are
-well taken care of. According to Hugh Roberts of ChristieÂ’s, with auxillary
+well taken care of. According to Hugh Roberts of ChristieÂ's, with auxillary
 assistance from; "lawyers, accountants, politicians, heritage lobbyists,
-dealers, treasury officials, ChristieÂ’s, National Trust, and above all the
+dealers, treasury officials, ChristieÂ's, National Trust, and above all the
 Heritage Fund,"[[xiii]](/)
 negotiated sales take place well beyond the circumstances of the middle class.
 When Roberts strung together the above list of individuals with their, "discreet
 behind the scenes lobbying," to accommodate the sale of those "greatest English
-country houses and their collections â€“ Kedleston Hall, Nostell Priory and Weston
+country houses and their collections â " Kedleston Hall, Nostell Priory and Weston
 Park," he was in effect waving a red flag at all but the elite.
 His article on the subject was sprinkled with earls, viscounts and lords. In
 accordance with the new age business model which attempts to limit competition
@@ -422,7 +422,7 @@ a threat, including: the independent collector; unconnected dealer; small
 auction firms, and minor museums. Although there are chants to the contrary,
 most decision making is not meant firstly to benefit art, culture, or
 humanity.
-In the British antique trade, it is common knowledge that, 'Â’': blackballingÂ’
+In the British antique trade, it is common knowledge that, 'Â'': blackballingÂ'
 competitors, dishonestly condemning their inventory, and conspiring at auctions
 to control prices has been going on for years. Long established dealers
 condemning the inventory of the smaller dealers in order to keep control and
@@ -447,15 +447,15 @@ analysis they all must defer to the twin auction firms in Britain to get an
 acceptable and in certain cases an over-the-top price at auction.
 Woven into the mix of high prices is the concept of rarity, and for this,
 most elite participants within this loose-knit consortium are on the same page.
-It is accepted practice to allow only a trickle of any important artistÂ’s work
+It is accepted practice to allow only a trickle of any important artistÂ's work
 into the marketplace at any one time. Simultaneously all the varied participants
 defend against rivalry toward their National best interests, attacks against the
 primacy of their own established-order, and threats to the financial interests
-of those at the top. This is neatly accomplished using innocent, 'Â’': customary
-precedenceÂ’, rather than, what some might consider preplanned obstructionism.
+of those at the top. This is neatly accomplished using innocent, 'Â'': customary
+precedenceÂ', rather than, what some might consider preplanned obstructionism.
  Particularly in Britain, if one were to tag this as a conspiracy of sorts it
-would have to be called an, 'Â’': overt conspiracyÂ’; this of course is very much an
-oxymoronâ€”a paradigm-shift. One should not look at this state of affairs as a
+would have to be called an, 'Â'': overt conspiracyÂ'; this of course is very much an
+oxymoronâ "a paradigm-shift. One should not look at this state of affairs as a
 conspiracy, but instead, only the demands set within a caste society. Candor
 less and largely unfair, intentions are not meant purposely to deceive but
 merely to benefit those that are deemed to deserve special privileges.
@@ -476,19 +476,19 @@ admitting or at least defining his purpose in life. It is true that his own
 authority for much of his working life had been granted from above, whereby, the
 funds necessary for the acquisitions and operations at the Tate were granted
 from the House of Lords. To follow the money trail is to follow the trail of
-reciprocal-responsibility and patronage. In the end, this is more a, 'Â’': state of
-beingÂ’ than a means of coercion, the participants act out their role in
+reciprocal-responsibility and patronage. In the end, this is more a, 'Â'': state of
+beingÂ' than a means of coercion, the participants act out their role in
 accordance with their upbringing. "Duty" is their calling; all is forgiven for
 the sake of duty!
-When SothebyÂ’s was clearing out a number of items for sale from Lady
-AlingtonÂ’s houseâ€”a folkloric tale was bornâ€”what Turner might have termed the
-, 'Â’': fallacies of truthÂ’. On discovering, by chance, a bundle of overtly
+When SothebyÂ's was clearing out a number of items for sale from Lady
+AlingtonÂ's houseâ "a folkloric tale was bornâ "what Turner might have termed the
+, 'Â'': fallacies of truthÂ'. On discovering, by chance, a bundle of overtly
 affectionate letters scribed beneath the royal cipher; rather than selling this
-important bit of history, the letters "were consigned to the boiler,, 'Â’': on orders
-from above.Â’"[[xvii]](/)
+important bit of history, the letters "were consigned to the boiler,, 'Â'': on orders
+from above.Â'"[[xvii]](/)
 One might ask: "Where is above?" Possibly the same place wherefrom the
-Queen issued her warning to Paul Burrellâ€”a mysterious place of dangerous and
-unspeakable forces "of which we have no knowledgeâ€¦ "
+Queen issued her warning to Paul Burrellâ "a mysterious place of dangerous and
+unspeakable forces "of which we have no knowledgeâ   "
 Regardless of the name we give the beast of inequity, one auxiliary spin-off
 is the de-attribution of genuine Turner paintings whenever it can be "gotten
 away with," as Martin might admit. One can only assume that the reason for these
@@ -517,16 +517,16 @@ made. Reducing the number of authenticated works in the marketplace, or at least
 ones that are available to be traded as authentic, increases rarity and drives
 up prices.
 In 1969 in the autumn of his life there was a revealing interview with
-Kahnweiler. By this time he had become a legendâ€”the one responsible for
+Kahnweiler. By this time he had become a legendâ "the one responsible for
 narrowing the art world focus to a slim number of artists and in the process
 guiding the prices for their work ever higher. The motives behind his determined
 efforts were blatantly observed by art critic Pierre Cabanne. On urging the
 great and by then very wealthy Kahnweiler, "to name great artists after Picasso
-and Braque, he would name Masson, Beaudin, and Kermadecâ€¦Naturally his listing
-elicited the embarrassing question,, 'Â’': If I understand what you are saying, there
-are no great artists beyond those in your gallery?Â’"[[xix]](/)
-In the case of the non-British artworksâ€”second tier ones that are less
-core to the prestige of Britainâ€”quasi monopolistic control is orchestrated by
+and Braque, he would name Masson, Beaudin, and Kermadecâ  Naturally his listing
+elicited the embarrassing question,, 'Â'': If I understand what you are saying, there
+are no great artists beyond those in your gallery?Â'"[[xix]](/)
+In the case of the non-British artworksâ "second tier ones that are less
+core to the prestige of Britainâ "quasi monopolistic control is orchestrated by
 less influential groups. Seldom does one individual have the financial resources
 to promote and control the market of higher-priced artists independently; in the
 modern era only one internationally based dealer comes to mind, and that is
@@ -536,39 +536,39 @@ might. Most these participants are not graduates of renowned business schools or
 products of stock market and financial circles as the famous dealers Kahnweiler,
 and Rosenberg, or financiers such as William Weinberg, or investment bankers
 such as Charles Angrand (who would move from collector status to become
-financial director of SothebyÂ’s), but in their own awkward way the less powerful
+financial director of SothebyÂ's), but in their own awkward way the less powerful
 still effect their own small sector of the art market.
 The collecting-cataloguing-marketing schema was no better exemplified than by
-the SothebyÂ’s sale of the American Weinberg collection. J.B. De la Faille had
-catalogued and effectively closed the book on van GoghÂ’s oeuvre (Weinberg was
-the first major collector under this cataloguerÂ’s tutelage) In the mean time,
-SothebyÂ’s, by means of exuberant marketing had already started the upward spiral
+the SothebyÂ's sale of the American Weinberg collection. J.B. De la Faille had
+catalogued and effectively closed the book on van GoghÂ's oeuvre (Weinberg was
+the first major collector under this cataloguerÂ's tutelage) In the mean time,
+SothebyÂ's, by means of exuberant marketing had already started the upward spiral
 for works by modern masters. By the time they brought the Weinberg artworks back
 to London from the US they were worth many fold what they had been at time of
 purchase, many sold for record breaking prices. The art market has not looked
 back or downward since. But this has little to do with the second tier;
-producing a complete catalogue raisonnÃ© for an artist of the second tier
+producing a complete catalogue raisonn (c) for an artist of the second tier
 is seldom cost effective unless of course a bigger long-term scheme was planned.
 The third class of art is often referred to as decorative. Although
-these artists are, 'Â’': listedÂ’ quality artists, they are subject to the vagaries of
+these artists are, 'Â'': listedÂ' quality artists, they are subject to the vagaries of
 the free market system and trade freely. It is this type of art that is open to
 just about anyone to trade, buy, and sell, and pieces usually change hands for a
 paltry few thousand dollars. If one traces the life history of artists such as
-John Delisle Parker, JiÅ™Ã­ Kayser, Gerald Roach, and Zeljko Kujundzic it is
-easily seen how these third tier artists are relatively undervaluedâ€”in fact,
+John Delisle Parker, Ji (TM)   Kayser, Gerald Roach, and Zeljko Kujundzic it is
+easily seen how these third tier artists are relatively undervaluedâ "in fact,
 unjustly neglected.
 
   J.M.W. Turner, Buttermere Lake
   A Romantic
-Revival painting by Gerald Roach, compared with TurnerÂ’s
+Revival painting by Gerald Roach, compared with TurnerÂ's
 Buttermere
 Lake.
  This leads one to wonder how-much of the art marketplace has been influenced
 as described. Looking back over the years it is evident that some qualified
 critics were already trying to alert the public. Kahnweiler in the 1950s
 confidently implicated himself with the "Picasso Business" and its four main
-individuals: Picasso, Braque, Gris, and LÃ©ger, "he was, as he used to say, chief
-executive of, 'Â’': The Picasso BusinessÂ’â€¦Kahnweiler handled everything, making sure
+individuals: Picasso, Braque, Gris, and L (c)ger, "he was, as he used to say, chief
+executive of, 'Â'': The Picasso BusinessÂ'â  Kahnweiler handled everything, making sure
 Picasso was rationed in just the right amounts."[[xx]](/)
 As mentioned, he also fought to keep the number of artists within the group as
 limited and controllable as possible; using as his rational the argument that
@@ -585,63 +585,63 @@ when they came up for sale at auction. When the poet, Thomas Campbell
 (1774-1844), for whom Turner did watercolours to illustrate one of his
 publications, wanted to sell the originals, Turner insisted on purchasing them
 back in order to guarantee that they would not sell inexpensively. According to
-TurnerÂ’s friend Cyrus Redding, "Turner [buys his work back] because he is tender
+TurnerÂ's friend Cyrus Redding, "Turner [buys his work back] because he is tender
 about his reputation; he will not have them in the market."[[xxii]](/)
-TurnerÂ’s prices were strong even from early on in his career.
+TurnerÂ's prices were strong even from early on in his career.
 If a major work by an artist such as van Gogh, Picasso, Rembrandt, Pollock,
 Monet, or Turner were to sell for under $100,000 it would shake the market.
 Conversely, if a painting by an artist sells for double what might be expected,
-then the overall price level for the artistÂ’s work would rise. Therefore, when
+then the overall price level for the artistÂ's work would rise. Therefore, when
 this happens one might justifiably suspect market manipulation.
 Could the idea of bidding up prices also be used to enhance the reputation of
 the auction house where such a record-breaking painting sold? Certainly! Has it
 happened? Yes, in a round-a-bout way at least. The innovative chairman of
-SothebyÂ’s, Peter Wilson, in 1956 fiercely fought to secure for sale at auction
+SothebyÂ's, Peter Wilson, in 1956 fiercely fought to secure for sale at auction
 an important painting by Nicolas Poisson rather than having it sell through a
 dealer as it would normally have done at that time. In order to secure the sale
 he promised a guaranteed sale price. The painting sold for less than the
-guarantee, but although SothebyÂ’s had to pay the difference, a record price was
+guarantee, but although SothebyÂ's had to pay the difference, a record price was
 made for the year. This was revolutionary and the publicity that ensued drew
 more artwork into the auction arena. Reports of high and record-breaking prices
-have been the fuel of the twin auction firmÂ’s marketing strategy ever since.
+have been the fuel of the twin auction firmÂ's marketing strategy ever since.
  It does not take much imagination to make a connection here with the now
-historic Peau dÂ’Ours sale of 1914, when the important Picasso, Les Bateleurs
+historic Peau dÂ'Ours sale of 1914, when the important Picasso, Les Bateleurs
 (Family of Acrobats) and other cubist works were put up for auction. This was
 the first real test for cubist painting in general. The question was: could they
 stand against the vagaries of the auction room and maintain credibility? This
 made Kahnweiler especially nervous because his whole stable of artists depended
 on positive results from this highly publicized sale. Others that had a vested
 interest, in particular, were the Russian collectors of cubist paintings,
-Shchukin and Morozov. They had bought several paintings through KahnweilerÂ’s
+Shchukin and Morozov. They had bought several paintings through KahnweilerÂ's
 exclusive dealership. Ten days earlier Kahnweiler, "had written Shchukin and
 Morozov, offering to send them the auction catalogue and to bid for them without
 charging any commission."[[xxiii]](/)
 Ultimately another German dealer[[3]](/)
 bid the highest price and won the top prize, Les Bateleurs; so whatever
 the finer details of the process really were, things worked out just fine.
-Picasso, KahnweilerÂ’s most prominent cubist made a record price of 11,500
+Picasso, KahnweilerÂ's most prominent cubist made a record price of 11,500
 francs.
-According to one newspaper report: in the mid 1920Â’s "sensational and also
+According to one newspaper report: in the mid 1920Â's "sensational and also
 suspect bids," under the aegis of commissaires-priseurs, Alphonse Bellier,
 established several previously little known artists in this way. The winners
 here of course were the artists themselves, and the dealers that had presumably
 stockpiled their works:
 "Bellier continued as a dominant force in the art market throughout the
 Twenties and Thirties. In fact, the auction in Paris in the Twenties resembled
-those in New York some sixty years laterâ€¦ The rather feverous excitement
+those in New York some sixty years laterâ   The rather feverous excitement
 generated in the auction sales became particularly associated, from 1925
 onwards, with sales of modern art, where spectacular leaps in price were
-commonâ€¦From the time that the auctions of modern art began to succeed in 1925-26
+commonâ  From the time that the auctions of modern art began to succeed in 1925-26
 they were considered as the key to the state of the art market and the gauge of
 the boom in modern painting. As prices steadily rose, observers became
 increasingly suspicious of the way in which the bids occurred. There was a
 tradition attached to the Hotel Drouot concerning the sales of antiques, which
 portrayed a mysterious gang of dealers rigging all the auctions (the bande
-noire). Now the notion was adapted to interpret sales of modern artâ€”the
+noire). Now the notion was adapted to interpret sales of modern artâ "the
 dealers were accused of buying at inflated prices, paintings by artists whose
 work they had in stock."[[xxiv]](/)
-Had the world of fine artâ€”that around which cultural identity was formed,
-become little more than a, 'Â’': cash cowÂ’ for the influential. Two top European
+Had the world of fine artâ "that around which cultural identity was formed,
+become little more than a, 'Â'': cash cowÂ' for the influential. Two top European
 dealers, "Kahnweiler, and Rosenberg had trained in commerce, in commodities in
 London, Antwerp, and Paris."[[xxv]](/)
 In Lyon, July 1915, Tony Tollett delivered a lecture at the Academy
@@ -659,17 +659,17 @@ young man was altruistic and mainly driven by an innocent passion for his
 subject. It might be interesting to rationalize this in light of his
 introduction to the world of finance under the aegis of his maternal uncles, who
 had "specialized in the buying and selling of precious metals for over a
-century, and enjoyed a conciderable fortuneâ€¦ They could best be described as
-bankers, speculators, entrepreneurs, or brokersâ€¦and they controlled gold and
+century, and enjoyed a conciderable fortuneâ   They could best be described as
+bankers, speculators, entrepreneurs, or brokersâ  and they controlled gold and
 diamond mines in South Africa."[[xxvii]](/)
 After being sponsored by those same family members Kahnweiler opened a gallery
 in Paris. The way in which he was to apply his ancestral wit in controlling the
-earliest bits of his own art-world empireâ€”Braque, Derain, Vlaminck, and van
-Dongenâ€”was described by Assouline as such: "When he decided to buy he bought
+earliest bits of his own art-world empireâ "Braque, Derain, Vlaminck, and van
+Dongenâ "was described by Assouline as such: "When he decided to buy he bought
 everything... Exclusivity was the basis of his actions and the only rule he
 would never forsake:"[[xxviii]](/)
 
-The exclusive rights to the artistÂ’s production would become his obsession;
+The exclusive rights to the artistÂ's production would become his obsession;
 it was in keeping with his possessive and impetuous nature as well as his
 commercial logic. He would bear the success and the failures of the artists he
 liked and supported. In ethical terms it was known as reciprocal loyalty; in
@@ -680,7 +680,7 @@ years I have been a faithful supporter of your work, and I believe that I have
 the right to also demand your loyalty. On this point I will never make any
 concession."[[xxix]](/)
 This became a very workable system within the modern era and along with the
-definitive catalogues raisonnÃ©, certain museums and many dealers have as a
+definitive catalogues raisonn (c), certain museums and many dealers have as a
 result become partial and inward looking.
 Surely to the delight of both Kahnweiler and Picasso, with a 1960 exhibition
 held at the Tate Gallery in London, they were ostentatiously gathered into the
@@ -688,7 +688,7 @@ fold of the omnipotent triumvirate; Assouline revealed: "Roland Penrose
 organized the most complete exhibition ever held on a living artist at the Tate
 Gallery in London, naturally Kahnweiler was in attendance and gave Picasso a
 detailed report as his special envoy: the number of rooms, the distance between
-paintings, the chronology of the hanging, the names of the dealers SothebyÂ’s had
+paintings, the chronology of the hanging, the names of the dealers SothebyÂ's had
 invited, the opening party held in a tent set up in front of the Tate with
 paella, flamenco dancers, and art critics singing his praises. Everything was
 there."[[xxx]](/)
@@ -714,10 +714,10 @@ bribe people or at least surreptitiously transfer funds during land deals.
 With the stock market downturn in 1987 and subsequent real estate market
 collapse in Japan these over-valued paintings were redirected into the hands of
 creditors who wanted rid of them. "When Michael Ainslie later analyzed the top
-twenty Japanese buyers at SothebyÂ’s in the years 1984-92, he discoveredâ€¦that
+twenty Japanese buyers at SothebyÂ's in the years 1984-92, he discoveredâ  that
 seventeen of them were either bankrupt, in jail, or under serious
 investigation."[[xxxii]](/)
-ChristieÂ’s and SothebyÂ’s have made it clear that if these paintings were dumped
+ChristieÂ's and SothebyÂ's have made it clear that if these paintings were dumped
 over a short period of time the art market would collapse. These paintings still
 sit in waiting. Surely the appropriate gatekeepers will ensure an orderly
 reintegration for some of those forsaken masterpieces notwithstanding the
@@ -726,31 +726,31 @@ works!
 This review of how the market can go wrong when syndicates form, and what
 influence they impart is not meant to suggest here that the monopoly Martin
 Butlin talks of, and the causes leading up to it, fall too far outside the
-responsibility of BritainÂ’s own twin auction firms and the close-knit group of
-comrades back in England. One might trace certain, 'Â’': seedsÂ’ back nearly a century,
+responsibility of BritainÂ's own twin auction firms and the close-knit group of
+comrades back in England. One might trace certain, 'Â'': seedsÂ' back nearly a century,
 prior to 1914 when "Berlin had been a centre of great collecting activity. An
 affluent generation of mostly Jewish bankers and industrialists had been
 encouraged by the ubiquitous Bode to spend money" on art.
 [[xxxiii]](/)
-In the early 1930s SothebyÂ’s was making inroads into this community by
+In the early 1930s SothebyÂ's was making inroads into this community by
 appointing R.G. Birch as their representative; he was very knowledgeable about
 the German scene, and perhaps auspiciously, he was also the son of a Keeper at
 the British Museum. Much art made it back to Britain during the following
 decades in large part due to the currency advantage the British pound had over
-the German mark. SothebyÂ’s in its quest for salable merchandise had apparently
+the German mark. SothebyÂ's in its quest for salable merchandise had apparently
 been positioned with the right people, in the right place, at the right
-timeâ€”even back then.
-Then there was Maurice RheimsÂ’ encounter with Peter Wilson of SothebyÂ’s,
-involving the sale of King FaroukÂ’s collection in 1954. Rheims, a top Paris
+timeâ "even back then.
+Then there was Maurice RheimsÂ' encounter with Peter Wilson of SothebyÂ's,
+involving the sale of King FaroukÂ's collection in 1954. Rheims, a top Paris
 commissaires-priseurs at the time, said that Wilson was "no neutered pet but a
-formidable tomâ€¦ [He] threw a blockade round Paris and made London the turntable
+formidable tomâ   [He] threw a blockade round Paris and made London the turntable
 of the art market."[[xxxiv]](/)
 One effective part of the process was to open a Monte-Carlo office in the 1970s.
 The international positioning of the firm was further enhanced with the
 acquisition of Parke Bernet, New York in 1964, and from that point onward
 offices were opened worldwide.
-Most recently there has even been a challenge to WildensteinÂ’s primacy in the
-world of Impressionist painting. This had to do with a Manet. In 1997 SothebyÂ’s
+Most recently there has even been a challenge to WildensteinÂ's primacy in the
+world of Impressionist painting. This had to do with a Manet. In 1997 SothebyÂ's
 refused to sell this painting that had been fully authenticated and catalogued
 by Wildenstein. This is likely the frontline in the battle over control of the
 impressionist market. In the same article about the Wildensteins, Suzanna
@@ -763,13 +763,13 @@ Allen in 1957. In a rare interview with this secretive family of art dealers,
 the richest in the world (conservatively estimated to be worth more than 5
 billion dollars), Rush quotes the frustrated Alec Wildenstein: "We happen to
 make the book on Manet. I think we know a bit more about Manet than either
-SothebyÂ’s or ChristieÂ’s."[[xxxvi]](/)
+SothebyÂ's or ChristieÂ's."[[xxxvi]](/)
 (In fact they produced: Rouart, Denis and Daniel Wildenstein, Edouard Manet,
-Catalogue RaisonnÃ©. Lausanne & Paris: La Bibliotheque de Arts, [1975] in 2
+Catalogue Raisonn (c). Lausanne & Paris: La Bibliotheque de Arts, [1975] in 2
 volumes.)
 Is this a case where there are more aliens under attack by the Brits in their
 attempt to expand their already dominant position on the world stage? Could it
-be that SothebyÂ’s and ChristieÂ’s, the two firms at the top in the
+be that SothebyÂ's and ChristieÂ's, the two firms at the top in the
 ever-increasing auction-house dominated marketplace are attempting to shake
 loose a bit of the Wildenstein hegemony? The market for French paintings is
 likely the most important in the world at this point in history. Controlling the
@@ -780,13 +780,13 @@ particularly in British society, control over any market would be a system to
 favour the privileged few.
 An interesting parallel can be drawn from the intentions of the late Durand-Ruel,
 at one time the most visible Paris art-dealer. He too was either, innocent, or
-indifferent to the implications of his actions when in the 1870Â’s "throughout
+indifferent to the implications of his actions when in the 1870Â's "throughout
 his memoirs, [he] stressed that a dealer must always do what he could to protect
 the prices of his artists. Wherever possible he sought to obtain a monopoly of
-an artistÂ’s oeuvre, buying up works from other dealers or collectors, and even
-, 'Â’': bidding upÂ’ pictures at auction to prevent prices from falling."[[xxxvii]](/)
+an artistÂ's oeuvre, buying up works from other dealers or collectors, and even
+, 'Â'': bidding upÂ' pictures at auction to prevent prices from falling."[[xxxvii]](/)
 But how does this relate to more recent times; could this have been the
-situation where market control of an artistÂ’s oeuvre was first orchestrated and
+situation where market control of an artistÂ's oeuvre was first orchestrated and
 the seed from which the modern art industry grew?[[4]](/)
 
 Beyond the networking ruse, there is a frightening new development that may
@@ -803,23 +803,23 @@ Most new collectors within this fray are largely unfamiliar with art, other
 than about the glamour artists. They make vanity purchases to please friends
 within a milieu that reeks of stock-market speculation. A crash in prices for
 those auction room darlings seems inevitable. And to add more fuel to the fire,
-suspicions over in-house bidding by some auction firms, and SothebyÂ’s credit
+suspicions over in-house bidding by some auction firms, and SothebyÂ's credit
 policy that encourages unabashed participation in feverish bidding
-battlesâ€”caveat emptorâ€”buyer beware! Even Jo Floyd in his financial report for
-ChristieÂ’s publicly recognized that such financial services "provide an undue
+battlesâ "caveat emptorâ "buyer beware! Even Jo Floyd in his financial report for
+ChristieÂ's publicly recognized that such financial services "provide an undue
 influence on demand and create an artificial level for works of art,"[[xxxix]](/)
-When the sale of van GoghÂ’s Irises made a record price of $49 million in 1987:
-of every two dollars bid, "one was provided by SothebyÂ’s. Credit provided by the
-auction house clearly inflated the marketâ€”not to mention the $4.9 million
-buyerÂ’s premium which was SothebyÂ’s cut on the deal."[[xl]](/)
+When the sale of van GoghÂ's Irises made a record price of $49 million in 1987:
+of every two dollars bid, "one was provided by SothebyÂ's. Credit provided by the
+auction house clearly inflated the marketâ "not to mention the $4.9 million
+buyerÂ's premium which was SothebyÂ's cut on the deal."[[xl]](/)
 There must be a more vital concern here than a fiduciary one. This is of
 course the artificial direction of art scholarship caused by such marketing
-ballyhoo. And MartinÂ’s declaration that everyone is "in each otherÂ’s pocket"
+ballyhoo. And MartinÂ's declaration that everyone is "in each otherÂ's pocket"
 should ring alarms about the potentially sinister results of such insider
-control. The 1990 bold comment by ChristieÂ’s George Walker, over credit-checks
+control. The 1990 bold comment by ChristieÂ's George Walker, over credit-checks
 on clients should confirm the idea about the meshing of interests by key
 players: "When we do get a negative reference," he admitted, "we usually alert
-SothebyÂ’s as well, and they do the same for us, for obvious reasons."[[xli]](/)
+SothebyÂ's as well, and they do the same for us, for obvious reasons."[[xli]](/)
 This sort of cooperation is far from what might be expected of ardent
 competitors in a fair market economy. With 90% of the entire auction business
 going through the twin-firms: including all of the important paintings, it
@@ -837,21 +837,21 @@ destructive by virtue of its counterproductive nature, and particularly in the
 area of innovation and rediscovery of lost works of art.
 
 In a CBC interview with Evan Solomon, Lewis H. Lapham, the writer and editor
-of the eminent HarperÂ’s magazine theorized the existence in all societies
-of a hereditary, 'Â’': control groupÂ’, but questions this groupÂ’s self-awareness or
-commitment to the common good,, 'Â’': there is always going to be some kind of ruling
+of the eminent HarperÂ's magazine theorized the existence in all societies
+of a hereditary, 'Â'': control groupÂ', but questions this groupÂ's self-awareness or
+commitment to the common good,, 'Â'': there is always going to be some kind of ruling
 class, or governing class, or possessing class, elite, what ever word you want
 to use; it is a question of what kind of elite, how self-aware, how engaged in
-the common good.Â’[[xlii]](/)
-The self-interests implicit in LaphamÂ’s statement are exemplified by the
+the common good.Â'[[xlii]](/)
+The self-interests implicit in LaphamÂ's statement are exemplified by the
 relation Duveen had to this ruling class. John Walker, former director of the
 National Gallery in Washington quotes what B.B. (Bernard Berenson) had divulged
 to him:
 
-  "I once gained from B. B. an insight into the source of DuveenÂ’s influenceâ€¦
+  "I once gained from B. B. an insight into the source of DuveenÂ's influenceâ  
 [B. B. had] placed a low but fair value on the picture [altarpiece by Cima da
 Conegliano]. To his amazement his valuation was discarded and a much higher sum
-paid. The owner of the painting was the Viscount dÂ’Abernon, a life-trustee of
+paid. The owner of the painting was the Viscount dÂ'Abernon, a life-trustee of
 the National Gallery in London, a former ambassador, and in the eyes of the
 British government a prestigious personality. At that time Duveen was plain "Sir
 Joseph." A peerage was highly desirable."[[xliii]](/)
@@ -860,7 +860,7 @@ What one might conclude here is that if you favour enough of the right people
 by supporting their cause, or in this case their painting, you might find
 yourself more eligible for accolades and possibly even a portentous title. It
 can also be concluded for obvious reasons, Britain with centuries of experience
-as a caste society has its, 'Â’': control groupÂ’ ever-working at its most efficient.
+as a caste society has its, 'Â'': control groupÂ' ever-working at its most efficient.
 So much so that its impact on operations and decisions go well beyond the
 borders of England to hold sway at: foreign universities; publishing houses;
 museums; law enforcement agencies, etcetera. Even Martin Butlin in his somewhat
@@ -873,26 +873,26 @@ flock than with shearing and butchering them for their own profit and
 aggrandizement."[[xliv]](/)
 Was it the group of Invisibles, holding court at the apex of British
 society that the Queen was referring to when she alarmed the talkative royal
-butler by saying: "Be careful Paulâ€¦ there are powers at work in this country
+butler by saying: "Be careful Paulâ   there are powers at work in this country
 about which we have no knowledge."
 On a more intimate level, the respected altruist Bernard Berenson in old age
 gave an honest review of a man of many talents who was perhaps the most
-cultivated and influential docent of the twentieth centuryâ€”himself: "So I cannot
+cultivated and influential docent of the twentieth centuryâ "himself: "So I cannot
 rid myself of the harassing feeling that I am at best, but a refined and
-affectionate cannibalâ€¦ But I must define what I mean by cannibalism. I mean the
+affectionate cannibalâ   But I must define what I mean by cannibalism. I mean the
 use of anything alive, especially of our own species, and particularly any
 member of our own cultural group, solely for our own personal advantage, with no
 regard for their private interest and the common good of us all."[[xlv]](/)
 This brutal self-portrayal not only illumines the dark side of human nature, it
 exposes the underpinnings of the art-world. As things exist today, the amateur
 art collector will surely be confounded by introspective blockades erected
-within this milieu by the, 'Â’': established orderÂ’, those that invariably possess a
+within this milieu by the, 'Â'': established orderÂ', those that invariably possess a
 bit of the cannibal instinct.
 
 As for our immediate focus, Rescuing Turner: apparently little has to
-do with TurnerÂ’s art, or for that matter, any artwork. It has to do with money,
+do with TurnerÂ's art, or for that matter, any artwork. It has to do with money,
 power, prestige, celebrity, politics, advancement, tourism; and more
-recentlyâ€”social issues. And the way this is maintained is often a result of
+recentlyâ "social issues. And the way this is maintained is often a result of
 misinformation and deception by those working to maintain control, people who in
 large part do not fully appreciate the implications of their own actions as they
 carry out their preordained tasks as a cog in the proverbial wheel. Much of the
@@ -901,33 +901,33 @@ levels. It is a mere web of independent operatives doing their own thing,
 fulfilling their insular and largely chauvinistic goals. Things can be seen more
 as an amalgam of anti-cultural forces with much of the destructive fallout
 scattered upon the private collector, connoisseur, and all those that believe in
-art for artÂ’s sake.
+art for artÂ's sake.
 The root of the problem, or genesis of this mercenary-style patronage was
 likely first given ascension in the auspicious year of 1789 when the Prince of
 Wales proposed a toast for those at the annual Royal Academy dinner. It was
 directed to "Alderman Boydell, the commercial Maesenas," and had been written by
 Edmund Burke and approved by Sir Joshua Reynolds. Morris Eaves wrote; that, of
-his day, "BoydellÂ’s closest contemporaries were not old-style patrons and
+his day, "BoydellÂ's closest contemporaries were not old-style patrons and
 certainly not monarchs, but such new-style merchandisers as Josiah Wedgwood
 (1730-1795), men who were learning how to coordinate complex systems of
 production and marketing and who wore the mantle of patron the way defense
-contractors wrap themselves in the flagâ€”as a business strategy."[[xlvi]](/)
+contractors wrap themselves in the flagâ "as a business strategy."[[xlvi]](/)
 The thrust of this movement was at the time clearly nationalistic and it served
-largely as the standard by which art is viewed up until the present dayâ€”as a
-source of currency both personally and nationally. BoydellÂ’s Shakespeare
-Gallery and BowyerÂ’s Historic Gallery led the charge in "exploiting
+largely as the standard by which art is viewed up until the present dayâ "as a
+source of currency both personally and nationally. BoydellÂ's Shakespeare
+Gallery and BowyerÂ's Historic Gallery led the charge in "exploiting
 two veins of a burgeoning nationalism"[[xlvii]](/)
 and served as the marketing vehicle for much of the artistic production during
 the era. If it were not for print marketing as it was formulated in the
 late 18th century, surely Turner with his own print production in the
-following generation would have been much less successfulâ€”financially at least.
+following generation would have been much less successfulâ "financially at least.
 
 Sadly, no matter how desperate attempts are by budding fine art students are
 to separate money and influence-trading from their haloed ideal, they are likely
-doomed to failure. Immutable, 'Â’': human natureÂ’ and its relation to the art-world
+doomed to failure. Immutable, 'Â'': human natureÂ' and its relation to the art-world
 must be the core focus of all effective discussion about art. In a very obvious
 way, from the creation of an icon, to the conservation of art-treasures, human
-nature vis-Ã -vis selfish possessiveness has been the compelling force in all
+nature vis-  -vis selfish possessiveness has been the compelling force in all
 sectors of the art-world.
  Pious renderings in the name of the Almighty may come closest to charity,
 but alas, in the end, even this activity may anticipate a Godly reward. The raw
@@ -937,12 +937,12 @@ they are organized to gain money, influence, and power. Regrettably, the way in
 which the facts present themselves they leave very little hope for a solution
 short of social revolution and particularly in Britain. Why bother, one might
 ask? Perhaps in order to forsake injury to the soulful motive for
-collectingâ€”that dispossessing selflessness of godÂ’s sublime romanceâ€”the artwork
+collectingâ "that dispossessing selflessness of godÂ's sublime romanceâ "the artwork
 itself.
 
  [[1]](/)
  Henri F. Ameil (1821-1881), reclusive Swiss author who gained fame
- posthumously on the discovery of his, 'Â’': Journal of self-analysisÂ’.
+ posthumously on the discovery of his, 'Â'': Journal of self-analysisÂ'.
  [[2]](/)
  This is a reference to the Republic of Plato wherein his support of "reason
  and humanity" is altruistic and would fairly encompass the human need for
@@ -986,14 +986,14 @@ itself.
  John Costello, Mask of Treachery, (William Collins Sons and Co. Ltd.,
  1988), 244.
  [[xi]](/)
- Robert Lacey, SothebyÂ’sâ€”Bidding for Class, (Little, Brown & Company
+ Robert Lacey, SothebyÂ'sâ "Bidding for Class, (Little, Brown & Company
  (Canada), 1989), 144,149, and 151.
  [[xii]](/)
- Frank Herrmann, SothebyÂ’s, Portrait of an Auction House, (Chatto and
+ Frank Herrmann, SothebyÂ's, Portrait of an Auction House, (Chatto and
  Windus, London, 1980), xxv.
  [[xiii]](/)
- Hugh Roberts, Negotiated Sales, ChristieÂ’s Review of the Season
- 1986, (Christie, Manson and Woods Ltd., Phaidon ChristieÂ’s Oxford,
+ Hugh Roberts, Negotiated Sales, ChristieÂ's Review of the Season
+ 1986, (Christie, Manson and Woods Ltd., Phaidon ChristieÂ's Oxford,
  1986), 12.
  [[xiv]](/)
  James Henry Duveen, The Rise of The House of Duveen, (Alfred A. Knoff,
@@ -1005,7 +1005,7 @@ itself.
  [[xvi]](/)
  Ibid, 31.
  [[xvii]](/)
- Frank Herrmann, SothebyÂ’s, Portrait of an Auction House, (Chatto and
+ Frank Herrmann, SothebyÂ's, Portrait of an Auction House, (Chatto and
  Windus, London, 1980), 269.
  [[xviii]](/)
  Pierre Assouline, An Artful Life, A Biograhy of D.H. Kahnweiler,
@@ -1044,13 +1044,13 @@ itself.
  Pierre Assouline, An Artful Life, A Biograhy of D.H. Kahnweiler,
  1884-1979, (Grove Weidenfeld, New York, translation Charles Ruas 1990), 333.
  [[xxxi]](/)
- Robert Lacey, SothebyÂ’sâ€”Bidding for Class, (Little, Brown & Company
+ Robert Lacey, SothebyÂ'sâ "Bidding for Class, (Little, Brown & Company
  (Canada), 1989), 256.
  [[xxxii]](/)
- Robert Lacey, SothebyÂ’sâ€”Bidding for Class, (Little, Brown & Company
+ Robert Lacey, SothebyÂ'sâ "Bidding for Class, (Little, Brown & Company
  (Canada), 1989), 256.
  [[xxxiii]](/)
- Frank Herrmann, SothebyÂ’s, Portrait of an Auction House, (Chatto and
+ Frank Herrmann, SothebyÂ's, Portrait of an Auction House, (Chatto and
  Windus, London, 1980), 276.
  [[xxxiv]](/)
  Frank Herrmann, Art at Auction, (editor Joan A. Speers, Sotheby Parke
@@ -1069,7 +1069,7 @@ itself.
  Peter Watson, From Manet To Manhattan, (New York: Random House, Inc.,
  1992), 385.
  [[xl]](/)
- Robert Lacey, SothebyÂ’sâ€”Bidding for Class, (Little, Brown & Company
+ Robert Lacey, SothebyÂ'sâ "Bidding for Class, (Little, Brown & Company
  (Canada), 1989), 259.
  [[xli]](/)
  Peter Watson, From Manet To Manhattan, (New York: Random House, Inc.,
@@ -1172,7 +1172,7 @@ itself.
  [jmwturner@shaw.ca](/)
  Penticton British Columbia Canada
 
- Â© setters 2003, Rescuing Turner: The Art Project &
+ Â(c) setters 2003, Rescuing Turner: The Art Project &
  [/)
 
  search for jmw turner  [Google](http://www.google.ca/)

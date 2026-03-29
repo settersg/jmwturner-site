@@ -17,19 +17,19 @@ Dubitable "Hand C"
   J.M.W.TURNER R.A. PINXT
 J. COUSEN SCUPLT
 
-[ Art WorldÂ’s Dirty Little Secret](/)
+[ Art WorldÂ's Dirty Little Secret](/)
 "As
 he glowered at the painted
-surface of the tiny orphan, he chastised; "The actual way the paintÂ’s put on
-isnÂ’t right and IÂ’ve seen other things like this."
+surface of the tiny orphan, he chastised; "The actual way the paintÂ's put on
+isnÂ't right and IÂ've seen other things like this."
 G: "What about the impasto?"
 M
 rejoined: "this blobby look, which
-doesnÂ’t reallyâ€”," while pointing to the center of the painting he exclaimed, "What the
-hellÂ’s that meant to be!" Pointing to
-another area, "whatÂ’s that meant to be?"
+doesnÂ't reallyâ "," while pointing to the center of the painting he exclaimed, "What the
+hellÂ's that meant to be!" Pointing to
+another area, "whatÂ's that meant to be?"
 G
-answered: "ItÂ’s very sketchy."
+answered: "ItÂ's very sketchy."
 It should be remembered that
 the painting had initially been dubbed by Martin as
 Hand C. From the Oxford
@@ -39,7 +39,7 @@ This description seems far from being hellishly incoherent and "blobby."
 M continued his assault:
 "even in the most sketchy Turner you can tell," he abruptly stopped himself as
 he started to recognize some of the content, "Oh! That is a sail of a
-ship; I donÂ’t know what these are."
+ship; I donÂ't know what these are."
 G answered enthusiastically,
 "Actually, those are houses."
 M: So they are, yeah.
@@ -50,9 +50,9 @@ engravers is explained by Thornbury as such: "In a proof impression of a plate l
 submitted to me, the engraver had failed to discern the distant representation
 of a village at the base of a hill, and had substituted some unintelligible
 nothings. Turner had run a heavy pencil line into the margin of the paper to
-intimate that these were, 'Â’': houses;Â’ and the miniature village seemed to come into
+intimate that these were, 'Â'': houses;Â' and the miniature village seemed to come into
 focus as if by magic."[[i]](#_edn1)
-Yes, at GrahamÂ’s prompting it seems that the village came into focus, as if by
+Yes, at GrahamÂ's prompting it seems that the village came into focus, as if by
 magic.
 
 ![](/images/aaatreescattle.jpg)
@@ -61,8 +61,8 @@ domed church of the Holy Cross seen to the left of the tree is the same one seen
  Ehrenbrietstein, the Bright Stone of Honour, and in the etching done after it
 (see the top of the page).
 Graham Reynolds expresses
-brilliantly the power and immediacy of TurnerÂ’s brushwork at the apex of his
-careerâ€”his "graphic shorthand which enabled him to simplify what he saw into a
+brilliantly the power and immediacy of TurnerÂ's brushwork at the apex of his
+careerâ "his "graphic shorthand which enabled him to simplify what he saw into a
 few swift mnemonic strokes."[[ii]](#_edn2)
 
 ![](/images/Ehrenb%20det%20figures%20web.jpg)
@@ -81,26 +81,26 @@ for the economy-wise Turner to use available scraps, including the book boards o
 his sketchbooks. Ruskin was commissioned to review most of Turner's sketchbooks
 in the late artist's studio. While re-interring the neglected remains of several
 of the
-artistÂ’s drawings, "and the boards of each book" back into their tin box, Ruskin
+artistÂ's drawings, "and the boards of each book" back into their tin box, Ruskin
 noted: "with two sketches on the boards at the beginning and the end."[[iii]](#_edn3)
 Graham continued pressing for
 solid stylistic reasoning: "Is the way he used the palette knife in the sky
 [like Turner]?"
-M: In a way, thatÂ’s more like him, but in a way itÂ’s too clumsy,
+M: In a way, thatÂ's more like him, but in a way itÂ's too clumsy,
 particularly at this sort of scale." With the grand lisp of a connoisseur,
-he continued, "What somebodyÂ’s done is painted a very flat picture and decided
+he continued, "What somebodyÂ's done is painted a very flat picture and decided
 to, as it were, put a bit of impasto on it to make it look like Turner."
 G:
 "And the pinky hues of the
 sky?"
 M:
-"Oh! ThatÂ’s all right,
-thatÂ’s all right. I mean heÂ’s looked at his Turners. But I think he was
-deliberately painting for somebody, who didnÂ’t know, in the 19th
+"Oh! ThatÂ's all right,
+thatÂ's all right. I mean heÂ's looked at his Turners. But I think he was
+deliberately painting for somebody, who didnÂ't know, in the 19th
 century, a possible sketch, a precursor for the main picture [Ehrenbrietstein,
 The Bright Stone of Honour]. Turner hardly ever did [this sort of thing],
-but whoÂ’s to know?"
-GrahamÂ’s point was laid to rest by muttered uncertainty over whether Turner would have done a preliminary
+but whoÂ's to know?"
+GrahamÂ's point was laid to rest by muttered uncertainty over whether Turner would have done a preliminary
 sketch as a model for a major painting such as Ehrenbrietstein. But what
 about the sky! The point over the "pinky hues" was significant; this was
 not recognized as a unique characteristic at the time of Graham's enquiry, but a Ruskin quote
@@ -109,7 +109,7 @@ clearly into focus: "The peculiar innovation of Turner was the perfection of the
 colour chord by means of scarlet. Other painters had rendered the golden
 tones and the blue tones of sky, but none had dared to paint, none seemed to
 have seen, the scarlet and purple."[[iv]](#_edn4)
-G continued: "I donÂ’t know if youÂ’ve noticed, you probably
+G continued: "I donÂ't know if youÂ've noticed, you probably
 have, that Turner uses his fingers quite a bit."
  There was impatiently agreement as
 Graham continued,
@@ -117,15 +117,15 @@ Graham continued,
 about-face, perhaps
 sensing a trap, Martin cut in and started talking about how Turner
 grew his thumbnail long to scratch marks into the wet paint. He ignored
-GrahamÂ’s concluding point that the painting did in fact have fingerprints
+GrahamÂ's concluding point that the painting did in fact have fingerprints
 in the tree. After undue persistence Graham finally got his point across at
 which point he was disparaged:
-"I think youÂ’ll
+"I think youÂ'll
 find it to be that of Mussolini."
 ![](/images/image006.jpg)
 In keeping with
 the comment about scratches
-into the wet paint left by the artistÂ’s thumbnail: clearly seen below are a
+into the wet paint left by the artistÂ's thumbnail: clearly seen below are a
 series of gashes across the mountain face and sky. These were likely done with
 either a thumbnail, or the end of a brush which was another common practice for
 the artist. The following figures show two examples of the more dramatic
@@ -138,14 +138,14 @@ Detail of the sky showing a large horizontal scratch
 done while the paint was wet.
 
 ![](/images/ehrenb%20tree%20and%20printsweb.jpg)
-In this enlarged detail of the Orrock Ehrenbrietstein the artistÂ’s technique of
+In this enlarged detail of the Orrock Ehrenbrietstein the artistÂ's technique of
 smudging the first layer of leaves with his finger or thumb then applying a
 further layer of clearly defined leaves, effectively develops volume in space
 and gives a feeling of motion to the foliage. Some of the fingerprint ridges are
-quite distinct. W.L Wyllie, TurnerÂ’s artist biographer noticed similar
+quite distinct. W.L Wyllie, TurnerÂ's artist biographer noticed similar
 smudging but apparently did not realize it was done with fingertips.
-Nonetheless, he describes TurnerÂ’s similar intentions, punctuating his discovery
-with a contemporary critique: "One peculiarity of the artistÂ’s which has been
+Nonetheless, he describes TurnerÂ's similar intentions, punctuating his discovery
+with a contemporary critique: "One peculiarity of the artistÂ's which has been
 noticed is that the further branches on the trees are painted pale and faint, as
 though they were fronds of seaweed seen through muddy water. I have no doubt
 that this was purposely done to produce an allusion and to make the spectator
@@ -161,7 +161,7 @@ This was written in 1905."
   Orrock Ehrenbrietstein,
 signed and dated lower left, I.M.W.Turner R.A. 1817
 
-[Art WorldÂ’s Dirty Little Secret](/book/)
+[Art WorldÂ's Dirty Little Secret](/book/)
 
   HOME
  [James Orrock](/discovery/orrock/):
@@ -181,7 +181,7 @@ or
  Walter Thornbury, Life of J. M. W. Turner, R.A., (Hurst and Blackett,
  Publishers, London, 1862), vol. 2, 312.
  [[iv]](#_ednref4)
- Helen S. Conant (from Ruskin), J.M.W. Turner, (extract from HarperÂ’s
+ Helen S. Conant (from Ruskin), J.M.W. Turner, (extract from HarperÂ's
  Monthly Magazine: 1878; published in Master-In-Art series by Bates and Guild
  Company, Boston, nov 1902), 29.
  [[v]](#_ednref5)

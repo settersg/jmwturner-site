@@ -21,7 +21,7 @@ A number of years ago I was offered a little oil painting on panel called
 Pool Near Ornans. It was simply signed Courbet. Although it was an
 obvious gem, the question was, could it be by the great Realist Gustave Courbet.
 
-[Art WorldÂ’s Dirty Little Secret](/book/)
+[Art WorldÂ's Dirty Little Secret](/book/)
 
 r malcolm setters / graham setters
 "From across the room the normally taciturn
@@ -56,16 +56,16 @@ determinants. Connoisseurship seems to be of secondary importance.
 using email correspondence. The following letter is a reply
 from the Wildenstein Institute in Paris:
  "Your query re Courbet is well received. Robert Fernier published two
-volumes of the Courbet catalogue raisonnÃ© with the Wildenstein Institute in 1977
+volumes of the Courbet catalogue raisonn (c) with the Wildenstein Institute in 1977
 and 1978. The painting whose photograph you sent, apparently, is not included in
 these volumes.
  After his father's death, Jean-Jacques Fernier resumed his work for a future
-supplement to the already published catalogue raisonnÃ©: I suggest that you apply
+supplement to the already published catalogue raisonn (c): I suggest that you apply
 to him directly [address is enclosed} - I do not have his e-mail address:
  Do not hesitate to contact us again if we can be of help
 With my best wishes for your research
 Marie-Christine Decroocq
-chargÃ©e de recherche (catalogues Redon and Modigliani)
+charg (c)e de recherche (catalogues Redon and Modigliani)
   __________________________________
 Dear Messr. Jean-Jacques Fernier,
 The following emails between the Wildenstein Institute and myself should help to
@@ -75,10 +75,10 @@ collector. Please advise me of the best way to get the appropriate credentials
 for it. Kind Regards
   ___________________________________
 Monsieur,
-Je serai Ã  New York du 30 novembre au 5 dÃ©cembre. Vous pouvez me joindre Ã
-l'HÃ´tel Barbizon au 212.88.4271 oÃ¹ je sÃ©journe.
-Si vous souhaitez mon avis sur une oeuvre, il faut me la porter Ã  New York pour
-son examen, accompagnÃ©e de photos et d'une lettre vous identifiant...
+Je serai    New York du 30 novembre au 5 d (c)cembre. Vous pouvez me joindre  
+l'H  tel Barbizon au 212.88.4271 o   je s (c)journe.
+Si vous souhaitez mon avis sur une oeuvre, il faut me la porter    New York pour
+son examen, accompagn (c)e de photos et d'une lettre vous identifiant...
 It was from this point that
 things began to get toublesome and suspicious... to be continued...
  [JMWT](/about/turner/)
@@ -123,6 +123,6 @@ Murillo
  [Lost Boucher](/discovery/courbet/)
 
 [Connoisseurship](/discovery/connoisseurship/)
-  [Art WorldÂ’s Dirty Little Secret](/book/)
+  [Art WorldÂ's Dirty Little Secret](/book/)
 
   HOME

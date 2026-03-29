@@ -24,40 +24,40 @@ layout: single
  [opinion](/discovery/expert/) is entirely non-technical, although there
  is some technical. My opinion is based on something much more intangible
  than a fingerprint or relining [of the painting] or whatever. The weight of
- my opinion, and in a way, to me, itÂ’s very heavy..." Martin lost
+ my opinion, and in a way, to me, itÂ's very heavy..." Martin lost
  focus for a moment then continued, "but on the other hand, in a court of
  law, it might not have any weight at all..." Did something from the past
  come back to haunt him? As I tried to get Martin to give an alternate name
  for the creator of
- [Shipwreck, the Rescue](/painting/) by stating, "YouÂ’re the expert on British
- paintings." Martin concurred, "fair enough, fair enough â€“ butâ€¦" His
+ [Shipwreck, the Rescue](/painting/) by stating, "YouÂ're the expert on British
+ paintings." Martin concurred, "fair enough, fair enough â " butâ  " His
  meditation persisted as if he were remembering a terrible ordeal. Perhaps
  the one his late friend Evelyn Joll had endured while testifying for the
  Huntington Museum in San Marino, CA?
  With an uneven voice Martin
  uncomfortably compared this story to his own situation, "Put me up in front
- of a really good defense advocateâ€¦" He appeared to shudder at the thought
+ of a really good defense advocateâ  " He appeared to shudder at the thought
  and continued, "I mean Evelyn Joll was grilled about a valuation that
- AgnewÂ’s put on a Reynolds full-length portrait that was burned in a fireâ€¦He
- said that he was never prepared to go through that experience again â€“
- because he got such a grilling, and IÂ’m not particularlyâ€”wouldnÂ’t want â€¦"
+ AgnewÂ's put on a Reynolds full-length portrait that was burned in a fireâ  He
+ said that he was never prepared to go through that experience again â "
+ because he got such a grilling, and IÂ'm not particularlyâ "wouldnÂ't want â  "
  The fearful Martin then howled: "These people are terror!"
  Was this eruption an important clue to why Martin had rejected so many
  Turner discoveries over his many years in office? Was Martin frightened to
- support a pictureÂ’s authenticity for fear of being reproached at a future
- dateâ€”and was he possibly worried about being forced into the courtroom to
+ support a pictureÂ's authenticity for fear of being reproached at a future
+ dateâ "and was he possibly worried about being forced into the courtroom to
  defend his decision...
  In 1987, Sotheby's paid out-of-court damages to the original owner of a
- Sebastiano del Piombo portrait knocked down for Â£180 at auction in Chester.
- It subsequently sold for Â£330,000 in London, and - after being cleaned - for
- a reported Â£6.5 million to the Getty (where quite a few rediscovered
+ Sebastiano del Piombo portrait knocked down for Â 180 at auction in Chester.
+ It subsequently sold for Â 330,000 in London, and - after being cleaned - for
+ a reported Â 6.5 million to the Getty (where quite a few rediscovered
  masterpieces end up). (Ian Warrell/Warrell, The Age,
  AU 2002)
   Even as early as 1931 Walter Bayes found that the
  legal fears of one
  influential official over authenticating paintings drove him to
- incompetence. When Bayes asked: "Millionairesâ€¦ must tremble at your nod,"
- the reply came: "If you knew my boyâ€¦ how much it is the other way round. The
+ incompetence. When Bayes asked: "Millionairesâ   must tremble at your nod,"
+ the reply came: "If you knew my boyâ   how much it is the other way round. The
  interests concerned are so great, and money can do such strange things, that
  I find it generally safer to hold my tongue." (Walter Bayes, Turner, A
  Speculative Portrait, p5)
@@ -85,8 +85,8 @@ layout: single
  Alas, could Martin have
  been aping the great Turner himself? Thornbury tells us that
  "Turner would never verify a picture. He told a friend that he had done so
- once, and the result was that he was put in the witness-box at a trial., 'Â’': It
- was the first,Â’ he said,, 'Â’': and it shall be the last.Â’"[[i]](#_edn1)
+ once, and the result was that he was put in the witness-box at a trial., 'Â'': It
+ was the first,Â' he said,, 'Â'': and it shall be the last.Â'"[[i]](#_edn1)
  One can only assume that even back then 'those people were terror'.
 
  ![](/images/news4.jpg)
@@ -106,13 +106,13 @@ layout: single
  treasure in the world."[[i]](#_edn1)
  Was this the first hint that we were dealing with a great art treasure? The
  voice on the phone was slow and succinct. He had been the defense lawyer for
- the man on the lam, the fellow who left the Mounties, 'Â’': without their manÂ’ and
+ the man on the lam, the fellow who left the Mounties, 'Â'': without their manÂ' and
  my confidant without his fee; Mr. Franz Visnei was now in the Caribbean or
  some such place according to his former disgruntled lawyer.
  For Mr. Dowding
  it was not a great way to leave a profession of many years: 1982 was the
  last year he practiced before retiring. It was curious that he still seemed
- so concerned about the painting after twenty yearsâ€”clearly this unresolved
+ so concerned about the painting after twenty yearsâ "clearly this unresolved
  case left him uneasy. He shared with me his certainty that he and his client
  would have been victorious in court, at least with regard to the painting.
  When Mr. Visnei jumped bail, Mr. Dowding was left high and dry with nothing
@@ -220,7 +220,7 @@ layout: single
  [jmwturner@shaw.ca](/)
  Penticton British Columbia Canada
 
- Â© setters 2003, Rescuing Turner: The Art Project &
+ Â(c) setters 2003, Rescuing Turner: The Art Project &
  [/)
 
  search for jmw turner  [Google](http://www.google.ca/)

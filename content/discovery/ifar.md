@@ -40,15 +40,15 @@ call, a wrong opinion about a paintings authenticity be occasionally spawned by
 acrimony rather than from innocent error? Regardless, the mindset of the expert
 community is apt not to favor the logic of science in most situations as much as
 the traditional primacy of their own authority in judging right from
-wrongâ€”genuine from fake. In turn they might be less willing than they should
+wrongâ "genuine from fake. In turn they might be less willing than they should
 be to accept the statistical probability that science provides, and opt in
 favour of disregarding science altogether. international
 foundation for art research
  A formula may eventually be accepted,
 whereby; hard-won laboratory results are given their due regard. Presently, even
 scientists are self-deprecating; particularly in cases where they know that the
-, 'Â’': absoluteÂ’ answer to a problem is most often unattainable. They are unwilling to
-prop-up overwhelming evidence to support the, 'Â’': probabilityÂ’ that a work is
+, 'Â'': absoluteÂ' answer to a problem is most often unattainable. They are unwilling to
+prop-up overwhelming evidence to support the, 'Â'': probabilityÂ' that a work is
 clearly attributable. In light of the huge art production over the centuries,
 where on close scrutiny of the physical evidence, very few of the painters have
 much in common, it is only logical to assume that if there are many positive
@@ -66,15 +66,15 @@ seemed, was the fight by the "community of Rembrandt specialists"[[2]](#_ftn2)
 to condemn it as a studio copy.
 Because the efforts of the scientific camp proved contrary to established
 curatorial opinion, science was automatically targeted as a faulty adversary.
-Rather than accepting at face value the logical conclusion that:, 'Â’': Rembrandt
-painted all of the self-portraits that emanated from his own studioÂ’â€”or at least
+Rather than accepting at face value the logical conclusion that:, 'Â'': Rembrandt
+painted all of the self-portraits that emanated from his own studioÂ'â "or at least
 weighing the new scientific data accordingly; efforts were made to co-opt
 scientific opinion, and it apparently worked. Subsequent to the swirl of debate
 over who was in reality painting those same self-portraits, Gertrude Wilmers
 wrote, "Rembrandt scholar Ernst van de Wetering demonstrated at an IFAR
 Evening how certain pictures submitted to scientific procedures such as
 x-radiograph and pigment analysis revealed a much more active role for
-RembrandtÂ’s assistants in the production of his workshop [and self-portraits]
+RembrandtÂ's assistants in the production of his workshop [and self-portraits]
 than had previously been proposed."
 [[v]](#_edn5) This
 certainly argues against Occam's Razor, the philosophical rule that the simplest
@@ -96,10 +96,10 @@ themselves? It is unlikely. Their Master was not an icon of his day from which
 the multitudes were demanding his visage for their home cabinet. As well, for
 himself Rembrandt was merely a malleable and inexpensive model. H. Perry Chapman
 gives us a clue to how this sort of narcissistic mentoring would have gone
-against the artistÂ’s own ideal. The final testimonial in RembrandtÂ’s
-Self-portraitsâ€”A Study in Seventeenth Century Identity: "According to both
-de Piles and Houbraken, Rembrandt is suppose to have said:, 'Â’': If I want to give my
-mind diversion, then it is not honor I seek, but freedom.Â’ He had indeed found
+against the artistÂ's own ideal. The final testimonial in RembrandtÂ's
+Self-portraitsâ "A Study in Seventeenth Century Identity: "According to both
+de Piles and Houbraken, Rembrandt is suppose to have said:, 'Â'': If I want to give my
+mind diversion, then it is not honor I seek, but freedom.Â' He had indeed found
 freedom. In his quest for autonomy he had invented a new idea of artist as an
 independent, self-governing individual."[[vi]](#_edn6)
  Because of its importance as an aesthetic tool and the foundation on which
@@ -116,17 +116,17 @@ Stuttgard based on a substantial number of what are certainly elusive reasons.
 In their words: "The approach to compositional problems in the painting, the
 peinture, the handling of form, light, atmosphere, and color, and the
 processing of the anatomical details, did not fit our image of the late
-Rembrandtâ€¦the most aberrant feature in our eyes was the extremely rough and
+Rembrandtâ  the most aberrant feature in our eyes was the extremely rough and
 undifferentiated paint handling of the face."
 [[vii]](#_edn7) They
-flooded the arena with so many intangibles purporting not to fit, 'Â’': their imageÂ’
+flooded the arena with so many intangibles purporting not to fit, 'Â'': their imageÂ'
 of a Rembrandt, that the owner of said picture might justly have fled in terror.
 But if one stayed long enough at the scene of such a disaster to try and remove
 a bit of rubble it becomes apparent that at least some of the criticism can be
 countered.
 In 1936 the most eminent Rembrandt experts and connoisseurs of the day had
 already condemned the Staatsgalerie example as a 19th century copy. Decades
-later science inarguably proved that it had come from the artistÂ’s own 17th
+later science inarguably proved that it had come from the artistÂ's own 17th
 century studio. How could such a vast miscalculation in dating have been
 accepted in the first place? It certainly casts doubt on the overall
 dependability of non-pragmatic expertise. What about the loose brushwork the
@@ -142,7 +142,7 @@ cheeks of its designated progenitor, Self-portrait at an easel in the
 Louvre. This challenge to the
 RRP is in all due respect presented merely to encourage the use of concrete
 evidence as opposed to the intangible. Apparently the people at IFAR are now
-grappling with rudimentary concerns over definitive catalogue raisonnÃ©s: who are
+grappling with rudimentary concerns over definitive catalogue raisonn (c)s: who are
 the effective authorities; what are their credentials, and what might be their
 motives.
 It is a
@@ -152,25 +152,25 @@ look no further than the renowned Wildenstein dynasty. Established in the 1870s
 it has grown more influential over the ensuing three generations by virtue of
 erudition, stealth, accumulation of wealth, gathering of influence - and above
 all - the production of catalogues. "Being the publishers of such books confers
-enormous power â€“ [and among other things] the ability to authenticate
-paintingsâ€¦as a publisher of catalogue raisonnÃ©s
+enormous power â " [and among other things] the ability to authenticate
+paintingsâ  as a publisher of catalogue raisonn (c)s
 , the Wildensteins virtually control the scholarship on many artists from
 Boucher to [Monet](/discovery/manet/)."
 [[viii]](#_edn8) This
 frustrated one art historian with regard to the Wildenstein Gauguin catalogue,
 rightly or wrongly, he criticized: "Pedigrees and quotations have been juggled
-to suit private needs; and GauguinÂ’s oeuvre has been shorn of some authentic
+to suit private needs; and GauguinÂ's oeuvre has been shorn of some authentic
 works and adulterated with others that do not belong."
 [[ix]](#_edn9) Oh yes,
 that brings us back to Rembrandt, and those pundits who have been charged since
-1968 to "write a comprehensive catalogue of RembrandtÂ’s paintings and especially
+1968 to "write a comprehensive catalogue of RembrandtÂ's paintings and especially
 to free his oeuvre of the accretions that were thought to have disfigured the
 image of Rembrandt the painter."
 [[x]](#_edn10) Those
-responsible for writing this catalogue raisonnÃ© and freeing his oeuvre of the
+responsible for writing this catalogue raisonn (c) and freeing his oeuvre of the
 accretions is the RRP.
 One must contemplate whether implicit in this manifesto is the need to preserve
-only what they consider to be RembrandtÂ’s better works?
+only what they consider to be RembrandtÂ's better works?
 In her role as an analytical statistician, Geraldine Keen gives pause for
 thought over what it means to control any market:
 "At any one time there is usually one particular scholar whose opinion is
@@ -209,7 +209,7 @@ Home
  [[v]](#_ednref5)
  IFAR Journal; volume 4 number 4 / volume 5 number 1 2001/02, 56.
  [[vi]](#_ednref6)
- H. Perry Chapman, RembrandtÂ’s Self-portraitsâ€”A Study in Seventeenth Century
+ H. Perry Chapman, RembrandtÂ's Self-portraitsâ "A Study in Seventeenth Century
  Identity, (Princeton University Press, New Jersey, 1990), 137.
  [[vii]](#_ednref7)
  Ernst van de Wetering, Thirty Years of the Rembrandt Research Project: The
@@ -303,7 +303,7 @@ Home
  [jmwturner@shaw.ca](/)
  Penticton British Columbia Canada
 
- Â© setters 2003, Rescuing Turner: The Art Project &
+ Â(c) setters 2003, Rescuing Turner: The Art Project &
  [/)
 
  search for jmw turner  [Google](http://www.google.ca/)

@@ -4,17 +4,17 @@ layout: single
 ---
 
 [JMW Turner the source](/painting/)
-[Art WorldÂ’s Dirty Little Secret](/book/)
+[Art WorldÂ's Dirty Little Secret](/book/)
   JMW
 Turner Chronology
 
 ![](/images/stamp%20portr.jpg)
   While
- oÂ’er the western wave thÂ’ ensanguined sun,
+ oÂ'er the western wave thÂ' ensanguined sun,
   In
  gathering haze, a stormy signal spread.
   And set portentous.
- â€“ J.M.W. Turner
+ â " J.M.W. Turner
 
 1775 born 21 Maiden Lane,
 Covent Garden, London
@@ -89,7 +89,7 @@ Wilson Sketch Book.
 1798 Competition for Associate Membership
 to the R.A. unsuccessful
 First classical landscape styled after Richard Wilson,
-Ã†neas and the Sibyl
+  neas and the Sibyl
 Buys large collection of figure-studies by C.R. Ryley
 1799 Four oils and seven watercolours at
 R.A.
@@ -111,7 +111,7 @@ his sea-piece by Willem van de Velde the younger. The result was Dutch boats
 in a gail: fishermen endeavouring to put their fish on board. This work
 exhibited in 1801 was highly acclaimed and might be considered the first of
 Turner's highly important series of tumultuous sea-pieces. It last sold at
-Christie's for Â£340,000 in 1976.
+Christie's for Â 340,000 in 1976.
 1801 Two oil paintings (including
 Bridgewater Sea-piece) and four
 watercolour at R.A.
@@ -131,10 +131,10 @@ Dolbadern Castle of 1800. Turner's oils are dark and foreboding during
 this period. His attempt at the tenebrous sublime as described by Edmond Burke
 was disparaged and as a result many grand masterworks sat in his studio unsold.
 (seen here is [Shipwreck, the Rescue](/painting/); related book
-[Art WorldÂ’s Dirty Little Secret](/book/)
+[Art WorldÂ's Dirty Little Secret](/book/)
 )
 Visited France and Switzerland with much time spent in the Louvre. Visited
-artist's studios; David, and GuÃ©rin.
+artist's studios; David, and Gu (c)rin.
 Thomas Girtin, Turner's artist companion passed away
 ![](/images/spar%20close%20web.jpg)
 
@@ -172,7 +172,7 @@ finished by this point.
 It was the impasto
 embellished style of the highly finished Shipwreck that some artists
 began imitating. Metaphorically Boaden of the Oracle criticized their
-work: "so much of the trowelâ€”so mortary."
+work: "so much of the trowelâ "so mortary."
 For the first time Turner's style becomes apparent in the work of
 A.W.Callcott and W. Havell.
 W.F. Wells apparently persuades Turner to embark on his monumental Liber
@@ -207,8 +207,8 @@ Stayed at Petworth to work on commissions for Lord Egremont.
 and re-exhibits at the Turner Gallery.
 Moves to 47 Queen Ann Street West.
 As the artist became more established so did his holdings; he valued his net
-worth at over Â£12,000. This was at a time that a good home might be purchased
-for Â£500.
+worth at over Â 12,000. This was at a time that a good home might be purchased
+for Â 500.
 Summer visit to Farnley Hall where he witnessed a storm that would later inspire
 the painting of Snow storm, Hannibal and his army crossing the Alps.
 1811 Four oils and five watercolours at
@@ -241,7 +241,7 @@ The influential connoisseur Sir George Beaumont continues to disparage Turner's
 work. As a result of this apparent conflict Turner depends less on Aristocratic
 patronage and more on middle class support for his work.
 1814 R.A: one oil, Dido and
-Ã†neas. By this point the influence of Claude
+  neas. By this point the influence of Claude
 and Classical landscape on Turner's work predominates. British Institute: his
 competition piece was disqualified as a late entry. Exhibition as usual in
 Turner's Gallery... his more experimental work.
@@ -333,7 +333,7 @@ Scott's commission for
 The Provincial antiquities of Scotland, eight watercolours completed
 Toured and made drawings in France and along the Seine in preparation for
 engravings of the region. Visits the Louvre and copies Claude.
-Did several watercolours of Italian landscape for Fawkes, priced at Â£25 each.
+Did several watercolours of Italian landscape for Fawkes, priced at Â 25 each.
 1822 Turner's newly renovated gallery
 open.
 To correspond with their engravings, W.B. Cooke et al successfully
@@ -599,7 +599,7 @@ Turner in bad health this winter.
 Shade and darkness... and Light and colour... This pair of
 pictures pictures became part of the Turner Bequest were stolen while on tour in
 the 1990s but were recovered in 1993. Insurance benefit to the Tate/Clore
-Gallery in the mean time--Â£12 million
+Gallery in the mean time--Â 12 million
 Griffith sells six more recently drawn Swiss subjects, two to Ruskin and four to
 Monro of Novar
 Modern Painters, first book published this year which caused a boost to
@@ -628,7 +628,7 @@ Health is again poor this year
 Due to R.A. President Martin Archer Shee's illness; then resignation, Turner was
 appointed acting President then deputy president for part of the year. President
 elect was a position Turner had long hoped for but never realized.
-James Lenox bought Staffa (ex R.A. 1832) for Â£500 on the advice of C.R.
+James Lenox bought Staffa (ex R.A. 1832) for Â 500 on the advice of C.R.
 Leslie
 Visited France and had a friendly visit with Louis-Philippe
 Wallhalla was was met with disdain when sent to Germany because of its loose
@@ -680,7 +680,7 @@ four pictures shown.
 His last words have been reported as: "The Sun is God." Buried in St
  Paul's Cathedral. Bequeaths 19,000 works to Nation.
 
-[Art WorldÂ’s Dirty Little Secret](/book/)
+[Art WorldÂ's Dirty Little Secret](/book/)
 
 [Institutional evolution](/discovery/institutional/)
 [Butlin Joll catalogue](/discovery/catalogue/)
@@ -691,5 +691,5 @@ J.M.W. Turner
 
 Site criticism is appreciated at [jmwturner@shaw.ca](/)
 Penticton
-  Â© setters 2003, Rescuing Turner: The Art Project &
+  Â(c) setters 2003, Rescuing Turner: The Art Project &
 [/)

@@ -53,7 +53,7 @@ capable of painting a picture rhetorically, and particularly, over those
 paintings which his heart grew attached.
   William McDuff: Lost and Found
 
-  [Art WorldÂ’s Dirty Little Secret](/book/)
+  [Art WorldÂ's Dirty Little Secret](/book/)
   r malcolm setters /
 graham
 setters
@@ -62,7 +62,7 @@ auction sites were consistently searched for the biography about James Orrock,
 but it had not turned up. It was time to do a general search and try and find it
 retail. Surprisingly, rather than being similar to a pocketbook as suspected, it
 turned out to be a substantial double volume set. When it arrived from England
-it proved a further surprised - the two books somewhat dwarfed Butlin and JollÂ’s
+it proved a further surprised - the two books somewhat dwarfed Butlin and JollÂ's
 two-volume set. The biography had artistic bindings with a neoclassical
 gilt-embossed design. It had been limited to an edition of only 500 copies, with
 the deluxe edition having a full morocco binding. A rare find indeed! (republished
@@ -76,7 +76,7 @@ to be minor and only useful as a textual reference on Orrock as a collector.
 Between pages 74 and 75, a quarter-way through the first volume, a painting
 called The Wreck
 was pictured. Stunning! Was it just another familiar image? No! It was
-the familiar imageâ€”manna from Heaven! It was a striking full-page
+the familiar imageâ "manna from Heaven! It was a striking full-page
 photogravure of Shipwreck, the Rescue!
 
 ![](/images/SWRphotogravure-web.jpg)
@@ -92,9 +92,9 @@ taken direct from the original artwork and show the very touch of the artist's
 brush. Due to the size and content, the 1903 Orrock set of books was
 likely the premier publication of the day, covering a vast range of what was
 happening in the British art-world at the time. It was produced before the 1904
-ChristieÂ’s sale when Shipwreck, the Rescue sold at the "highly important"
+ChristieÂ's sale when Shipwreck, the Rescue sold at the "highly important"
 [Orrock sale](/painting/provenance/). Because of the close dealings that Orrock had with Agnew's; and
-the two former Surveyors of the QueenÂ’s Pictures: Leitch, and Robinson, it was
+the two former Surveyors of the QueenÂ's Pictures: Leitch, and Robinson, it was
 clear there was no argument amongst the cognoscenti at the time over
 authenticity. As mentioned previously, one of the Surveyors was the previous
 owner of Shipwreck, the Rescue, and lived until 1913. We were eventually
@@ -104,7 +104,7 @@ Auspiciously, the set from New York was previously owned by the House of
 Knoedler; at the time of publication they were venerable international art
 dealers of the highest order.
 "The writer of Mr. James Orrock, R.I., in Bedford Square, one of the
-WorldÂ’s Celebrities at Home series" discussed that he entertained,
+WorldÂ's Celebrities at Home series" discussed that he entertained,
 "visitors as diverse as the Empress Frederick of Germany and Ruskin." Ruskin of
 course knew Orrock well; he was "a frequent visitor" to Orrock's home at 48
 Bedford Square, and would have had ample opportunity to study Shipwreck, the
@@ -112,7 +112,7 @@ Rescue while visiting. Kenneth Clark indicates the significance of this when
 he writes, "Ruskin, knew Turner personally and understood his work far better
 than any of us."
 [[i]](#_edn1) Cosmo
-Monkhouse also visited Mr. OrrockÂ’s collection and wrote rave reviews using
+Monkhouse also visited Mr. OrrockÂ's collection and wrote rave reviews using
 expressions such as, "domestic palace of Art."[ii]](#_edn2) As most
 Turner scholars know, Monkhouse was a premier Turner biographer.
 The descriptive text in the highly sought after
@@ -120,7 +120,7 @@ Turner Gallery two-volume publication was "written by W. Cosmo Monkhouse,
 (1840-1901), art historian and poet, who was an authority on Turner's art."
 It was
 assumed that an image of Shipwreck, the Rescue had never been
-published; after the ChristieÂ’s sale in 1904 the painting had apparently
+published; after the ChristieÂ's sale in 1904 the painting had apparently
 disappeared abroad with Edwards of Geneva, not to be seen back in England until
 it returned unrecognized. A hundred years ago few paintings were reproduced, so
 it was certainly a surprise to discover a print of Shipwreck, the Rescue,
@@ -128,13 +128,13 @@ the subject of Turner's Rescue. In modern-times the wide distribution of
 an image is as easy as taking a photograph: not so in Orrock's day! On closing
 the book temporarily, it was time to toast James Orrock R.I., Painter,
 Connoisseur and
-Collector, in two volumes â€“ Cheers!
+Collector, in two volumes â " Cheers!
 
 ![](/images/Orrock%20and%20BJ%20web.jpg)
 It is not far fetched that one makes the comparison
 between the
 [Butlin and Joll catalogue](/discovery/catalogue/) and the Orrock books; they are both meant
-to serve the same purposeâ€”illustrate and endorse British art, and at the same
+to serve the same purposeâ "illustrate and endorse British art, and at the same
 time broadcast the expertise/connoisseurship of those involved. A large section
 in the Orrock set deals with Turner, the artist is described as the first
 of four pillars of British art. The text is also presented as a late 19th
@@ -155,16 +155,16 @@ The running discourse educates in a subliminal way as one might learn ones own
 native tongue.
 If one were asked to choose between the two sets - as to which is the
 quintessential British art publication of the twentieth century; the award
-winning BJ catalogue, or WebberÂ’s, James Orrock R.I., it would be a
+winning BJ catalogue, or WebberÂ's, James Orrock R.I., it would be a
 difficult pick because of the near full-century generational-gap. Of course the
 next generation of Turner "scholarship" will inevitably include more science.
 Connoisseurship is a thread
 that ties much of this Rescuing Turner story together, but there is
-a provisoâ€”one must beware of the, 'Â’': magic eyeÂ’. It certainly serves its master
+a provisoâ "one must beware of the, 'Â'': magic eyeÂ'. It certainly serves its master
 well if left to its own volition, but if there is a political fog in the air;
-one might just as well be blind. "Lawrence Gowing, MartinÂ’s admired predecessor
-at the Tate implored,, 'Â’': when a letter from your girlfriend is dropped through the
-door, you donÂ’t have to open it and read the name to know who itÂ’s from." Ah,
+one might just as well be blind. "Lawrence Gowing, MartinÂ's admired predecessor
+at the Tate implored,, 'Â'': when a letter from your girlfriend is dropped through the
+door, you donÂ't have to open it and read the name to know who itÂ's from." Ah,
 but even letters can be dismissed if the political will warrants it!
 As for Martin Butlin, in lieu of any concrete argument against Shipwreck,
 the Rescue, he was forced to claim the preeminence of his own
@@ -185,21 +185,21 @@ influential over his buying tastes was James Orrock, a passionate advocate of
 British art. Lever bought Orrock's own collection in its entirety three times,
 in 1904, 1910 and 1912... The major influence
 on Lever's career as a collector was James Orrock."
-From OrrockÂ’s biography, several of his published essays attest to the gentle
+From OrrockÂ's biography, several of his published essays attest to the gentle
 articulation that late 19th century prose could impart:
 "Turner courted Nature in her poetic and artistic moods, and left her in her
 ordinary aspects to be wooed by ordinary minds. His gamut was great indeed. He
-could, 'Â’': lay onÂ’ with untiring force from the beginning to the end of a colossal
+could, 'Â'': lay onÂ' with untiring force from the beginning to the end of a colossal
 oil-picture, and, possessed by a more delicate spirit of inspiration, could be
-dainty and joyful over a tiny, 'Â’': Berwick,Â’ a, 'Â’': Loch Katrine,Â’ or a, 'Â’': Skiddaw.Â’ His
-masculine oil-work, such as, 'Â’': The ShipwreckÂ’ or, 'Â’': Calais Pier,Â’ stands forth like
+dainty and joyful over a tiny, 'Â'': Berwick,Â' a, 'Â'': Loch Katrine,Â' or a, 'Â'': Skiddaw.Â' His
+masculine oil-work, such as, 'Â'': The ShipwreckÂ' or, 'Â'': Calais Pier,Â' stands forth like
 a giant on guard over such tender and gem-like drawings as those just named.
-Nothing was too mighty for him, nothing too delicate â€“
+Nothing was too mighty for him, nothing too delicate â "
 [James Orrock R.I., R.O.I.](/discovery/orrock/)"[[iii]](#_edn3)
 
 Home
 
-[Art WorldÂ’s Dirty Little Secret](/book/)
+[Art WorldÂ's Dirty Little Secret](/book/)
 [Portrait of a Hero](/painting/portrait/)
 
 [The Unknown Turner](/discovery/ngc/)

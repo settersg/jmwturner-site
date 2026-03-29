@@ -18,7 +18,7 @@ at the Tate... Ian Warrell opinion, Andrew Wilton
 
 Shipwreck, the Rescue,
 a detail showing the auspicious black man
-[Art WorldÂ’s Dirty Little Secret](/book/)
+[Art WorldÂ's Dirty Little Secret](/book/)
  "The effect
 that
 scientific and technological advance had on the world and society around him,
@@ -62,16 +62,16 @@ Ruskin and Orrock were predominantly watercolourists at the time.
 There was an
 interesting contest at a 2002 International Foundation for Art Research
 (IFAR) conference. A query was lobbed at one of the
-team who had just completed the catalogue raisonnÃ© on Georgia OÂ’Keeffe. The
+team who had just completed the catalogue raisonn (c) on Georgia OÂ'Keeffe. The
 banter took place during the question and answer period after the cataloguers
 made their presentation. The IFAR journal recorded it as follows:
 Question: In addition to
 your examination of all the sheets of paper, did you do technical analysis of
 the media, for example the pigments?
-Answer: We didnÂ’t. It
-wasnÂ’t practical to do it. The problem with any kind of analysis such as you
+Answer: We didnÂ't. It
+wasnÂ't practical to do it. The problem with any kind of analysis such as you
 describe is that it relies very much on the scientists doing it. Technical
-analysis is not magically correct because itÂ’s done with a machine. And so the
+analysis is not magically correct because itÂ's done with a machine. And so the
 scientist who does the work has a lot of subjective control over what he or she
 finds.
 As 'scientific' is the least subjective
@@ -90,7 +90,7 @@ able to gather all the available records from her previous analysis of the
 painting done for RCMP and Interpol in 1982. It
 took several months to draw together the results and provide a synopsis, but
 unfortunately the package I had been waiting for with such anticipation:
-neither proved, nor disproved the paintingÂ’s authorship. The irony of scientific
+neither proved, nor disproved the paintingÂ's authorship. The irony of scientific
 study, although seeking to be absolutely conclusive in its findings can do
 little to prove art authorship conclusively. It is more effectively
 exploited by law enforcement to prove fraud than by curators, art historians, and
@@ -116,7 +116,7 @@ information gathered because of the errant, albeit, inconclusive bit of data and
 takes a position more favourable to their own agenda? This does happen, and when
 it does, one can only speculate whether the reason goes beyond integrity. There
 can certainly be solid reasons for dismissal, such as those relating to overall
-, 'Â’': styleÂ’, but there are also many rejections that are in large-part ungrounded
+, 'Â'': styleÂ', but there are also many rejections that are in large-part ungrounded
 and illogical.
 
  |
@@ -153,32 +153,32 @@ order to make one large canvas would appear to support a common authorship
 rather than the contrary. According to pigment analysis this was done early on, at a time when the artist was being most frugal with his
 materials.
 This joining technique and the shortage of canvas of adequate dimension was
-mentioned in one of TownsendÂ’s own early publications, "TurnerÂ’s largest
-compositions could not be accommodated on artistÂ’s quality canvas, and he
+mentioned in one of TownsendÂ's own early publications, "TurnerÂ's largest
+compositions could not be accommodated on artistÂ's quality canvas, and he
 sometimes resorted to coarsely woven sacking-type material of the requisite
 size. On one occasion only, two canvases were joined, and he then painted over
-the horizontal seam in the middle, for, 'Â’': The Goddess of Discord.Â’"[[xi]](#_edn11)
+the horizontal seam in the middle, for, 'Â'': The Goddess of Discord.Â'"[[xi]](#_edn11)
 If
 it were not
 Joseph and his economy-conscious father joining those
 canvas scraps together to make an adequate painting surface during those
-oft-mentioned, 'Â’': mean yearsÂ’â€” who would it have been? TownsendÂ’s
+oft-mentioned, 'Â'': mean yearsÂ'â " who would it have been? TownsendÂ's
 disparagement over Turner joining canvases based on the contention that he had access to
 large enough material must be considered a mute point; everyone else had the
 same access to the same-size material at the time. Frugality - the desire to be
 economical is the critical point here!
  As owner of another somewhat ragged Turner painting, James Orrock (also, the previous
 owner of Shipwreck, the Rescue), noted: "This picture,
-curiously enough, was painted over an old portraitâ€¦ Mr. Ruskin told me, when I
+curiously enough, was painted over an old portraitâ   Mr. Ruskin told me, when I
 described the case to him, that Turner was so prudent, not to say parsimonious,
 that he often purchased old pictures cheap for the sake of the canvas and stretcher."[[xii]](#_edn12)
 The father-son team, especially in the early years when Shipwreck, the Rescue
 would have been painted, often used unorthodox painting supports that
 emphasized this parsimony: cupboard doors, scraps of wrapping paper, book-boards, common lumber, and even coach panels at one point. Turner himself said
 that, "Dad never praised me for anything but saving a halfpenny."[[xiii]](#_edn13)
-One can only imagine that whatever remnant was left as the artistÂ’s roll of
-canvas came to an end, was at times spliced to another roll endâ€”Voila, another
-, 'Â’': sea-pieceÂ’ or other larger-scale production. If done once, could it not be done
+One can only imagine that whatever remnant was left as the artistÂ's roll of
+canvas came to an end, was at times spliced to another roll endâ "Voila, another
+, 'Â'': sea-pieceÂ' or other larger-scale production. If done once, could it not be done
 twice, or even three times. Knowing that Turner actually spliced canvases in
 this way surely ought to be viewed in a positive way.
 In Seeing Through Paintings, a comprehensive technical overview about the
@@ -194,16 +194,16 @@ Norton Street, Portland Road.
 His submissions to the R.A. for the next
 four-year
 period were credited to this address in any case. Might this suggest that
-TurnerÂ’s new space was being used largely for that monumental series of sea
+TurnerÂ's new space was being used largely for that monumental series of sea
 disasters that would carry his fame for the ensuing several decades?[[3]](#_ftn3)
  Another
 contentious point
-in TownsendÂ’s 1997 reply dealt with the ground-layer/primer. Shipwreck, the Rescue had been painted on a, 'Â’': brown groundÂ’
+in TownsendÂ's 1997 reply dealt with the ground-layer/primer. Shipwreck, the Rescue had been painted on a, 'Â'': brown groundÂ'
 according to the CCI tests.[[4]](#_ftn4)
 Townsend wrote, "I have never seen a brown ground, only red ones, in early
-Turnersâ€¦" Quoting Rothenstein and ButlinÂ’s
+Turnersâ  " Quoting Rothenstein and ButlinÂ's
 publication: Turner "continued to use the relatively subdued colouring of Wilson
-and Titian, though in a more naturalistic formâ€¦painted over a pale brown ground."[[xvi]](#_edn16)
+and Titian, though in a more naturalistic formâ  painted over a pale brown ground."[[xvi]](#_edn16)
 It seems conclusive that brown grounds were used. Included in the same statement
 by those two Turner experts is the proviso that for water and sky Turner was
 starting to use white grounds early in the century.
@@ -217,18 +217,18 @@ After criticism
 from colleagues and potential patrons over the darkness of
 some of his very early work it is understandable that Turner would succumb to public
 pressure and start using the white ground. Turner was certainly sensitive to such criticism. "Of
-TurnerÂ’s sensitiveness to criticism, Mr. Ruskin saysâ€¦, 'Â’': To censure, Turner was
+TurnerÂ's sensitiveness to criticism, Mr. Ruskin saysâ  , 'Â'': To censure, Turner was
 acutely sensitive; owing to his own natural kindness, he felt it for himself or
 for others, not as criticism, but as cruelty. He knew that however little his
 higher power could be seen, he had done at least as much as ought to save him
-from wanton insult.Â’"[[xvii]](#_edn17)
+from wanton insult.Â'"[[xvii]](#_edn17)
 We are given a somewhat confident dating for this tonal transition by Silvia Ginzburg,
 "Beginning in 1806-07, in fact, Turner embarked on a new direction in his
 research of color, experimenting in his oil paintings with the use of a white
 background for the sky and water areas, so as to provide a greater luminosity
 and brightness to the light tones, basing himself on the results he had already
 obtained in his watercolors by leaving certain areas of the white paper
-unpaintedâ€¦He used the white background for the first time in his preliminary oil
+unpaintedâ  He used the white background for the first time in his preliminary oil
 sketches of Thames, in 1806-07."[[xviii]](#_edn18)
 More recent evidence indicates that this date is too late.
 Shipwreck, the Rescue is one painting that would surely have been
@@ -236,16 +236,16 @@ criticized for its darkness, and thus, would have been pivotal in his stylistic
 development! Because of its
 early date (most probably the earliest of the shipwreck series) it might
 have also been one of a rare-few large sea-pieces painted predominantly on a
-rich brown ground. As one learns to appreciate TurnerÂ’s work further, it becomes
+rich brown ground. As one learns to appreciate TurnerÂ's work further, it becomes
 evident that other stylistic certainties support that Shipwreck, the Rescue was
 painted early, even before Shipwreck c1805, which was painted on an
 ostensibly white ground (according to Townsend).
 The
-third contentious point in Joyce TownsendÂ’s 1997 letter: "the hessian
+third contentious point in Joyce TownsendÂ's 1997 letter: "the hessian
 supports only have 2-3 threads per centimeter: the canvas in question [Shipwreck,
 the Rescue] is very fine by the standards of Turner." Here the discussion
 relates to the canvas support and the number of threads counted per linear
-centimeter. It was stated in Marilyn LaverÂ’s report that Shipwreck, the
+centimeter. It was stated in Marilyn LaverÂ's report that Shipwreck, the
 Rescue has 13x12 threads per centimeter: "The original canvas of the
 painting was roughly spun (approximately 13 x 12 threads per centimeter) and has
 been joined horizontally across the middle."[[5]](#_ftn5)
@@ -253,11 +253,11 @@ Quoting this time from a 1992 paper Townsend published in the IIC, a
 conservation sciences journal: "The canvases Turner used in earlier years,
 particularly the very large ones, were coarse, with rather few threads per
 centimeter: sometimes as few as three to four but more often 10-12. By
-the late 1820Â’s he was using finer canvases, with 14-18 threads per centimeter."[[xix]](#_edn19)
-This appears to contradict TownsendÂ’s statement in her letter to Laver. After
+the late 1820Â's he was using finer canvases, with 14-18 threads per centimeter."[[xix]](#_edn19)
+This appears to contradict TownsendÂ's statement in her letter to Laver. After
 personally seeing the painting in 2001, Martin Butlin by way of casual
 observation conceded that Shipwreck, the Rescue was painted on the same
-type of canvas as the other paintings from TurnerÂ’s early sea-piece series.
+type of canvas as the other paintings from TurnerÂ's early sea-piece series.
 In
 defense of Townsend over the
 inconsistencies in her letter: all the data that can be accumulated and
@@ -271,7 +271,7 @@ wonder why such a reply? It is not as if the inquiry originated
 from Joe Public, Marilyn Laver was a highly trained professional deserving
 due regard.
 Nevertheless, if there is no consistent or accurate application of the
-scientific communityÂ’s own labour, the system of art authentication must again
+scientific communityÂ's own labour, the system of art authentication must again
 fall back completely to the vagaries of art connoisseurship (with a small 'c'),
 and its attendant politics. It is clear that the above string of inconsistencies
 derides the usefulness of accumulating data. Unfortunately, in turn, if some of
@@ -298,14 +298,14 @@ watercolours) or Gainsborough has reached us.![](/images/Turnerpaintboxweb.jpg)
   I have always been a little puzzled by the
 results of analysis of the late Turner paint boxes, as published by Hanson.
 Someone has remarked scathingly that perhaps much of what was left in the box
-was what he didnÂ’t use, rather than what he did. The lake pigments were
+was what he didnÂ't use, rather than what he did. The lake pigments were
 also rather strange with all the unusual substrates. Thinking of your own
 results for identification of pigments in the "Turner" painting under
 consideration, although some of his oil paintings, for example the early
 Venetian scenes, are quite colourful with a palette which includes brilliant
 greens and violet-pinks, in many of his paintings the colours do seem to be
 restricted to blues and orange-brown tones.
-  If you havenÂ’t already written to the
+  If you havenÂ't already written to the
 Tate Gallery they might be able to help you with the matter of the types of
 canvas and ground used by Turner, since observations of these might have been
 made in coarse of treatment of the paintings. They might also be able to help
@@ -316,77 +316,77 @@ comparatively recently. Write to Viscount Dunlace, Chief Restorer at the Tate
 Gallery. Someone else who might advise you on Gainsborough is Dr. John Hayes,
 Director, National Portrait Gallery, London WC2. He is a specialist on the
 artist and wrote the catalogue for the recent exhibition."
-Marilyn LaverÂ’s other request in 1982 went to Martin Butlin who apparently
+Marilyn LaverÂ's other request in 1982 went to Martin Butlin who apparently
 passed it along to his friend, the same Viscount mentioned by Plesters. He was
-the, 'Â’': Keeper of ConservationÂ’ at the Tate Gallery.[[7]](#_ftn7)
+the, 'Â'': Keeper of ConservationÂ' at the Tate Gallery.[[7]](#_ftn7)
 The letter received from him in August 1982 was even more bewildering:
   "I can confirm what you have already found out
-that there is very little published on studies of TurnerÂ’s technique or the
+that there is very little published on studies of TurnerÂ's technique or the
 analysis of the media and pigments which is, in part, our fault as there are a
 fair accumulation of technical reports and observations in our technical record
-files which have never been correlated or taken a stage further.Â’, 'Â’': As to your
+files which have never been correlated or taken a stage further.Â', 'Â'': As to your
 questions, (a) I would have thought it rather unusual for Turner to use such a
 limited palette, and (b) he usually worked on a white ground following his
-training as a watercolourist â€“ though this was not always the case. The coarse
-canvas weave also is unusual apart from some works painted in Italyâ€¦The canvas
-size also does not correspond to any of TurnerÂ’s normal formats though it could
+training as a watercolourist â " though this was not always the case. The coarse
+canvas weave also is unusual apart from some works painted in Italyâ  The canvas
+size also does not correspond to any of TurnerÂ's normal formats though it could
 be cut down."
-The ViscountÂ’s first point might be dealt with succinctly using the words of TurnerÂ’s noted
+The ViscountÂ's first point might be dealt with succinctly using the words of TurnerÂ's noted
 antagonist, Sir George Beaumont, who had in 1802 clearly used the limited
-palette issue against TurnerÂ’s early work when he mocked, "borrowed from Claude,
+palette issue against TurnerÂ's early work when he mocked, "borrowed from Claude,
 but all the colouring forgotten."[[xx]](#_edn20)
-Philip Hamerton was more kind when he called TurnerÂ’s very early paintings,
+Philip Hamerton was more kind when he called TurnerÂ's very early paintings,
 "wanting in the charms of light and colour."[[xxi]](#_edn21)
 Later he gave the source of such perceived inadequacy: "The most famous of
 the early pictures, those solid, substantial pictures which are so strikingly
 unlike the manner of his full maturity, were painted simply on Dutch principles
 of gray and brown, with a patch of red here and there, to make people believe it
 was colour."[[xxii]](#_edn22)
-From TurnerÂ’s own 1802 notebook connected to his visit to the Louvre he confirms
+From TurnerÂ's own 1802 notebook connected to his visit to the Louvre he confirms
 his adamant belief that, "Nature rather demanded less of colour."[[xxiii]](#_edn23)
  Thornbury
-quotes Ruskin, twice, over the limited colour to be found in TurnerÂ’s
-early oils, "The, 'Â’': Crossing the Brook,Â’ and such other elaborate and large
+quotes Ruskin, twice, over the limited colour to be found in TurnerÂ's
+early oils, "The, 'Â'': Crossing the Brook,Â' and such other elaborate and large
 compositions, are actually painted in nothing but grey, brown, and blue with a
-point or two of severe local colour in the figuresâ€¦ (Ruskin could have been
+point or two of severe local colour in the figuresâ   (Ruskin could have been
 looking directly at Shipwreck, the Rescue when he made this statement) In
 his first period, the pictures are notable for a grey and brown colour,
 and for a sometimes heavy touch. Turner is more anxious for form than colour;
 the colours are simple and few."[[xxiv]](#_edn24)
-Not all was gloom with TurnerÂ’s "black old" oil pictures painted after moving to
+Not all was gloom with TurnerÂ's "black old" oil pictures painted after moving to
 his Harley Street studio in 1802. According to W.C. Monkhouse and W.L. Wyllie,
-A.R.A, the mystery of even TurnerÂ’s early dark-work was incomparableâ€”Wyllie
+A.R.A, the mystery of even TurnerÂ's early dark-work was incomparableâ "Wyllie
 pronounced: "When we are back among the conventional black old pictures, such as
 The Shipwreck; The Spithead; or even the impossible, gloomy,
 Garden of the Hesperides; we feel that, after all, the old Wizard was a
 worker of wonders, and that he, in his dark London room, with little more than
 black, brown, and gray, could move us to awe, terror, or wonder by the
-thousand-and-one secrets which he had at his fingerÂ’s ends."[[xxv]](#_edn25)
-Jack Lindsey, one of TurnerÂ’s later biographers flatly contradicts the second
+thousand-and-one secrets which he had at his fingerÂ's ends."[[xxv]](#_edn25)
+Jack Lindsey, one of TurnerÂ's later biographers flatly contradicts the second
 point the Viscount made about the white ground colour: "approximately 1798,
 Turner reverses his technique used for watercolors when experimenting with
 oils. Instead of the traditional white ground he used in watercolors, Turner
 worked from a dark ground in order to achieve a stronger range of tones"[[xxvi]](#_edn26)
 The
-ViscountÂ’s point
+ViscountÂ's point
 about the thread-count, "the coarse canvas weave," was
 completely contrary but equally as irresolute as the information received back from
 Joyce Townsend at the Tate 15 years later. Townsend wrote that the weave was
-"very fine by the standards of Turner." Alas, DunlaceÂ’s final claim about
-overall size was also wrong. There are indeed several of TurnerÂ’s early
-sea-pieces that are close in size. Particularly, The, 'Â’': Bridgewater
+"very fine by the standards of Turner." Alas, DunlaceÂ's final claim about
+overall size was also wrong. There are indeed several of TurnerÂ's early
+sea-pieces that are close in size. Particularly, The, 'Â'': Bridgewater
 Seapiece, exh. 1801, and Shipwreck,
 the Rescue are both large, and except for a porcine whisker, they are the
 same size; they are of irregular un-standard dimensions as well. If the
 original stretchers or strainers were not made for the same artist at roughly
 the same time this comparison must be considered a miracle of coincidence. By
-default the Viscount was at least right about one thingâ€”similarity of size is
+default the Viscount was at least right about one thingâ "similarity of size is
 relevant. For example: when comparing the small oil on panel Limekiln at
 Coalbrookdale with its potential mate, Butlin and Joll deemed comparative
 sizes a pertinent issue. They wrote that "both panels, incidentally, are of almost identical size."[[xxvii]](#_edn27)
 If comparative size is important with a little picture, it is certainly even
 more so with a very large one, if for no other reason that there are so many
-more small and medium sized ones. What are the numerical odds of two, 'Â’': odd sizedÂ’
+more small and medium sized ones. What are the numerical odds of two, 'Â'': odd sizedÂ'
 custom stretched canvases measuring over seven feet in width and over five feet
 high, having near identical dimensions!
 
@@ -401,7 +401,7 @@ Half
 a century earlier, Kenneth Clark, then Director of the National Gallery in
 London had prompted the installation of apparatuses needed for scientific
 testing on works of art:
- "Thanks to Kenneth ClarkÂ’s decision to establish
+ "Thanks to Kenneth ClarkÂ's decision to establish
 a modern laboratory with the latest equipment, great strides were being made.
 Besides the new X-ray, ultra-violet and infra-red (sic) rays, all of which
 provided important clues, colour values could now be measured and the relative
@@ -409,7 +409,7 @@ ages of mediums and varnishes tested by means of a polariscope and spectroscope.
 Microscopes, photo-microscopes and chemical analyses were being used to detect
 the slightest presence of paint in any material that might be removed."[[xxviii]](#_edn28)
  At about this same time Clark had succumbed to negative pressures against his
-attempts at cleaning some of the nationÂ’s old masters. Those parallel scientific
+attempts at cleaning some of the nationÂ's old masters. Those parallel scientific
 innovations being introduced by Clark must also have been blocked for similar
 reasons, and thus, his progressive efforts seemed to evaporate. It is evident
 that his challenge to bring Britain forward in this regard was met with
@@ -423,7 +423,7 @@ and read as such: "Sadly, though it is a dramatic and well-painted work, I
 think it very unlikely that it was executed by J.M.W. Turner. The only part that
 comes close to his handling of paint is the use of the highlights on the tops of
 the waves, but in all other respects it bears no relation to his work, although
-it is clearly an early nineteenth century picture." WarrellÂ’s lofty breviate to
+it is clearly an early nineteenth century picture." WarrellÂ's lofty breviate to
 Marilyn Laver was relayed to me along with her own letter noting that Warrell
 based his opinion on only an 8 x 10 photograph.
 
@@ -449,7 +449,7 @@ dilemma at hand is succinctly addressed later under the heading
 details: tips of the waves from Shipwreck, the Rescue, "chalky" character
 The year Shipwreck, the Rescue would have been painted, 1802, one critic
 offered his opinion on the sea-pieces that were exhibited that year: "the
-waterâ€¦wants transparency and the waves are, 'Â’': chalky.Â’"
+waterâ  wants transparency and the waves are, 'Â'': chalky.Â'"
 (Finberg 1961, p78)
  It is interesting to compare the human players of both dramas:
 Turner's most famous Shipwreck;
@@ -467,11 +467,11 @@ Shipwreck, the Rescue
 
 To help understand the relationship of Shipwreck, to Shipwreck, the
 Rescue, Silvia Ginzburg borrows from two art-world figures that had great
-impact on Turner: "Sir Joshua Reynoldsâ€¦points out that invention in art arises
+impact on Turner: "Sir Joshua Reynoldsâ  points out that invention in art arises
 from the new combination of images already present in the memory. Ruskin holds
 that Turner never lost the visual impression produced in him by any image: he
-had never "shifted the central pilaster of the old image.Â’"[[xxx]](#_edn30)
-In both works one can see TurnerÂ’s early harmonious integration of figures
+had never "shifted the central pilaster of the old image.Â'"[[xxx]](#_edn30)
+In both works one can see TurnerÂ's early harmonious integration of figures
 together and within their setting, and at the same time see that the figures are
 largely recognizable. These Turner archetypes were discussed in detail during
 Martin Butin's visit to Canada.
@@ -490,7 +490,7 @@ the one from the Tate was the
 only derisive critique, the one from Canada was mostly supportive, and the third
 English expert failed to acknowledge her letters and faxes, even after several
 attempts.
-The supportive opinion came from one who is very knowledgeable about TurnerÂ’s
+The supportive opinion came from one who is very knowledgeable about TurnerÂ's
 work; Alan Chong, Curator of European Art, Art Gallery of Ontario (AGO). The
 following is an excerpt from his letter 29 May 1997:
   "Many thanks for sending me a photograph of a
@@ -533,7 +533,7 @@ contrivances, and photographs that presented the painting in many different
 guises. In the introduction, Marilyn Laver described the genesis of her report as follows:
   "In 1982, a scientific examination study was
 undertaken at the Canadian Conservation Institute (Ottawa) on a painting on
-canvas entitled "Shipwreck â€“ The Rescue" in order to determine whether the
+canvas entitled "Shipwreck â " The Rescue" in order to determine whether the
 materials and technique of the work were consistent with those of J. M. W.
 Turner.
   The painting was part of a group of works;
@@ -572,9 +572,9 @@ uncommon:[[12]](#_ftn12)
 ultramarine in a green mixture, lead antimonite yellow (Naples yellow)[[13]](#_ftn13),
 and barium sulfate in the ground layer."
 Note: Sir Richard Westmacott, one of the party
-about to start for Italy, asked Turner if he could do anything for him,, 'Â’': No,Â’
-said Turner,, 'Â’': unless you will bring me some Naples yellow.Â’"[[xxxiv]](#_edn34)
-Hamerton also supports Marilyn Laver's statement about TurnerÂ’s experimental nature
+about to start for Italy, asked Turner if he could do anything for him,, 'Â'': No,Â'
+said Turner,, 'Â'': unless you will bring me some Naples yellow.Â'"[[xxxiv]](#_edn34)
+Hamerton also supports Marilyn Laver's statement about TurnerÂ's experimental nature
 and use of new colours as they were made available:
 "He used any new colour that the experimentalizing ingenuity of modern chemistry
 could invent for the temptation of an artist."[[xxxv]](#_edn35)
@@ -588,22 +588,22 @@ complained was 'made out', he had no 'execution', his foregrounds were always
 'unfinished'." (Finberg 1961, p. 101)
 
 "In comparison with well-documented Turner
-paintings, there are two features of 'Shipwreck â€“ The Rescue' which are
+paintings, there are two features of 'Shipwreck â " The Rescue' which are
 atypical. First, the join in the canvas of the painting is unusual; only two[[14]](#_ftn14)
 have been noted by Townsend in her major study of Turner works at the Tate
 Gallery. Second, none of the works examined by Townsend contain a brown ground
 layer, and all of the early seascapes are on white grounds.[[15]](#_ftn15)
 It can be concluded that physical evidence
 suggests that the painting originates from the time period of J. M. W. Turner
-and comprises material available to him. Comparison to current data on TurnerÂ’s
+and comprises material available to him. Comparison to current data on TurnerÂ's
 working methods and use of materials shows some differences. The question of
 attribution to any particular artist should be addressed by a curatorial expert
-on TurnerÂ’s work; based on content and style."
+on TurnerÂ's work; based on content and style."
 It is apparent that once the police seized the painting there was great care
 taken to guarantee that the evidence would all be of forensic nature. The shipping
 case was sealed with multiple stickers, the painting had its own Mountie as
 escort, and once it arrived in Ottawa much care was taken to secure the results
-of testing. In LaverÂ’s words, "To preserve the chain of custody of the evidence
+of testing. In LaverÂ's words, "To preserve the chain of custody of the evidence
 during the police investigation, the painting was marked (ML) on the back by
 Laver on entry into the building and all samples were kept in a locked vault or
 secure laboratory while under analysis."[[xxxvi]](#_edn36)
@@ -623,7 +623,7 @@ the second instance; that "unjust man will be a god-forsaken creature." [[xxxvii
 Science as it relates to the art world is not at this point the power behind
 what is defined as right or wrong; it is only the compliant servant. The great
 Greek philosopher also fortifies the unassailable nature of this sad and
-somewhat gratuitous state by confirming that "so far as arts are concernedâ€¦no art
+somewhat gratuitous state by confirming that "so far as arts are concernedâ  no art
 [or science] ever studies or enjoins the interest of the superior or stronger
 party, but always that of the weaker over which it has authority." [[xxxviii]](#_edn38)
 [Scientific Report](/discovery/art-science/)
@@ -632,7 +632,7 @@ continued
 entertaining story that was spawned from the investigation of Shipwreck, the
 Rescue see...
 
-[Art WorldÂ’s Dirty Little Secret](/book/)
+[Art WorldÂ's Dirty Little Secret](/book/)
 
 [J.M.W. Turner Style](/painting/style/)
  [Forensics](/discovery/forensic/)
@@ -649,7 +649,7 @@ J.M.W. Turner
 [jmwturner@shaw.ca](/)
 Penticton
 
- Â© setters 2003, Rescuing Turner: The Art Project &
+ Â(c) setters 2003, Rescuing Turner: The Art Project &
 [/)
 [[3]](#_ftnref3)
  Jack Lindsay suggests the change of address brought Turner closer to Sarah
@@ -667,36 +667,36 @@ Penticton
  Peter Paul Biro (Art Restoration and Forensic Studies in Art) in his report
  of Oct. 2000 consistently came up with 12 X 12 threads per centimeter.
 [[6]](#_ftnref6)
- Presumably this was Dr. T CrowÂ’s Gainsborough.
+ Presumably this was Dr. T CrowÂ's Gainsborough.
 [[7]](#_ftnref7)
  The Viscount was soon to become an Earl. His friend and colleague Martin
  Butlin later confirmed this with all due respect, albeit, in a comic review
- of the circumstances surrounding the occasionâ€”something to do with being the
+ of the circumstances surrounding the occasionâ "something to do with being the
  hereditary chief fishmonger.
 [[8]](#_ftnref8)
  Martin Butlin a co-author of the BJ Turner Catalogue confessed to this
  parallel during his Penticton visit in 2001.
 [[10]](#_ftnref10)
- It has been quoted in literature numerous times about TurnerÂ’s loose
+ It has been quoted in literature numerous times about TurnerÂ's loose
  brushwork, particularly in his very early and very late paintings. In
  addition, Turner probably retouched this canvas at the time he refurbished
- it circa 1844. Again at that point in time the artistÂ’s brushwork became
+ it circa 1844. Again at that point in time the artistÂ's brushwork became
  even more charged with audacious energy.
 [[11]](#_ftnref11)
  Peter Paul Biro (Art Restoration and Forensic Studies in Art) in his report
  of Oct. 2000, "There
  is no
  evidence to support the
- painting was relined 3 times as reported by Laver â€“ only once. There are two
+ painting was relined 3 times as reported by Laver â " only once. There are two
  sets of nail holes along the edge of the stretcher with many of the nails
  from the first application of the canvas still remaining. This is evidenced
  by the impression of the original
- canvasÂ’s texture
+ canvasÂ's texture
  into the wood around the nails. The second set belongs to the present strip
  lining and the texture of that canvas is similarly impressed into the wood
  around the nails."
 [[12]](#_ftnref12)
- Much has been written of TurnerÂ’s continual experimentation with pigments
+ Much has been written of TurnerÂ's continual experimentation with pigments
  and painting materials particularly during his early years.
 [[13]](#_ftnref13)
  By 1997, Dolbadern Castle Exh.1800 is the only other Turner painting where
@@ -709,7 +709,7 @@ Penticton
  Besides having now established that there were brown grounds used by
  Turner, it is significant that at the time of this report there had been
  only a limited survey done: 50 - roughly 10% of the total number of the
- artistÂ’s work in oil.
+ artistÂ's work in oil.
 
 [[i]](#_ednref1)
  James Hamilton, Turner and the Scientists, (Tate Gallery Publishing,
@@ -718,13 +718,13 @@ Penticton
  Byron Webber, James Orrock R.I., Painter, Connoisseur, Collector;
  (Chatto & Windus, London, in two volumes 1903), Vol. 2, 135.
 [[iii]](#_ednref3)
- Judith Walsh, Solving Puzzles, Discovering OÂ’Keeffe, (IFAR Journal
+ Judith Walsh, Solving Puzzles, Discovering OÂ'Keeffe, (IFAR Journal
  Vol. 5, No. 2, 2002), 39.
 [[iv]](#_ednref4)
  Andrea Kirsh and Rustin S. Levenson, Seeing Through Paintings, (Yale
  University Press, New Haven and London, 2001), 101.
 [[xi]](#_ednref11)
- Joyce Townsend, TurnerÂ’s Painting Techniques, (Tate Publishing,
+ Joyce Townsend, TurnerÂ's Painting Techniques, (Tate Publishing,
  1993), 21.
 [[xii]](#_ednref12)
  Byron Webber, James Orrock R.I., Painter, Connoisseur, Collector;
@@ -736,7 +736,7 @@ Penticton
  Andrea Kirsh and Rustin S. Levenson, Seeing Through Paintings, (Yale
  University Press, New Haven and London, 2001), 31.
 [[xv]](#_ednref15)
- Joyce Townsend, TurnerÂ’s Painting TechniquesÂ’, (Tate Publishing,
+ Joyce Townsend, TurnerÂ's Painting TechniquesÂ', (Tate Publishing,
  1993), pp.71.
 [[xvi]](#_ednref16)
  John Rothenstein and Martin Butlin, Turner, (George Braziller Inc.,
@@ -760,7 +760,7 @@ Penticton
 [[xxii]](#_ednref22)
  Ibid. 176.
 [[xxiii]](#_ednref23)
- Lawrence Gowing, TurnerÂ’s First Continental Tour of 1802, (Turner
+ Lawrence Gowing, TurnerÂ's First Continental Tour of 1802, (Turner
  Society News No. 91 August 2002), 10.
 [[xxiv]](#_ednref24)
  Walter Thornbury, Life of J. M. W. Turner, R.A., (Hurst and Blackett,
@@ -769,11 +769,11 @@ Penticton
  W. L. Wyllie A.R.A., J.M.W. Turner, (G. Bell & Sons, London, 1905),
  35.
 [[xxvi]](#_ednref26)
- Jack Lindsay,, 'Â’': Turner: The Man and His ArtÂ’, (London: Granada,
+ Jack Lindsay,, 'Â'': Turner: The Man and His ArtÂ', (London: Granada,
  1985), 19.
 [[xxvii]](#_ednref27)
  Martin Butlin & Evelyn Joll, The Paintings of J.M.W. Turner, (Yale
- University Press, New Haven and London, Evelyn JollÂ’s 1977 intro. Revised
+ University Press, New Haven and London, Evelyn JollÂ's 1977 intro. Revised
  Edition, 1984), text vol., 21.
 [[xxviii]](#_ednref28)
  Meryle Secrest, Kenneth Clark, A Biography, (Holt, Rinehart and
@@ -790,7 +790,7 @@ Penticton
  Martin Butlin, Turner Watercolours, (Watson-Guptill Publications, New
  York, New York, 1965), 6.
 [[xxxiii]](#_ednref33)
- W.G. Rawlinson, TurnerÂ’s Liber Studiorum, (MacMillan and Co, Limited,
+ W.G. Rawlinson, TurnerÂ's Liber Studiorum, (MacMillan and Co, Limited,
  London, 1906), 33.
 [[xxxiv]](#_ednref34)
  Walter Thornbury, Life of J. M. W. Turner, R.A., (Hurst and Blackett,

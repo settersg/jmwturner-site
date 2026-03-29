@@ -20,7 +20,7 @@ panel/laid down on canvas, 33 x 23.7cm
 Rudolph Hermani estate (Krupp/Benz notoriety)
   Vintage
 monogram A over D, lower left (in the style of Albrecht
-  DÃ¼rer)
+  D  rer)
   Attributed
 to Lucas Cranach the Elder (Alistair Smith, 1988)
   presumable based on a print by this artist showing the child in
@@ -30,18 +30,18 @@ will
 follow showing many stylistic comparables
 Three examples:
 1-
-A comparison with one of DÃ¼rer's
+A comparison with one of D  rer's
 unusual face studies
 
 ![](/images/St%20Jerome%20X3.jpg)![](/images/sketch%20compare%20St%20J%20sm.jpg)
 
 ![](/images/Dresden%20sketchbook,%20Durer%20heads%20written%201523.jpg)
-  In a unique effort DÃ¼rer
+  In a unique effort D  rer
 experimented with distinctive facial types
 2 - the positioning of the infants legs (drawing
 from 1495),
  ![](/images/feet%20position%20X4.jpg)![](/images/child%20drawing%20feet.jpg)
-3 - Quarry study showing DÃ¼rer's interest in taking
+3 - Quarry study showing D  rer's interest in taking
 unusual landscape features from nature
 
 ![](/images/quarry%20detail%20sm.jpg)
@@ -75,7 +75,7 @@ watercolour on paper 1497
  that if I had borne the whole weight of the world upon my shoulders it could
  not have burdened me more heavily." The boy answered, "Wonder not,
  Christopher, for not only hast thou borne the whole world on thy shoulders,
- but Him who created the world"â€”for the Christ Child, bearing in His own arms
+ but Him who created the world"â "for the Christ Child, bearing in His own arms
  the great world, had been Christopher's burden. To prove that this was true,
  He told Christopher to recross the river and plant his staff in the ground
  beside his hut and soon it would burst into bloom. Obeying, Christopher was
@@ -89,7 +89,7 @@ watercolour on paper 1497
  West. In addition to being the patron and protector of all travelers, he is
  also invoked against storms and sudden death. In art Christopher is usually
  shown with his emblems, the Christ Child, a tree in bloom, a torrent; the
- great artists DÃ¼rer and Pollaiuolo are among those who have portrayed him in
+ great artists D  rer and Pollaiuolo are among those who have portrayed him in
  the act for which he is best known.
  This was taken from "Lives of Saints", Published by
  John J. Crawley & Co., Inc.
@@ -216,7 +216,7 @@ HOME
  [jmwturner@shaw.ca](/)
  Penticton British Columbia Canada
 
- Â© setters 2003, Rescuing Turner: The Art Project &
+ Â(c) setters 2003, Rescuing Turner: The Art Project &
  [/)
 
  search for jmw turner  [Google](http://www.google.ca/)

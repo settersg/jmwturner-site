@@ -21,7 +21,7 @@ Martin Butlin and
 Graham Setters, lost in the BJ
 catalogue (2001)
 
-[Art WorldÂ’s Dirty Little Secret](/book/)
+[Art WorldÂ's Dirty Little Secret](/book/)
   r malcolm
 setters
 / graham setters
@@ -37,21 +37,21 @@ tribulations and ecstasies of several of them.
 
 ![](/images/M7%20web.jpg)
  Martin
-Butlin in Penticton signing books in the authorÂ’s study.
+Butlin in Penticton signing books in the authorÂ's study.
 The one in-hand is
 titled Turner Watercolours authored by Martin in 1962
 While
-signing the Companion he noted the cost, "I wish you hadnÂ’t
-bought yours, itÂ’s so expensive (Martin had previously offered to bring a copy
+signing the Companion he noted the cost, "I wish you hadnÂ't
+bought yours, itÂ's so expensive (Martin had previously offered to bring a copy
 as a gift)." When I suggested it must have had a wide distribution, Martin
-bellowed, "well, havenÂ’t sold many I can tell you that!" He continued:
-"WeÂ’ve got the figures. Luke Herrmann (the co-author, along with the late
-Evelyn Joll), itÂ’s very funny, of the three of us, Luke Herrmann has far the
+bellowed, "well, havenÂ't sold many I can tell you that!" He continued:
+"WeÂ've got the figures. Luke Herrmann (the co-author, along with the late
+Evelyn Joll), itÂ's very funny, of the three of us, Luke Herrmann has far the
 most money, inherited money and so on, and he was the one that was really
 concerned, always saying, 'when are we going to get more royalties.' I said,
-'weÂ’ve had an advance, weÂ’re never going to get any more royalties.' We got a
+'weÂ've had an advance, weÂ're never going to get any more royalties.' We got a
 recent statement: 2000 copies have been sent to the United States; and 1000 have
-been sold in England; and a few elsewhere to people like you. I said, 'WeÂ’re
+been sold in England; and a few elsewhere to people like you. I said, 'WeÂ're
 going to be asked to pay some of our royalties back, so keep quiet Luke, I
 said.'" (Chuckle, chuckle)
 
@@ -62,12 +62,12 @@ edition sold out, which is a very rare mistake by John Nichol. John Nichol is
 brilliant. He was at Oxford University Press, and then he took over the London
 end of Yale University Press. In a way the tail wags the dog, because he
 produced more exciting books, he more-or-less tells Yale in Newhaven what he
-wants to do, and they say go ahead and do it. I donÂ’t know what the figures
-were, but we got a second edition, which is marvelous. I think thatÂ’s
+wants to do, and they say go ahead and do it. I donÂ't know what the figures
+were, but we got a second edition, which is marvelous. I think thatÂ's
 still nominally available..."
 
 It is only reasonable to accept that one
-important purpose for producing a catalogue raisonnÃ© is to limit an artist's exposure, and the vulnerability
+important purpose for producing a catalogue raisonn (c) is to limit an artist's exposure, and the vulnerability
 of the artist's prices. These catalogues appear to have evolved by the early
 1900s to appease the need by the art trade to protect those ever so productive
 French Impressionists, or at least to protect the best interests of the dealers
@@ -95,7 +95,7 @@ Finally, condemning or at least ignoring a potential new discovery is
 free and easy, while authenticating one is often perceived as carrying
 undue risk.
 
-[Art WorldÂ’s Dirty Little Secret](/book/)
+[Art WorldÂ's Dirty Little Secret](/book/)
 
  HOME
 
