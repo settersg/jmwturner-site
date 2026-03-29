@@ -762,7 +762,6 @@ Art
 [VV](http://www.villagevoice.com/)
  [Andrew Wilton Rizzoli Tate Clore](http://www.aaabooksearch.com/Author/Andrew%20Wilton/0)
 
-On site: [Home](/)
 [discovery](/painting/)
 [style](/painting/style/)
 [provenance](/painting/provenance/)
@@ -782,13 +781,10 @@ On site: [Home](/)
 [institutional](/discovery/institutional/) [copies](/discovery/copies/)
 [book](/book/) [your story](/about/your-story/)
 [Hand C theory](/discovery/hand-c/) [C dialogue](/discovery/dialogue/)
-  [Terms and conditions](/about/)
 J.M.W. Turner
 
-Site criticism is appreciated at [jmwturner@shaw.ca](/)
 
 (c) setters 2003, Rescuing Turner: The Art Project &
-[www.jmwturner.ca](/)
 
 search for jmw turner [Google](http://www.google.ca/)
 [H](http://www.hotbot.com/)

@@ -85,7 +85,6 @@ things began to get toublesome and suspicious... to be continued...
 [bequest](/about/medal/)
 [news](/about/news/)
 [corresp](/about/correspondence/)
-[Home](/)
 [discovery](/painting/)
 [style](/painting/style/)
 [provenance](/painting/provenance/)

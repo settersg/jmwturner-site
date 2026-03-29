@@ -59,7 +59,6 @@ HOME
  [bibliography](/about/bibliography/)
  [sa](/painting/appraisal/)
 
- [Home](/)
  [discovery](/painting/)
  [style](/painting/style/)
  [provenance](/painting/provenance/)
@@ -102,9 +101,6 @@ HOME
  Publications
  [University College London UCL](http://www.ucl.ac.uk/)
 
- [Terms and conditions](/about/) J.M.W. Turner
-  Site criticism is appreciated at
- [jmwturner@shaw.ca](/)
  Penticton British Columbia Canada
 
  (c) setters 2003, Rescuing Turner: The Art Project &

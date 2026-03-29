@@ -191,10 +191,7 @@ Related sites: [Turner Society](http://www.turnersociety.org.uk/) [Tate Gallery]
 [Wildenstein Institute](http://www.sk-creation.ch/pages/catalogue.raisonne.html) [McCrone Research Institute](http://www.mcri.org/)
 [C](http://www.artcyclopedia.com/artists/turner_joseph_mallord_william.html)[ollections](http://www.artcyclopedia.com/artists/turner_joseph_mallord_william.html)
 
-  [Terms and conditions](/about/)
 J.M.W. Turner
 
-Site criticism is appreciated at [jmwturner@shaw.ca](/)
 
 (c) setters 2003, Rescuing Turner: The Art Project &
-[www.jmwturner.ca](/)

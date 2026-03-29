@@ -16,7 +16,6 @@ layout: single
  Art and related sciences are the main focus with
  topics extending beyond issues pertaining specifically to JMW Turner.
  Membership: please send your: name, e-mail address,
- and area of special interest to [jmwturner@shaw.ca](/)
 
  This vintage postcard claims to show: "Chelsea, the
  house where J.M.W. Turner lived and worked." It would be the modest
@@ -65,7 +64,6 @@ layout: single
  [bibliography](/about/bibliography/)
  [sa](/painting/appraisal/)
 
- [Home](/)
  [discovery](/painting/)
  [style](/painting/style/)
  [provenance](/painting/provenance/)
@@ -108,9 +106,6 @@ layout: single
  Publications
  [University College London UCL](http://www.ucl.ac.uk/)
 
- [Terms and conditions](/about/) J.M.W. Turner
-  Site criticism is appreciated at
- [jmwturner@shaw.ca](/)
  Penticton British Columbia Canada
 
  (c) setters 2003, Rescuing Turner: The Art Project &

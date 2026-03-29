@@ -260,10 +260,8 @@ humanitarian principals. jmw
 [rt/Science](/discovery/art-science/)
 [Art World's Dirty Little Secret](/book/)
 
-[Terms and conditions](/about/)
 J.M.W. Turner
 
-Site criticism is appreciated at [jmwturner@shaw.ca](/)
 Penticton
 
  (c) setters 2003, Rescuing Turner: The

@@ -642,11 +642,8 @@ Rescue see...
 
 HOME
 
-[Terms and conditions](/about/)
 J.M.W. Turner
 
-  Site criticism is appreciated at
-[jmwturner@shaw.ca](/)
 Penticton
 
  (c) setters 2003, Rescuing Turner: The Art Project &

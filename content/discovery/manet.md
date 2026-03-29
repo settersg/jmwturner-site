@@ -386,7 +386,6 @@ Books, 1992.
 [bequest](/about/medal/)
  [news](/about/news/)
  [corresp](/about/correspondence/)
- [Home](/)
  [discovery](/painting/)
  [style](/painting/style/)
  [provenance](/painting/provenance/)
@@ -421,9 +420,7 @@ Murillo
  [Durer or Cranach](/discovery/durer/)
  [Monet](/discovery/manet/)
 
-[Terms and conditions](/about/) J.M.W. Turner
 
- Site criticism is appreciated at [jmwturner@shaw.ca](/)
 Penticton
 
 (c) setters 2003, Rescuing Turner: The Art Project &
