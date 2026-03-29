@@ -1,5 +1,5 @@
 ---
-title: "Durer Albrecht Durer Expert"
+title: "Albrecht Durer"
 layout: single
 ---
 

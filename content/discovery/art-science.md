@@ -1,5 +1,5 @@
 ---
-title: "Art Science J.M.W. Turner'S Painting Techniques Townsend Tate Gallery"
+title: "Art and Science: Turner's Painting Techniques at the Tate Gallery"
 layout: single
 ---
 

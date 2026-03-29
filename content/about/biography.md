@@ -1,5 +1,5 @@
 ---
-title: "Biography Jmw Turner"
+title: "Biography of JMW Turner"
 layout: single
 ---
 

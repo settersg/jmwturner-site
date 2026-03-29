@@ -1,5 +1,5 @@
 ---
-title: "Connoisseurship James Orrock Art Expert Martin Butlin Joll"
+title: "Connoisseurship: James Orrock, Martin Butlin, and Joll"
 layout: single
 ---
 

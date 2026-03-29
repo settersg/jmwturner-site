@@ -1,5 +1,5 @@
 ---
-title: "Rrp Rembrandt Catalogue Ifar International Foundation For Art Research"
+title: "IFAR and the Rembrandt Research Project"
 layout: single
 ---
 

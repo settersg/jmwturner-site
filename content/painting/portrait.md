@@ -1,5 +1,5 @@
 ---
-title: "Portrait Hero Shipwreck Slavers Jmw Turner"
+title: "Portrait of a Hero: Shipwreck, Slavers, and JMW Turner"
 layout: single
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Ehrenbrietstein Tapes"
+title: "The Ehrenbreitstein Dialogue"
 layout: single
 ---
 

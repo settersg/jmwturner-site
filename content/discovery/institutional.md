@@ -1,5 +1,5 @@
 ---
-title: "Institution J.M.W. Turner Berenson Duveen Mellon Yale Tate Gallery"
+title: "Institutional Evolution: J.M.W. Turner, Berenson, Duveen, Mellon, Yale, and the Tate Gallery"
 layout: single
 ---
 

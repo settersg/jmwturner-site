@@ -1,5 +1,5 @@
 ---
-title: "Christie'S Catalogue J.Mw. Turner James Orrock"
+title: "Christie's Catalogue: J.M.W. Turner and James Orrock"
 layout: single
 ---
 

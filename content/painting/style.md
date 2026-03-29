@@ -1,5 +1,5 @@
 ---
-title: "Style J.M.W. Turner Shipwreck Painting"
+title: "J.M.W. Turner's Style and Technique"
 layout: single
 ---
 

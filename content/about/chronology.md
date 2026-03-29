@@ -1,5 +1,5 @@
 ---
-title: "Turner Chronology, Jmw Turner Chronology"
+title: "JMW Turner Chronology"
 layout: single
 ---
 

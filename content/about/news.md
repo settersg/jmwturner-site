@@ -1,5 +1,5 @@
 ---
-title: "News Jmw Turner"
+title: "News"
 layout: single
 ---
 

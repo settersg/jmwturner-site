@@ -1,5 +1,5 @@
 ---
-title: "Legal Fears Martin Butlin Tate Christie'S J.M.W. Turner"
+title: "Legal Fears: Martin Butlin, Tate, and Christie's"
 layout: single
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Hand C Orrock Ehrenbrietstein Martin Butlin J.M.W. Turner"
+title: "The Hand C Theory: Orrock, Ehrenbreitstein, and Martin Butlin"
 layout: single
 ---
 

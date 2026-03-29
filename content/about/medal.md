@@ -1,5 +1,5 @@
 ---
-title: "Turner Bequest Turner Medal Prize"
+title: "The Turner Bequest, Medal, and Prize"
 layout: single
 ---
 

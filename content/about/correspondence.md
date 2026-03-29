@@ -1,5 +1,5 @@
 ---
-title: "Correspondence Jmw Turner Letters Turner Letter John Gage"
+title: "JMW Turner Correspondence and Letters"
 layout: single
 ---
 

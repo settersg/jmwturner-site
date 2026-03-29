@@ -1,5 +1,5 @@
 ---
-title: "Butlin And Joll Catalogue Martin Butlin Evelyn Joll J.M.W.Turner Paintings"
+title: "The Butlin and Joll Catalogue: The Paintings of J.M.W. Turner"
 layout: single
 ---
 

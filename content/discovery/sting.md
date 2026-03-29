@@ -1,5 +1,5 @@
 ---
-title: "Sting Visnei"
+title: "The Sting: Visnei"
 layout: single
 ---
 

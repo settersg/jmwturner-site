@@ -1,5 +1,5 @@
 ---
-title: "Old Master Painting Expert"
+title: "The Old Master Painting Expert"
 layout: single
 ---
 

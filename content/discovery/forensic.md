@@ -1,5 +1,5 @@
 ---
-title: "Forensic Art Restoration Forensic Studies In Art Fingerprint Identification"
+title: "Forensic Studies in Art: Fingerprint Identification"
 layout: single
 ---
 

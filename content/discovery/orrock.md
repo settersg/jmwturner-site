@@ -1,5 +1,5 @@
 ---
-title: "James Orrock Sir J.C. Robinson Connoisseurship J.M.W. Turner Shipwreck Paintings"
+title: "James Orrock and Sir J.C. Robinson: Connoisseurship of Turner's Shipwreck Paintings"
 layout: single
 ---
 

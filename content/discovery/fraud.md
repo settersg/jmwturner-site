@@ -1,5 +1,5 @@
 ---
-title: "Fraud Art Fraud"
+title: "Art Fraud"
 layout: single
 ---
 

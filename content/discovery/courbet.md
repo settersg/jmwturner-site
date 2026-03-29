@@ -1,5 +1,5 @@
 ---
-title: "Pool Near Ornans"
+title: "Courbet: Pool Near Ornans"
 layout: single
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Rubens Peter Paul Rubens"
+title: "Peter Paul Rubens"
 layout: single
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "National Gallery Of Canada Shipwreck J.M.W. Turner"
+title: "National Gallery of Canada: Shipwreck by J.M.W. Turner"
 layout: single
 ---
 

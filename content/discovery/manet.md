@@ -1,5 +1,5 @@
 ---
-title: "Manet Expert Edouard Manet Art Expert"
+title: "Edouard Manet"
 layout: single
 ---
 

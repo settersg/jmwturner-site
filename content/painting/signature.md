@@ -1,5 +1,5 @@
 ---
-title: "Jwt Jmw Turner Signature"
+title: "J.M.W. Turner's Signature and Inscriptions"
 layout: single
 ---
 

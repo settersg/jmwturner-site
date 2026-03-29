@@ -1,5 +1,5 @@
 ---
-title: "National Gallery London"
+title: "National Gallery, London"
 layout: single
 ---
 
