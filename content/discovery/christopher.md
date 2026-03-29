@@ -75,7 +75,7 @@ watercolour on paper 1497
  that if I had borne the whole weight of the world upon my shoulders it could
  not have burdened me more heavily." The boy answered, "Wonder not,
  Christopher, for not only hast thou borne the whole world on thy shoulders,
- but Him who created the world"â "for the Christ Child, bearing in His own arms
+ but Him who created the world"' "for the Christ Child, bearing in His own arms
  the great world, had been Christopher's burden. To prove that this was true,
  He told Christopher to recross the river and plant his staff in the ground
  beside his hut and soon it would burst into bloom. Obeying, Christopher was
@@ -216,7 +216,7 @@ HOME
  [jmwturner@shaw.ca](/)
  Penticton British Columbia Canada
 
- Â(c) setters 2003, Rescuing Turner: The Art Project &
+ (c) setters 2003, Rescuing Turner: The Art Project &
  [/)
 
  search for jmw turner  [Google](http://www.google.ca/)

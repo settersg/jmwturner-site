@@ -73,7 +73,7 @@ early work
 oil on canvas 13 x 10 in
 Shortly after returning from Italy Rubens married Isabella Brandt in 1909. At
 this time he was doing religious works for the Jesuit Brothers of Antwerp. The
-portrait of St. Ann has a striking resemblance to Isabella â " she has an
+portrait of St. Ann has a striking resemblance to Isabella ' " she has an
 unmistakable pinched smile typical of portraits Rubens did of her during their
 few years of marriage.
 The face of the virgin (above) mirrors certain studies the artist did from the 15th
@@ -90,16 +90,16 @@ Susanna and the Elders, P.P. Rubens
 The above
 painting is from the Rudolph Hermani estate. There is another replica in the
 Alte Pinakothek, but although it is considered the prototype of the two, oddly,
-it does not depict RubensÂ' portrait of Susanna, his neigbourÂ's eldest daughter
-as seen here. RubensÂ' neighbour was Daniel (Fourment), and Daniel was another
+it does not depict Rubens' portrait of Susanna, his neigbour's eldest daughter
+as seen here. Rubens' neighbour was Daniel (Fourment), and Daniel was another
 character in the old biblical allegory from whence this drama was taken. Likely
 the names of these neighbours were responsible for inspiring this work in the
-first place, and it would follow that Rubens used Susanna as the modelâ "he often
-used her as a model in his paintings. The portrait seen in RubensÂ' famous
-, 'Â'': Chapeau de PailleÂ' (detail shown above) has the unusual facial features also
+first place, and it would follow that Rubens used Susanna as the model' "he often
+used her as a model in his paintings. The portrait seen in Rubens' famous
+, ''': Chapeau de Paille' (detail shown above) has the unusual facial features also
 seen on the young girl of Susanna and the Elders: "an attractive girl
 with a slender pointed face and large lively eyes."[[i]](#_edn1)
-, 'Â'': Chapeau de PailleÂ' was also a portrait of his neigbourÂ's eldest daughter
+, ''': Chapeau de Paille' was also a portrait of his neigbour's eldest daughter
 Susanna. What one might conclude from this is that the Hermani painting is
 likely the archetype painted by Rubens himself whereas the other is a studio
 copy.
@@ -125,7 +125,7 @@ box?
 estate?
 DURABILITY / FRAGILITY:
   - Consider the proposed use of your potential new treasure, and if it
-is suitable for itÂ's new location and purpose.
+is suitable for it's new location and purpose.
   - Shipping; will it require special packaging?
   - Longevity; is it subject to environmental degradation?
 POPULARITY:
@@ -216,7 +216,7 @@ Source:
 J[MW Turner Joseph Mallord William](/painting/), National Gallery of Canada
 Metropolitan Museum of Art Museum of Modern Art the British
 Museum art museum art history
-[ChristieÂ's](/painting/provenance/) SothebyÂ's Tate
+[Christie's](/painting/provenance/) Sotheby's Tate
 Gallery art world painting old master paintings[sea piece Shipwreck](/painting/style/)Martin Butlin Wildenstein
 Institute Yale Center
 British Art The Getty Getty Research Institute provenance Clore
@@ -240,7 +240,7 @@ Reynolds fakes forgeries [connoisseurship](/discovery/copies/) connoisseur
 [Orrock](/painting/provenance/)
 [Sir J.C. Robinson](/discovery/orrock/)
 [Turner portrait](/painting/portrait/) John Paul
-Getty Agnew AgnewÂ's antiques research specialist consultant expertise professional expert
+Getty Agnew Agnew's antiques research specialist consultant expertise professional expert
 witness Oxford Cambridge Frick Collection curator Andrew Mellon Goya Manet Emily
 Carr Manet
  |
@@ -322,7 +322,7 @@ Carr Manet
  [jmwturner@shaw.ca](/)
  Penticton British Columbia Canada
 
- Â(c) setters 2003, Rescuing Turner: The Art Project &
+ (c) setters 2003, Rescuing Turner: The Art Project &
  [/)
 
  search for jmw turner  [Google](http://www.google.ca/)

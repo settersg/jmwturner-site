@@ -30,12 +30,12 @@ JMW Turner's
  being expressed." The sensitive Turner would soon react to such criticism with
  a higher level of finish and impasto.
 
- [Art WorldÂ's  Dirty Little Secret](/book/)
+ [Art World's  Dirty Little Secret](/book/)
  Because
 of their particular relationship it can be assumed that when the aging
 Turner presented Shipwreck, the Rescue to Griffith, his friend and
 gentlemanly agent, the two men felt the monumental sea piece was a key example
-of the artistÂ's work. It is closely linked to Shipwreck, one of TurnerÂ's
+of the artist's work. It is closely linked to Shipwreck, one of Turner's
 most innovative and popular works of the day. Certain characteristics would date
 [Shipwreck, the Rescue](/painting/) to a time shortly before Shipwreck, at a point when Turner
 was developing the early stages of his famous lozenge shaped composition, an
@@ -43,7 +43,7 @@ invention that would culminate with the all-consuming vortex composition years
 later. Kenneth Clark singled out this innovation succinctly when he wrote: "only
 Turner could have conceived, a fearful melee of conflicting directions occupying
 a diamond-shaped area, an agitated lozenge in the middle of the composition.
-This picture, The Shipwreck, is one of TurnerÂ's first assertions that the
+This picture, The Shipwreck, is one of Turner's first assertions that the
 force of the elements could not be conveyed by traditional schemes of landscape
 painting. It might be said to be one of his first great anti-classical
 pictures."
@@ -59,8 +59,8 @@ when it came to the Royal Academy exhibitions he felt a need to produce
 conservative pictures more in the public taste. He would lavish them with thick
 impasto and additional pigments. This practice came after criticisms by
 potential patrons and colleagues alike who condemned his early exhibited pieces
-for lack of finish. First Fuseli said,, 'Â'': Perhaps the foregrounds too little
-attended to â " Too undefinedÂ',[[1]](#_ftn1)
+for lack of finish. First Fuseli said,, ''': Perhaps the foregrounds too little
+attended to ' " Too undefined',[[1]](#_ftn1)
 then Sir George Beaumont, "his foregrounds are comparative blots, & faces of
 figures witht. a feature being expressed."
 [[ii]](#_edn2)
@@ -81,11 +81,11 @@ offered his colleagues a dramatic performance of paint slinging? Yes, he reached
 the polar extreme of what he had been doing early on. His watercolour painting
 technique in oils had turned to heavy impasto applied in what appeared to be a
 slap dash fashion. Perhaps this was meant to make the attendees at the Royal
-Academy exhibition aware that their wishes were now being grantedâ "but only under
+Academy exhibition aware that their wishes were now being granted' "but only under
 protest. Hamerton makes it clear that he did not suffer fools gladly, "Turner
 bitterly despised the public for not understanding."[[iii]](#_edn3)
 In fact, "all his life Turner was in open and notorious revolt against
-, 'Â'': proper finishÂ'"[[iv]](#_edn4)
+, ''': proper finish'"[[iv]](#_edn4)
  Eventually, confidence inspired by his growing success refueled these fires,
 and with the use of the vortex composition to aid his purpose, his late works
 became even freer. This is the point in time that Shipwreck, the Rescue
@@ -95,8 +95,8 @@ revitalizing of the pigments in the area of the water around the rescue boat.
 This added brushwork is very similar to that seen in his, Rain Steam and
 Speed also of 1844 as well as Snow Storm of 1842. Sorrowfully, and
 incongruously, this was also the point in his life that the public was beginning
-to question both TurnerÂ's power and competence, calling his submissions to the
-Royal Academy, "Mr. TurnerÂ's little jokes."[[v]](#_edn5)
+to question both Turner's power and competence, calling his submissions to the
+Royal Academy, "Mr. Turner's little jokes."[[v]](#_edn5)
 ![](/images/SWRwaterweb.jpg)
 Detail: Shipwreck, the Rescue
   In 1844,
@@ -113,14 +113,14 @@ action that normally accompanies swift brushwork.
 In Turner's Snow Storm from 1842 it is evident
 that his brushwork is meant to describe the forces of nature on a more visceral
 level.
-Joyce Townsend notes in a very appropriate context, the artistÂ's use of both
+Joyce Townsend notes in a very appropriate context, the artist's use of both
 dark and light scumbling, "Thin, dark scumbles can be seen in the shore of the
 foreground of Waves Breaking Against the Wind (c. 1835; BJ 457) and in
 many other unfinished seascapes of this decade. Numerous light-coloured scumbles
 of localized extent can be seen in the sea and sky in Snow Storm - Steam Boat
 Off a Harbours Mouth (RA 1842; BJ 398)."[[vi]](#_edn6)
 In
-light of TurnerÂ's very early overall lack of finish and
+light of Turner's very early overall lack of finish and
 in-articulation of his figures, many reviewers at the time treated him
 wretchedly. Surely the key to understanding where the aesthetic conflict arose
 is hidden within the fundamentals of Turner early training in watercolour. What
@@ -128,25 +128,25 @@ Butlin and Joll describe as, "careful but thinly painted, in just the manner one
 might suppose a watercolour artist might paint."[[
 vii]](#_edn7)
 "Turner has frequently been reproached with basing his practice in oils on
-his watercolour technique. This wasâ  one of the charges which Sir George Beaumont
+his watercolour technique. This was'  one of the charges which Sir George Beaumont
 brought against him, and even Constable echoed it."[[viii]](#_edn8)
-John Gage confirms that, "TurnerÂ's thoroughly unconventional attitude towards
+John Gage confirms that, "Turner's thoroughly unconventional attitude towards
 the status of watercolour, and his capacity to develop watercolour methods in
 his oil paintings, are so striking that it would be surprising if they were not
 related to views on the nature and role of water itself."[[ix]](#_edn9)
 Philip Hamerton put it even more succinctly when he said that Turner "painted
 much in oil, but the influence of his water-colour practice is evident in nearly
 all his pictures; in many of them it is even painfully evident, so that
-Constable, not unjustly, called them, 'Â'': Large Water-colours.Â'"[[x]](#_edn10)
+Constable, not unjustly, called them, ''': Large Water-colours.'"[[x]](#_edn10)
 
 ![](/images/SWR%20crop%20brushwork%20boat-3-web.jpg)
-Detail: Shipwreck, the Rescue showing TurnerÂ's unusual
+Detail: Shipwreck, the Rescue showing Turner's unusual
 brushwork - unblended, done largely in the technique of his watercolours.
 
 According to one writer on
 Turner, Mary Chamot, the simple rendering seen on the figures in the rescue boat
 might elevate Shipwreck, the Rescue to an exemplary level of aesthetic
-importance. The, 'Â'': lack of finishÂ' of those tormented figures, as they are found
+importance. The, ''': lack of finish' of those tormented figures, as they are found
 woven carefully into the rescue boat, should add rather than detract from the
 impact of the painting according to this scholar. As she put it: "probably the
 chief reason why Turner left so many vivid direct studies in their pristine
@@ -161,25 +161,25 @@ however our interest is undoubtedly focused on the slighter sketches, of which
 he must have had a large stock in his studio, perhaps for the purposes of
 finishing off when required for exhibition, or more probably, because he himself
 realized that some of the beauty would be inevitably sacrificed with the
-addition of detailsâ   a number of seascapes are among the most remarkable of
+addition of details'   a number of seascapes are among the most remarkable of
 these."[[xii]](#_edn12)
 From this description, it is almost as though Mary Chamot
 had seen Shipwreck, the Rescue.
 
 In attempting to rationalize the connection between sketches, studies, and
 "finished" pictures; A.J. Finberg comes closest to understanding the relevance
-of TurnerÂ's early "unfinished" work, as well as, the spiraling force of his
+of Turner's early "unfinished" work, as well as, the spiraling force of his
 latter work. Finberg concurs as early as 1910 with what he calls the "consensus
 of educated opinion," that "the subjects lost rather than gained by
-elaborationâ  some mental and emotional contents are incapable of definite
+elaboration'  some mental and emotional contents are incapable of definite
 embodiment."
 [[xiii]](#_edn13)
 
 Certainly,
-Shipwreck was TurnerÂ's first successes at escaping the contemporary
+Shipwreck was Turner's first successes at escaping the contemporary
 criticism being leveled at him over lack of finish. This is the work that one of
-the most artistically adroit of TurnerÂ's biographers, Walter Bayes, used to
-establish the defining moment of TurnerÂ's conversion. Bayes reiterated the
+the most artistically adroit of Turner's biographers, Walter Bayes, used to
+establish the defining moment of Turner's conversion. Bayes reiterated the
 criticism "detractors leveled at some of Turner's work, the reproach that his
 oils were but enlarged water colours," but goes on to describe his new vision:
 "In the early years of the nineteen century he had already advanced a step
@@ -188,13 +188,13 @@ to be given the precedence over detail and be painted first, but that, to give
 them their due predominance, they must be endowed with the major
 weight of impasto."
 (Bayes, 1931, p. 99)
-  Key to TurnerÂ's development
+  Key to Turner's development
 at this time was the synthesis of classical figure drawing he had laboured for
 years on at the Royal Academy school and the move toward his sublime shipwreck
 series. The lead into this of course was the Bridgewater Sea-piece of
 1801. About the sketchbook that mapped out this transition, or rather,
 integration, Finberg tells us "studies for the Bridgewater Sea-piece were
-made in aâ  book which seems to have been devoted at first to the purpose of
+made in a'  book which seems to have been devoted at first to the purpose of
 making life studies at the Academy classes."
 [[xiv]](#_edn14)
 A strategic sketchbook indeed, and one that helps clarify why there are
@@ -214,7 +214,7 @@ Alas, Turner would soon learn that the impasto required in bringing these
 works to the level of finish that the public demanded would expunge much of his
 figure drawing. His labored articulations would soon wane as he realized
 that such finish would eventually negate the effect of expressing his talents in
-this areaâ "the fine detailing would need obliterating by additional layers of
+this area' "the fine detailing would need obliterating by additional layers of
 paint. As the spontaneity of his brushwork needed preserving above all,
 articulate figure drawing gave way to the need for a uniform finish. Turner was
 not going to sacrifice his watercolour-style completely. Shipwreck, the
@@ -228,14 +228,14 @@ an example of Turner's figure drawing, Ruskin expressed his reverence
 such: "infinitely more power of figure-painting than ever landscape painter
 showed before." (Finberg, 1961, p116) It would be
 absorbing to see the two paintings, the highly finished Shipwreck, and
-Shipwreck, the Rescue displayed side by side in light of ChamotÂ's comments,
+Shipwreck, the Rescue displayed side by side in light of Chamot's comments,
 "indicated only by a few apt touches of colour." It would also provide a better
 idea of their relationship to one another.
 
 On stylistic
 grounds it is reasonable to believe that Turner's early but extensive
-sea-piece, 'Â'': seriesÂ' was sketched within a short period of perhaps five years,
-circa 1799 -1804, before and shortly after TurnerÂ's first trip to France. "The
+sea-piece, ''': series' was sketched within a short period of perhaps five years,
+circa 1799 -1804, before and shortly after Turner's first trip to France. "The
 result of this was a series of pictures more ambitious and varied than he had
 previously attempted. Vivid memories of his rough channel crossing inspired him
 to paint Calais Pier, with French Poissards preparing for Sea: an English
@@ -288,9 +288,9 @@ sublime work was mined for decades afterwards.
 It is understandable that the dating of such work is dubious and that the
 dates given by Butlin and Joll are often tentative. It is evident that some of
 these works have been given dates later than they deserve. Butlin and Joll
-apparently fell prey to TurnerÂ's stealthy plan. According to his own intentions
-Turner exhibited his works in a haphazard fashion in order ", 'Â'': to put the critics
-off the scent,Â' as he said, he often doubled on his tracks." This was easy for
+apparently fell prey to Turner's stealthy plan. According to his own intentions
+Turner exhibited his works in a haphazard fashion in order ", ''': to put the critics
+off the scent,' as he said, he often doubled on his tracks." This was easy for
 him to do because, "at any one time he kept a large quantity of work on hand."[[xxi]](#_edn21)
 For the project at hand, the work most in need of re-dating is probably Wreck
 of a Transport Ship. We see in both this painting and Shipwreck, the
@@ -309,18 +309,18 @@ years of the century it is easy to envision the factory setting at the Norton
 studio with bolts of large dimension canvas, easels, pigment materials, and his
 old daddy in a distant corner toiling away on strainers to support those
 monstrous canvases. Oh yes: and on occasion there would be Sebastian Grandi
-stopping in to apply those brown, 'Â'': VenetianÂ' grounds for which he was famed - but
+stopping in to apply those brown, ''': Venetian' grounds for which he was famed - but
 always done under the watchful eye of the old man who was ever concerned over
-the use of costly materials. Stories connected to OrrockÂ's painting master W.L.
+the use of costly materials. Stories connected to Orrock's painting master W.L.
 Leitch give us a sense of this same working method: "The Fawkes girls also told
-Leitch that they had seen in TurnerÂ's bedroom at Farnley, 'Â'': cords spread across
+Leitch that they had seen in Turner's bedroom at Farnley, ''': cords spread across
 the room as in that of a washer woman, and papers tinted with pink and blue and
 yellow hanging on them to dry,"
 [[xxii]](#_edn22) then
 again from Walter Sparrow (1903):
 
 "Leitch, the watercolour painter told a friend of mine [certainly Orrock][[2]](#_ftn2)
-that he once accompanied Pickersgill to TurnerÂ's studio, where he had the
+that he once accompanied Pickersgill to Turner's studio, where he had the
 privilege of watching the great man at his labours. There were four
 drawing-boards, each of which had a handle screwed to the back. Turner after
 sketching in his subject in a fluent manner grasped the handle and plunged the
@@ -337,33 +337,33 @@ By the time Turner had
 produced all of his great works the Athenaeum in 1849 published:
 "For the credit of England and of Mr. Turner let it be said that the picture of
 most excellence and interest in this assemblage [of Old Masters] is from his
-handâ   We have no recollection of any production in its class â " whether of the
-Dutch, the Italian, or the French school â " which surpasses â " or even equals â "
-the artistÂ's Shipwreck." It shows "a grasp of mind and the command of
+hand'   We have no recollection of any production in its class ' " whether of the
+Dutch, the Italian, or the French school ' " which surpasses ' " or even equals ' "
+the artist's Shipwreck." It shows "a grasp of mind and the command of
 hand that have exhibited in a high moral sense the excitement and action of the
 tempest in its wrath."
 
-This news article, two years before TurnerÂ's passing, mirrored the paramount
+This news article, two years before Turner's passing, mirrored the paramount
 respect Turner himself had for his early turbulent sea-pieces during his
 entire lifetime. The Shipwreck exhibited in 1805 was purchased back by
 Turner decades earlier in 1806, and was certainly destined early on to be part
 of his bequest to the Nation. He was apparently exhibiting these early
-sea-pieces with utmost pride right up until the end. Another one of TurnerÂ's
+sea-pieces with utmost pride right up until the end. Another one of Turner's
 executors Charles Turner had engraved Shipwreck in 1806, the first of his
 oils to be engraved, and the public attention this effort garnered was a vital
-boost to the artistÂ's fame.
+boost to the artist's fame.
 
 Turner's plan for the
 Turner Bequest included a 'Turner gold medal', and a strategy to create a
 retreat for derelict British artist's. Sadly, his Will was unraveled after his
 passing.
 
-[Art WorldÂ's Dirty Little Secret](/book/)
+[Art World's Dirty Little Secret](/book/)
 HOME
 
  [[1]](#_ftnref1)
  The foreground of Shipwreck and particularly the figures in the
- foreground that cling to the wreckage fit both FuseliÂ's and BeaumontÂ's
+ foreground that cling to the wreckage fit both Fuseli's and Beaumont's
  descriptions faithfully.
  [[2]](#_ftnref2)
  See James Orrock R.I., Painter, Connoisseur, Collector, 1903 for an
@@ -378,7 +378,7 @@ HOME
  Philip Gilbert Hamerton, Life of J.M.W. Turner R.A., (University
  Press: John Wilson & Son, Cambridge, 1879), 116-7
  [[iv]](#_ednref4)
- A.J. Finberg, introduction by Lawrence Gowing, TurnerÂ's Sketches &
+ A.J. Finberg, introduction by Lawrence Gowing, Turner's Sketches &
  Drawings, (Schocken, New York, 1968), xxi.
  [[v]](#_ednref5)
  Kenneth Clark, The Romantic Rebellion: Romantic versus Classic Art,
@@ -389,7 +389,7 @@ HOME
  Herrmann, 2001), 286.
  [[vii]](#_ednref7)
  Martin Butlin & Evelyn Joll, The Paintings of J.M.W. Turner, (Yale
- University Press, New Haven and London, Evelyn JollÂ's 1977 intro. Revised
+ University Press, New Haven and London, Evelyn Joll's 1977 intro. Revised
  Edition, 1984), text vol., 20.
  [[viii]](#_ednref8)
  Graham Reynolds,
@@ -408,10 +408,10 @@ HOME
  the Tate Gallery, (Tate Gallery Publications and Information Department,
  1959), 16.
  [[xiii]](#_ednref13)
- A.J. Finberg, TurnerÂ's Sketches & Drawings, (Schocken, New York,
+ A.J. Finberg, Turner's Sketches & Drawings, (Schocken, New York,
  1968), 152.
  [[xiv]](#_ednref14)
- A.J. Finberg, TurnerÂ's Sketches & Drawings, (Schocken, New York,
+ A.J. Finberg, Turner's Sketches & Drawings, (Schocken, New York,
  1968), 45.
  [[xv]](#_ednref15)
  William Hardy, The History and Techniques of the Great Masters: Turner
@@ -439,4 +439,4 @@ HOME
  1969), 32.
  [[xxiii]](#_ednref23)
  Walter Shaw Sparrow, The Genius of J.M.W. Turner R.A., (Offices of
-, 'Â'': The StudioÂ', London, Paris, and New York, MCMIII), w vii.
+, ''': The Studio', London, Paris, and New York, MCMIII), w vii.

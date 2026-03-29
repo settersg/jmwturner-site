@@ -23,7 +23,7 @@ This would-be 'orphan' was mentioned earlier, Seascape: Folkestone c1845.
 In 1984 Turner "broke all sales records for a work of art" with this particular
 painting.
 Before this its only claim to fame appeared to be its honourable connection to
-Lord Kenneth Clark who bought it from AgnewÂ's in 1951. The painting had no
+Lord Kenneth Clark who bought it from Agnew's in 1951. The painting had no
 history before Sir Donald Curry in 1894. This nameless foundling was assigned a title, but
 there were still problems. For one thing it had no clearly associated sketches, and
 apparently, there were no closely related
@@ -32,11 +32,11 @@ enigma; green was Turner's
 least favourite. As for adequate provenance, the lack of it, in this case, might not be so remarkable after all. According to
 the Butlin and Joll catalogue of Turner's work:
 "The absence of any
-history before 1894 is puzzlingâ  If, therefore, it was sold during TurnerÂ's
+history before 1894 is puzzling'  If, therefore, it was sold during Turner's
 lifetime; it must have been bought directly from the studio by a collector such
-as Gillott or Bicknell, who were both buying TurnerÂ's work in bulk c1844. It
+as Gillott or Bicknell, who were both buying Turner's work in bulk c1844. It
 seems still more likely, however, that it was in some way disposed of after
-TurnerÂ's death. Although we have no record of any Turners sold in this way, that
+Turner's death. Although we have no record of any Turners sold in this way, that
 such transactions took place is highly probable and, indeed, the number of
 pictures of this general type, for which no early record of sale exists, is now
 sufficiently large to make it seem virtually certain that a group of canvases
@@ -65,8 +65,8 @@ with this point as follows:
 The complaints
 regarding frivolous and untruthful expert opinions are all too justified. They
 have caused a reaction, so that timorous minds nowadays go to the extremes in
-judging negatively or with reserve. The people concerned say, 'Â'': noÂ' in order not,
-at all events, to be considered with the, 'Â'': yes-menÂ'. Now prudence is not only the
+judging negatively or with reserve. The people concerned say, ''': no' in order not,
+at all events, to be considered with the, ''': yes-men'. Now prudence is not only the
 mother of wisdom but also the daughter of ignorance. What must be done to steer
 the right course between the rocks of conciliator compliance on the one hand and
 a negative attitude, on principle, on the other.
@@ -91,12 +91,12 @@ connection by BJ might even be superimposed with this other example to make
 a complete preliminary work. It is quite possible that they are all connected.
   There were a number of other
 concerns; one of these was over the undefined relationship of the clouds and water, to
-that of the horizon? When you consider TurnerÂ's vortex compositions, works of the same
-period such as Snowstorm, Steam-Boat off a HarbourÂ's Mouth, 1842, this
+that of the horizon? When you consider Turner's vortex compositions, works of the same
+period such as Snowstorm, Steam-Boat off a Harbour's Mouth, 1842, this
 becomes very much a mute point. The horizon is un-delineated in several works
 around this time period.
 Secondly, the thin parallel
-cracks that are censored in the report may in fact be from physical damage, and thus support TurnerÂ's habit of
+cracks that are censored in the report may in fact be from physical damage, and thus support Turner's habit of
 rolling some canvases for storage.
  Finally, there is the derision over the
 impasto-embellished figure in the foreground water, criticized as being more
@@ -112,25 +112,25 @@ In fact, if the Ottawa picture had been reworked at a later date, which would
 have been a likely case scenario, this should
 act as a commendatory rather than a "condemnatory" stylistic reference.
 Graham Reynolds makes an
-interesting point over such irregularities, ones that are also to be found on TurnerÂ's
-exhibition pieces. Incorporating a quote from Redgrave, one of TurnerÂ's
+interesting point over such irregularities, ones that are also to be found on Turner's
+exhibition pieces. Incorporating a quote from Redgrave, one of Turner's
 colleagues, Reynolds effectively defends the NGC picture in light of such
-ungrounded criticism; "Redgraveâ  comments on TurnerÂ's love
-of transfiguring a rich colour from other palettes to his own pictures,, 'Â'': from
+ungrounded criticism; "Redgrave'  comments on Turner's love
+of transfiguring a rich colour from other palettes to his own pictures,, ''': from
 our own palette he has whisked off, on more occasions![](/images/Turner%20paintingweba.jpg)
 than one, a luscious knot
 of orange vermilion or ultramarine, tempered with copal, and at once used it on
-a picture he was at work upon with a mastic magylph.Â' As he points out this
+a picture he was at work upon with a mastic magylph.' As he points out this
 mixture of media with differing drying qualities is a cause of [physical] failure in
-TurnerÂ's work, but is evidence of a wish to embellish the highlights, and
+Turner's work, but is evidence of a wish to embellish the highlights, and
 explains the fragmentary variegated texture of his exhibited pieces."[[xxxvi]](#_edn36)
  S.W. Parott; Turner on Varnishing Day c1846
 
 What if we weighed the relatively
 minor anomalies presented by the Tate critique against the NGC picture with
-TurnerÂ's paste-on dog in the picture Mortlake Terrace, the Seat of William
+Turner's paste-on dog in the picture Mortlake Terrace, the Seat of William
 Moffat, Esq. (BJ 239), "Mr. Tom Taylor adduces this dog as a proof of
-TurnerÂ's reckless readiness of resources when an effect in art was wanted. It
+Turner's reckless readiness of resources when an effect in art was wanted. It
 suddenly struck the artist that a dark object here would throw back the distance
 and increase the aerial effect. Turner instantly cut a dog out of black paper
 and stuck him on the wall, where he still remains; for either satisfied or
@@ -139,17 +139,17 @@ And... "a story is told which shows his experimental methods of working: the
 figure of Sibyl in the foreground was a page cut
 from his sketchbook and pasted on the canvas. This he replaced a few years later." [[xxxviii]](#_edn38)
 These anomalous comparisons, of which there are many other novel innovations
-within the artistÂ's body of work, will hopefully elucidate the injustice being
-served by chopping the Ottawa picture from TurnerÂ's oeuvre... Yes, chopped for
+within the artist's body of work, will hopefully elucidate the injustice being
+served by chopping the Ottawa picture from Turner's oeuvre... Yes, chopped for
 reasons of a dab too much impasto, where in fact, a bit more paint might have
 been warranted!
 And what about provenance? It seemed pretty good, but unwittingly, at a time
 when the NGC was largely purchasing paintings from
-AgnewÂ's, the home-base of Evelyn Joll, co-author of the Butlin and Joll catalogue
+Agnew's, the home-base of Evelyn Joll, co-author of the Butlin and Joll catalogue
 raisonn (c) of Turner's work, why on earth would they stray and buy
 their Shipwreck, presumably such an important British painting, and one so
 connected to British interests, from the dealer Nico Jungman? At last, we are
-left to ponder the inconsistencies of the Tate pundits' condemnation of the NGCÂ's
+left to ponder the inconsistencies of the Tate pundits' condemnation of the NGC's
 Shipwreck and enter a more philosophic chapter. Our enquiries must start
 accounting for political motivations for what seems to be high-level trickery.
 
@@ -158,7 +158,7 @@ accounting for political motivations for what seems to be high-level trickery.
  HOME
  [[xxxiii]](#_ednref33)
  Martin Butlin & Evelyn Joll, The Paintings of J.M.W. Turner, (Yale
- University Press, New Haven and London, Evelyn JollÂ's 1977 intro. Revised
+ University Press, New Haven and London, Evelyn Joll's 1977 intro. Revised
  Edition, 1984), text vol. 289.
  [[xxxiv]](#_ednref34)
  Ibid. 320.
@@ -196,5 +196,5 @@ J.M.W. Turner
 
 Site criticism is appreciated at [jmwturner@shaw.ca](/)
 
-Â(c) setters 2003, Rescuing Turner: The Art Project &
+(c) setters 2003, Rescuing Turner: The Art Project &
 [www.jmwturner.ca](/)

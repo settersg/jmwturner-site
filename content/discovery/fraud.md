@@ -30,7 +30,7 @@ masterpieces. Many such artworks remain in limbo without proper attributions, or
 are given deprecating ones at best.
 There are many subsidiary tentacles of this beast that baits the
 modern day connoisseur.
-The Bigger Problemâ  
+The Bigger Problem'  
 Ultimately the bigger problem is one of fundamental social
 issues, ones that revolve around politics and economics. The main dilemma as it
 pertains to Art History is that one of the most dependable ways by which any
@@ -39,8 +39,8 @@ artifacts such as art. Because much of ones learning is born of past experience,
 it sensibly follows that truth and accuracy of historical and art historical
 records equate to accuracy in contemporary decision-making.
 Self-serving interests of the individual are what motivate
-political decision-making. Whether a countryÂ's control group is an old boyÂ's
-club, aristocracy, or corporate board network, the result is the sameâ "Reciprocal
+political decision-making. Whether a country's control group is an old boy's
+club, aristocracy, or corporate board network, the result is the same' "Reciprocal
 Patronage.
 Reciprocal patronage is not an altruistic standard; it often
 leads to deception and injustice. As a result art historical accuracy is
@@ -81,16 +81,16 @@ must be fully considered when assessing authorship:
 [connoisseurship](/discovery/copies/)
 [provenance](/discovery/orrock/)
 [art politics](/discovery/institutional/)
- "'In 1987, Sotheby's paid out-of-court damages to the original owner of a Sebastiano del Piombo portrait knocked down for Â 180 at auction in Chester.
- It subsequently sold for Â 330,000 in London, and - after being cleaned - for
- a reported Â 6.5 million to the Getty (where quite a few rediscovered
+ "'In 1987, Sotheby's paid out-of-court damages to the original owner of a Sebastiano del Piombo portrait knocked down for  180 at auction in Chester.
+ It subsequently sold for  330,000 in London, and - after being cleaned - for
+ a reported  6.5 million to the Getty (where quite a few rediscovered
  masterpieces end up).' (Ian Warrell/Warrell, The Age,
  AU 2002)
   "Even as early as 1931 Walter Bayes found that the
  legal fears of one
  influential official over authenticating paintings drove him to
- incompetence. When Bayes asked: "Millionairesâ   must tremble at your nod,"
- the reply came: "If you knew my boyâ   how much it is the other way round. The
+ incompetence. When Bayes asked: "Millionaires'   must tremble at your nod,"
+ the reply came: "If you knew my boy'   how much it is the other way round. The
  interests concerned are so great, and money can do such strange things, that
  I find it generally safer to hold my tongue." (Walter Bayes, Turner, A
  Speculative Portrait, p5)
@@ -246,7 +246,7 @@ HOME
 Source:
 J[MW Turner Joseph Mallord William](/painting/), National Gallery of Canada
 Metropolitan Museum of Art Museum of Modern Art the British Museum art museum art history
-[ChristieÂ's](/painting/provenance/) SothebyÂ's Tate
+[Christie's](/painting/provenance/) Sotheby's Tate
 Gallery art world painting old master paintings[sea piece Shipwreck](/painting/style/)Martin Butlin Wildenstein
 Institute Yale Center
 British Art The Getty Getty Research Institute provenance Clore
@@ -269,7 +269,7 @@ Reynolds fakes forgeries [connoisseurship](/discovery/copies/) connoisseur
 [Orrock](/painting/provenance/)
 [Sir J.C. Robinson](/discovery/orrock/)
 [Turner portrait](/painting/portrait/) John Paul
-Getty Agnew AgnewÂ's antiques research specialist consultant expertise professional expert
+Getty Agnew Agnew's antiques research specialist consultant expertise professional expert
 witness Oxford Cambridge Frick Collection curator Andrew Mellon Goya Manet Emily
 Carr Manet Durer Albrecht Durer Peter Paul Rubens
  |
@@ -351,7 +351,7 @@ Carr Manet Durer Albrecht Durer Peter Paul Rubens
  [jmwturner@shaw.ca](/)
  Penticton British Columbia Canada
 
- Â(c) setters 2003, Rescuing Turner: The Art Project &
+ (c) setters 2003, Rescuing Turner: The Art Project &
  [/)
 
  search for jmw turner  [Google](http://www.google.ca/)

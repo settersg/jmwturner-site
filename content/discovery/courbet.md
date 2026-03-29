@@ -21,7 +21,7 @@ A number of years ago I was offered a little oil painting on panel called
 Pool Near Ornans. It was simply signed Courbet. Although it was an
 obvious gem, the question was, could it be by the great Realist Gustave Courbet.
 
-[Art WorldÂ's Dirty Little Secret](/book/)
+[Art World's Dirty Little Secret](/book/)
 
 r malcolm setters / graham setters
 "From across the room the normally taciturn
@@ -123,6 +123,6 @@ Murillo
  [Lost Boucher](/discovery/courbet/)
 
 [Connoisseurship](/discovery/connoisseurship/)
-  [Art WorldÂ's Dirty Little Secret](/book/)
+  [Art World's Dirty Little Secret](/book/)
 
   HOME

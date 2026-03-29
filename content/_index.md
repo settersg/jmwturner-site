@@ -1,5 +1,5 @@
 ---
-title: "Shipwreck, the Rescue   Â Â  JMW Turner"
+title: "Shipwreck, the Rescue      JMW Turner"
 ---
 
 

@@ -34,5 +34,5 @@ J.M.W. Turner
 
 Site criticism is appreciated at [jmwturner@shaw.ca](/)
 
-Â(c) setters 2003, Rescuing Turner: The Art Project &
+(c) setters 2003, Rescuing Turner: The Art Project &
 [www.jmwturner.ca](/)

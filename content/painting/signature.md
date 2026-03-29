@@ -75,7 +75,7 @@ Excerpt:[ Rescuing Turner: A New Age of Art Discovery](/book/)
 
 r malcolm setters / graham setters
   "If Anderson was right and all of
-TurnerÂ's paintings are signed and dated in some way, what effect would this have
+Turner's paintings are signed and dated in some way, what effect would this have
 on prominent Turner specialists? Control of ones realm is much easier if there
 is decision-making flexibility, and with everything effectively firmed up,
 signed and dated in such a stylized way, expert opinion would no longer be such
@@ -105,20 +105,20 @@ breeze, but what a romantic thought! Regardless of the fateful cause, again,
 this area was surveyed with great care.
 The M for Mallord was not part of his earliest monogram, thus explaining its
 absence. It has even been suggested that Turner added Mallord to his name later
-on in deference to his motherÂ's side of the family. But in a Pall Mall Press
+on in deference to his mother's side of the family. But in a Pall Mall Press
 publication of 1905, Hidden Treasures, its origin is better articulated,
-"He was christened William after his father, Mallord after his motherÂ's eldest
+"He was christened William after his father, Mallord after his mother's eldest
 brother, and Joseph after goodness knows whom."
 [[i]](#_edn1) Some have even
-suggested he added Mallord as a play on wordsâ ""milord," for satirical, albeit,
-aggrandizing reasons. The more one learns of TurnerÂ's wry wit the more this sort
+suggested he added Mallord as a play on words' ""milord," for satirical, albeit,
+aggrandizing reasons. The more one learns of Turner's wry wit the more this sort
 of idea can be appreciated.
   Forum Romanum: un-deciphered
 letters
   "added specially in small squares"
 At this point, after discovering the
 letters on Shipwreck, the Rescue,
-a substantial effort was made to compare several of TurnerÂ's signatures,
+a substantial effort was made to compare several of Turner's signatures,
 monograms and inscriptions from a number of different sources. "Some
 letters have been inscribed down the left hand edge near the bottom, scratched
 into the wet paint, some of it apparently added specially in small squares."
@@ -156,7 +156,7 @@ fingerprint search:
 HOME
 [[xxxi]](#_ednref31)
 Martin Butlin & Evelyn Joll, The Paintings of J.M.W. Turner, (Yale
-University Press, New Haven and London, Evelyn JollÂ's 1977 intro. Revised
+University Press, New Haven and London, Evelyn Joll's 1977 intro. Revised
 Edition, 1984), text vol., xix.
 [[xl]](#_ednref40)
  John Anderson, Jr., The Unknown Turner, (pub. John Anderson, printed by
@@ -167,7 +167,7 @@ Edition, 1984), text vol., xix.
  71.
 [[ii]](#_ednref2)
  Martin Butlin & Evelyn Joll, The Paintings of J.M.W. Turner, (Yale
- University Press, New Haven and London, Evelyn JollÂ's 1977 intro. Revised
+ University Press, New Haven and London, Evelyn Joll's 1977 intro. Revised
  Edition, 1984), text vol., 143.
 
  |
@@ -249,7 +249,7 @@ Edition, 1984), text vol., xix.
  [jmwturner@shaw.ca](/)
  Penticton British Columbia Canada
 
- Â(c) setters 2003, Rescuing Turner: The Art Project &
+ (c) setters 2003, Rescuing Turner: The Art Project &
  [/)
 
  search for jmw turner  [Google](http://www.google.ca/)

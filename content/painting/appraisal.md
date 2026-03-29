@@ -136,7 +136,7 @@ collectibles before deciding to purchase.
 SENTIMENT:
   - Heirloom, heritage
 
-[Art WorldÂ's Dirty Little Secret](/book/)
+[Art World's Dirty Little Secret](/book/)
 
 HOME
 art
@@ -157,7 +157,7 @@ Source:
 J[MW Turner Joseph Mallord William](/painting/), National Gallery of Canada
 Metropolitan Museum of Art Museum of Modern Art the British
 Museum art museum art history
-[ChristieÂ's](/painting/provenance/) SothebyÂ's Tate
+[Christie's](/painting/provenance/) Sotheby's Tate
 Gallery art world painting old master paintings[sea piece Shipwreck](/painting/style/)Martin Butlin Wildenstein
 Institute Yale Center
 British Art The Getty Getty Research Institute provenance Clore
@@ -181,6 +181,6 @@ Reynolds fakes forgeries [connoisseurship](/discovery/copies/) connoisseur
 [Orrock](/painting/provenance/)
 [Sir J.C. Robinson](/discovery/orrock/)
 [Turner portrait](/painting/portrait/) John Paul
-Getty Agnew AgnewÂ's antiques research specialist consultant expertise professional expert
+Getty Agnew Agnew's antiques research specialist consultant expertise professional expert
 witness Oxford Cambridge Frick Collection curator Andrew Mellon Goya Manet Emily
 Carr Manet

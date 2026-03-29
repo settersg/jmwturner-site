@@ -107,7 +107,7 @@ HOME
  [jmwturner@shaw.ca](/)
  Penticton British Columbia Canada
 
- Â(c) setters 2003, Rescuing Turner: The Art Project &
+ (c) setters 2003, Rescuing Turner: The Art Project &
  [/)
 
  search for jmw turner  [Google](http://www.google.ca/)

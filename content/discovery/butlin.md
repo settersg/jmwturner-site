@@ -16,12 +16,12 @@ Martin Butlin C.B.E.,
  painted by [Jiri (George) Kayser](/discovery/hand-c/)
 2001
 
-[Art WorldÂ's Dirty Little Secret](/book/)
+[Art World's Dirty Little Secret](/book/)
 r malcolm setters / graham setters
 
 Martin Butlin, the accepted authority on historic British art and in
 particular J.M.W. Turner
-and William Blake, had been authorized as a senior consultant for ChristieÂ's to
+and William Blake, had been authorized as a senior consultant for Christie's to
 inspect [Shipwreck, the Rescue](/painting/)
 at our expense. He was prodded with many questions during his weeklong stay. Not only were the responses he gave of importance,
 but also, the general chatter that took place over dinner and while sightseeing
@@ -35,7 +35,7 @@ environment, and the "straight-forward and simple people" impression Martin had
 about Canadians, rather disarmed him. His banter of the next several days wrote the
 concluding few chapters of a book that would have otherwise been only
 speculation...
-[Art WorldÂ's Dirty Little Secret](/book/)
+[Art World's Dirty Little Secret](/book/)
 
 HOME
 
