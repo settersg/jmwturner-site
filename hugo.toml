@@ -1,0 +1,94 @@
+baseURL = "https://jmwturner.ca/"
+languageCode = "en-ca"
+title = "Shipwreck, the Rescue — JMW Turner"
+theme = "turner"
+
+[params]
+  description = "A co-operative art project exploring J.M.W. Turner's Shipwreck, the Rescue — provenance, forensics, connoisseurship, and the art world's hidden stories."
+  author = "Graham Setters"
+  bookTitle = "Rescuing J.M.W. Turner — A New Age of Art Discovery"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "The Painting"
+  url = "/painting/"
+  weight = 2
+
+[[menu.main]]
+  name = "Discovery"
+  identifier = "discovery"
+  weight = 3
+
+[[menu.main]]
+  name = "The Book"
+  url = "/book/"
+  weight = 4
+
+[[menu.main]]
+  name = "Gallery"
+  url = "/gallery/"
+  weight = 5
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 6
+
+[[menu.sections]]
+  name = "Introduction"
+  url = "/painting/"
+  weight = 1
+
+[[menu.sections]]
+  name = "Style & Technique"
+  url = "/painting/style/"
+  weight = 2
+
+[[menu.sections]]
+  name = "Provenance"
+  url = "/painting/provenance/"
+  weight = 3
+
+[[menu.sections]]
+  name = "Signature"
+  url = "/painting/signature/"
+  weight = 4
+
+[[menu.sections]]
+  name = "Forensic Studies"
+  url = "/discovery/forensic/"
+  weight = 1
+
+[[menu.sections]]
+  name = "Connoisseurship"
+  url = "/discovery/connoisseurship/"
+  weight = 2
+
+[[menu.sections]]
+  name = "James Orrock"
+  url = "/discovery/orrock/"
+  weight = 3
+
+[[menu.sections]]
+  name = "Martin Butlin"
+  url = "/discovery/butlin/"
+  weight = 4
+
+[[menu.sections]]
+  name = "Legal Disputes"
+  url = "/discovery/legal/"
+  weight = 5
+
+[[menu.sections]]
+  name = "The Catalogue"
+  url = "/discovery/catalogue/"
+  weight = 6
