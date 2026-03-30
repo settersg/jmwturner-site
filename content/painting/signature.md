@@ -69,7 +69,7 @@ Cheers
 
 ---
 
-**Further reading:**
+**Related:**
 - [Forensics](/discovery/forensic/)
 - [Art and Science](/discovery/art-science/)
 - [Christie's Provenance](/painting/provenance/)

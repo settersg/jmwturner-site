@@ -22,4 +22,10 @@ From Christie's Archivist, [Jeremy Rex-Parkes](http://www.justterriers.com/volum
 
 This of course was an exciting discovery, but who was James Orrock…?
 
-[Provenance: James Orrock](/discovery/orrock/) · [Connoisseurship](/discovery/connoisseurship/) · [BJ Catalogue](/discovery/catalogue/)
+**Related:**  
+- [Orrock](/discovery/orrock/)  
+- [Connoisseurship](/discovery/connoisseurship/)  
+- [Catalogue](/discovery/catalogue/)  
+- [Appraisal](/painting/appraisal/)  
+- [Signature](/painting/signature/)  
+- [Forensic](/discovery/forensic/)
