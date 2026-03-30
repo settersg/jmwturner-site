@@ -159,7 +159,7 @@ signed and dated lower left, I.M.W.Turner R.A. 1817
 
 [Art World's Dirty Little Secret](/book/)
 
-  HOME
+ 
  [James Orrock](/discovery/orrock/):
 same previous owner
 [Shipwreck, the Rescue](/painting/)

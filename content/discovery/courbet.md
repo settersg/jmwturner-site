@@ -124,4 +124,4 @@ Murillo
 [Connoisseurship](/discovery/connoisseurship/)
   [Art World's Dirty Little Secret](/book/)
 
-  HOME
+ 

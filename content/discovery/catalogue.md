@@ -96,7 +96,7 @@ undue risk.
 
 [Art World's Dirty Little Secret](/book/)
 
- HOME
+
 
  See
 [Legal Fears](/discovery/legal/)

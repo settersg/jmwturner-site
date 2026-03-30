@@ -549,7 +549,7 @@ Ludmila Kagan (c) Angulo Mayer Sullivan Gaya Nu  o
  [Art Discovery](/book/)
  [Lost Boucher](/discovery/courbet/) [Turner un-discovery](/discovery/ngc/)
 
- HOME
+
  [[1]](#_ftnref1)
  Some published but apparently unreliable information indicates that the
  painting was donated to the British National Gallery by M. Zachary in

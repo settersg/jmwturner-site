@@ -293,7 +293,7 @@ ____________________________________________________
  masterpieces end up). (Ian Warrell/Warrell, The Age,
  AU 2002)
 
-HOME
+
  [Legal Fears](/discovery/legal/)
  [Tribal Instincts](/about/turner/)
 

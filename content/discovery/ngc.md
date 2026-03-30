@@ -151,7 +151,7 @@ accounting for political motivations for what seems to be high-level trickery.
 
 [Tribal Instincts](/about/turner/) [Art Discovery](/book/)
 
- HOME
+
  [[xxxiii]](#_ednref33)
  Martin Butlin & Evelyn Joll, The Paintings of J.M.W. Turner, (Yale
  University Press, New Haven and London, Evelyn Joll's 1977 intro. Revised

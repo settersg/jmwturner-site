@@ -626,7 +626,7 @@ from the Butlin visit.
   [Orrock Provenance](/discovery/orrock/) [The Unknown Turner](/discovery/ngc/)
  [Tribal Instincts](/about/turner/) [Connoisseurship](/discovery/connoisseurship/)
 
-HOME
+
 [[1]](#_ftnref1)
  The marbled design of the book board compares favorably with other Turner
  sketchbooks.
