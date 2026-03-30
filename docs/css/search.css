@@ -1,0 +1,126 @@
+/* Search Modal */
+#search-modal {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.8);
+  z-index: 1000;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--font-sans);
+}
+
+#search-modal .modal-content {
+  background: var(--color-bg);
+  border: 1px solid var(--color-border);
+  border-radius: 8px;
+  max-width: 600px;
+  width: 90%;
+  max-height: 80vh;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+}
+
+#search-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.5rem;
+  border-bottom: 1px solid var(--color-border);
+}
+
+#search-input {
+  flex: 1;
+  padding: 0.75rem 1rem;
+  border: 1px solid var(--color-border);
+  border-radius: 4px;
+  font-size: 1rem;
+  font-family: var(--font-sans);
+  background: white;
+  outline: none;
+}
+
+#search-close {
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  color: var(--color-text-muted);
+  cursor: pointer;
+  padding: 0.5rem;
+  opacity: 0.7;
+  transition: opacity 0.2s;
+}
+
+#search-close:hover { opacity: 1; }
+
+#search-results {
+  flex: 1;
+  overflow-y: auto;
+  padding: 0;
+  list-style: none;
+  margin: 0;
+}
+
+#search-results li {
+  border-bottom: 1px solid var(--color-border);
+}
+
+#search-results a {
+  display: block;
+  padding: 1.2rem 1.5rem;
+  text-decoration: none;
+  color: var(--color-text);
+  transition: background 0.2s;
+}
+
+#search-results a:hover {
+  background: rgba(139, 69, 19, 0.05);
+}
+
+#search-results strong {
+  display: block;
+  font-family: var(--font-serif);
+  font-weight: 600;
+  font-size: 1.1rem;
+  margin-bottom: 0.3rem;
+  color: var(--color-text);
+}
+
+#search-results p {
+  color: var(--color-text-muted);
+  font-size: 0.9rem;
+  margin: 0;
+  line-height: 1.4;
+}
+
+@media (max-width: 768px) {
+  #search-modal .modal-content {
+    width: 95%;
+    max-height: 90vh;
+  }
+  
+  #search-input {
+    font-size: 16px; /* Prevent zoom */
+  }
+}
+
+#search-toggle {
+  background: none;
+  border: none;
+  color: var(--color-nav-text);
+  font-size: 1.4rem;
+  cursor: pointer;
+  opacity: 0.8;
+  transition: opacity 0.2s;
+  padding: 0.3rem;
+  border-radius: 3px;
+}
+
+#search-toggle:hover {
+  opacity: 1;
+  background: rgba(255,255,255,0.1);
+}
