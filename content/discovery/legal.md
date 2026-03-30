@@ -10,7 +10,7 @@ layout: single
  out-of-court damages/The
  Getty/Getty Museum, "where quite a few rediscovered masterpieces end up"
 
-![](/images/legal%20fears%20martin%20butlin%20tate%20christie)
+![](/images/Christie%20cat%20entry.jpg)
   "going to the stake" "they really get him"
  "These people are terror"
  ![](/images/butlin3crop.jpg)
@@ -203,7 +203,6 @@ layout: single
  Penn State Rockefeller UPA J. Paul Getty Trust
  Publications
  [University College London UCL](http://www.ucl.ac.uk/)
-
 
  [H](http://www.hotbot.com/)
  [A](http://www.altavista.com/)

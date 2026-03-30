@@ -125,7 +125,7 @@ afterward.
 The father became very active in Turner's life and studio after his retirement
 from the wig shop.
 Turner tours Scotland.
-![](/images/swr%20large%20jpg%20adj%20600%20crop.jpg)1802 Elected a Royal Academician
+![](/images/SWR%20large%20JWTb.tif.jpg)1802 Elected a Royal Academician
 Exhibited four oil paintings and four watercolours including his diploma piece,
 Dolbadern Castle of 1800. Turner's oils are dark and foreboding during
 this period. His attempt at the tenebrous sublime as described by Edmond Burke

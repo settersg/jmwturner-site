@@ -3,7 +3,6 @@ title: "Art Fraud"
 layout: single
 ---
 
-
 FRAUD: Art Fraud
 is not
 restricted to the individual. Art Fraud is also seen within the larger art
@@ -51,7 +50,7 @@ deception between truth and history.
 the term art
 expert is surely
 sterile
-![](/images/rubens%20deposition.jpg%20dig%20c.jpg)
+
 Deposition, tiny
 17th century oil on copper
 The
@@ -334,7 +333,6 @@ Carr Manet Durer Albrecht Durer Peter Paul Rubens
  Penn State Rockefeller UPA J. Paul Getty Trust
  Publications
  [University College London UCL](http://www.ucl.ac.uk/)
-
 
  [H](http://www.hotbot.com/)
  [A](http://www.altavista.com/)

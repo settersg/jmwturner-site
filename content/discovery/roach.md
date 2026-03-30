@@ -42,7 +42,7 @@ was accepted it became very popular and sold through art galleries
 such as: The Dresden, 1667, and Zwicker's, a very impressive accomplishment for
 an artist so young. The synthesis of expressive and abstract styles proved the best way for him to interpret the lush yet rugged
 landscape of the Nova Scotia he so cherished.
-![](/images/world%20book%20cropsm.jpg)"His
+"His
 increasing popularity led to him becoming the artist representative for Nova
 Scotia in The World Book Encyclopedia (seen here is the image published
 therein, November Sunset).
@@ -103,7 +103,7 @@ This was most evident after 1961; however, by the time he had moved mainly into
 figurative work in 1968, he reminisced with a sneer: 'there was no place left to put
 my scabs.' They had outlived their usefulness thus bringing an end to
 his scabrous period.
-![](/images/town%20crop.jpg)"The
+"The
 thick paint opposing thin paint technique favored by both artists was carried
 one step further by Roach as he objectified his work in paintings like Harold
 Town, The Attack (seen here). When he describes his paint as being part of the image and
@@ -225,7 +225,7 @@ done photography for which he won high praise, with some of his images entering
 the permanent collection of the National Film Board (NFB) stills department in Ottawa; his abstract graphic designs for
 rugs woven by his mother were featured in the Nova Scotia pavilion at Expo 67;
 most of his 1960's, ''': assemblages',
-![](/images/collage%20sm.jpg)created from found wooden objects, were
+created from found wooden objects, were
 destroyed or lost at his former residence in Montreal, but the few that remain
 are a tribute to his masterful sense of design; and the leading edge collages
 that are an important part of Tony Onley's oeuvre of the early 60's are similar
@@ -236,7 +236,7 @@ copious hatchings employed to build up the Rembrandt-like images. Regardless of
 medium, technique, and stage of development, I hope as you get to know Roach's
 work better you can agree that his entire oeuvre is unified by great creative
 talent.
-![](/images/wf%20three%20parts%20sm.jpg)"I
+"I
 am also sending up-to-date photographs of Gerald Roach beside his paintings of
 Waterfall in Three Parts and Cathedral Waterfall #2.
 ![](/images/cath%20wf%20sm.jpg)

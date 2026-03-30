@@ -11,7 +11,7 @@ Turner Society News, Eric Shanes, Tate
 expert opinion / Eric Shanes on the Turner Bequest,
 Medal / Turner Prize / Shanes Eric Shanes JMW Turner Prize
  Turner Medal
-![](/images/turnermedal_001atn.jpg)
+
 Once
 made of Gold
 the "Turner medal"

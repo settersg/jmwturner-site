@@ -12,8 +12,6 @@ studies
 art/science
 at the Tate... Ian Warrell opinion, Andrew Wilton
 
-![](/images/art%20science%20j.m.w.%20turner)
-
 ![](/images/black-man-web.jpg)
 
 Shipwreck, the Rescue,
@@ -122,7 +120,7 @@ and illogical.
  "It seems to me...that most of our art historians are entirely untrained
  in historical method; hence have no objective check upon their subjective,
  stylistic intuitions." -Frank Jewett Mather, Jr., 1938
-![](/images/art%20science%20j.m.w.%20turner)
+
   And what about
 Turner and
 Shipwreck, the Rescue?
@@ -293,7 +291,7 @@ the Tate Gallery, which is the National Gallery of British and modern foreign
 art. They do not have a research laboratory, though occasionally we try and
 solve the occasional specific problem connected with treatment by examining
 samples from their pictures. Nothing much in the way of Turner (other than
-watercolours) or Gainsborough has reached us.![](/images/turnerpaintboxweb.jpg)
+watercolours) or Gainsborough has reached us.
   I have always been a little puzzled by the
 results of analysis of the late Turner paint boxes, as published by Hanson.
 Someone has remarked scathingly that perhaps much of what was left in the box
@@ -444,7 +442,6 @@ the
 dilemma at hand is succinctly addressed later under the heading
 [Tribal Instincts](/about/turner/).
 
-![](/images/art%20science%20j.m.w.%20turner)
 details: tips of the waves from Shipwreck, the Rescue, "chalky" character
 The year Shipwreck, the Rescue would have been painted, 1802, one critic
 offered his opinion on the sea-pieces that were exhibited that year: "the
@@ -512,8 +509,6 @@ also made the astute observation that Turner's "style differed in two opposite
 directions from the one then in vogue; it differed not only by a deliberate
 vagueness or looseness of definition in appropriate places, but also, in other
 places by an excessive vigour of realization."
-
-![](/images/art%20science%20j.m.w.%20turner)
 
 ![](/images/swr%20infra%20red%20web.jpg)
 Infrared photograph:

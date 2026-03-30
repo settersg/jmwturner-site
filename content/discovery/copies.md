@@ -10,7 +10,6 @@ layout: single
 
 Ludmila Kagan (c) Angulo Mayer Sullivan Gaya Nu  o
 
-
  ![](/images/guernsey%20murillo%20jpegadj%20web.jpg)
 
  Gaya Nu  o
@@ -310,7 +309,7 @@ Ludmila Kagan (c) Angulo Mayer Sullivan Gaya Nu  o
  keeping with these concepts, might even the National Gallery's
  Peasant Boy be an interpretation by another artist? It does
  feel somewhat later in style than that of the Baroque era.
-  ![](/images/murillo%20puttiweb.jpg)
+  
   The
  confident gaze of the young suitor is
  met by the equally open affection of the young Girl Raising the Veil.
@@ -493,7 +492,7 @@ Ludmila Kagan (c) Angulo Mayer Sullivan Gaya Nu  o
  upper arm next to his chest becomes just another part of the boy's chest in
  the copy. The arm in the National Gallery painting, is thus, diminutive and
  unnatural.
- ![](/images/murillo%20nga%20noillum.jpg)
+ 
  National Gallery Boy
  Within the last couple of decades the accuracy of information published
  on the girl and the boy has been droll, at best, and might be partly
@@ -699,7 +698,6 @@ Ludmila Kagan (c) Angulo Mayer Sullivan Gaya Nu  o
  Penn State Rockefeller UPA J. Paul Getty Trust
  Publications
  [University College London UCL](http://www.ucl.ac.uk/)
-
 
  [H](http://www.hotbot.com/)
  [A](http://www.altavista.com/)

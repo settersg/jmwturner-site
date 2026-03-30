@@ -9,7 +9,7 @@ for evaluation authentication attribution appraisal / art consultant, consultant
 for JMW T- who and why? Ji (TM)
 (George) Kaiser Czech-Canadian painter
 
-![](/images/martin%20butlin%20christie)
+![](/images/Butlin3crop.jpg)
 ![](/images/mb%20port%20fulla.jpg)
 
 Martin Butlin C.B.E.,

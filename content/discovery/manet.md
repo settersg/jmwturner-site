@@ -51,7 +51,7 @@ r malcolm setters / graham setters
  interests concerned are so great, and money can do such strange things, that
  I find it generally safer to hold my tongue." (Walter Bayes, Turner, A
  Speculative Portrait, p5)
- ![](/images/hat%20pentimenti%20-%20there%20is%20also%20pentimenti%20around%20the%20figuresm.jpg)"In this regard, a personal experience came in 1988 with a visit to the
+ "In this regard, a personal experience came in 1988 with a visit to the
  National Gallery, London. It was to do with a painting that came from the
  estate of Rudolph Hermani (of the Krupp and Mercedes' fame). Although the
  gallery official that I was directed to, Alistair Smith, had confidently
