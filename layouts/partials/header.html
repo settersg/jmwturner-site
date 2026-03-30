@@ -1,0 +1,12 @@
+<header class="site-header">
+  <div class="container">
+    <a href="{{ .Site.BaseURL }}" class="site-title">{{ .Site.Title }}</a>
+    <button class="menu-toggle" aria-label="Menu">MENU</button>
+    <button id="search-toggle" aria-label="Search">🔍</button>
+    <nav class="main-nav">
+      {{ range .Site.Menus.main }}
+      <a href="{{ .URL | relURL }}" class="{{ if eq $.RelPermalink (.URL | relURL) }}active{{ end }}">{{ .Name }}</a>
+      {{ end }}
+    </nav>
+  </div>
+</header>

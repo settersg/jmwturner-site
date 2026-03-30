@@ -1,0 +1,14 @@
+<footer class="site-footer">
+  <div class="container">
+    <p>&copy; {{ now.Year }} {{ .Site.Params.author }}. Based on the original <em>jmwturner.ca</em>.</p>
+    <p class="footer-links">
+      <a href="https://web.archive.org/web/20191214154115/http://jmwturner.ca/">Original Site (Wayback Machine)</a> | 
+      <button id="search-toggle" aria-label="Search">🔍 Search</button>
+    </p>
+  </div>
+</footer>
+<script>
+document.querySelector('.menu-toggle').addEventListener('click', function() {
+  document.querySelector('.main-nav').classList.toggle('open');
+});
+</script>

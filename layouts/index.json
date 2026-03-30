@@ -1,0 +1,14 @@
+[
+{{- $pages := where .Site.RegularPages "Section" "ne" "gallery" -}}
+{{- range $index, $page := $pages -}}
+  {{- if $index -}},{{- end -}}
+  {
+    "id": "{{ $page.File.UniqueID }}",
+    "title": {{ $page.Title | jsonify }},
+    "url": {{ $page.Permalink | relURL | jsonify }},
+    "content": {{ $page.Plain | plainify | truncate 10000 "" | jsonify }},
+    "section": {{ $page.Section | jsonify }},
+    "summary": {{ $page.Summary | plainify | truncate 300 "" | jsonify }}
+  }
+{{- end -}}
+]

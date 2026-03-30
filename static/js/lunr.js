@@ -1,0 +1,1 @@
+Redirecting to /lunr@2.3.9/lunr.js
