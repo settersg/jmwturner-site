@@ -257,10 +257,14 @@ proves with Shipwreck, the Rescue c1802 to be somewhat of a visionary
 both pictorially and poetically in his quest to abet social justice and
 humanitarian principals. jmw
 
-[Forensics](/discovery/forensic/)
-  [Connoisseurship](/discovery/connoisseurship/)
-[Christie's](/painting/provenance/)
-[Turner Bibliography](/about/bibliography/)
+**Related:**
+- [Forensics](/discovery/forensic/)
+- [Connoisseurship](/discovery/connoisseurship/)
+- [Provenance](/painting/provenance/)
+- [Bibliography](/about/bibliography/)
+- [Style](/painting/style/)
+- [Signature](/painting/signature/)
+- [Orrock](/discovery/orrock/)
  [[1]](#_ftnref1)
  If one were to take into account Turners high regard for the opinions of
  Reynolds, and in light of his Romantic need to express the sublime, Turner

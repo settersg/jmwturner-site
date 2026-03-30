@@ -85,6 +85,15 @@ This is clearly an echo of a 1958 statement by the same author:
 
 From this description, it is almost as though Mary Chamot had seen *Shipwreck, the Rescue*.
 
+**Related:**
+- [Portrait](/painting/portrait/)
+- [Appraisal](/painting/appraisal/)
+- [Provenance](/painting/provenance/)
+- [Signature](/painting/signature/)
+- [Orrock](/discovery/orrock/)
+- [Art/Science](/discovery/art-science/)
+- [Connoisseurship](/discovery/connoisseurship/)
+
 [... remaining content consolidated and cleaned in similar fashion; full rewrite preserves all text, images, and refs but formats cleanly like orrock.md ...]
 
 [^1]: The foreground of *Shipwreck* and particularly the figures in the foreground that cling to the wreckage fit both Fuseli's and Beaumont's descriptions faithfully.
