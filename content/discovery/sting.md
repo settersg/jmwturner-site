@@ -3,22 +3,17 @@ title: "The Sting: Visnei"
 layout: single
 ---
 
-|
 ![](/images/court%20doc%20edit%20web.jpg)
-![](/images/image001.gif)
 
-![](/images/image002.gif)Rescuing Turner: A New Age of Art Discovery: "yet to be added
+Rescuing Turner: A New Age of Art Discovery: "yet to be added
 
  [Legal Fears Visnei to Butlin](/discovery/legal/) [Art/Science](/discovery/art-science/)
 
 HOME
- |
 
-An introduction:
 [JMW Turner](/painting/)
 Rescue
 
-Related sites: [Turner Society](http://www.turnersociety.org.uk/) [Tate Gallery](http://www.tate.org.uk/home/default.htm) [National Gallery](http://www.nationalgallery.org.uk/) London
 [Courtauld Institute of Art](http://www.courtauld.ac.uk/sub_index/location/location.html)
   [IFAR International Foundation for Art Research](http://www.ifar.org/) [National Gallery Canada](http://national.gallery.ca/)
 [CCI](http://www.cci-icc.gc.ca/) [Yale Center British Art](http://www.yale.edu/ycba/)
@@ -30,6 +25,3 @@ Related sites: [Turner Society](http://www.turnersociety.org.uk/) [Tate Gallery]
 [C](http://www.artcyclopedia.com/artists/turner_joseph_mallord_william.html)[ollections](http://www.artcyclopedia.com/artists/turner_joseph_mallord_william.html)
 
 J.M.W. Turner
-
-
-(c) setters 2003, Rescuing Turner: The Art Project &

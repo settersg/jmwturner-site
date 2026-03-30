@@ -15,7 +15,6 @@ expert opinion [JMW Turner: the source](/painting/) Butlin and Joll, The Paintin
 (Yale University Press /
 Yale Center for British Art)
 
-![](/images/image001.gif)
 ![](/images/orrock%20and%20bj.jpg)
  James Orrock
 R.I. Artist

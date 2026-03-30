@@ -3,7 +3,6 @@ title: "Institutional Evolution: J.M.W. Turner, Berenson, Duveen, Mellon, Yale, 
 layout: single
 ---
 
-|
 [JMW Turner: the source](/painting/):
 Duveen collector / philanthropists:
 Pierpont Morgan; Rodolphe Kahn; Benjamin Altman;
@@ -13,8 +12,6 @@ Gardner; Rothschild; H.E. Huntington; Henry Goldman, Andrew
 Mellon, [J. Paul Getty](http://www.getty.edu/)
 [Paul Mellon](http://www.yale.edu/ycba/),![](/images/boat-3-web.jpg)
 Bernard Berenson Joseph Duveen Lord Kenneth Clark
-![](/images/image001.gif)
-![](/images/image002.gif)
 
   Excerpt
 [
@@ -63,13 +60,11 @@ that it was often sufficient for one deus ex machina to pronounce a
 judgment to move another one of the same elevated standing to contradict it.
 During the last half century the law courts have had to deal with many cases
 resulting from these internecine wars."[[iv]](#_edn4)
- |
  Soon,
  work by certain masters had to be, ''': certified' by one or more of the
  particular specialists in the various schools; and, humanity being what it
  is, what had begun as a most honourable occupation became in many cases a
  furious race for gain.
-![](/images/image004.gif)
 
 As
 discussed earlier support by an expert for a painting can put the monetary value
@@ -377,16 +372,8 @@ ______________________________
  [[iii]](#_ednref3)
  John Costello, Mask of Treachery, (William Collins Sons and Co. Ltd.,
  1988), 244.
- |
- |
- |
- |
- |
- |
-  An introduction:
  [JMW Turner](/painting/)
  Rescue
-  off site:
  [Turner Society](http://www.turnersociety.org.uk/) [Tate  Gallery](http://www.tate.org.uk/home/default.htm) [National Gallery](http://www.nationalgallery.org.uk/) [London](/discovery/national-gallery/)
  [Courtauld Institute of Art](http://www.courtauld.ac.uk/sub_index/location/location.html)
   [IFAR  International Foundation for Art Research](http://www.ifar.org/) [NGC](http://national.gallery.ca/)
@@ -444,18 +431,12 @@ ______________________________
  [NGL](/discovery/national-gallery/)
  [Fraud](/discovery/fraud/)
  [Chronology](/about/chronology/)
-  Publishers Oxford Cambridge Yale Princeton Harvard
  Stanford
  Penn State Rockefeller UPA J. Paul Getty Trust
  Publications
  [University College London UCL](http://www.ucl.ac.uk/)
 
- Penticton British Columbia Canada
 
- (c) setters 2003, Rescuing Turner: The Art Project &
- [/)
-
- search for jmw turner  [Google](http://www.google.ca/)
  [H](http://www.hotbot.com/)
  [A](http://www.altavista.com/)
  [T](http://www.teoma.com/)

@@ -6,7 +6,7 @@ layout: single
 [JMW Turner the source](/painting/) Martin
 Butlin and Evelyn Joll JMW Turner art expert, expert
 for evaluation authentication attribution appraisal / art consultant, consultant
-for JMW T- who and why? Ji (TM)  
+for JMW T- who and why? Ji (TM)
 (George) Kaiser Czech-Canadian painter
 
 ![](/images/martin%20butlin%20christie)

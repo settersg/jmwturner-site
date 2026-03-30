@@ -119,7 +119,6 @@ can certainly be solid reasons for dismissal, such as those relating to overall
 , ''': style', but there are also many rejections that are in large-part ungrounded
 and illogical.
 
- |
  "It seems to me...that most of our art historians are entirely untrained
  in historical method; hence have no objective check upon their subjective,
  stylistic intuitions." -Frank Jewett Mather, Jr., 1938
@@ -640,14 +639,6 @@ Rescue see...
 
 [Christie's](/painting/provenance/)
 
-HOME
-
-J.M.W. Turner
-
-Penticton
-
- (c) setters 2003, Rescuing Turner: The Art Project &
-[/)
 [[3]](#_ftnref3)
  Jack Lindsay suggests the change of address brought Turner closer to Sarah
  Dandy, his companion at the time. There would be no need to dispute that the

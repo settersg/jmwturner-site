@@ -3,22 +3,16 @@ title: "Copies After Murillo"
 layout: single
 ---
 
-|
 -
- |
  Murillo expert expert opinion National Gallery London
  copies Ludmila Kagan (c) Angulo Mayer Sullivan Gaya Nu  o
  [JMW Turner: the  source](/painting/)
 
-![](/images/image001.gif)Ludmila Kagan (c) Angulo Mayer Sullivan Gaya Nu  o
+Ludmila Kagan (c) Angulo Mayer Sullivan Gaya Nu  o
 
-![](/images/image002.gif)
-
-![](/images/image003.gif)
 
  ![](/images/guernsey%20murillo%20jpegadj%20web.jpg)
 
-![](/images/image004.gif)
  Gaya Nu  o
  art expert Murillo expert art expert
   Excerpt from Rescuing Turner... "Commander
@@ -127,7 +121,6 @@ layout: single
  long an incarceration at the National Gallery, or was he an illegitimate
  mate from the very beginning.
 
-![](/images/image006.jpg)
  ![](/images/murillo%20girl%20adjust2.jpg)
   A Peasant Boy Leaning on a Sill
   Girl Raising the Veil
@@ -344,7 +337,6 @@ layout: single
  ![](/images/murillo%20boy%20adjust.jpg)
  ![](/images/murillo%20girl%20adjust2.jpg)
 
-![](/images/image007.jpg)
  ![](/images/murillo%20girl%20adjust2.jpg)
 
  Which of the above four pictures is most likely wrong
@@ -538,12 +530,10 @@ layout: single
   The wistful question still remains, "will the Girl ever be
  reunited with her soulful mate,, ''': boy leaning on a sill' ' " The Guernsey
  Murillo?"
- |
  "Few are those
  who see with their own eyes and feel with their own hearts."
   -
  Albert Einstein
-![](/images/image008.gif)
 
  The first half of this chapter, which is not included here, presents an
  interesting tale of how this painting got the name,
@@ -646,16 +636,8 @@ layout: single
  Royal Academy Of Arts, Murillo 1617-1682, (Royal Academy of Arts,
  with gratitude to Her Majesty's Government, 1983), 193.
 
- |
- |
- |
- |
- |
- |
-  An introduction:
  [JMW Turner](/painting/)
  Rescue
-  off site:
  [Turner Society](http://www.turnersociety.org.uk/) [Tate  Gallery](http://www.tate.org.uk/home/default.htm) [National Gallery](http://www.nationalgallery.org.uk/) [London](/discovery/national-gallery/)
  [Courtauld Institute of Art](http://www.courtauld.ac.uk/sub_index/location/location.html)
   [IFAR  International Foundation for Art Research](http://www.ifar.org/) [NGC](http://national.gallery.ca/)
@@ -713,18 +695,12 @@ layout: single
  [NGL](/discovery/national-gallery/)
  [Fraud](/discovery/fraud/)
  [Chronology](/about/chronology/)
-  Publishers Oxford Cambridge Yale Princeton Harvard
  Stanford
  Penn State Rockefeller UPA J. Paul Getty Trust
  Publications
  [University College London UCL](http://www.ucl.ac.uk/)
 
- Penticton British Columbia Canada
 
- (c) setters 2003, Rescuing Turner: The Art Project &
- [/)
-
- search for jmw turner  [Google](http://www.google.ca/)
  [H](http://www.hotbot.com/)
  [A](http://www.altavista.com/)
  [T](http://www.teoma.com/)

@@ -3,15 +3,11 @@ title: "National Gallery of Canada: Shipwreck by J.M.W. Turner"
 layout: single
 ---
 
-|
-![](/images/image001.gif)
 What went wrong?
-![](/images/image002.gif)
 ![](/images/ngc%20shipwreck%20bw.jpg)
 National Gallery of Canada
 Shipwreck
 c1840
-![](/images/image003.gif)
 
 Rescuing Turner: A New Age of Art Discovery:
 "At this juncture
@@ -174,13 +170,10 @@ accounting for political motivations for what seems to be high-level trickery.
  [[xxxviii]](#_ednref38)
  Graham Reynolds, Turner, (London: Thames and Hudson, 1969), 161.
 
- |
 
-An introduction:
 [JMW Turner](/painting/)
 Rescue
 
-Related sites: [Turner Society](http://www.turnersociety.org.uk/) [Tate Gallery](http://www.tate.org.uk/home/default.htm) [National Gallery](http://www.nationalgallery.org.uk/) London
 [Courtauld Institute of Art](http://www.courtauld.ac.uk/sub_index/location/location.html)
   [IFAR International Foundation for Art Research](http://www.ifar.org/) [National Gallery Canada](http://national.gallery.ca/)
 [CCI](http://www.cci-icc.gc.ca/) [Yale Center British Art](http://www.yale.edu/ycba/)
@@ -192,6 +185,3 @@ Related sites: [Turner Society](http://www.turnersociety.org.uk/) [Tate Gallery]
 [C](http://www.artcyclopedia.com/artists/turner_joseph_mallord_william.html)[ollections](http://www.artcyclopedia.com/artists/turner_joseph_mallord_william.html)
 
 J.M.W. Turner
-
-
-(c) setters 2003, Rescuing Turner: The Art Project &

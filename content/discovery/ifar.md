@@ -3,7 +3,6 @@ title: "IFAR and the Rembrandt Research Project"
 layout: single
 ---
 
-|
 IFAR IFAR RRP Art versus Science [JMW Turner: the source](/painting/)
 JMW Turner
 /v expert opinion Rembrandt O'Keeffe
@@ -15,7 +14,6 @@ attribution evaluation appraisal
 critic catalogue
 IFAR evening / IFAR evenings
 
-![](/images/image001.gif)
 
 international
 foundation for art research
@@ -25,7 +23,6 @@ reflection upon the importance of ones own purpose. The diseased old soldier
 blends into a lonely netherworld as he makes do with his addictive
 crutches.
 ifar
-![](/images/image002.gif)
 In
 recent years there has been a conflict heating up between the
 scientific-camp and the connoisseurship-camp.
@@ -185,7 +182,6 @@ only $25. By the time Benesch's catalogue was published, its inclusion of these
 drawings had raised their value to something 28,000 - 42,000 each."
 (Money and Art, G. P. Putnam's Sons, NY, 1971)
 
-![](/images/image003.gif)
 [Rescuing Turner: A New Age of Art Discovery](/book/):
   r malcolm setters
 / graham setters
@@ -224,16 +220,8 @@ Home
  Tension Between Science and Connoisseurship in Authenticating Art, (IFAR
  Journal, Vol. 4, no 2 2001), 14.
 
- |
- |
- |
- |
- |
- |
-  An introduction:
  [JMW Turner](/painting/)
  Rescue
-  off site:
  [Turner Society](http://www.turnersociety.org.uk/) [Tate  Gallery](http://www.tate.org.uk/home/default.htm) [National Gallery](http://www.nationalgallery.org.uk/) [London](/discovery/national-gallery/)
  [Courtauld Institute of Art](http://www.courtauld.ac.uk/sub_index/location/location.html)
   [IFAR  International Foundation for Art Research](http://www.ifar.org/) [NGC](http://national.gallery.ca/)
@@ -291,18 +279,12 @@ Home
  [NGL](/discovery/national-gallery/)
  [Fraud](/discovery/fraud/)
  [Chronology](/about/chronology/)
-  Publishers Oxford Cambridge Yale Princeton Harvard
  Stanford
  Penn State Rockefeller UPA J. Paul Getty Trust
  Publications
  [University College London UCL](http://www.ucl.ac.uk/)
 
- Penticton British Columbia Canada
 
- (c) setters 2003, Rescuing Turner: The Art Project &
- [/)
-
- search for jmw turner  [Google](http://www.google.ca/)
  [H](http://www.hotbot.com/)
  [A](http://www.altavista.com/)
  [T](http://www.teoma.com/)

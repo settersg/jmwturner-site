@@ -7,7 +7,6 @@ layout: single
 expertise clore national gallery expert opinion
 tate turner studies society news authentication christie's sotheby's
 
-![](/images/image001.gif)
 >
 >
 JMW Turner's

@@ -685,9 +685,3 @@ His last words have been reported as: "The Sun is God." Buried in St
 [Institutional evolution](/discovery/institutional/)
 [Butlin Joll catalogue](/discovery/catalogue/)
 [Connoisseurship](/discovery/connoisseurship/)
-
-J.M.W. Turner
-
-Penticton
-  (c) setters 2003, Rescuing Turner: The Art Project &
-[/)

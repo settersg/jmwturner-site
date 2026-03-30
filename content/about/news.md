@@ -3,7 +3,6 @@ title: "News"
 layout: single
 ---
 
-|
 news jmw
 turner
 [Discovery of Shipwreck, the Rescue](/)
@@ -15,9 +14,7 @@ Luke Herrmann / The Tate/Tate/Clore curators / oup Yale,
 Getty publications
 Joseph Mallord William Turner Mallord JMWT
 
-![](/images/image001.gif)
 
-![](/images/image002.gif)
 jmw
 
 ![](/images/swrfullbook%20weba.jpg)
@@ -135,10 +132,8 @@ initials
 
 Postscript Tribal Instincts
 
- |
  Resolution to a problem comes
  when threads of fact are woven into the fabric of truth.
-![](/images/image003.gif)
 
   Excerpt:
 [Rescuing Turner: A New Age of Art Discovery](/book/):
@@ -284,11 +279,10 @@ Even if his love of truth now overcomes his vanity, he is yet reluctant to harm
 someone who has believed in him'   Most people do not confess their mistake or
 they try and confuse the hard facts, more particularly as they know from
 experience that their clients never forget a financial loss."[[v]](/)
- |
 "There is no choice but optimistically to rely
  upon the fact that ignorance and unscrupulousness will gradually be
  discovered in the circle of collectors." - Friedlander
-![](/images/image004.gif) Have
+ Have
 we ended our subplot with an antihero of sorts? In the beginning our guest was
 seen as a charming comedic celebrity; had he become a slapstick villain? A
 villain, not only because he had condemned Shipwreck, the Rescue, but
@@ -848,7 +842,7 @@ relation Duveen had to this ruling class. John Walker, former director of the
 National Gallery in Washington quotes what B.B. (Bernard Berenson) had divulged
 to him:
 
-  "I once gained from B. B. an insight into the source of Duveen's influence'  
+  "I once gained from B. B. an insight into the source of Duveen's influence'
 [B. B. had] placed a low but fair value on the picture [altarpiece by Cima da
 Conegliano]. To his amazement his valuation was discarded and a much higher sum
 paid. The owner of the painting was the Viscount d'Abernon, a life-trustee of
@@ -1093,16 +1087,8 @@ itself.
  [[xlvii]](/)
  Ibid. 37.
 
- |
- |
- |
- |
- |
- |
-  An introduction:
  [JMW Turner](/painting/)
  Rescue
-  off site:
  [Turner Society](http://www.turnersociety.org.uk/) [Tate  Gallery](http://www.tate.org.uk/home/default.htm) [National Gallery](http://www.nationalgallery.org.uk/) [London](/discovery/national-gallery/)
  [Courtauld Institute of Art](http://www.courtauld.ac.uk/sub_index/location/location.html)
   [IFAR  International Foundation for Art Research](http://www.ifar.org/) [NGC](http://national.gallery.ca/)
@@ -1160,18 +1146,12 @@ itself.
  [NGL](/discovery/national-gallery/)
  [Fraud](/discovery/fraud/)
  [Chronology](/about/chronology/)
-  Publishers Oxford Cambridge Yale Princeton Harvard
  Stanford
  Penn State Rockefeller UPA J. Paul Getty Trust
  Publications
  [University College London UCL](http://www.ucl.ac.uk/)
 
- Penticton British Columbia Canada
 
- (c) setters 2003, Rescuing Turner: The Art Project &
- [/)
-
- search for jmw turner  [Google](http://www.google.ca/)
  [H](http://www.hotbot.com/)
  [A](http://www.altavista.com/)
  [T](http://www.teoma.com/)

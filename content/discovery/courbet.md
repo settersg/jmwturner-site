@@ -7,7 +7,7 @@ Gustave Courbet Jean-Jacques Fernier Institut
 Gustave Courbet Musee Courbet expert evaluation catalogue
 [JMW Turner the source](/painting/)
 
-![](/images/image001.gif)-
+-
 Gustave Courbet
 ![](/images/pool%20at%20ornans%20full%20large%20jpeg%20adjsm.jpg)
 What does it take
@@ -75,7 +75,7 @@ collector. Please advise me of the best way to get the appropriate credentials
 for it. Kind Regards
   ___________________________________
 Monsieur,
-Je serai    New York du 30 novembre au 5 d (c)cembre. Vous pouvez me joindre  
+Je serai    New York du 30 novembre au 5 d (c)cembre. Vous pouvez me joindre
 l'H  tel Barbizon au 212.88.4271 o   je s (c)journe.
 Si vous souhaitez mon avis sur une oeuvre, il faut me la porter    New York pour
 son examen, accompagn (c)e de photos et d'une lettre vous identifiant...

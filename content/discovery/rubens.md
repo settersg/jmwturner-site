@@ -3,7 +3,6 @@ title: "Peter Paul Rubens"
 layout: single
 ---
 
-|
 
  rubens
 Peter Paul Rubens
@@ -243,16 +242,8 @@ Reynolds fakes forgeries [connoisseurship](/discovery/copies/) connoisseur
 Getty Agnew Agnew's antiques research specialist consultant expertise professional expert
 witness Oxford Cambridge Frick Collection curator Andrew Mellon Goya Manet Emily
 Carr Manet
- |
- |
- |
- |
- |
- |
-  An introduction:
  [JMW Turner](/painting/)
  Rescue
-  off site:
  [Turner Society](http://www.turnersociety.org.uk/) [Tate  Gallery](http://www.tate.org.uk/home/default.htm) [National Gallery](http://www.nationalgallery.org.uk/) [London](/discovery/national-gallery/)
  [Courtauld Institute of Art](http://www.courtauld.ac.uk/sub_index/location/location.html)
   [IFAR  International Foundation for Art Research](http://www.ifar.org/) [NGC](http://national.gallery.ca/)
@@ -310,18 +301,12 @@ Carr Manet
  [NGL](/discovery/national-gallery/)
  [Fraud](/discovery/fraud/)
  [Chronology](/about/chronology/)
-  Publishers Oxford Cambridge Yale Princeton Harvard
  Stanford
  Penn State Rockefeller UPA J. Paul Getty Trust
  Publications
  [University College London UCL](http://www.ucl.ac.uk/)
 
- Penticton British Columbia Canada
 
- (c) setters 2003, Rescuing Turner: The Art Project &
- [/)
-
- search for jmw turner  [Google](http://www.google.ca/)
  [H](http://www.hotbot.com/)
  [A](http://www.altavista.com/)
  [T](http://www.teoma.com/)

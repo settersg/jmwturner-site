@@ -3,7 +3,6 @@ title: "Art Fraud"
 layout: single
 ---
 
-|
 
 FRAUD: Art Fraud
 is not
@@ -30,7 +29,7 @@ masterpieces. Many such artworks remain in limbo without proper attributions, or
 are given deprecating ones at best.
 There are many subsidiary tentacles of this beast that baits the
 modern day connoisseur.
-The Bigger Problem'  
+The Bigger Problem'
 Ultimately the bigger problem is one of fundamental social
 issues, ones that revolve around politics and economics. The main dilemma as it
 pertains to Art History is that one of the most dependable ways by which any
@@ -272,16 +271,8 @@ Reynolds fakes forgeries [connoisseurship](/discovery/copies/) connoisseur
 Getty Agnew Agnew's antiques research specialist consultant expertise professional expert
 witness Oxford Cambridge Frick Collection curator Andrew Mellon Goya Manet Emily
 Carr Manet Durer Albrecht Durer Peter Paul Rubens
- |
- |
- |
- |
- |
- |
-  An introduction:
  [JMW Turner](/painting/)
  Rescue
-  off site:
  [Turner Society](http://www.turnersociety.org.uk/) [Tate  Gallery](http://www.tate.org.uk/home/default.htm) [National Gallery](http://www.nationalgallery.org.uk/) [London](/discovery/national-gallery/)
  [Courtauld Institute of Art](http://www.courtauld.ac.uk/sub_index/location/location.html)
   [IFAR  International Foundation for Art Research](http://www.ifar.org/) [NGC](http://national.gallery.ca/)
@@ -339,18 +330,12 @@ Carr Manet Durer Albrecht Durer Peter Paul Rubens
  [NGL](/discovery/national-gallery/)
  [Fraud](/discovery/fraud/)
  [Chronology](/about/chronology/)
-  Publishers Oxford Cambridge Yale Princeton Harvard
  Stanford
  Penn State Rockefeller UPA J. Paul Getty Trust
  Publications
  [University College London UCL](http://www.ucl.ac.uk/)
 
- Penticton British Columbia Canada
 
- (c) setters 2003, Rescuing Turner: The Art Project &
- [/)
-
- search for jmw turner  [Google](http://www.google.ca/)
  [H](http://www.hotbot.com/)
  [A](http://www.altavista.com/)
  [T](http://www.teoma.com/)

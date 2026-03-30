@@ -419,9 +419,3 @@ Murillo
  [Lost Boucher](/discovery/courbet/)
  [Durer or Cranach](/discovery/durer/)
  [Monet](/discovery/manet/)
-
-
-Penticton
-
-(c) setters 2003, Rescuing Turner: The Art Project &
-[/)

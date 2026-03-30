@@ -11,7 +11,6 @@ JMW. Turner,
 The Oxford Companion to J.M.W. Turner,
 [Oxford University Press](http://www.oup.co.uk/)
 
-![](/images/image001.gif)
 
 The Paintings of JMW Turner
 

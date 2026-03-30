@@ -4,7 +4,6 @@ layout: single
 ---
 
 Gerald Roach
-Roach Penticton BC
 Canad a
 Gerald Roach news P enticton
 [JMW Turner: the source](/painting/)
@@ -12,8 +11,6 @@ Gerald Roach news P enticton
 ![](/images/portrait%201.jpg)
 
   Portrait of Gerald Roach in his studio 2002
-Penticton
-
 Early in 2003 Gerald Roach experienced a stroke that left him paralyzed in his
 left arm and leg. Other than being relegated to a wheelchair he is doing great.
 His spirits are high!

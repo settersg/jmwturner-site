@@ -9,11 +9,9 @@ R.A; Turner expertise, authentication, and curatorial expert opinion /
 discovery of the Orrock Ehrenbrietstein - Martin Butlin Hand
 theory
 
-![](/images/image001.gif)
 
 Dubitable "Hand C"
 
-![](/images/image003.jpg)
   J.M.W.TURNER R.A. PINXT
 J. COUSEN SCUPLT
 
@@ -122,7 +120,6 @@ in the tree. After undue persistence Graham finally got his point across at
 which point he was disparaged:
 "I think you'll
 find it to be that of Mussolini."
-![](/images/image006.jpg)
 In keeping with
 the comment about scratches
 into the wet paint left by the artist's thumbnail: clearly seen below are a
@@ -133,7 +130,6 @@ scratching into the wet paint.
   Horizontal scratches
 (center bottom) into the wet impasto
 
-![](/images/image008.jpg)
 Detail of the sky showing a large horizontal scratch
 done while the paint was wet.
 

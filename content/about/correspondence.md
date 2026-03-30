@@ -3,7 +3,6 @@ title: "JMW Turner Correspondence and Letters"
 layout: single
 ---
 
-|
 Correspondence Turner letter JMW Turner
 letters John Gage Collected Correspondence of
 [JMW Turner the source](/painting/)
@@ -30,9 +29,7 @@ Moon,
 
 a leading print-seller and publisher who became Lord Mayor of
 London in 1854.
-![](/images/image002.jpg)
 
-![](/images/image003.jpg)
 
 To Samuel Rogers
 Hanover
@@ -126,10 +123,9 @@ caught he showed to me, and appealed to me to decide whether the size justified
 him to keep it for the table, or return it to the river; his hesitation was
 often most touching, and he always gave the prisoner at the bar the benefit of
 the doubt.
- |
 The way in which a man treats his inferior
  fellow-creatures is an index to his heart.
-![](/images/image004.gif)'A
+'A
 righteous man regardeth the life of his beast," say the Scriptures, and
 certainly the way in which a man treats his inferior fellow-creatures is an
 index to his heart.'[[ix]](#_edn9)
@@ -138,7 +134,6 @@ Turner was not entirely oblivious to his own shortcomings. In an 1845 letter to
 Charles Robert Cockerell, he begs pardon from his wife: "I beg her pardon for
 being so disorderly and deserve expulsion." Again, in Turner's own hand:
 
-![](/images/image006.jpg)
 
 J.M.W. Turner: a letter to Charles Robert Cockerell
 
@@ -174,16 +169,8 @@ HOME
 [[ix]](#_ednref9)
  Rev. S.A. Swaine, Turner the Artist, (Cassell & Company, Limited:
  London, Paris, New York, Melbourne, 1885), 48.
- |
- |
- |
- |
- |
- |
-  An introduction:
  [JMW Turner](/painting/)
  Rescue
-  off site:
  [Turner Society](http://www.turnersociety.org.uk/) [Tate  Gallery](http://www.tate.org.uk/home/default.htm) [National Gallery](http://www.nationalgallery.org.uk/) [London](/discovery/national-gallery/)
  [Courtauld Institute of Art](http://www.courtauld.ac.uk/sub_index/location/location.html)
   [IFAR  International Foundation for Art Research](http://www.ifar.org/) [NGC](http://national.gallery.ca/)
@@ -241,18 +228,12 @@ HOME
  [NGL](/discovery/national-gallery/)
  [Fraud](/discovery/fraud/)
  [Chronology](/about/chronology/)
-  Publishers Oxford Cambridge Yale Princeton Harvard
  Stanford
  Penn State Rockefeller UPA J. Paul Getty Trust
  Publications
  [University College London UCL](http://www.ucl.ac.uk/)
 
- Penticton British Columbia Canada
 
- (c) setters 2003, Rescuing Turner: The Art Project &
- [/)
-
- search for jmw turner  [Google](http://www.google.ca/)
  [H](http://www.hotbot.com/)
  [A](http://www.altavista.com/)
  [T](http://www.teoma.com/)

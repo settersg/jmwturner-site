@@ -3,7 +3,6 @@ title: "St. Christopher"
 layout: single
 ---
 
-|
 [ JMW Turner the source](/painting/) Alistair Smith St
 Christopher Lucas Cranach the Elder / Albrecht Durer c1497 Alistair...
 
@@ -47,11 +46,8 @@ unusual landscape features from nature
 ![](/images/quarry%20detail%20sm.jpg)
 
 watercolour on paper 1497
- |
  SAINT CHRISTOPHER MARTYR
- |
  Feast: July 25
- |
  From the great mass of legendary material, often
  confused and contradictory, which is associated with the name of St.
  Christopher, there emerges one clear conception. It is that of a man who is
@@ -136,16 +132,8 @@ setters
 / graham setters
 
 HOME
- |
- |
- |
- |
- |
- |
-  An introduction:
  [JMW Turner](/painting/)
  Rescue
-  off site:
  [Turner Society](http://www.turnersociety.org.uk/) [Tate  Gallery](http://www.tate.org.uk/home/default.htm) [National Gallery](http://www.nationalgallery.org.uk/) [London](/discovery/national-gallery/)
  [Courtauld Institute of Art](http://www.courtauld.ac.uk/sub_index/location/location.html)
   [IFAR  International Foundation for Art Research](http://www.ifar.org/) [NGC](http://national.gallery.ca/)
@@ -203,18 +191,12 @@ HOME
  [NGL](/discovery/national-gallery/)
  [Fraud](/discovery/fraud/)
  [Chronology](/about/chronology/)
-  Publishers Oxford Cambridge Yale Princeton Harvard
  Stanford
  Penn State Rockefeller UPA J. Paul Getty Trust
  Publications
  [University College London UCL](http://www.ucl.ac.uk/)
 
- Penticton British Columbia Canada
 
- (c) setters 2003, Rescuing Turner: The Art Project &
- [/)
-
- search for jmw turner  [Google](http://www.google.ca/)
  [H](http://www.hotbot.com/)
  [A](http://www.altavista.com/)
  [T](http://www.teoma.com/)

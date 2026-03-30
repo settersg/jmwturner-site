@@ -4,7 +4,6 @@ layout: single
 ---
 
 Joseph Mallord William Turner
- |
 
  [JMW Turner the  source](/painting/)
  [Art  World's Dirty Little Secret](/book/)

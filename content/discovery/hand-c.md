@@ -3,7 +3,6 @@ title: "The Hand C Theory: Orrock, Ehrenbreitstein, and Martin Butlin"
 layout: single
 ---
 
-|
  [JMW Turner the source:](/painting/)
 Discovery JMW Turner
 from James Orrock collection. Turner expertise: expert opinion versus
@@ -14,11 +13,9 @@ deception
 
 ![](/images/ehrfull-large-jpeg-adjweba.jpg)
 
-![](/images/image001.gif)
 Orrock Ehrenbrietstein
 on a marbled book-board signed and dated, JMW Turner R.A. 1817 (10 X 12 inches)
 
-![](/images/image002.gif)
  [Rescuing Turner: A New Age of Art Discovery](/book/):
 r malcolm setters
 graham setters
@@ -157,7 +154,6 @@ that he had been planning a major exhibition piece of the region for several
 years. Finally, in 1835 he exhibited The Bright Stone of Honour
 (Ehrenbrietstein).
 
-![](/images/image004.jpg)
 
 The Bright Stone of Honour (Ehrenbrietstein) and the Tomb of Marceau
 
@@ -277,7 +273,7 @@ was his young career, -
 hosts, his friends and foes;
   Pray for his gallant
 spirit's bright repose;
-  For he was freedom's champion'  
+  For he was freedom's champion'
 
 ![](/images/wwii-sterioview.jpg)
   WWI stereo-view of
@@ -611,11 +607,9 @@ of the Continent to the English traveler after Waterloo, and it was not until
 1819 that he made his second journey abroad."[Edward
  Croft-Murray, Turner Watercolors from The British Museum,
  (Smithsonian Publication No. 4519, 1963), 10]
- |
  The quirky nature by which the
  truth unfolded gave the only clue strong enough to challenge, ''': the
  invention' of the man with the many-hands
-![](/images/image005.gif)
 
 The great irony with Thornbury's original 1819 dating, is that, if it were
 not for his mistake, the Butlin Hand Theory might have become more and more an
@@ -741,12 +735,9 @@ HOME
  University Press, New Haven and London, Evelyn Joll's 1977 intro. Revised
  Edition, 1984), text vol., xvi.
 
- |
-  An introduction:
 [JMW Turner](/painting/)
 Rescue
 
-off site: [Turner Society](http://www.turnersociety.org.uk/) [Tate Gallery](http://www.tate.org.uk/home/default.htm) [National Gallery](http://www.nationalgallery.org.uk/) London
 [Courtauld Institute of Art](http://www.courtauld.ac.uk/sub_index/location/location.html)
   [IFAR International Foundation for Art Research](http://www.ifar.org/) [NGC](http://national.gallery.ca/)
  [National Gallery Canada](http://national.gallery.ca/) [Frick Collection](http://www.frick.org/html/info1f.htm)
@@ -784,9 +775,6 @@ Art
 J.M.W. Turner
 
 
-(c) setters 2003, Rescuing Turner: The Art Project &
-
-search for jmw turner [Google](http://www.google.ca/)
 [H](http://www.hotbot.com/)
 [A](http://www.altavista.com/)
 [T](http://www.teoma.com/)

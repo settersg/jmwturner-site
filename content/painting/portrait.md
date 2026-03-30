@@ -8,7 +8,6 @@ jmw Turner self portrait, Turner portrait,
 JMW Portrait, shipwrec, madonna, turner slavers...
  [J.M.W. Turner the source](/painting/)
 
-![](/images/image001.gif)
  ![](/images/turner-portrait-book-cover-web.jpg)
 
  jmw turner
@@ -185,7 +184,7 @@ The comparison with a Christian Madonna surely goes beyond a trite reference.
 It is not merely a mother-child bond that we are given to observe, but something
 much more profound. Does Turner not confront us with a Christian allegory; the
 contrapposta positioning of the one woman's head and upper torso is surely taken
-from a medieval or early Renaissance archetype. One example is the Avignon Piet 
+from a medieval or early Renaissance archetype. One example is the Avignon Piet
 by E. Quarton. The Louvre, Paris
 What about
 that lone Black Man in the rescue boat (below)? He is
@@ -257,15 +256,8 @@ Clarkson's History of the Abolition of the Slave Trade in 1808, Turner
 proves with Shipwreck, the Rescue c1802 to be somewhat of a visionary
 both pictorially and poetically in his quest to abet social justice and
 humanitarian principals. jmw
-[rt/Science](/discovery/art-science/)
-[Art World's Dirty Little Secret](/book/)
 
-J.M.W. Turner
-
-Penticton
-
- (c) setters 2003, Rescuing Turner: The
-Art Project & [/) [Forensics](/discovery/forensic/)
+[Forensics](/discovery/forensic/)
   [Connoisseurship](/discovery/connoisseurship/)
 [Christie's](/painting/provenance/)
 [Turner Bibliography](/about/bibliography/)

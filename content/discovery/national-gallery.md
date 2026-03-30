@@ -11,7 +11,7 @@ of art. Gallery: Tate, Clore, Courtauld, National Portrait Gallery Alistair Smit
 Gallery
 London: 'an institution'
 
-![](/images/image001.gif) [policy](/discovery/christopher/)
+ [policy](/discovery/christopher/)
 on evaluations:
 
 [Murillo Copy - National Gallery, London](/discovery/copies/)
@@ -57,13 +57,11 @@ that it was often sufficient for one deus ex machina to pronounce a
 judgment to move another one of the same elevated standing to contradict it.
 During the last half century the law courts have had to deal with many cases
 resulting from these internecine wars."[[iv]](#_edn4)
- |
  Soon,
  work by certain masters had to be, ''': certified' by one or more of the
  particular specialists in the various schools; and, humanity being what it
  is, what had begun as a most honourable occupation became in many cases a
  furious race for gain.
-![](/images/image002.gif)
 
 As
 discussed earlier support by an expert for a painting can put the monetary value
