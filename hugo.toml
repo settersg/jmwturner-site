@@ -8,6 +8,9 @@ theme = "turner"
   author = "Graham Setters"
   bookTitle = "Rescuing J.M.W. Turner -- A New Age of Art Discovery"
 
+[outputs]
+  home = ["HTML", "JSON", "RSS"]
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
