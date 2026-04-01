@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function() {
   const searchModal = document.getElementById('search-modal');
-  const searchToggle = document.getElementById('search-toggle');
+  const searchToggles = document.querySelectorAll('[id="search-toggle"]');
   const searchInput = document.getElementById('search-input');
   const searchClose = document.getElementById('search-close');
   const searchOverlay = document.getElementById('search-overlay');
@@ -9,7 +9,6 @@ document.addEventListener('DOMContentLoaded', function() {
   let searchDocs = [];
 
   function initSearch() {
-    lunr.tokenizer.separator = /[\\s\\-]+/;
     searchIndex = lunr(function () {
       this.ref('id');
       this.field('title', {boost: 10});
@@ -48,9 +47,11 @@ document.addEventListener('DOMContentLoaded', function() {
     });
   }
 
-  searchToggle.addEventListener('click', () => {
-    searchModal.style.display = 'flex';
-    searchInput.focus();
+  searchToggles.forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      searchModal.style.display = 'flex';
+      searchInput.focus();
+    });
   });
 
   searchClose.addEventListener('click', () => {
