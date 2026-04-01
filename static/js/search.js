@@ -18,12 +18,16 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 
     fetch('/index.json')
-      .then(response => response.json())
-      .then(data => {
-        searchDocs = data;
-        data.forEach(doc => searchIndex.add(doc));
+      .then(function(response) {
+        if (!response.ok) throw new Error('HTTP ' + response.status);
+        return response.json();
       })
-      .catch(err => console.error('Search index load failed', err));
+      .then(function(data) {
+        searchDocs = data;
+        data.forEach(function(doc) { searchIndex.add(doc); });
+        console.log('Search index loaded: ' + data.length + ' pages');
+      })
+      .catch(function(err) { console.error('Search index load failed:', err); });
   }
 
   function showResults(results) {
@@ -58,18 +62,29 @@ document.addEventListener('DOMContentLoaded', function() {
     searchModal.style.display = 'none';
   });
 
-  searchOverlay.addEventListener('click', () => {
-    searchModal.style.display = 'none';
+  searchModal.addEventListener('click', function(e) {
+    if (e.target === searchModal || e.target.id === 'search-overlay') {
+      searchModal.style.display = 'none';
+    }
   });
 
-  searchInput.addEventListener('input', () => {
-    const query = searchInput.value.trim();
+  searchInput.addEventListener('input', function() {
+    var query = searchInput.value.trim();
     if (query.length < 2) {
-      showResults([]);
+      searchResults.innerHTML = '';
       return;
     }
-    const results = searchIndex.search(query);
-    showResults(results);
+    if (!searchIndex || searchDocs.length === 0) {
+      searchResults.innerHTML = '<li style="padding:1rem 1.5rem;color:#888;">Loading search index...</li>';
+      return;
+    }
+    try {
+      var results = searchIndex.search(query);
+      showResults(results);
+    } catch(e) {
+      searchResults.innerHTML = '<li style="padding:1rem 1.5rem;color:#c00;">Search error: ' + e.message + '</li>';
+      console.error('Search error:', e);
+    }
   });
 
   document.addEventListener('keydown', (e) => {
