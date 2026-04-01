@@ -27,6 +27,14 @@
     r.send();
   }
 
+  function esc(s){return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
+
+  function hl(text,query){
+    var safe=esc(text);
+    var re=new RegExp('('+query.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+')','gi');
+    return safe.replace(re,'<mark style="background:#fff3cd;padding:0 2px;border-radius:2px">$1</mark>');
+  }
+
   function doSearch(q){
     if(!ready)return '<div style="padding:1rem;color:#888">Loading...</div>';
     if(q.length<2)return '';
@@ -41,14 +49,14 @@
         results.push(d);
       }
     }
-    if(!results.length)return '<div style="padding:1rem;color:#888">No results for "'+q.replace(/</g,'&lt;')+'"</div>';
+    if(!results.length)return '<div style="padding:1rem;color:#888">No results for "'+esc(q)+'"</div>';
     var html='';
     for(var j=0;j<results.length;j++){
       var d=results[j];
-      var sum=(d.summary||d.content||'').substring(0,200).replace(/</g,'&lt;').replace(/>/g,'&gt;');
+      var sum=(d.summary||d.content||'').substring(0,200);
       html+='<a href="'+d.url+'" style="display:block;padding:1rem 1.5rem;border-bottom:1px solid #eee;text-decoration:none;color:#333">';
-      html+='<strong style="display:block;font-family:serif;font-size:1.1rem;margin-bottom:0.3rem;color:#000">'+(d.title||'').replace(/</g,'&lt;')+'</strong>';
-      html+='<span style="color:#666;font-size:0.9rem;line-height:1.4">'+sum+'...</span></a>';
+      html+='<strong style="display:block;font-family:serif;font-size:1.1rem;margin-bottom:0.3rem;color:#000">'+hl(d.title,q)+'</strong>';
+      html+='<span style="color:#666;font-size:0.9rem;line-height:1.4">'+hl(sum,q)+'...</span></a>';
     }
     return html;
   }
