@@ -241,106 +241,12 @@ setters
 [Art versus Science](/discovery/ifar/)
 
 HOME
-Source:
-J[MW Turner Joseph Mallord William](/painting/), National Gallery of Canada
-Metropolitan Museum of Art Museum of Modern Art the British Museum art museum art history
-[Christie's](/painting/provenance/) Sotheby's Tate
-Gallery art world painting old master paintings[sea piece Shipwreck](/painting/style/)Martin Butlin Wildenstein
-Institute Yale Center
-British Art The Getty Getty Research Institute provenance Clore
-Gallery Tate Gallery [Turner Gallery](/about/medal/) curator museum antique forensic fingerprint conservator International Foundation for Art
-Research
-[IFAR](/discovery/ifar/) English landscape art historian art criticism IIC
-[CCI](/discovery/art-science/) Canadian
-Conservation Institute McCrone Research
-Institute artist artists pictures paintings gallery galleries drawing picture biography collection archive history
-of art discovery discoveries discovery ca discovery
-[forensic science](/discovery/forensic/) Tate Gallery London the tate
-[Turner Society](/about/medal/) Turner Society News
-[TSN](/about/medal/) old
-master masterpiece Rembrandt Picasso Francoise Boucher Monet Boucher
-[Claude Monet](/discovery/manet/) [Angelica Kauffmann](/discovery/copies/) Murillo Whistler James McNeill Whistler Rubens Peter
-Paul Rubens Renior Claude Titian Joshua
-Reynolds fakes forgeries [connoisseurship](/discovery/copies/) connoisseur
-[art expert](/discovery/expert/) renaissance Getty Museum James
-[Orrock](/discovery/orrock/)
-[Orrock](/painting/provenance/)
-[Sir J.C. Robinson](/discovery/orrock/)
-[Turner portrait](/painting/portrait/) John Paul
-Getty Agnew Agnew's antiques research specialist consultant expertise professional expert
-witness Oxford Cambridge Frick Collection curator Andrew Mellon Goya Manet Emily
-Carr Manet Durer Albrecht Durer Peter Paul Rubens
  [JMW Turner](/painting/)
  Rescue
- [Turner Society](http://www.turnersociety.org.uk/) [Tate  Gallery](http://www.tate.org.uk/home/default.htm) [National Gallery](http://www.nationalgallery.org.uk/) [London](/discovery/national-gallery/)
+ [Turner Society](http://www.turnersociety.org.uk/) [Tate Gallery](http://www.tate.org.uk/home/default.htm) [National Gallery](http://www.nationalgallery.org.uk/) [London](/discovery/national-gallery/)
  [Courtauld Institute of Art](http://www.courtauld.ac.uk/sub_index/location/location.html)
-  [IFAR  International Foundation for Art Research](http://www.ifar.org/) [NGC](http://national.gallery.ca/)
- [National Gallery Canada](http://national.gallery.ca/) [Frick  Collection](http://www.frick.org/html/info1f.htm)
-  [Yale  Center for British Art](http://www.yale.edu/ycba/) [The Getty](http://www.getty.edu/) Biro
+  [IFAR International Foundation for Art Research](http://www.ifar.org/) [NGC](http://national.gallery.ca/)
+ [National Gallery Canada](http://national.gallery.ca/) [Frick Collection](http://www.frick.org/html/info1f.htm)
+  [Yale Center for British Art](http://www.yale.edu/ycba/) [The Getty](http://www.getty.edu/) Biro
  Forensic Studies [CCI](http://www.cci-icc.gc.ca/)
  [Canadian Conservation Institute](http://www.cci-icc.gc.ca/html/)
-
- [Wildenstein  Institute](http://www.wildenstein.com/) [McCrone  Research Institute](http://www.mcri.org/)
- [Collections](http://www.artcyclopedia.com/artists/turner_joseph_mallord_william.html) [International  Center for Art Intelligence](http://www.authentica.org/home.html)
-  [GMM](http://www.youknowtheysay.com/movabletype/archives/000557.html)
- [Village Voice](http://www.villagevoice.com/) Andrew Wilton Rizzoli
- Tate Clore Christie's Sotheby's auction house On
- site:
- [JMWT](/about/turner/)
- [bequest](/about/medal/)
- [news](/about/news/)
- [corresp](/about/correspondence/)
- [bibliography](/about/bibliography/)
- [sa](/painting/appraisal/)
-
- [discovery](/painting/)
- [style](/painting/style/)
- [provenance](/painting/provenance/)
- [connoisseur](/discovery/connoisseurship/)
- [Orrock](/discovery/orrock/)
- [forensic](/discovery/forensic/)
- [signature](/painting/signature/)
- [Butlin](/discovery/butlin/)
- [legal](/discovery/legal/)
- [catalogue](/discovery/catalogue/)
- [portrait](/painting/portrait/)
- [sting](/discovery/sting/) [Courbet](/discovery/courbet/)
- [Roach](/discovery/roach/)
- [old](/discovery/expert/)
- [St](/discovery/christopher/)
- [Durer](/discovery/durer/)
- [Manet](/discovery/manet/)
- [bio](/about/biography/)
- [Rubens](/discovery/rubens/)
-
- [medal](/about/medal/)
- [Unknown Turner](/discovery/ngc/)
- [ngc shipwreck](/discovery/ngc/)
- [IFAR/RRP](/discovery/ifar/)
- [institutional](/discovery/institutional/)
- [copies](/discovery/copies/)
- [book](/book/)
- [your  story](/about/your-story/)
- [Hand C theory](/discovery/hand-c/)
- [C dialogue](/discovery/dialogue/)
- [expertise](/discovery/expert/)
- [expert](/discovery/expert/)
- [Kayser](/discovery/hand-c/)
- [NGL](/discovery/national-gallery/)
- [Fraud](/discovery/fraud/)
- [Chronology](/about/chronology/)
- Stanford
- Penn State Rockefeller UPA J. Paul Getty Trust
- Publications
- [University College London UCL](http://www.ucl.ac.uk/)
-
- [H](http://www.hotbot.com/)
- [A](http://www.altavista.com/)
- [T](http://www.teoma.com/)
- [D](http://www.dogpile.com/info.dogpl/)
- [O](http://www.content.overture.com/d/home/)
- [AJ](http://www.ask.com/)
- [Y](http://ca.yahoo.com/)
- [M](http://www.metacrawler.com/info.metac/dog/index.htm)
- [W](http://www.webcrawler.com/info.wbcrwl/)
- [AOL](http://aolsearch.aol.com/index.adp)

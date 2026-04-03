@@ -99,4 +99,14 @@ From this description, it is almost as though Mary Chamot had seen *Shipwreck, t
 [^1]: The foreground of *Shipwreck* and particularly the figures in the foreground that cling to the wreckage fit both Fuseli's and Beaumont's descriptions faithfully.
 [^2]: See *James Orrock R.I., Painter, Connoisseur, Collector*, 1903 for an extended description: page 60, vol. 1.
 [^i]: Kenneth Clark, *The Romantic Rebellion: Romantic versus Classic Art*, (Longman Canada Limited, 1973), 232.
-[... all footnotes listed at end]
+[^ii]: Sir George Beaumont, quoted in Walter Thornbury, *The Life of J.M.W. Turner*, (Hurst and Blackett, London, 1862), vol. 1.
+[^iii]: Philip Gilbert Hamerton, *Life of J.M.W. Turner R.A.*, (University Press: John Wilson & Son, Cambridge, 1879).
+[^iv]: Ibid.
+[^v]: Walter Thornbury, *Life of J. M. W. Turner, R.A.*, (Hurst and Blackett, London, 1862), vol. 2.
+[^vi]: Joyce H. Townsend, *Turner's Painting Techniques*, (Tate Publishing, 1993).
+[^vii]: Martin Butlin and Evelyn Joll, *The Paintings of J.M.W. Turner*, (Yale University Press, 1984).
+[^viii]: John Gage, *Colour in Turner: Poetry and Truth*, (Studio Vista, London, 1969).
+[^ix]: Ibid.
+[^x]: Philip Gilbert Hamerton, *Life of J.M.W. Turner R.A.*, (University Press: John Wilson & Son, Cambridge, 1879).
+[^xi]: Mary Chamot, *The Early Works of J.M.W. Turner*, (Tate Gallery Publications, London, 1981).
+[^xii]: Mary Chamot, *Turner*, (Tate Gallery, 1959).

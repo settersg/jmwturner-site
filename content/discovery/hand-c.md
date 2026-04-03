@@ -735,53 +735,13 @@ from the Butlin visit.
  University Press, New Haven and London, Evelyn Joll's 1977 intro. Revised
  Edition, 1984), text vol., xvi.
 
-[JMW Turner](/painting/)
-Rescue
 
-[Courtauld Institute of Art](http://www.courtauld.ac.uk/sub_index/location/location.html)
+[JMW Turner](/painting/)
+ Rescue
+ [Turner Society](http://www.turnersociety.org.uk/) [Tate Gallery](http://www.tate.org.uk/home/default.htm) [National Gallery](http://www.nationalgallery.org.uk/) [London](/discovery/national-gallery/)
+ [Courtauld Institute of Art](http://www.courtauld.ac.uk/sub_index/location/location.html)
   [IFAR International Foundation for Art Research](http://www.ifar.org/) [NGC](http://national.gallery.ca/)
  [National Gallery Canada](http://national.gallery.ca/) [Frick Collection](http://www.frick.org/html/info1f.htm)
-  [Yale Center British Art](http://www.yale.edu/ycba/) [The Getty](http://www.getty.edu/)
-[](http://www.getty.edu/research/) [prov](http://piweb.getty.edu/cgi-bin/starfinder/0?path=collab.txt&id=webber&pass=webber&OK=OK) [new technology veritus ag](http://www.veritus.org/scndtier/limits.php) Biro Forensic Studies in
-Art
-  [Christie's auction house](http://www.christies.com/home_page/home_page.asp)
-[Sotheby's auction house](http://pages.sothebys.ebay.com/?ssPageName=MOPS5:HSO01) [Wildenstein Institute](http://www.sk-creation.ch/pages/catalogue.raisonne.html) [McCrone Research Institute](http://www.mcri.org/)
-
-[CCI](http://www.cci-icc.gc.ca/)
-[Canadian Conservation Institute](http://www.cci-icc.gc.ca/html/)
-[Collections](http://www.artcyclopedia.com/artists/turner_joseph_mallord_william.html) [GMM](http://www.youknowtheysay.com/movabletype/archives/000557.html)
-[VV](http://www.villagevoice.com/)
- [Andrew Wilton Rizzoli Tate Clore](http://www.aaabooksearch.com/Author/Andrew%20Wilton/0)
-
-[discovery](/painting/)
-[style](/painting/style/)
-[provenance](/painting/provenance/)
-[connoisseur](/discovery/connoisseurship/)
-[Orrock](/discovery/orrock/)
-[forensic](/discovery/forensic/) [signature](/painting/signature/)
-[Butlin](/discovery/butlin/)
-[legal](/discovery/legal/)
-[catalogue](/discovery/catalogue/)
-[portrait](/painting/portrait/)
-[sting](/discovery/sting/)
-
-[medal](/about/medal/)
-[Unknown Turner](/discovery/ngc/)
-[ngc shipwreck](/discovery/ngc/)
-[IFAR/RRP](/discovery/ifar/)
-[institutional](/discovery/institutional/) [copies](/discovery/copies/)
-[book](/book/) [your story](/about/your-story/)
-[Hand C theory](/discovery/hand-c/) [C dialogue](/discovery/dialogue/)
-J.M.W. Turner
-
-
-[H](http://www.hotbot.com/)
-[A](http://www.altavista.com/)
-[T](http://www.teoma.com/)
-[D](http://www.dogpile.com/info.dogpl/)
-[O](http://www.content.overture.com/d/home/)
-[AJ](http://www.ask.com/)
-[Y](http://ca.yahoo.com/)
-[M](http://www.metacrawler.com/info.metac/dog/index.htm)
-[W](http://www.webcrawler.com/info.wbcrwl/)
-[AOL](http://aolsearch.aol.com/index.adp)
+  [Yale Center for British Art](http://www.yale.edu/ycba/) [The Getty](http://www.getty.edu/) Biro
+ Forensic Studies [CCI](http://www.cci-icc.gc.ca/)
+ [Canadian Conservation Institute](http://www.cci-icc.gc.ca/html/)
