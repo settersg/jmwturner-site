@@ -4,55 +4,20 @@ description: "Chapter 15 of Art World's Dirty Little Secret — Cool Britannia"
 weight: 15
 ---
 
-**Chapter 15**
+![The Turner Medal — now only bronze](/images/turner medal worth crop.jpg)
 
-## Cool Britannia
+*The Turner Medal — now only bronze*
 
-> *Excerpt from Art World's Dirty Little Secret by R. Malcolm Setters / Graham Setters*
+A finely-finished watercolour in Bob's collection was framed by Thos. Agnew and Son. It had the best of provenances—from the estate of Turner's friend, Rev. William Kingsley.
 
-Cool Britannia
+British art establishment: a finely-tuned machine for maintaining control. The institutions had grown powerful beyond the dreams of their founders.
 
-A finely-finished topographical watercolour in Bob’s collection was framed and lettered by hand: “J.M.W. Turner R.A.” by Thos. Agnew and Son, years ago (see image No. 14). It has the best of provenances; it came from the estate of Turner’s friend, Rev. William Kingsley. Giving John Anderson’s theory about hidden signatures the benefit of the doubt, Bob searched long and hard for the mysterious cipher, and although his search was in vain he still refused to ignore the thirty-five years of dedicated effort Anderson applied to his study of JMW.
-
-In his book, Anderson presented a list of 100 London views from his collection, and stated that everyone bears a mark indicating where Turner’s hidden signature and date were to be found, and where it may be found by “any person possessing ordinary eyesight, a fair amount of patience and perseverance, and an open mind.”
-
-Another problem for  was his assertion that he had 100 watercolours of . Public institutions in  claim a monopoly on this important part of Turner’s production. For  to have a monopoly would be, for them, the ideal of course. Sir Edward T. Cook announced that “To many of our foreign visitors, Turner is one of the principal attractions of .”
-
-Yes, when one considers tourism—a monopoly of anything featured in those eminent British institutions would be preferred. Today over two-and-one-half million tourists visit  annually, and upwards of three million a year visit certain individual sites. With meals, accommodation and travel this equates to many billions of pounds for the British economy—tourism is clearly an important issue for “Cool Britannia.”
-
-Fate or
-
-As fate would have it, it was Bob’s dubious good fortune to acquire one of those same watercolour drawings from the John Anderson Jr. collection: Off Dover by J.M.W. Turner. It came from the estate of a wealthy North American antiques and art collector who had collected during the 1930s and 1940s, some of the leanest years in the art market, and some of the best years for buying. (this watercolour was subsequently given to The Turner Museum in Florida USA under the care of founder Douglass Montrose-Graem)
-
-Off Dover is an atmospheric little study of sailboats afore the  cliffs. This peaceful seascape is pencil drawn and gently washed-over in various tones of blue and grey. Ruskin had one such drawing described as, “a delicate drawing in blue and grey washes.” It was one of the few drawings from the Dr. Monro school c1794-98 that can be firmly attributed to Turner working independently.
-
-      Swinburne more accurately dates these earliest blue and grey tinted drawings done while Turner traveled around  with “Tom” Girtin. He wrote that they were done in 1795-7, when both Turner and Girtin did much work traveling together in the , the Southern counties, and .
-
-Graham Reynolds concurs. During the closing years of the 18th century, early in Turner’s career, the colours in which he composed watercolours were the “low-toned blues and blue-greys which had their own emotional melancholic.” This was a time that Turner visited the  southern coast region to enjoy the picturesque qualities of the sea. He likely produced many such drawings. Off Dover has summary notations written directly onto the image, the way Turner often did in order to better recall the occasion. For such sketches, Monro of Novar wrote that “he generally preferred the pencil-point, writing in here and there the colours and effects.”
-
- “George F. Muller, art appraiser, [dies at age] 92,” was the headline of an  obituary. After a painting career abroad, Mr. Muller was an independent art appraiser in  from 1915 to 1951. He was a thirty-six-year veteran and expert in his field. His other art-related qualifications were impressive, including the exhibition of his own work early in life at the  Salon. Muller authenticated Off Dover while it was still with . With all this great provenance and professional opinion, has the art scholarship today changed so much that Sotheby’s should write Bob saying:
-
-     My colleague Martin Gallon has passed on your letter and photographs of your watercolour (Off Dover) attributed to J M W Turner. I regret that after careful examination of your photographs, I am unable to support the attribution to Turner. During the past few years considerable research has been done on Turner watercolours and a number of works previously thought to be by him have since been turned down by the leading experts on the artist.
-
-This letter from Sotheby’s British paintings and watercolour specialist, Henry Wemys is polite but bereft of substance. It is certain that if all 15,000 works owned by  have been circulating in the marketplace for the last fifty years, those same experts have likely been plagued with enquiries. Also they have probably been advised by their predecessors and present overseers to beware of the  collection. If these indoctrinates could be advised to produce a form letter in defense of all such North American enquiries, it would certainly streamline tradition.
-
-There are those who might like to see all Turner’s work of lesser importance or dubious provenance, done away with or at least condemned, particularly in light of the glut of his production. Even those with blinders must realize that painting is a learning process that took, even Turner, a lifetime. If he thought any of his own works unworthy, or not necessary to maintain context for the whole lot, he himself would have done the job. He would have destroyed them.
-
-Is it that ‘Turner’ has become more than an artist; perhaps he has become a British institution, and as such must be cosseted to protect his posthumous reputation from the vagaries of the art world? C. Lewis Hind gives an early example how even one of Turner’s major works was exiled: “impatient of The Golden Bough… the trustees of the National Gallery banished it to .”
-
-Ruskin’s ‘take’ on this purging process was to swiftly destroy the nude drawings in the late Turner’s studio. Jack Lindsay claims this was done “on the request of the National Gallery trustees in 1858.” In Ruskin’s own words: “Yes, I burned them all! I’m proud, very proud to have done it.” Ruskin was a religious man and likely assumed that such an act would not only be the moral thing to do but also protect Turner’s fame. It has taken another 150 years of insular faux-erudition to hack away much more of the artist’s oeuvre. In 1975, while reviewing the catalogue of Frans Hals’s work, Christopher White wrote:
-
-“An initial period of discovery is accompanied by a spirit of optimistic expansionism, this is followed eventually by a mood of deep retrenchment in which it almost becomes a matter of honour to reach negative conclusions, so that much of the baby as well as the bathwater tends to be thrown out.”
-
-It is likely that the standard of quality is an issue being debated as much as anything by members of such core groups. And if so, there is the danger that Rembrandt’s baroque visions, or Turner’s Romantic ones are being defined by modern values. This perfidy has undoubtedly resulted in authentic works being lost altogether. Any necessary culling of poor craftsmanship might be left to the master and the master alone, and not to his biased admirers—admirers holding nationalist interests and their own introspective visions in the balance.
-
-There is another point to consider in this equation. Who would know better than those same well-educated and often dreadfully experienced groups, that the public is keen on rarity? Exclusivity is important. Poignant evidence here is the number of people who make an art pilgrimage to the Louvre to see one of the few Leonardos in existence—The Mona Lisa. What better way to make something rare than to eliminate its competitors? What national museum would not enjoy complete control over such a carefully selected trove, particularly if it were by a famous native son like Turner?
-
-Curiously, while most Turner biographers treat Thornbury dismissively, and much of what he recorded as hearsay or invention, they trivialize or fail to mention the significant damage done to Turner by the illustrious John Ruskin. Ruskin had been Turner’s most important early promoter. After becoming disgruntled with much of Turner’s late painterly “inventions,” he sought to somewhat ignore his former idol. His insular religious convictions and desire to maintain Turner’s stellar reputation saw him destroy a highly intimate chapter of Turner’s life. “The prudery of this Victorian has prevented our ever having full knowledge of Turner’s genius as a draftsman of the human figure.”
+Turner's legacy was being managed—not celebrated. The Clore Gallery scattered the Bequest. The experts guarded their turf.
 
 ---
 
-*This is an excerpt. For the full chapter, read [Art World's Dirty Little Secret](/book/).*
+*This is an excerpt. Read the full chapter in [Art World's Dirty Little Secret](/book/).*
+
 
 ← [Chapter 14: The Unknown Turner](/chapters/expert-politics/chapter-14/)
 
