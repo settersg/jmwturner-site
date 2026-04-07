@@ -1,0 +1,59 @@
+---
+title: "Chapter 35: Tribal Instincts"
+description: "Chapter 35 of Art World's Dirty Little Secret — Tribal Instincts"
+weight: 35
+---
+
+**Chapter 35**
+
+## Tribal Instincts
+
+> *Excerpt from Art World's Dirty Little Secret by R. Malcolm Setters / Graham Setters*
+
+Tribal Instincts
+
+The gentle Amiel, brooding upon his terrace at Geneva, came to more just conclusions about Wagner than did the professional litigants battling nearer Bayreuth, with louder but since forgotten words.
+
+       – Henry McBride: The Flow of Art
+
+It is fair to say that the sometimes subtle and sometimes not-so-subtle politics and conferred rites at the uppermost level of the art world, beg a moral inquisition. And that the vainglory inherent in what might be considered the most sophisticated of professional endeavors—art historical scholarship—has oftentimes resulted in the neglect of truth. In an effort to maintain their special post, and the status quo, to progress to a position of more influence, to escape litigation, or to control the market, several heavily endowed institutions, privileged individuals, connected dealers, auction houses, and museum officials appear to have been debased. Or they are at least running scared in front of the momentum of forces larger than themselves.
+
+ Nicholas Turner, a former curator at a top American museum is now displaced for speaking his mind over the authenticity of art within his own museum’s collection. “I see museums in a completely different light,” he says, “I find the employees caught up in institutional issues, like politics. They're not studying the material as museum professionals, as independent academics. They don't produce scholarship. Museum culture has become much more bureaucratic and caught up in entertainment issues and politics. Big exhibitions have become a public entertainment. Spectacle has overwhelmed serious study.” Rather than mentioning the name of the museum in this case, it might be assumed that most museums have skeletons in their closet, or fakes in their basement, and that the focus of art museums has shifted away from Nicholas Turner’s ideal of independent academic study and scholarship.
+
+It seems apparent that officialdom perceives a need to protect their own special interests and promote their somewhat confused ideology before all else. In a voracious quest to control reputations and monopolize their own areas of interest, they often neglect what should be the heart of their purpose: scholarship, honest education, and art preservation. Unfortunately, those who are surely apt to benefit from and contribute to these more altruistic principals are perceived as a threat and discouraged from participation. This situation is of course unacceptable when one compares the contribution made by those motivated more by emotion and curiosity than by ambition, fear, and greed. According to Friedlander: “enthusiastic lovers of art – at the same time mere amateurs – have contributed most and in the best fashion towards artistic reconstruction. Coldly analytical scholars make fewer mistakes; they perform, however, less in the way of positive perception; they discover less, with weaker flair.”
+
+At the command centre of the modern art world, , there is a triumvirate of self-serving groups working in concert. These include: politically powerful aristocrats and bureaucrats, the auction firm group, and a select number of dealers. In fact, some of the last words Bernard Berenson wrote in his lifelong diary broached with melancholy “the aristocratically pyramidal structure of society that Great art serves.”
+
+Working parallel, yet antagonistically toward debasing this pyramidal group were Marxist intellectuals like Sir Anthony Blunt and comrades—those who had rejected the concept of private ownership, and specifically, private ownership of art. Steiner contended that the belief that “great art is not and cannot be private property played a crucial part in crystallizing Blunt’s contemptuous loathing for capitalism.”
+
+Events went contrary to Blunt’s socialist dream of a personally controlled mother-institution full of the best works of art—works that were slated to be confiscated by him and his comrades. Latent sentiments derived from collectivist propaganda have, in the meantime, given ideological control over to the institutional sector. Ironically, the dim light that now emphasizes dubious interpretations via art criticism has enabled the triad—the “pyramid of capitalists” to move in and take command. Clearly, the left-leaning policies that have been spawned within the institutional and curatorial communities today have enabled the era of monopoly control by this triumvirate. The now interred Anthony Blunt should roll in despair.
+
+Of the winners that moved into the void created by this quiet revolution of docile socialist educators, one might firstly envision elite members of the Invisible group, presided over by the Duke of . Has the egalitarian nature of allied brethren been co-opted to preserve the most elite of British society? The Duke and this club of the most influential British aristocrats, surly to this day, influence key institutions by means of concomitant allegiances and the laws of noble precedence. Near and dear to art interests, are the National Heritage Memorial Fund, National Art-Collections Fund, and the National Trust: which in turn coddle and hold sway over The National Gallery, British Museum, V&A, the National Portrait Gallery, and the Tate Gallery.
+
+Other victors are the closely-related auction firms with their enduring grasp on the art market at the uppermost level. Finally, there is the limited group of influential dealers whose cooperation assists their overseers both financially and politically. This development is the only way that the market has been able to fly as high as it has to the benefit of the select few. One should consider the result an evolutionary one, a tyranny of precedence and dutiful capitulation as opposed to a conspiracy against guys like Bob. The intentions of the Invisibles are likely of the highest order, opposing “all forms of personal and religious injustice.” But alas, the impact on the art world and harm to the common collector might be the irreconcilable rub!
+
+One must also credit stealthy business practices for the present state of affairs. Christie’s and Sotheby’s for example have undeniably gained much of their market position from a keen and effective marketing strategy: glitzy catalogues and annual reviews, exclusive direct mailers, presale tours of artwork sent between international venues, and public media campaigns orchestrated by staging auctions that predict and purport to deliver record multi-million-dollar sale prices. I’ve heard Bob complain that some of these records are likely illegitimate…. A great marketing strategy though!
+
+With control set firmly with an elite few, one might only hope for a good underlying value-system…
+
+Art for art’s sake is really awful rot,” declared Sotheby’s long-term chairman Peter Wilson, “he would go on to preach a little sermon on the utility of greed… Peter Wilson divided the world into those who wished to appear richer than they were, and those who knew it was smart to seem poorer, and he practiced the auction business as the exploitation of the former by the latter… It was a complex amorality which drove Peter Wilson to generate, almost single-handedly, a new sort of international business that was dominated by the English.
+
+ Ultimately it is the way in which the benefits of such domination are allocated within this milieu that needs unraveling.
+
+It has long been accepted that Sotheby’s and Christie’s have been served by employees from the “polite” class: those who are more likely to have access to noble households and ancestral collections, and those that move more comfortably within privileged circles. British peers are often awarded top administrative positions in the museum world and certain dealers are patronized and operate according to ‘tribal’ customs in support of the influential. Put together, this creates an intangible support system that becomes exclusionary. When issues pertaining to death duties, inheritance tax, or treaty sales of important property are at stake (as they often are in aristocratic circles) it becomes imperative to have friends in the right places. A relationship in the spirit of this statement might be the one between David Westmoreland, Chairman of Sotheby’s, who was at the same time, Master of the Horse and Lord-in-Waiting to the Queen.
+
+The tight controls needed to direct transactions according to precedence are well taken care of. Hugh Roberts of Christie’s gave a list of participants: “lawyers, accountants, politicians, heritage lobbyists, dealers, treasury officials, Christie’s, National Trust, and above all the Heritage Fund,” Accordingly, negotiated sales take place well beyond the circumstances of the middle class. When Roberts strung together the above list of individuals with their, “discreet behind the scenes lobbying,” to accommodate the sale of those greatest English country houses and their collections – Kedleston Hall, Nostell Priory and Weston Park, he was in effect waving a red flag at all but the elite.
+
+His article on the subject was sprinkled with earls, viscounts and lords. In accordance with the new-age business model, which attempts to limit competition by increasing the size and scope of its operations, the leaders of the art world appear to be following suit by amalgamating the professionals, select dealers, and experts into structured compliance to support those with influence. At the same time, it is imperative that they exclude interlopers, those that might pose a threat including the independent collector, unconnected dealer, small auction firms, and minor museums. Although there are chants to the contrary, most decision making is not meant firstly to benefit art, culture, or humanity.
+
+In the British antique trade, it is common knowledge that ‘blackballing’ competitors, dishonestly condemning their inventory, and conspiring at auctions to control prices has been going on for years. Long-established dealers condemning the inventory of the smaller dealers in order to keep control and maintain higher prices for the established few has been the standard within the industry for a long time. In the late nineteenth century when trying to get a foothold in , Joel Duveen admitted nearly succumbing to this same sort of bullying. He soon found out that there was a campaign against him, “waged particularly by those men to whom he had shown his finest things. They depreciated them by raising doubts about their genuineness... this stabbing in the back nearly ruined him.” Ironically, by jockeying for position within the purview of the landed gentry, his son Joseph became a Lord, the most powerful dealer in the world, and by far the biggest bully.
+
+Rare art by old masters such as JMW, Rembrandt, and Boucher, and even modern masters such as Picasso, L.S. Lowry, and Rodin are largely trapped within a medley of similar elite coalitions. This limited group of artists has been introduced to exemplify diversity when accounting for international interests. In fact, significant indigenous power groups in different countries have strong influence internationally. Although this is in respect to authenticating artwork within the limits of their own power base, in the final analysis, they all must defer to the twin auction firms in Britain to get an acceptable and in many cases an over-the-top price at auction.
+
+---
+
+*This is an excerpt. For the full chapter, read [Art World's Dirty Little Secret](/book/).*
+
+← [Chapter 34: Just Fears](/chapters/aftermath/chapter-34/)
+
+[Chapter 36: A Juggler's Paradise](/chapters/aftermath/chapter-36/) →

@@ -22,23 +22,23 @@ theme = "turner"
   weight = 1
 
 [[menu.main]]
-  name = "The Painting"
-  url = "/painting/"
+  name = "Chapters"
+  url = "/chapters/"
   weight = 2
 
 [[menu.main]]
-  name = "Discovery"
-  url = "/discovery/"
+  name = "The Painting"
+  url = "/painting/"
   weight = 3
-
-[[menu.main]]
-  name = "The Book"
-  url = "/book/"
-  weight = 4
 
 [[menu.main]]
   name = "Gallery"
   url = "/gallery/"
+  weight = 4
+
+[[menu.main]]
+  name = "The Book"
+  url = "/book/"
   weight = 5
 
 [[menu.main]]
@@ -47,51 +47,41 @@ theme = "turner"
   weight = 6
 
 [[menu.sections]]
-  name = "Introduction"
-  url = "/painting/"
+  name = "The Discovery"
+  url = "/chapters/the-discovery/"
   weight = 1
 
 [[menu.sections]]
-  name = "Style & Technique"
-  url = "/painting/style/"
+  name = "The Criminal Past"
+  url = "/chapters/the-criminal-past/"
   weight = 2
 
 [[menu.sections]]
-  name = "Provenance"
-  url = "/painting/provenance/"
+  name = "Science & Proof"
+  url = "/chapters/science-proof/"
   weight = 3
 
 [[menu.sections]]
-  name = "Signature"
-  url = "/painting/signature/"
+  name = "The Provenance Trail"
+  url = "/chapters/provenance-trail/"
   weight = 4
 
 [[menu.sections]]
-  name = "Forensic Studies"
-  url = "/discovery/forensic/"
-  weight = 1
-
-[[menu.sections]]
-  name = "Connoisseurship"
-  url = "/discovery/connoisseurship/"
-  weight = 2
-
-[[menu.sections]]
-  name = "James Orrock"
-  url = "/discovery/orrock/"
-  weight = 3
-
-[[menu.sections]]
-  name = "Martin Butlin"
-  url = "/discovery/butlin/"
-  weight = 4
-
-[[menu.sections]]
-  name = "Legal Disputes"
-  url = "/discovery/legal/"
+  name = "Expert Politics"
+  url = "/chapters/expert-politics/"
   weight = 5
 
 [[menu.sections]]
-  name = "The Catalogue"
-  url = "/discovery/catalogue/"
+  name = "Christie's"
+  url = "/chapters/christies/"
   weight = 6
+
+[[menu.sections]]
+  name = "The Butlin Visit"
+  url = "/chapters/butlin-visit/"
+  weight = 7
+
+[[menu.sections]]
+  name = "Portrait & Aftermath"
+  url = "/chapters/aftermath/"
+  weight = 8
